@@ -42,7 +42,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/17222.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -73,13 +73,7 @@
     "instructions_en": "Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Turkey burger with bacon, caramelized onions and A1 steak sauce & cranberry glaze, Post Road pumpkin ale (15275692433).jpg",
-      "artist": "anax44",
-      "license": "CC BY-SA 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Turkey_burger_with_bacon,_caramelized_onions_and_A1_steak_sauce_%26_cranberry_glaze,_Post_Road_pumpkin_ale_(15275692433).jpg"
-    }
+    "is_public": false
   },
   {
     "id": "13501",
@@ -92,7 +86,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Brandy",
-    "image": "data/images-public/13501.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "アマレット",
@@ -117,13 +111,7 @@
     "instructions_en": "Layered in a shot glass.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:ABCNews Pre-White House Correspondence Dinner Cocktail Reception - 14114271624.jpg",
-      "artist": "Yahoo Inc",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:ABCNews_Pre-White_House_Correspondence_Dinner_Cocktail_Reception_-_14114271624.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "13938",
@@ -772,7 +760,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "data/images-public/15266.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -809,13 +797,7 @@
     "instructions_en": "Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Director Ivan Reitman, actor Eugene Levy and producer Daniel Goldberg attend The Canadian Film Centre cocktail reception 2011.jpg",
-      "artist": "Canadian Film Centre from Toronto, Canada (Photo by Jesse Grant)",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Director_Ivan_Reitman,_actor_Eugene_Levy_and_producer_Daniel_Goldberg_attend_The_Canadian_Film_Centre_cocktail_reception_2011.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17180",
@@ -1168,7 +1150,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "data/images-public/17840.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "スコッチ",
@@ -1199,13 +1181,7 @@
     "instructions_en": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Mike Wallace interview with William Waterway Marks.jpg",
-      "artist": "Williamwaterway",
-      "license": "CC BY-SA 3.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Mike_Wallace_interview_with_William_Waterway_Marks.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17839",
@@ -1218,7 +1194,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Liqueur",
-    "image": "data/images-public/17839.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ストロベリーシュナップス",
@@ -1249,13 +1225,7 @@
     "instructions_en": "Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Portuguese train Polish, Italian soldiers to walk through fire (Image 1 of 6) (9372603974).jpg",
-      "artist": "DVIDSHUB",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Portuguese_train_Polish,_Italian_soldiers_to_walk_through_fire_(Image_1_of_6)_(9372603974).jpg"
-    }
+    "is_public": false
   },
   {
     "id": "12560",
@@ -2365,7 +2335,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Rum",
-    "image": "data/images-public/12446.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ダークラム",
@@ -2384,13 +2354,7 @@
     "instructions_en": "Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Mansur Al-Atrash.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Mansur_Al-Atrash.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "178362",
@@ -3583,7 +3547,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "data/images-public/15330.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -3608,13 +3572,7 @@
     "instructions_en": "Add all ingredients to tumbler-Pour as shot",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Wes Moore and Frederick mayor Michael O'Connor drink Orange Crush cocktails.jpg",
-      "artist": "Maryland GovPics",
-      "license": "CC BY 4.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Wes_Moore_and_Frederick_mayor_Michael_O%27Connor_drink_Orange_Crush_cocktails.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "14586",
@@ -3964,7 +3922,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/17185.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -4003,13 +3961,7 @@
     "tags": [
       "IBA"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Stormy's Casino Royale, New Orleans 1951 Cocktail Menu.jpg",
-      "artist": "Uncredited for Casino Royale, New Orleans",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Stormy%27s_Casino_Royale,_New_Orleans_1951_Cocktail_Menu.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "11224",
@@ -4022,7 +3974,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/11224.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -4059,13 +4011,7 @@
     "instructions_en": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Stormy's Casino Royale, New Orleans 1951 Cocktail Menu.jpg",
-      "artist": "Uncredited for Casino Royale, New Orleans",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Stormy%27s_Casino_Royale,_New_Orleans_1951_Cocktail_Menu.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "14181",
@@ -5158,7 +5104,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/11433.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -5195,13 +5141,7 @@
     "instructions_en": "In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Botran Grass Skirt - Tales of the Cocktail 2011, New Orleans.jpg",
-      "artist": "Dan Silvers",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Botran_Grass_Skirt_-_Tales_of_the_Cocktail_2011,_New_Orleans.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17200",
@@ -5520,7 +5460,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "data/images-public/17252.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -5539,13 +5479,7 @@
     "instructions_en": "Add the vodka to a Collins glass filled with ice.\nTop with grapefruit juice and stir.\n\n",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Leonardi Cocktail Lounge, Greyhound Terminal, 12 St. James Ave., Boston, Mass (85387).jpg",
-      "artist": "Tichnor Bros. Inc., Boston, Mass.",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Leonardi_Cocktail_Lounge,_Greyhound_Terminal,_12_St._James_Ave.,_Boston,_Mass_(85387).jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17186",
@@ -6332,7 +6266,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/17247.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "グリーンシャルトリューズ",
@@ -6363,13 +6297,7 @@
     "instructions_en": "Shake with ice and strain into a cocktail glass.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:The Last Word in Astoria, Queens New York.jpg",
-      "artist": "Kenneth C. Zirkel",
-      "license": "CC BY 4.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:The_Last_Word_in_Astoria,_Queens_New_York.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "15092",
@@ -6638,7 +6566,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "data/images-public/15184.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -6669,13 +6597,7 @@
     "instructions_en": "Take a tall glass and put in a few ice cubes, fill the vodka over it and fill with juice then the \"creme\", to end fill in the grenadine but very carefully at the side of the glass so it will lay down in the bottom. garnish with orange and strawberry.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Mr. Bing's Cocktail Lounge, San Francisco (2013).JPG",
-      "artist": "Another Believer",
-      "license": "CC BY-SA 3.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Mr._Bing%27s_Cocktail_Lounge,_San_Francisco_(2013).JPG"
-    }
+    "is_public": false
   },
   {
     "id": "13377",
@@ -8606,7 +8528,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Liqueur",
-    "image": "data/images-public/16990.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ゴディバリキュール",
@@ -8625,13 +8547,7 @@
     "instructions_en": "Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Body Painting Tango Zeta Bar (9370396692).jpg",
-      "artist": "Eva Rinaldi",
-      "license": "CC BY-SA 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Body_Painting_Tango_Zeta_Bar_(9370396692).jpg"
-    }
+    "is_public": false
   },
   {
     "id": "12724",
@@ -8720,7 +8636,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "data/images-public/12162.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -8741,13 +8657,7 @@
     "tags": [
       "IBA"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Sonic Screwdriver cocktail Ms Hollie at NOLA Time Fest V.jpg",
-      "artist": "Infrogmation of New Orleans",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Sonic_Screwdriver_cocktail_Ms_Hollie_at_NOLA_Time_Fest_V.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "12158",
@@ -9201,7 +9111,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "data/images-public/12388.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "スコッチ",
@@ -9226,13 +9136,7 @@
     "instructions_en": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Brittany Cairns (8446504325).jpg",
-      "artist": "Eva Rinaldi",
-      "license": "CC BY-SA 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Brittany_Cairns_(8446504325).jpg"
-    }
+    "is_public": false
   },
   {
     "id": "14956",
@@ -13444,7 +13348,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/11106.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "スイートベルモット",
@@ -13469,13 +13373,7 @@
     "instructions_en": "Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Sloe, Fruit of the Blackthorn (Prunus spinosa) - geograph.org.uk - 551715.jpg",
-      "artist": "Glyn Baker",
-      "license": "CC BY-SA 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Sloe,_Fruit_of_the_Blackthorn_(Prunus_spinosa)_-_geograph.org.uk_-_551715.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "12768",
@@ -14401,7 +14299,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/17197.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -14447,13 +14345,7 @@
       "IBA",
       "ContemporaryClassic"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:French 75 gun at Cape Helles 1915.jpg",
-      "artist": "Ernest Brooks (1876–1957), official Admiralty photographer",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:French_75_gun_at_Cape_Helles_1915.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "11387",
@@ -14746,7 +14638,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/17249.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -14783,13 +14675,7 @@
     "instructions_en": "Shake, strain, up, cocktail glass",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Pegu Club postcard.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Pegu_Club_postcard.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17829",
@@ -15546,7 +15432,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "data/images-public/178357.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -15587,13 +15473,7 @@
       "Shot",
       "Bubbly"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Cocktail goatse.jpg",
-      "artist": "Matt Biddulph",
-      "license": "CC BY-SA 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Cocktail_goatse.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17194",
@@ -17155,7 +17035,7 @@
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
     "base": "Other",
-    "image": "data/images-public/12704.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ライム",
@@ -17186,13 +17066,7 @@
     "instructions_en": "In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Names of Belizean cocktails.jpg",
-      "artist": "Subhashish Panigrahi",
-      "license": "CC BY-SA 4.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Names_of_Belizean_cocktails.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "16984",
@@ -17273,7 +17147,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "data/images-public/12101.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "スコッチ",
@@ -17301,13 +17175,7 @@
       "IBA",
       "Classic"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Rusty Nail - Flickr - Clint Budd.jpg",
-      "artist": "Clint Budd from About 15 miles North of Swansea, Wales",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Rusty_Nail_-_Flickr_-_Clint_Budd.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17167",
@@ -18247,7 +18115,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "data/images-public/14087.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "クラウンローヤル",
@@ -18272,13 +18140,7 @@
     "instructions_en": "One shot each, shake n shoot",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Thomas Butler Gunn Diaries- Volume 22, page 82, March 3, 1863 - DPLA - 213c6dc416b0074140e18ed8c37ec9e0.jpg",
-      "artist": "Gunn, Thomas Butler, 1826-1903",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Thomas_Butler_Gunn_Diaries-_Volume_22,_page_82,_March_3,_1863_-_DPLA_-_213c6dc416b0074140e18ed8c37ec9e0.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "11634",
@@ -19286,7 +19148,7 @@
     "alcoholic_ja": "アルコール任意",
     "alcoholic_en": "Optional alcohol",
     "base": "Wine",
-    "image": "data/images-public/13056.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "赤ワイン",
@@ -19311,13 +19173,7 @@
     "instructions_en": "Mix wine and soft drink. Pour into glass. Add ice.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Nankin Wine and Cocktail List - DPLA - 73832f7c43bc8c198c37c46de5885a10 (page 1).jpg",
-      "artist": "Unknown",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Nankin_Wine_and_Cocktail_List_-_DPLA_-_73832f7c43bc8c198c37c46de5885a10_(page_1).jpg"
-    }
+    "is_public": false
   },
   {
     "id": "13058",
