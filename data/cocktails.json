@@ -323,7 +323,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/11055.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "スイートベルモット",
@@ -348,13 +348,7 @@
     "instructions_en": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Miscellany - Museum of the Ancient and Honorable Artillery Company of Massachusetts - IMG 6993.JPG",
-      "artist": "Daderot",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Miscellany_-_Museum_of_the_Ancient_and_Honorable_Artillery_Company_of_Massachusetts_-_IMG_6993.JPG"
-    }
+    "is_public": false
   },
   {
     "id": "12770",
