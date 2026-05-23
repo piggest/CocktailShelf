@@ -19364,5 +19364,59 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "20001",
+    "name_ja": "青い珊瑚礁",
+    "name_en": "Aoi Sangosho",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "data/images-public/20001.png",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "name_en": "Dry gin",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "ペパーミントグリーン",
+        "name_en": "Green peppermint",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1個",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "シェーカーにドライジン、ペパーミントグリーン、ライムジュース、氷を入れてよくシェイクする。カクテルグラスの底にマラスキーノチェリーを沈めて、その上に静かに注ぐ。",
+    "instructions_en": "Shake gin, green peppermint, and lime juice with ice. Place a maraschino cherry at the bottom of a chilled cocktail glass and pour the mix over it.",
+    "iba": null,
+    "tags": [
+      "Japanese",
+      "Classic"
+    ],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "青い珊瑚礁",
+      "artist": "のり垢",
+      "license": "Original (本人撮影)",
+      "source_url": ""
+    }
   }
 ]
