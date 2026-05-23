@@ -16209,7 +16209,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "data/images-public/11008.jpg",
+    "image": "data/images-public/11008.png",
     "ingredients": [
       {
         "name_ja": "スイートベルモット",
@@ -16258,10 +16258,10 @@
     ],
     "is_public": true,
     "credit": {
-      "title": "File:Manhattan Cocktail2.jpg",
-      "artist": "Hayford Peirce at English Wikipedia",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Manhattan_Cocktail2.jpg"
+      "title": "Manhattan",
+      "artist": "のり垢",
+      "license": "Original (本人撮影)",
+      "source_url": ""
     }
   },
   {
