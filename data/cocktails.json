@@ -111,21 +111,7 @@
     "instructions_en": "Layered in a shot glass.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/13501.jpg",
-      "meta": {
-        "title": "File:ABCNews Pre-White House Correspondence Dinner Cocktail Reception - 14114271624.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ABCNews_Pre-White_House_Correspondence_Dinner_Cocktail_Reception_-_14114271624.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:ABCNews_Pre-White_House_Correspondence_Dinner_Cocktail_Reception_-_14114271624.jpg",
-        "license": "CC BY 2.0",
-        "artist": "Yahoo Inc",
-        "credit": "https://www.flickr.com/photos/99527366@N00/14114271624/",
-        "description": "WASHINGTON, DC - MAY 03: Senator Amy Klobuchar (L) and John Bessler attend the Yahoo News/ABCNews Pre-White House Correspondents' dinner reception pre-party at Washington Hilton on May 3, 2014 in Wash",
-        "width": 2775,
-        "height": 4392
-      }
-    }
+    "is_public": false
   },
   {
     "id": "13938",
@@ -362,21 +348,7 @@
     "instructions_en": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/11055.jpg",
-      "meta": {
-        "title": "File:Miscellany - Museum of the Ancient and Honorable Artillery Company of Massachusetts - IMG 6993.JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Miscellany_-_Museum_of_the_Ancient_and_Honorable_Artillery_Company_of_Massachusetts_-_IMG_6993.JPG",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Miscellany_-_Museum_of_the_Ancient_and_Honorable_Artillery_Company_of_Massachusetts_-_IMG_6993.JPG",
-        "license": "Public domain",
-        "artist": "Daderot",
-        "credit": "Self-photographed",
-        "description": "Cocktail shaker made from French World War I shell (75 mm), in the Museum of the Ancient and Honorable Artillery Company of Massachusetts, located in Faneuil Hall, Boston, Massachusetts, USA.",
-        "width": 2448,
-        "height": 3264
-      }
-    }
+    "is_public": false
   },
   {
     "id": "12770",
@@ -2022,21 +1994,7 @@
     "instructions_en": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/12450.jpg",
-      "meta": {
-        "title": "File:Victor Grigas drinking a coconut in Curitiba March 2012-11.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Victor_Grigas_drinking_a_coconut_in_Curitiba_March_2012-11.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victor_Grigas_drinking_a_coconut_in_Curitiba_March_2012-11.jpg",
-        "license": "CC BY-SA 3.0",
-        "artist": "Victorgrigas",
-        "credit": "Own work",
-        "description": "Victor Grigas drinking a coconut in Curitiba March 2012",
-        "width": 4838,
-        "height": 3456
-      }
-    }
+    "is_public": false
   },
   {
     "id": "12452",
@@ -3517,15 +3475,6 @@
           "license": "Original (本人撮影)",
           "source_url": ""
         }
-      },
-      {
-        "image_public": "data/images-public/11001_3.png",
-        "credit": {
-          "title": "Old Fashioned",
-          "artist": "のり垢",
-          "license": "Original (本人撮影)",
-          "source_url": ""
-        }
       }
     ]
   },
@@ -3684,7 +3633,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "",
+    "image": "data/images-public/15330.jpg",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -3709,20 +3658,12 @@
     "instructions_en": "Add all ingredients to tumbler-Pour as shot",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/15330.jpg",
-      "meta": {
-        "title": "File:Wes Moore and Frederick mayor Michael O'Connor drink Orange Crush cocktails.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Wes_Moore_and_Frederick_mayor_Michael_O%27Connor_drink_Orange_Crush_cocktails.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wes_Moore_and_Frederick_mayor_Michael_O%27Connor_drink_Orange_Crush_cocktails.jpg",
-        "license": "CC BY 4.0",
-        "artist": "Maryland GovPics",
-        "credit": "Flickr",
-        "description": "Governor Moore Gives the Keynote Address at MML by Pat Siebert at 4001 Coastal Hwy, Ocean City, MD 21842",
-        "width": 8256,
-        "height": 5504
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:Wes Moore and Frederick mayor Michael O'Connor drink Orange Crush cocktails.jpg",
+      "artist": "Maryland GovPics",
+      "license": "CC BY 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Wes_Moore_and_Frederick_mayor_Michael_O%27Connor_drink_Orange_Crush_cocktails.jpg"
     }
   },
   {
@@ -4112,21 +4053,7 @@
     "tags": [
       "IBA"
     ],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/17185.jpg",
-      "meta": {
-        "title": "File:Stormy's Casino Royale, New Orleans 1951 Cocktail Menu.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Stormy%27s_Casino_Royale%2C_New_Orleans_1951_Cocktail_Menu.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stormy%27s_Casino_Royale,_New_Orleans_1951_Cocktail_Menu.jpg",
-        "license": "Public domain",
-        "artist": "Uncredited for Casino Royale, New Orleans",
-        "credit": "1951 promotional flyer/cocktail menu via [1]",
-        "description": "Promotional flyer/cocktail menu for \"Stormy's Casino Royale\", cocktail lounge &amp; burlesque club at 501 Bourbon Street, New Orleans, 1951. Supposed \"humor\" of the era at left. Cocktail menu at right",
-        "width": 1280,
-        "height": 817
-      }
-    }
+    "is_public": false
   },
   {
     "id": "11224",
@@ -4176,21 +4103,7 @@
     "instructions_en": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/11224.jpg",
-      "meta": {
-        "title": "File:Stormy's Casino Royale, New Orleans 1951 Cocktail Menu.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Stormy%27s_Casino_Royale%2C_New_Orleans_1951_Cocktail_Menu.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Stormy%27s_Casino_Royale,_New_Orleans_1951_Cocktail_Menu.jpg",
-        "license": "Public domain",
-        "artist": "Uncredited for Casino Royale, New Orleans",
-        "credit": "1951 promotional flyer/cocktail menu via [1]",
-        "description": "Promotional flyer/cocktail menu for \"Stormy's Casino Royale\", cocktail lounge &amp; burlesque club at 501 Bourbon Street, New Orleans, 1951. Supposed \"humor\" of the era at left. Cocktail menu at right",
-        "width": 1280,
-        "height": 817
-      }
-    }
+    "is_public": false
   },
   {
     "id": "14181",
@@ -4887,21 +4800,7 @@
     "instructions_en": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/11991.jpg",
-      "meta": {
-        "title": "File:Drinking fountain next to Queen Elizabeth's Hunting Lodge - geograph.org.uk - 3178235.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Drinking_fountain_next_to_Queen_Elizabeth%27s_Hunting_Lodge_-_geograph.org.uk_-_3178235.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Drinking_fountain_next_to_Queen_Elizabeth%27s_Hunting_Lodge_-_geograph.org.uk_-_3178235.jpg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Robert Lamb",
-        "credit": "Geograph Britain and Ireland",
-        "description": "Drinking fountain next to Queen Elizabeth's Hunting Lodge",
-        "width": 3456,
-        "height": 2592
-      }
-    }
+    "is_public": false
   },
   {
     "id": "11989",
@@ -5381,21 +5280,7 @@
     "instructions_en": "In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/11433.jpg",
-      "meta": {
-        "title": "File:Botran Grass Skirt - Tales of the Cocktail 2011, New Orleans.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Botran_Grass_Skirt_-_Tales_of_the_Cocktail_2011%2C_New_Orleans.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Botran_Grass_Skirt_-_Tales_of_the_Cocktail_2011,_New_Orleans.jpg",
-        "license": "CC BY 2.0",
-        "artist": "Dan Silvers",
-        "credit": "https://www.flickr.com/photos/dansilvers/6015127463/",
-        "description": "Tales of the Cocktail 2011, New Orleans",
-        "width": 3042,
-        "height": 3456
-      }
-    }
+    "is_public": false
   },
   {
     "id": "17200",
@@ -5588,7 +5473,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "",
+    "image": "data/images-public/14608.jpg",
     "ingredients": [
       {
         "name_ja": "スパイスドラム",
@@ -5607,20 +5492,12 @@
     "instructions_en": "Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/14608.jpg",
-      "meta": {
-        "title": "File:Drink Hand crafted cream soda (18705306063).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Drink_Hand_crafted_cream_soda_%2818705306063%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Drink_Hand_crafted_cream_soda_(18705306063).jpg",
-        "license": "CC BY 2.0",
-        "artist": "City Foodsters",
-        "credit": "Drink: Hand crafted cream soda",
-        "description": "The French Laundry, Yountville, CA Date Visited: April 11, 2015",
-        "width": 3970,
-        "height": 2647
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:Drink Hand crafted cream soda (18705306063).jpg",
+      "artist": "City Foodsters",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drink_Hand_crafted_cream_soda_(18705306063).jpg"
     }
   },
   {
@@ -5769,7 +5646,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "",
+    "image": "data/images-public/17252.jpg",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -5788,20 +5665,12 @@
     "instructions_en": "Add the vodka to a Collins glass filled with ice.\nTop with grapefruit juice and stir.\n\n",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/17252.jpg",
-      "meta": {
-        "title": "File:Leonardi Cocktail Lounge, Greyhound Terminal, 12 St. James Ave., Boston, Mass (85387).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Leonardi_Cocktail_Lounge%2C_Greyhound_Terminal%2C_12_St._James_Ave.%2C_Boston%2C_Mass_%2885387%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leonardi_Cocktail_Lounge,_Greyhound_Terminal,_12_St._James_Ave.,_Boston,_Mass_(85387).jpg",
-        "license": "Public domain",
-        "artist": "Tichnor Bros. Inc., Boston, Mass.",
-        "credit": "Boston Public Library Tichnor Brothers collection #85387",
-        "description": "Title: Leonardi Cocktail Lounge, Greyhound Terminal, 12 St. James Ave., Boston, Mass. Description: Leonardi Cocktail Lounge. Greyhound Terminal, 12 St. James Ave., Boston, Mass. Subjects: Bars Places:",
-        "width": 3303,
-        "height": 2094
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:Leonardi Cocktail Lounge, Greyhound Terminal, 12 St. James Ave., Boston, Mass (85387).jpg",
+      "artist": "Tichnor Bros. Inc., Boston, Mass.",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Leonardi_Cocktail_Lounge,_Greyhound_Terminal,_12_St._James_Ave.,_Boston,_Mass_(85387).jpg"
     }
   },
   {
@@ -6374,21 +6243,7 @@
       "IBA",
       "ContemporaryClassic"
     ],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/11424.jpg",
-      "meta": {
-        "title": "File:I interviewed Nori Fletcher for EatDrinkVancouverIsland.tv. @DrWeil calls her \"godmother\" to the @HollyhockLife -garden (9077134899).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/I_interviewed_Nori_Fletcher_for_EatDrinkVancouverIsland.tv._%40DrWeil_calls_her_%22godmother%22_to_the_%40HollyhockLife_-garden_%289077134899%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:I_interviewed_Nori_Fletcher_for_EatDrinkVancouverIsland.tv._@DrWeil_calls_her_%22godmother%22_to_the_@HollyhockLife_-garden_(9077134899).jpg",
-        "license": "CC BY-SA 2.0",
-        "artist": "hans peter meyer from Courtenay, CANADA",
-        "credit": "I interviewed Nori Fletcher for EatDrinkVancouverIsland.tv. @DrWeil calls her \"godmother\" to the @HollyhockLife #garden",
-        "description": "I interviewed Nori Fletcher for EatDrinkVancouverIsland.tv. @DrWeil calls her \"godmother\" to the @HollyhockLife #garden",
-        "width": 2992,
-        "height": 2992
-      }
-    }
+    "is_public": false
   },
   {
     "id": "178350",
@@ -6940,21 +6795,7 @@
     "instructions_en": "Take a tall glass and put in a few ice cubes, fill the vodka over it and fill with juice then the \"creme\", to end fill in the grenadine but very carefully at the side of the glass so it will lay down in the bottom. garnish with orange and strawberry.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/15184.jpg",
-      "meta": {
-        "title": "File:Mr. Bing's Cocktail Lounge, San Francisco (2013).JPG",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Mr._Bing%27s_Cocktail_Lounge%2C_San_Francisco_%282013%29.JPG",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mr._Bing%27s_Cocktail_Lounge,_San_Francisco_(2013).JPG",
-        "license": "CC BY-SA 3.0",
-        "artist": "Another Believer",
-        "credit": "Own work",
-        "description": "Mr. Bing's Cocktail Lounge, San Francisco (2013)",
-        "width": 4000,
-        "height": 3000
-      }
-    }
+    "is_public": false
   },
   {
     "id": "13377",
@@ -7873,21 +7714,7 @@
     "instructions_en": "Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/15825.jpg",
-      "meta": {
-        "title": "File:Jamaican coffee drinks.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jamaican_coffee_drinks.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jamaican_coffee_drinks.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Xaymacan",
-        "credit": "Own work",
-        "description": "Beyond 5 Beverages cold coffee drinks , made with Jamaica Blue Mt Coffee, in traditional Jamaican flavours (such as carrot ginger, carrot vanilla &amp; chocolate vanilla).",
-        "width": 1848,
-        "height": 1633
-      }
-    }
+    "is_public": false
   },
   {
     "id": "17178",
@@ -8701,7 +8528,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "",
+    "image": "data/images-public/178366.jpg",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -8736,20 +8563,12 @@
       "classic",
       "refreshing"
     ],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/178366.jpg",
-      "meta": {
-        "title": "File:Gin Lemon Spirit Drink.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Gin_Lemon_Spirit_Drink.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gin_Lemon_Spirit_Drink.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "JIP",
-        "credit": "Own work",
-        "description": "A bottle of Gin Lemon Spirit Drink manufactured by the Finnish alcoholic beverage company Altia.",
-        "width": 3456,
-        "height": 4608
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:Gin Lemon Spirit Drink.jpg",
+      "artist": "JIP",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gin_Lemon_Spirit_Drink.jpg"
     }
   },
   {
@@ -9062,21 +8881,7 @@
     "instructions_en": "Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/12130.jpg",
-      "meta": {
-        "title": "File:DFC 2419 A bright white and blue Honda scooter parked in front of a cozy yellow street-side drink shop with menu boards and stools.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/DFC_2419_A_bright_white_and_blue_Honda_scooter_parked_in_front_of_a_cozy_yellow_street-side_drink_shop_with_menu_boards_and_stools.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:DFC_2419_A_bright_white_and_blue_Honda_scooter_parked_in_front_of_a_cozy_yellow_street-side_drink_shop_with_menu_boards_and_stools.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "PattayaPatrol",
-        "credit": "Flickr",
-        "description": "This photo shows a small street food or drink stand in what appears to be Thailand, as indicated by the Thai writing visible on a sign. The stand has a yellow counter with menu items displayed above i",
-        "width": 5568,
-        "height": 3712
-      }
-    }
+    "is_public": false
   },
   {
     "id": "12162",
@@ -9089,7 +8894,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "",
+    "image": "data/images-public/12162.jpg",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -9110,20 +8915,12 @@
     "tags": [
       "IBA"
     ],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/12162.jpg",
-      "meta": {
-        "title": "File:A screwdriver drink with ice.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_screwdriver_drink_with_ice.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_screwdriver_drink_with_ice.jpg",
-        "license": "CC0",
-        "artist": "Gregory Karastergios",
-        "credit": "Own work",
-        "description": "A screwdriver drink (orange juice + vodka) with ice",
-        "width": 4056,
-        "height": 2704
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:A screwdriver drink with ice.jpg",
+      "artist": "Gregory Karastergios",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_screwdriver_drink_with_ice.jpg"
     }
   },
   {
@@ -10771,21 +10568,7 @@
     "instructions_en": "Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/13328.jpg",
-      "meta": {
-        "title": "File:Chocolate milk drinking machine.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chocolate_milk_drinking_machine.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chocolate_milk_drinking_machine.jpg",
-        "license": "CC BY 2.0",
-        "artist": "jencu",
-        "credit": "https://www.flickr.com/photos/jennycu/4741522040/",
-        "description": "Chocolate milk drinking machine",
-        "width": 4320,
-        "height": 3240
-      }
-    }
+    "is_public": false
   },
   {
     "id": "12734",
@@ -10798,7 +10581,7 @@
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
     "base": "Non-Alcoholic",
-    "image": "",
+    "image": "data/images-public/12734.jpg",
     "ingredients": [
       {
         "name_ja": "チョコレート",
@@ -10823,20 +10606,12 @@
     "instructions_en": "Melt the bar in a small amount of boiling water. Add milk. Cook over low heat, whipping gently (with a whisk, i would assume) until heated well. Don't let it boil! Serve in coffee mug.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/12734.jpg",
-      "meta": {
-        "title": "File:Hot Chocolate drinks.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hot_Chocolate_drinks.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hot_Chocolate_drinks.jpg",
-        "license": "CC0",
-        "artist": "Derk29",
-        "credit": "Own work",
-        "description": "Beverage of hot chocolate drinks taken at Tugawe Cove located in Mayon Avenue, Naga City, Philippines",
-        "width": 3456,
-        "height": 4608
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:Hot Chocolate drinks.jpg",
+      "artist": "Derk29",
+      "license": "CC0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hot_Chocolate_drinks.jpg"
     }
   },
   {
@@ -11014,7 +10789,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Tequila",
-    "image": "",
+    "image": "data/images-public/12370.jpg",
     "ingredients": [
       {
         "name_ja": "テキーラ",
@@ -11051,20 +10826,12 @@
     "instructions_en": "Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Add the half-slice of lemon, top with the cherry, and serve.",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/12370.jpg",
-      "meta": {
-        "title": "File:Tequila sour.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Tequila_sour.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tequila_sour.jpg",
-        "license": "Public domain",
-        "artist": "Jennight",
-        "credit": "Own work",
-        "description": "For centuries the people of Agartha have enjoyed this exceptional drink, made from strange ingredients brought from the surface. The main ingredient is Tequila; a drink destilled from the Agave plant.",
-        "width": 1612,
-        "height": 1683
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:Tequila sour.jpg",
+      "artist": "Jennight",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tequila_sour.jpg"
     }
   },
   {
@@ -12526,21 +12293,7 @@
     "tags": [
       "Sweet"
     ],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/178316.jpg",
-      "meta": {
-        "title": "File:Honey bee drinking from a wet stone.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Honey_bee_drinking_from_a_wet_stone.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Honey_bee_drinking_from_a_wet_stone.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Reinhard Müller",
-        "credit": "Own work",
-        "description": "A Western honey bee drinks water from a wet stone.",
-        "width": 1680,
-        "height": 1260
-      }
-    }
+    "is_public": false
   },
   {
     "id": "11470",
@@ -13178,21 +12931,7 @@
     "instructions_en": "This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/14538.jpg",
-      "meta": {
-        "title": "File:Bumble Bee Drinking Water Off A Rose (1471522563).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bumble_Bee_Drinking_Water_Off_A_Rose_%281471522563%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bumble_Bee_Drinking_Water_Off_A_Rose_(1471522563).jpg",
-        "license": "CC BY 2.0",
-        "artist": "Audrey from Central Pennsylvania, USA",
-        "credit": "Bumble Bee Drinking Water Off A Rose",
-        "description": "Bumble Bee Drinking Water Off A Rose",
-        "width": 1024,
-        "height": 767
-      }
-    }
+    "is_public": false
   },
   {
     "id": "17254",
@@ -15303,21 +15042,7 @@
     "instructions_en": "Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters, then serve!",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/178311.jpg",
-      "meta": {
-        "title": "File:Print, broadside (BM 1858,1209.5).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Print%2C_broadside_%28BM_1858%2C1209.5%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Print,_broadside_(BM_1858,1209.5).jpg",
-        "license": "Public domain",
-        "artist": "",
-        "credit": "https://www.britishmuseum.org/collection/object/P_1858-1209-5",
-        "description": "Moralising broadside including a woodcut with hand-colouring in which parents, the father bearded, hold a sieve on which their son kneels. They are shaking the sieve to remove the young man's sins (sh",
-        "width": 1600,
-        "height": 1222
-      }
-    }
+    "is_public": false
   },
   {
     "id": "178352",
@@ -15416,7 +15141,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "",
+    "image": "data/images-public/17249.jpg",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -15453,20 +15178,12 @@
     "instructions_en": "Shake, strain, up, cocktail glass",
     "iba": null,
     "tags": [],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/17249.jpg",
-      "meta": {
-        "title": "File:Pegu Club cocktail.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Pegu_Club_cocktail.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pegu_Club_cocktail.jpg",
-        "license": "CC BY-SA 4.0",
-        "artist": "Paxsimius",
-        "credit": "Own work",
-        "description": "Pegu Club Cocktail with a lime twist served in a coupe glass",
-        "width": 2513,
-        "height": 3134
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:Pegu Club cocktail.jpg",
+      "artist": "Paxsimius",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pegu_Club_cocktail.jpg"
     }
   },
   {
@@ -18215,7 +17932,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "",
+    "image": "data/images-public/12101.jpg",
     "ingredients": [
       {
         "name_ja": "スコッチ",
@@ -18243,20 +17960,12 @@
       "IBA",
       "Classic"
     ],
-    "is_public": false,
-    "_v3_pending": {
-      "image": "data/images-public/12101.jpg",
-      "meta": {
-        "title": "File:Rusty Nail a cocktail by @tokenchick13 (16503594826).jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rusty_Nail_a_cocktail_by_%40tokenchick13_%2816503594826%29.jpg",
-        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rusty_Nail_a_cocktail_by_@tokenchick13_(16503594826).jpg",
-        "license": "CC BY-SA 2.0",
-        "artist": "Brian Child",
-        "credit": "Rusty Nail a cocktail by @tokenchick13",
-        "description": "Rusty Nail a cocktail by @tokenchick13",
-        "width": 640,
-        "height": 640
-      }
+    "is_public": true,
+    "credit": {
+      "title": "File:Rusty Nail a cocktail by @tokenchick13 (16503594826).jpg",
+      "artist": "Brian Child",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rusty_Nail_a_cocktail_by_@tokenchick13_(16503594826).jpg"
     }
   },
   {
