@@ -384,6 +384,12 @@ function openDetail(id) {
       </ul>
       <h3>作り方</h3>
       <p class="instructions"></p>
+      ${data.credit ? `
+        <p class="image-credit">
+          画像: <a href="${escapeHTML(data.credit.source_url || "#")}" target="_blank" rel="noopener">${escapeHTML(data.credit.title || "")}</a>
+          by ${escapeHTML(data.credit.artist || "Unknown")} /
+          <span class="license">${escapeHTML(data.credit.license || "")}</span> via Wikimedia Commons
+        </p>` : ""}
     </div>
   `;
   modalBody.querySelector(".detail-title").textContent = data.name_ja;
