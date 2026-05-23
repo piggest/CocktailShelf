@@ -5356,6 +5356,47 @@
     "is_public": false
   },
   {
+    "id": "20002",
+    "name_ja": "グリーンアラスカ",
+    "name_en": "Green Alaska",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "data/images-public/20002.png",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "name_en": "Dry gin",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "グリーンシャルトリューズ",
+        "name_en": "Green Chartreuse",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスにドライジンとグリーンシャルトリューズ、氷を入れてステアする。冷やしたカクテルグラスに静かに注ぐ。",
+    "instructions_en": "Stir dry gin and Green Chartreuse with ice in a mixing glass, then strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [
+      "Classic"
+    ],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "Green Alaska",
+      "artist": "のり垢",
+      "license": "Original (本人撮影)",
+      "source_url": ""
+    }
+  },
+  {
     "id": "14642",
     "name_ja": "グリム・リーパー",
     "name_en": "Grim Reaper",
