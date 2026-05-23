@@ -3575,6 +3575,56 @@
     "is_public": false
   },
   {
+    "id": "12748",
+    "name_ja": "オレンジ・センテッド・ホットチョコレート",
+    "name_en": "Orange Scented Hot Chocolate",
+    "category_ja": "ココア",
+    "category_en": "Cocoa",
+    "glass_ja": "コーヒーマグ",
+    "glass_en": "Coffee mug",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non alcoholic",
+    "base": "Non-Alcoholic",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "牛乳",
+        "name_en": "Milk",
+        "measure_ja": "2 カップ",
+        "measure_en": "2 cups"
+      },
+      {
+        "name_ja": "チョコレート",
+        "name_en": "Chocolate",
+        "measure_ja": "4オンス 刻んだビタースイートまたはセミスイート",
+        "measure_en": "4 oz chopped bittersweet or semi-sweet"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "2インチ片3つ",
+        "measure_en": "3 2-inch strips"
+      },
+      {
+        "name_ja": "エスプレッソ",
+        "name_en": "Espresso",
+        "measure_ja": "小さじ1/2 インスタント",
+        "measure_en": "1/2 tsp instant"
+      },
+      {
+        "name_ja": "ナツメグ",
+        "name_en": "Nutmeg",
+        "measure_ja": "小さじ1/8 粉末",
+        "measure_en": "1/8 tsp ground"
+      }
+    ],
+    "instructions_ja": "全ての材料を厚手の中鍋に入れる。弱火でチョコレートが溶けるまで混ぜる。火を強め、よく混ぜながら沸騰直前まで温める。火から下ろし、泡立つまで泡立てる。再度火にかけて沸騰させ、火から下ろして再び泡立てる。これを数回繰り返す。",
+    "instructions_en": "Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.",
+    "iba": null,
+    "tags": [],
+    "is_public": false
+  },
+  {
     "id": "14586",
     "name_ja": "オレンジ・プッシュアップ",
     "name_en": "Orange Push-up",
@@ -3722,56 +3772,6 @@
     ],
     "instructions_ja": "大きめのタンブラーまたはハイボールグラスに氷を入れ、レモンジュース・オレンジジュース・シュガーシロップを加えてよくステアする。冷たいソーダウォーターで上まで満たし、ストローとともに提供する。",
     "instructions_en": "Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.",
-    "iba": null,
-    "tags": [],
-    "is_public": false
-  },
-  {
-    "id": "12748",
-    "name_ja": "オレンジ香るホットチョコレート",
-    "name_en": "Orange Scented Hot Chocolate",
-    "category_ja": "ココア",
-    "category_en": "Cocoa",
-    "glass_ja": "コーヒーマグ",
-    "glass_en": "Coffee mug",
-    "alcoholic_ja": "ノンアルコール",
-    "alcoholic_en": "Non alcoholic",
-    "base": "Non-Alcoholic",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "牛乳",
-        "name_en": "Milk",
-        "measure_ja": "2 カップ",
-        "measure_en": "2 cups"
-      },
-      {
-        "name_ja": "チョコレート",
-        "name_en": "Chocolate",
-        "measure_ja": "4オンス 刻んだビタースイートまたはセミスイート",
-        "measure_en": "4 oz chopped bittersweet or semi-sweet"
-      },
-      {
-        "name_ja": "オレンジピール",
-        "name_en": "Orange peel",
-        "measure_ja": "2インチ片3つ",
-        "measure_en": "3 2-inch strips"
-      },
-      {
-        "name_ja": "エスプレッソ",
-        "name_en": "Espresso",
-        "measure_ja": "小さじ1/2 インスタント",
-        "measure_en": "1/2 tsp instant"
-      },
-      {
-        "name_ja": "ナツメグ",
-        "name_en": "Nutmeg",
-        "measure_ja": "小さじ1/8 粉末",
-        "measure_en": "1/8 tsp ground"
-      }
-    ],
-    "instructions_ja": "全ての材料を厚手の中鍋に入れる。弱火でチョコレートが溶けるまで混ぜる。火を強め、よく混ぜながら沸騰直前まで温める。火から下ろし、泡立つまで泡立てる。再度火にかけて沸騰させ、火から下ろして再び泡立てる。これを数回繰り返す。",
-    "instructions_en": "Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.",
     "iba": null,
     "tags": [],
     "is_public": false
@@ -7341,7 +7341,7 @@
   },
   {
     "id": "16275",
-    "name_ja": "ジャックのバニラ・コーク",
+    "name_ja": "ジャックス・バニラ・コーク",
     "name_en": "Jack's Vanilla Coke",
     "category_ja": "その他",
     "category_en": "Other / Unknown",
@@ -10823,6 +10823,46 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "178334",
+    "name_ja": "デス・イン・ジ・アフタヌーン",
+    "name_en": "Death in the Afternoon",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "マルガリータグラス",
+    "glass_en": "Margarita glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "data/images-public/178334.jpg",
+    "ingredients": [
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "2 ショット",
+        "measure_en": "2 shots"
+      },
+      {
+        "name_ja": "シャンパン",
+        "name_en": "Champagne",
+        "measure_ja": "Top",
+        "measure_en": "Top"
+      }
+    ],
+    "instructions_ja": "冷やしたグラスにアブサンを注ぎ、シャンパンで上を満たすだけでよい。最良の効果のためには午後に飲む。",
+    "instructions_en": "Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect.",
+    "iba": null,
+    "tags": [
+      "Drunk"
+    ],
+    "is_public": true,
+    "credit": {
+      "title": "File:Death In The Afternoon.jpg",
+      "artist": "Butterbean",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Death_In_The_Afternoon.jpg"
+    }
   },
   {
     "id": "15515",
@@ -15156,6 +15196,62 @@
     "is_public": false
   },
   {
+    "id": "17044",
+    "name_ja": "ホームメイド・カルーア",
+    "name_en": "Homemade Kahlua",
+    "category_ja": "自家製リキュール",
+    "category_en": "Homemade Liqueur",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "2 1/2 カップ",
+        "measure_en": "2 1/2 cups"
+      },
+      {
+        "name_ja": "コーンシロップ",
+        "name_en": "Corn syrup",
+        "measure_ja": "1 カップ",
+        "measure_en": "1 cup"
+      },
+      {
+        "name_ja": "コーヒー",
+        "name_en": "Coffee",
+        "measure_ja": "1 1/2 オンス instant",
+        "measure_en": "1 1/2 oz instant"
+      },
+      {
+        "name_ja": "バニラエッセンス",
+        "name_en": "Vanilla extract",
+        "measure_ja": "2 オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "3 カップ boiling",
+        "measure_en": "3 cups boiling"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "1 fifth",
+        "measure_en": "1 fifth"
+      }
+    ],
+    "instructions_ja": "沸騰したお湯2カップに砂糖を溶かし、コーンシロップを加える。残りのお湯にインスタントコーヒーを溶かし、シロップとコーヒーを1ガロンの瓶に注いで冷ます。冷めたらウォッカとバニラを加える。最高の風味を得るには、4〜5週間ほど熟成させる。",
+    "instructions_en": "Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture \"mature\" for 4-5 weeks.",
+    "iba": null,
+    "tags": [],
+    "is_public": false
+  },
+  {
     "id": "11129",
     "name_ja": "ボストン・サワー",
     "name_en": "Boston Sour",
@@ -15349,6 +15445,56 @@
     "tags": [
       "Winter"
     ],
+    "is_public": false
+  },
+  {
+    "id": "12738",
+    "name_ja": "ホットチョコレート・トゥ・ダイフォー",
+    "name_en": "Hot Chocolate to Die for",
+    "category_ja": "ココア",
+    "category_en": "Cocoa",
+    "glass_ja": "コーヒーマグ",
+    "glass_en": "Coffee mug",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "チョコレート",
+        "name_en": "Chocolate",
+        "measure_ja": "12 オンス fine",
+        "measure_en": "12 oz fine"
+      },
+      {
+        "name_ja": "バター",
+        "name_en": "Butter",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "バニラエッセンス",
+        "name_en": "Vanilla extract",
+        "measure_ja": "1/2 小さじ",
+        "measure_en": "1/2 tsp"
+      },
+      {
+        "name_ja": "ハーフ&ハーフ",
+        "name_en": "Half-and-half",
+        "measure_ja": "1 カップ",
+        "measure_en": "1 cup"
+      },
+      {
+        "name_ja": "マシュマロ",
+        "name_en": "Marshmallows",
+        "measure_ja": "mini",
+        "measure_en": "mini"
+      }
+    ],
+    "instructions_ja": "湯煎でチョコレート、バター、バニラを溶かす。なめらかになったところでクリームを加えて混ぜる。",
+    "instructions_en": "Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.",
+    "iba": null,
+    "tags": [],
     "is_public": false
   },
   {
@@ -17525,7 +17671,7 @@
   },
   {
     "id": "12690",
-    "name_ja": "ラッシー(南インド風)",
+    "name_ja": "ラッシー（南インド）",
     "name_en": "Lassi - A South Indian Drink",
     "category_ja": "その他",
     "category_en": "Other / Unknown",
@@ -19455,96 +19601,6 @@
     "is_public": false
   },
   {
-    "id": "12738",
-    "name_ja": "極上ホットチョコレート",
-    "name_en": "Hot Chocolate to Die for",
-    "category_ja": "ココア",
-    "category_en": "Cocoa",
-    "glass_ja": "コーヒーマグ",
-    "glass_en": "Coffee mug",
-    "alcoholic_ja": "ノンアルコール",
-    "alcoholic_en": "Non alcoholic",
-    "base": "Other",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "チョコレート",
-        "name_en": "Chocolate",
-        "measure_ja": "12 オンス fine",
-        "measure_en": "12 oz fine"
-      },
-      {
-        "name_ja": "バター",
-        "name_en": "Butter",
-        "measure_ja": "1 小さじ",
-        "measure_en": "1 tsp"
-      },
-      {
-        "name_ja": "バニラエッセンス",
-        "name_en": "Vanilla extract",
-        "measure_ja": "1/2 小さじ",
-        "measure_en": "1/2 tsp"
-      },
-      {
-        "name_ja": "ハーフ&ハーフ",
-        "name_en": "Half-and-half",
-        "measure_ja": "1 カップ",
-        "measure_en": "1 cup"
-      },
-      {
-        "name_ja": "マシュマロ",
-        "name_en": "Marshmallows",
-        "measure_ja": "mini",
-        "measure_en": "mini"
-      }
-    ],
-    "instructions_ja": "湯煎でチョコレート、バター、バニラを溶かす。なめらかになったところでクリームを加えて混ぜる。",
-    "instructions_en": "Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.",
-    "iba": null,
-    "tags": [],
-    "is_public": false
-  },
-  {
-    "id": "178334",
-    "name_ja": "午後の死",
-    "name_en": "Death in the Afternoon",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "マルガリータグラス",
-    "glass_en": "Margarita glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Wine",
-    "image": "data/images-public/178334.jpg",
-    "ingredients": [
-      {
-        "name_ja": "アブサン",
-        "name_en": "Absinthe",
-        "measure_ja": "2 ショット",
-        "measure_en": "2 shots"
-      },
-      {
-        "name_ja": "シャンパン",
-        "name_en": "Champagne",
-        "measure_ja": "Top",
-        "measure_en": "Top"
-      }
-    ],
-    "instructions_ja": "冷やしたグラスにアブサンを注ぎ、シャンパンで上を満たすだけでよい。最良の効果のためには午後に飲む。",
-    "instructions_en": "Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect.",
-    "iba": null,
-    "tags": [
-      "Drunk"
-    ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Death In The Afternoon.jpg",
-      "artist": "Butterbean",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Death_In_The_Afternoon.jpg"
-    }
-  },
-  {
     "id": "20007",
     "name_ja": "高輪の夜",
     "name_en": "Takanawa no Yoru",
@@ -19586,62 +19642,6 @@
       "source_url": "",
       "note": "Shot Bar Momo オリジナル"
     }
-  },
-  {
-    "id": "17044",
-    "name_ja": "自家製カルーア",
-    "name_en": "Homemade Kahlua",
-    "category_ja": "自家製リキュール",
-    "category_en": "Homemade Liqueur",
-    "glass_ja": "コリンズグラス",
-    "glass_en": "Collins Glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "砂糖",
-        "name_en": "Sugar",
-        "measure_ja": "2 1/2 カップ",
-        "measure_en": "2 1/2 cups"
-      },
-      {
-        "name_ja": "コーンシロップ",
-        "name_en": "Corn syrup",
-        "measure_ja": "1 カップ",
-        "measure_en": "1 cup"
-      },
-      {
-        "name_ja": "コーヒー",
-        "name_en": "Coffee",
-        "measure_ja": "1 1/2 オンス instant",
-        "measure_en": "1 1/2 oz instant"
-      },
-      {
-        "name_ja": "バニラエッセンス",
-        "name_en": "Vanilla extract",
-        "measure_ja": "2 オンス",
-        "measure_en": "2 oz"
-      },
-      {
-        "name_ja": "水",
-        "name_en": "Water",
-        "measure_ja": "3 カップ boiling",
-        "measure_en": "3 cups boiling"
-      },
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "1 fifth",
-        "measure_en": "1 fifth"
-      }
-    ],
-    "instructions_ja": "沸騰したお湯2カップに砂糖を溶かし、コーンシロップを加える。残りのお湯にインスタントコーヒーを溶かし、シロップとコーヒーを1ガロンの瓶に注いで冷ます。冷めたらウォッカとバニラを加える。最高の風味を得るには、4〜5週間ほど熟成させる。",
-    "instructions_en": "Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture \"mature\" for 4-5 weeks.",
-    "iba": null,
-    "tags": [],
-    "is_public": false
   },
   {
     "id": "20001",
