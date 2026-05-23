@@ -16543,7 +16543,18 @@
       "artist": "のり垢",
       "license": "Original (本人撮影)",
       "source_url": ""
-    }
+    },
+    "extras": [
+      {
+        "image_public": "data/images-public/11008_2.png",
+        "credit": {
+          "title": "Manhattan @ BAR Cocktail Book",
+          "artist": "のり垢",
+          "license": "Original (本人撮影)",
+          "source_url": ""
+        }
+      }
+    ]
   },
   {
     "id": "178343",
