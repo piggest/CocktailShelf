@@ -11858,6 +11858,65 @@
     "is_public": false
   },
   {
+    "id": "20016",
+    "name_ja": "ニューヨーク",
+    "name_en": "New York",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "data/images-public/20016.png",
+    "ingredients": [
+      {
+        "name_ja": "ライウイスキー",
+        "name_en": "Rye whiskey",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "Grenadine",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "1 枚",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "シェーカーにライウイスキー、ライムジュース、グレナデン、シュガーシロップ、氷を入れてシェイクする。冷やしたカクテルグラスに注ぎ、オレンジピールを絞りかける。",
+    "instructions_en": "Shake rye whiskey, lime juice, grenadine, and sugar syrup with ice. Strain into a chilled cocktail glass and garnish with an orange twist.",
+    "iba": null,
+    "tags": [
+      "Classic"
+    ],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "New York",
+      "artist": "のり垢",
+      "license": "Original (本人撮影)",
+      "source_url": ""
+    }
+  },
+  {
     "id": "11844",
     "name_ja": "ニューヨーク・サワー",
     "name_en": "New York Sour",
