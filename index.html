@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CocktailShelf — カクテルレシピ検索</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://www.thecocktaildb.com" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">◍</span>
+      <h1>CocktailShelf</h1>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button class="tab is-active" data-tab="browse" role="tab">ブラウズ</button>
+      <button class="tab" data-tab="favorites" role="tab">お気に入り</button>
+      <button class="tab" data-tab="wishlist" role="tab">飲んでみたい</button>
+      <button class="tab" data-tab="ingredients" role="tab">材料一覧</button>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <!-- サイドバー：フィルター -->
+    <aside class="sidebar">
+      <section class="filter-block">
+        <h2>検索</h2>
+        <div class="search-mode">
+          <label><input type="radio" name="mode" value="name" checked /> 名前</label>
+          <label><input type="radio" name="mode" value="ingredient" /> 材料</label>
+        </div>
+        <div class="search-row">
+          <input id="searchInput" type="text" placeholder="例: マルガリータ" autocomplete="off" />
+          <button id="searchBtn" type="button">検索</button>
+        </div>
+        <p class="hint" id="searchHint">カクテル名で検索（日本語/英語どちらでも）</p>
+      </section>
+
+      <section class="filter-block">
+        <h2>スタイル</h2>
+        <select id="styleSelect">
+          <option value="">— 選択 —</option>
+          <option value="ショート">ショート</option>
+          <option value="ロング">ロング</option>
+          <option value="ロック">ロック</option>
+          <option value="ショット">ショット</option>
+          <option value="フローズン">フローズン</option>
+          <option value="ホット">ホット</option>
+          <option value="コーヒー">コーヒー</option>
+          <option value="スパークリング">スパークリング</option>
+          <option value="ソフトドリンク">ソフトドリンク</option>
+        </select>
+        <p class="hint">グラスと作り方から自動判定</p>
+      </section>
+
+      <section class="filter-block">
+        <h2>ベース（材料）</h2>
+        <select id="baseSelect">
+          <option value="">— 選択 —</option>
+          <option value="Gin">ジン</option>
+          <option value="Vodka">ウォッカ</option>
+          <option value="Rum">ラム</option>
+          <option value="Tequila">テキーラ</option>
+          <option value="Whiskey">ウイスキー</option>
+          <option value="Brandy">ブランデー</option>
+          <option value="Wine">ワイン</option>
+          <option value="Beer">ビール</option>
+          <option value="Liqueur">リキュール</option>
+          <option value="Non-Alcoholic">ノンアルコール</option>
+          <option value="Other">その他</option>
+        </select>
+      </section>
+
+      <section class="filter-block">
+        <button id="randomBtn" class="ghost-btn" type="button">🎲 ランダムに1杯</button>
+      </section>
+
+    </aside>
+
+    <!-- メイン：結果グリッド -->
+    <section class="results">
+      <div class="results-head">
+        <h2 id="resultsTitle">すべてのカクテル</h2>
+        <span id="resultsCount" class="muted"></span>
+      </div>
+      <div id="grid" class="grid" aria-live="polite"></div>
+      <p id="emptyMsg" class="empty hidden">該当するカクテルが見つからない。</p>
+      <div id="loader" class="loader hidden"><div class="spinner"></div></div>
+    </section>
+  </main>
+
+  <!-- 詳細モーダル -->
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-backdrop" data-close></div>
+    <article class="modal-card">
+      <button class="modal-close" data-close aria-label="閉じる">×</button>
+      <div id="modalBody"></div>
+    </article>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
