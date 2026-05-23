@@ -16844,6 +16844,53 @@
     }
   },
   {
+    "id": "20008",
+    "name_ja": "モッキンバード",
+    "name_en": "Mockingbird",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "data/images-public/20008.png",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "ペパーミントグリーン",
+        "name_en": "Green peppermint",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "シェーカーにテキーラ、ペパーミントグリーン、ライムジュース、氷を入れてシェイクする。冷やしたカクテルグラスに注ぐ。",
+    "instructions_en": "Shake tequila, green peppermint, and lime juice with ice. Strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [
+      "Classic"
+    ],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "Mockingbird",
+      "artist": "のり垢",
+      "license": "Original (本人撮影)",
+      "source_url": ""
+    }
+  },
+  {
     "id": "11000",
     "name_ja": "モヒート",
     "name_en": "Mojito",
