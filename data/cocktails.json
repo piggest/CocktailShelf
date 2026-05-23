@@ -3088,7 +3088,7 @@
   },
   {
     "id": "13200",
-    "name_ja": "オーウェンのおばあちゃんの逆襲",
+    "name_ja": "オーウェンズ・グランドマザーズ・リベンジ",
     "name_en": "Owen's Grandmother's Revenge",
     "category_ja": "スタンダード",
     "category_en": "Ordinary Drink",
@@ -9424,7 +9424,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Liqueur",
-    "image": "data/images-public/15328.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "サンブーカ",
@@ -9449,13 +9449,7 @@
     "instructions_en": "add all and pour black coffee and add whipped cream on top.",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Cocktail zorro.jpg",
-      "artist": "SandraNetthoefel",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Cocktail_zorro.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17241",

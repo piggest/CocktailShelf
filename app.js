@@ -105,6 +105,36 @@ function cssSafe(s) {
   return String(s).replace(/[^a-zA-Z0-9_-]/g, "_");
 }
 
+// カクテルから表示可能な写真リストを構築
+// 戻り値: [{ src, credit }, ...]（メインが先頭、その後 extras）
+function collectPhotos(c) {
+  const photos = [];
+  const main = c.image_public || c.image;
+  if (main) photos.push({ src: main, credit: c.credit || null });
+  if (Array.isArray(c.extras)) {
+    for (const e of c.extras) {
+      const src = e.image_public || e.image;
+      if (src) photos.push({ src, credit: e.credit || null });
+    }
+  }
+  return photos;
+}
+
+// クレジット情報を HTML 文字列に
+function creditHTML(credit) {
+  if (!credit) return "";
+  const title = escapeHTML(credit.title || "");
+  const source = escapeHTML(credit.source_url || "");
+  const artist = escapeHTML(credit.artist || "Unknown");
+  const license = escapeHTML(credit.license || "");
+  const via = /wikimedia|commons/i.test(credit.source_url || "") ? " via Wikimedia Commons" : "";
+  return `
+    <p class="image-credit">
+      画像: ${source ? `<a href="${source}" target="_blank" rel="noopener">${title}</a>` : title}
+      by ${artist} / <span class="license">${license}</span>${via}
+    </p>`;
+}
+
 // 画像が無いときに見せるプレースホルダー
 function makePlaceholder(c) {
   const div = document.createElement("div");
@@ -345,14 +375,26 @@ function openDetail(id) {
   const cnt = favCount(id);
   const items = data.ingredients || [];
 
-  const heroImg = data.image
-    ? `<img src="${data.image}" onerror="this.onerror=null;this.src='${data.image_remote || ""}'" alt="">`
+  // 画像群を構築：メイン (image_public/image) + extras[]
+  const photos = collectPhotos(data);
+  const heroImg = photos.length > 0
+    ? `<img src="${photos[0].src}" data-photo-index="0" alt="">`
     : `<div class="detail-img placeholder ph-${cssSafe(data.style || "その他")}">
          <span class="ph-mark">◍</span><span class="ph-name">${escapeHTML(data.name_ja || "")}</span>
        </div>`;
+  const thumbsHTML = photos.length > 1 ? `
+    <div class="photo-thumbs">
+      ${photos.map((p, i) => `
+        <button class="photo-thumb ${i === 0 ? 'is-active' : ''}" data-index="${i}" type="button" aria-label="写真${i+1}">
+          <img src="${p.src}" alt="">
+        </button>`).join("")}
+    </div>` : "";
   modalBody.innerHTML = `
     <div class="detail-hero">
-      ${heroImg}
+      <div class="detail-imgwrap">
+        ${heroImg}
+        ${thumbsHTML}
+      </div>
       <div>
         <h2 class="detail-title"></h2>
         <p class="detail-sub muted"></p>
@@ -384,17 +426,26 @@ function openDetail(id) {
       </ul>
       <h3>作り方</h3>
       <p class="instructions"></p>
-      ${data.credit ? `
-        <p class="image-credit">
-          画像: <a href="${escapeHTML(data.credit.source_url || "#")}" target="_blank" rel="noopener">${escapeHTML(data.credit.title || "")}</a>
-          by ${escapeHTML(data.credit.artist || "Unknown")} /
-          <span class="license">${escapeHTML(data.credit.license || "")}</span> via Wikimedia Commons
-        </p>` : ""}
+      <div class="image-credit-slot">${creditHTML(photos[0] && photos[0].credit)}</div>
     </div>
   `;
   modalBody.querySelector(".detail-title").textContent = data.name_ja;
   modalBody.querySelector(".detail-sub").textContent = data.name_en;
   modalBody.querySelector(".instructions").textContent = data.instructions_ja || data.instructions_en || "";
+
+  // サムネイル切り替え：クリックでメイン画像とクレジット入れ替え
+  modalBody.querySelectorAll(".photo-thumb").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const idx = parseInt(btn.dataset.index, 10);
+      const p = photos[idx];
+      if (!p) return;
+      const main = modalBody.querySelector(".detail-hero img");
+      if (main) { main.src = p.src; main.dataset.photoIndex = idx; }
+      modalBody.querySelectorAll(".photo-thumb").forEach(t => t.classList.toggle("is-active", t === btn));
+      const slot = modalBody.querySelector(".image-credit-slot");
+      if (slot) slot.innerHTML = creditHTML(p.credit);
+    });
+  });
 
   // 材料をクリックで AND 絞り込み候補に追加できる
   modalBody.querySelectorAll(".ingredients li .ing-link").forEach(el => {
