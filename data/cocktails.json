@@ -12477,6 +12477,47 @@
     "is_public": false
   },
   {
+    "id": "20005",
+    "name_ja": "ハンター",
+    "name_en": "Hunter",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "data/images-public/20005.png",
+    "ingredients": [
+      {
+        "name_ja": "ライウイスキー",
+        "name_en": "Rye whiskey",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "チェリーブランデー",
+        "name_en": "Cherry brandy",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスにライウイスキーとチェリーブランデー、氷を入れてステアする。冷やしたカクテルグラスに注ぐ。",
+    "instructions_en": "Stir rye whiskey and cherry brandy with ice in a mixing glass, then strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [
+      "Classic"
+    ],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "Hunter",
+      "artist": "のり垢",
+      "license": "Original (本人撮影)",
+      "source_url": ""
+    }
+  },
+  {
     "id": "17239",
     "name_ja": "ハンターズ・ムーン",
     "name_en": "Hunter's Moon",
@@ -18923,6 +18964,59 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "20004",
+    "name_ja": "ロブロイ",
+    "name_en": "Rob Roy",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "data/images-public/20004.png",
+    "ingredients": [
+      {
+        "name_ja": "スコッチウイスキー",
+        "name_en": "Scotch whisky",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1個",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスにスコッチウイスキー、スイートベルモット、アンゴスチュラビターズ、氷を入れてステアする。冷やしたカクテルグラスに注ぎ、マラスキーノチェリーを飾る。",
+    "instructions_en": "Stir Scotch whisky, sweet vermouth, and Angostura bitters with ice in a mixing glass, then strain into a chilled cocktail glass. Garnish with a maraschino cherry.",
+    "iba": null,
+    "tags": [
+      "Classic"
+    ],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "Rob Roy",
+      "artist": "のり垢",
+      "license": "Original (本人撮影)",
+      "source_url": ""
+    }
   },
   {
     "id": "13196",
