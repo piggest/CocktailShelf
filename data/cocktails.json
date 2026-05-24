@@ -9794,7 +9794,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Rum",
-    "image": "data/images-public/17211.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ダークラム",
@@ -9816,13 +9816,7 @@
       "IBA",
       "NewEra"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Dark and stormy at Hula's Island Grill.jpg",
-      "artist": "Quinn Dombrowski",
-      "license": "CC BY-SA 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Dark_and_stormy_at_Hula%27s_Island_Grill.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17177",
