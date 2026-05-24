@@ -357,8 +357,8 @@ select:focus { border-color: var(--accent); }
   .detail-hero { grid-template-columns: 1fr; }
 }
 .detail-hero img {
-  width: 100%; aspect-ratio: 1/1; object-fit: cover;
-  object-position: center top;
+  width: 100%; aspect-ratio: 1/1; object-fit: contain;
+  background: var(--bg-2);
   border-radius: var(--radius);
   border: 1px solid var(--line);
 }

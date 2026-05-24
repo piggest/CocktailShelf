@@ -3475,6 +3475,15 @@
           "license": "Original (本人撮影)",
           "source_url": ""
         }
+      },
+      {
+        "image_public": "data/images-public/11001_3.png",
+        "credit": {
+          "title": "Old Fashioned",
+          "artist": "のり垢",
+          "license": "Original (本人撮影)",
+          "source_url": ""
+        }
       }
     ]
   },
@@ -3633,7 +3642,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "data/images-public/15330.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -3658,13 +3667,7 @@
     "instructions_en": "Add all ingredients to tumbler-Pour as shot",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Wes Moore and Frederick mayor Michael O'Connor drink Orange Crush cocktails.jpg",
-      "artist": "Maryland GovPics",
-      "license": "CC BY 4.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Wes_Moore_and_Frederick_mayor_Michael_O%27Connor_drink_Orange_Crush_cocktails.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "12748",
@@ -17157,7 +17160,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Beer",
-    "image": "data/images-public/20011.png",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ビール",
@@ -17179,13 +17182,7 @@
       "Classic"
     ],
     "style": "ロング",
-    "is_public": true,
-    "credit": {
-      "title": "Mint Beer",
-      "artist": "のり垢",
-      "license": "Original (本人撮影)",
-      "source_url": ""
-    }
+    "is_public": false
   },
   {
     "id": "17188",
