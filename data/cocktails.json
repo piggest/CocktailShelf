@@ -6664,6 +6664,56 @@
     "_source": "https://kakuteru.jp/recipe/angelo"
   },
   {
+    "id": "35022",
+    "name_ja": "アンシャンテ",
+    "name_en": "Enchante",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "35ml",
+        "measure_en": "35ml"
+      },
+      {
+        "name_ja": "ライチリキュール",
+        "name_en": "Lychee Liqueur",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "ガムシロップ",
+        "name_en": "Sugar Syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "シェイカーに材料と氷を入れてシェイクし、冷やしたカクテルグラスに注ぐ。フランス語で「初めまして」の意。銀座の名バーテンダー大槻健二氏の作とされる、ライチの華やかな香りが印象に残る一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://nomikata.kitchen/enchante/",
+      "https://hakaru-kk.com/anchante/",
+      "https://cocktail-labo.net/gin-base-cocktail/enchante-recipe/"
+    ]
+  },
+  {
     "id": "34074",
     "name_ja": "アンジュ",
     "name_en": "Ange",
@@ -7465,6 +7515,62 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/yellow-fellow"
+  },
+  {
+    "id": "35015",
+    "name_ja": "イエロー・ラットラー",
+    "name_en": "Yellow Rattler",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "パールオニオン",
+        "name_en": "Pearl onion",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "ジン、スイートベルモット、ドライベルモット、オレンジジュースをシェーカーに入れ、氷とともにシェークしてカクテルグラスに注ぐ。パールオニオンを沈めて飾る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "http://www.cocktailtype.com/recipe/recipe_0541.html",
+      "http://www.quon.info/cocktail/yellow-rattler/",
+      "https://thedrinkmixer.club/drink/YellowRattler"
+    ]
   },
   {
     "id": "20010",
@@ -9445,6 +9551,49 @@
     "style": "ロング",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ウイスキー・リッキー.html"
+  },
+  {
+    "id": "35097",
+    "name_ja": "ウイスキー&ピーチ・ソーダ",
+    "name_en": "Whisky & Peach Soda",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "Whisky",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      }
+    ],
+    "instructions_ja": "氷を入れたグラスにウイスキーとピーチリキュールを注ぎ、冷えた炭酸水で満たしてごく軽くステアする。ハイボールにピーチの甘い香りをまとわせた一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/whiskeypeach-soda/",
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010400936"
+    ]
   },
   {
     "id": "31005",
@@ -22699,6 +22848,56 @@
     "is_public": false
   },
   {
+    "id": "35003",
+    "name_ja": "グレープバイン",
+    "name_en": "Grapevine",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "材料を氷とともにシェイカーに入れ、手早くシェイクしてカクテルグラスに注ぐ。グレープフルーツとレモンの酸味にグレナデンの甘みが奥行きを添える。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://japanfield.net/home/cocktail/grapevine/",
+      "https://hakaru-kk.com/grapevine/",
+      "http://www.cocktailtype.com/recipe/recipe_0580.html"
+    ]
+  },
+  {
     "id": "34276",
     "name_ja": "グレープフルーツ・カルピス",
     "name_en": "Grapefruit and Calpico",
@@ -26331,6 +26530,49 @@
     "_source": "https://kakuteru.jp/recipe/cloumbus"
   },
   {
+    "id": "35074",
+    "name_ja": "コロンブス・カクテル",
+    "name_en": "Columbus Cocktail",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ゴールドラム",
+        "name_en": "Gold Rum",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      }
+    ],
+    "instructions_ja": "シェーカーに材料と氷を入れて手早くシェーク。冷やしたカクテルグラスへ注ぐ。コロンブスと同一処方で扱われることが多い、ラムベースのフルーツショート。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://kakuteru.jp/recipe/cloumbus",
+      "https://ssmtbl.com/kt-rbclnbs-rt/"
+    ]
+  },
+  {
     "id": "32201",
     "name_ja": "コンクラーベ",
     "name_en": "Conclave",
@@ -28000,6 +28242,74 @@
     "is_public": false
   },
   {
+    "id": "35035",
+    "name_ja": "サン・エキスポ",
+    "name_en": "Sun Expo",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ゴブレット",
+    "glass_en": "Goblet",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "60ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot brandy",
+        "measure_ja": "10ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "10ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "2tsp",
+        "measure_en": "2 tsp"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      },
+      {
+        "name_ja": "カットオレンジ",
+        "name_en": "Orange slice",
+        "measure_ja": "1個",
+        "measure_en": "1 pc"
+      }
+    ],
+    "instructions_ja": "ソーダ以外の材料をシェイクし、氷を入れたゴブレットに注ぐ。冷えた炭酸水で満たし、軽くステアしてカットオレンジを飾る。1970年大阪万博記念「EXPO'70 世界カクテルコンクール」ロング部門グランプリ、小林省三氏考案の一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/sun-expo/",
+      "https://ameblo.jp/blanco-tequila/entry-12751514646.html",
+      "https://bar-foxy.com/2025/03/sun_expo/"
+    ]
+  },
+  {
     "id": "34342",
     "name_ja": "サン・デュー",
     "name_en": "Sun Dew",
@@ -29061,6 +29371,50 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "35083",
+    "name_ja": "ジェントル・ブル",
+    "name_en": "Gentle Bull",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "カルーア",
+        "name_en": "Kahlua",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh Cream",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      }
+    ],
+    "instructions_ja": "シェーカーに材料と氷を入れて十分にシェークし、グラスに注ぐ。ブレイブ・ブルに生クリームを加えてまろやかにした派生カクテル。テキーラはほのかに香る程度で、大人びたカルーアミルクのような口当たり。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://mystyle.bar/gentle-bull/",
+      "https://www.youtube.com/shorts/zQTRQ8qyHro",
+      "https://nomikata.kitchen/brave-bull/"
+    ]
   },
   {
     "id": "34348",
@@ -30359,6 +30713,56 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "35057",
+    "name_ja": "ジャマイカ・クーラー",
+    "name_en": "Jamaica Cooler",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジャマイカラム",
+        "name_en": "Jamaican rum",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "コーヒー（無糖）",
+        "name_en": "Coffee (unsweetened)",
+        "measure_ja": "50ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "100ml",
+        "measure_en": "100 ml"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1片",
+        "measure_en": "1 twist"
+      }
+    ],
+    "instructions_ja": "氷を入れたグラスにラムと冷たいコーヒー、水を注いで軽くステアし、最後にレモンピールを絞り入れて香りづけする。コーヒーの苦みとラムの甘さがトロピカルに溶け合うクーラースタイルの一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://every-coffee.com/article/jamaica-cooler.html",
+      "https://hakaru-kk.com/list-of-cooler-style/",
+      "https://jazzandcocktail.com/rum_cooler/"
+    ]
   },
   {
     "id": "32302",
@@ -31946,6 +32350,120 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "35090",
+    "name_ja": "ショットガン (ジンジャーエール)",
+    "name_en": "Shotgun (Ginger Ale)",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ショットグラス",
+    "glass_en": "Shot glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ジンジャーエール",
+        "name_en": "Ginger Ale",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      }
+    ],
+    "instructions_ja": "ショットグラスにテキーラとジンジャーエールを注ぎ、コースターで蓋をする。グラスを軽くテーブルに叩きつけて炭酸を立たせ、一気に飲み干す。トニックウォーターよりも甘みと生姜の風味が立つ、飲みやすいショットガンの派生形。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショット",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/list-of-shotgun/",
+      "https://cocktail-labo.net/tequila-base-cocktail/",
+      "https://ameblo.jp/gonzalez0810/entry-11916225593.html"
+    ]
+  },
+  {
+    "id": "35089",
+    "name_ja": "ショットガン (ソーダ)",
+    "name_en": "Shotgun (Soda)",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ショットグラス",
+    "glass_en": "Shot glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda Water",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      }
+    ],
+    "instructions_ja": "ショットグラスにテキーラと炭酸水を注ぎ、コースターで蓋をする。グラスをテーブルに軽く叩きつけて炭酸を泡立たせ、一気に飲み干す。トニックウォーターの代わりに炭酸水を使った、よりすっきり飲めるバリエーション。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショット",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/list-of-shotgun/",
+      "https://cocktail-labo.net/tequila-base-cocktail/",
+      "https://www.nomooo.jp/article/2017/11/09/695.html"
+    ]
+  },
+  {
+    "id": "35081",
+    "name_ja": "ショットガン (トニックウォーター)",
+    "name_en": "Shotgun (Tonic Water)",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ショットグラス",
+    "glass_en": "Shot glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "トニックウォーター",
+        "name_en": "Tonic Water",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      }
+    ],
+    "instructions_ja": "ショットグラスにテキーラとトニックウォーターを注ぎ、コースターで蓋をする。グラスを軽くテーブルに叩きつけて炭酸を泡立たせ、一気に飲み干す。「散弾銃」の名のとおりインパクト重視のパーティードリンク。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショット",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/shotgun/",
+      "https://cocktail-labo.net/tequila-base-cocktail/",
+      "http://ahoudori.cool.coocan.jp/dic/"
+    ]
   },
   {
     "id": "11580",
@@ -35465,6 +35983,49 @@
     "is_public": false
   },
   {
+    "id": "35092",
+    "name_ja": "スコッチ・オーレ",
+    "name_en": "Scotch Olay",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "Old-fashioned glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "スコッチ",
+        "name_en": "Scotch whisky",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "カルーア",
+        "name_en": "Kahlua",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "牛乳",
+        "name_en": "Milk",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたシェイカーに全材料を注ぎ、よくシェークしてグラスに注ぐ。スコッチのスモーキーさをコーヒーリキュールの甘みと牛乳のまろやかさが包む一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロック",
+    "is_public": false,
+    "_sources": [
+      "http://www.cocktailtype.com/recipe/recipe_0672.html",
+      "https://japanfield.net/home/cocktail/scotchole/"
+    ]
+  },
+  {
     "id": "33099",
     "name_ja": "スコッチ・キルト",
     "name_en": "Scotch Kilt",
@@ -35505,6 +36066,56 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/scotch-kilt"
+  },
+  {
+    "id": "35096",
+    "name_ja": "スコッチ・コリンズ",
+    "name_en": "Scotch Collins",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "スコッチ",
+        "name_en": "Scotch whisky",
+        "measure_ja": "60ml",
+        "measure_en": "60ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "2tsp",
+        "measure_en": "2tsp"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      }
+    ],
+    "instructions_ja": "ソーダ以外の材料を氷とともにシェークし、氷を入れたコリンズグラスに注ぐ。冷えた炭酸水で満たして軽くステアし、お好みでレモンスライスを飾る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://kakuteru.jp/recipe/john-collins",
+      "https://ameblo.jp/blanco-tequila/entry-12791148542.html",
+      "https://dearwhisky.com/knowledge/scotch-whisky-cocktail/"
+    ]
   },
   {
     "id": "12158",
@@ -43296,6 +43907,62 @@
     "is_public": false
   },
   {
+    "id": "35066",
+    "name_ja": "ディアボロ",
+    "name_en": "Diabolo",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "オレンジビターズ",
+        "name_en": "Orange bitters",
+        "measure_ja": "2dashes",
+        "measure_en": "2 dashes"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1dash",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1片",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスに全材料と氷を入れてステア。冷やしたカクテルグラスに注ぎ、レモンピールを絞りかける。1900年代初頭のフランス発祥とされる古典的なブランデーカクテル。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://publicdomainrecipes.org/recipes/diabolo-cocktail/",
+      "https://savoystomp.flannestad.com/2008/08/27/diabolo-cocktail/",
+      "https://makemeacocktail.com/cocktail/8212/diabolo"
+    ]
+  },
+  {
     "id": "34517",
     "name_ja": "ティアレ",
     "name_en": "",
@@ -43993,6 +44660,50 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ティップン・トップ.html"
   },
   {
+    "id": "35087",
+    "name_ja": "ティファナ・サンライズ",
+    "name_en": "Tijuana Sunrise",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "90ml",
+        "measure_en": "90ml"
+      },
+      {
+        "name_ja": "アロマチックビターズ",
+        "name_en": "Aromatic Bitters",
+        "measure_ja": "2dashes",
+        "measure_en": "2 dashes"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにテキーラとオレンジジュースを注ぎ、軽くステアする。最後にアロマチックビターズを静かに垂らして、底へ沈むように仕上げる。テキーラ・サンライズのグレナデンをビターズに置き換えた、ほろ苦さが大人びた一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%83%BC%E3%83%A9%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%BA",
+      "https://kakuteru.jp/recipe/tequila-sunrise",
+      "https://hakaru-kk.com/tequila-sunrise/"
+    ]
+  },
+  {
     "id": "34531",
     "name_ja": "ティフィン・オレンジ",
     "name_en": "Tiffin Orange",
@@ -44243,6 +44954,62 @@
     }
   },
   {
+    "id": "35065",
+    "name_ja": "ティンカー・ベル",
+    "name_en": "Tinker Bell",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "36ml",
+        "measure_en": "36ml"
+      },
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "12ml",
+        "measure_en": "12ml"
+      },
+      {
+        "name_ja": "パルフェタムール",
+        "name_en": "Parfait Amour",
+        "measure_ja": "12ml",
+        "measure_en": "12ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "ミントチェリー",
+        "name_en": "Mint cherry",
+        "measure_ja": "1個",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "シュガーリムを施したカクテルグラスを用意。全材料をシェーカーで氷とともにシェイクし、グラスに注いでミントチェリーを飾る。帝国ホテル100周年記念カクテルで、西脇宏氏による創作。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "http://cocktail.syuriken.jp/vodka/tinkerbell.htm",
+      "http://www.quon.info/cocktail/tinker-bell/",
+      "https://mics.bar/cocktails/1189"
+    ]
+  },
+  {
     "id": "32315",
     "name_ja": "ティント・デ・ベラノ",
     "name_en": "",
@@ -44459,6 +45226,50 @@
     "style": "ロング",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　テキーラ・カルピス.html"
+  },
+  {
+    "id": "35086",
+    "name_ja": "テキーラ・ギムレット",
+    "name_en": "Tequila Gimlet",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime Juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar Syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "シェーカーに材料と氷を入れて十分にシェークし、カクテルグラスに注ぐ。ジンの代わりにテキーラを使ったギムレットの派生形。アガベの風味とライムの酸味が組み合わさり、定番ギムレットとはひと味違うキレを楽しめる。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/tequila-gimlet/",
+      "http://www.quon.info/cocktail/tequila-gimlet/",
+      "https://www.sakesen.com/blog/how-to-drink-tequila/"
+    ]
   },
   {
     "id": "14602",
@@ -47020,6 +47831,62 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "35062",
+    "name_ja": "トレーダー・ビックス・コーヒー・グロッグ",
+    "name_en": "Trader Vic's Coffee Grog",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ワイングラス",
+    "glass_en": "Wine glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "バター",
+        "name_en": "Butter",
+        "measure_ja": "1片",
+        "measure_en": "1 pat"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Cream",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "ホットコーヒー",
+        "name_en": "Hot coffee",
+        "measure_ja": "適量",
+        "measure_en": "fill"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "1片",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "温めたワイングラスにダークラム、バター、生クリームを入れ、ホットコーヒーで満たしてステア。オレンジピールを添える。トレーダー・ヴィックの代表的なホットコーヒーカクテル。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ホット",
+    "is_public": false,
+    "_sources": [
+      "https://www.absolutdrinks.com/en/drinks/trader-vics-coffee-grog/",
+      "https://tradervicsrum.com/recipes/",
+      "https://www.monsieur-cocktail.com/en/blogs/recettes-de-cocktail/le-grog-de-trader-vic"
+    ]
   },
   {
     "id": "34562",
@@ -50541,6 +51408,44 @@
     "is_public": false
   },
   {
+    "id": "35094",
+    "name_ja": "バウンティ・ハンター",
+    "name_en": "Bounty Hunter",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "Old-fashioned glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "バーボン",
+        "name_en": "Bourbon",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "豆乳",
+        "name_en": "Soy milk",
+        "measure_ja": "90ml",
+        "measure_en": "90ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたグラスにバーボンと豆乳を注ぎ、軽くステアする。豆乳のまろやかな口当たりがバーボンのコクと香りを引き立てる、デザートのようなロングカクテル。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロック",
+    "is_public": false,
+    "_sources": [
+      "https://enokishouten.co.jp/blog/earlytimes-bountyhunter-review",
+      "https://mystyle.bar/bounty-hunter/",
+      "https://ameblo.jp/fruitjulio/entry-12799581476.html"
+    ]
+  },
+  {
     "id": "33150",
     "name_ja": "バカディアーノ",
     "name_en": "Bacadiano",
@@ -50738,6 +51643,49 @@
     "style": "ショート",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　バカルディ・スペシャル.html"
+  },
+  {
+    "id": "35071",
+    "name_ja": "バカルディ・ホット・ココア",
+    "name_en": "Bacardi Hot Cocoa",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "耐熱グラス",
+    "glass_en": "Heatproof Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White Rum",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ココアパウダー",
+        "name_en": "Cocoa Powder",
+        "measure_ja": "適量",
+        "measure_en": "to taste"
+      },
+      {
+        "name_ja": "ホットミルク",
+        "name_en": "Hot Milk",
+        "measure_ja": "150ml",
+        "measure_en": "150ml"
+      }
+    ],
+    "instructions_ja": "ホットミルクでココアパウダーを溶く。耐熱グラスにホワイトラムを注ぎ、ホットココアを加えて軽くステアする。チョコレートとラムの香りが寄り添う、寒い夜にゆっくり味わう一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ホット",
+    "is_public": false,
+    "_sources": [
+      "https://www.bacardijapan.jp/cocktails/recipe/hot-rum-chocolate/",
+      "https://bacardi-rum.jp/cocktails/"
+    ]
   },
   {
     "id": "34612",
@@ -56977,6 +57925,51 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ピンク・スクァーレル.html"
   },
   {
+    "id": "35058",
+    "name_ja": "ピンク・ダイキリ",
+    "name_en": "Pink Daiquiri",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "材料を氷とともにシェイクし、冷やしたカクテルグラスに注ぐ。ダイキリの砂糖をザクロ由来のグレナデンシロップに置き換えた、淡いピンク色のバリエーション。バカルディ・ラム以外で作る場合の呼称としても知られる。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://cocktail-labo.net/rum-base-cocktail/pink-daiquiri-recipe/",
+      "https://myuma.lolipop.jp/pink-daiquiri/",
+      "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%AD%E3%83%AA",
+      "https://eiiiibar.com/cocktail-bacardi/"
+    ]
+  },
+  {
     "id": "13535",
     "name_ja": "ピンク・パンティ・プルダウン",
     "name_en": "Pink Panty Pulldowns",
@@ -58058,6 +59051,74 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:VTR_Happy_Hour_-_Boulevardier.jpg"
     },
     "_wiki_source": "https://en.wikipedia.org/wiki/Boulevardier_(cocktail)"
+  },
+  {
+    "id": "35067",
+    "name_ja": "フェアリー・ウィスパー",
+    "name_en": "Fairy Whisper",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "フランボワーズリキュール",
+        "name_en": "Framboise liqueur",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "1/3個",
+        "measure_en": "1/3"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Cream",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      }
+    ],
+    "instructions_ja": "全材料をシェーカーに入れて氷とともに強くシェイク。冷やしたカクテルグラスに注ぐ。1985年第14回H.B.A.創作カクテルコンペティション優勝、赤坂プリンスホテルの君島晃二氏が考案。フルーティーで甘やかな味わい。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://cocktail-sound.com/recipe/rum/fairy-whisper.htm",
+      "https://mics.bar/cocktails/1538",
+      "https://ameblo.jp/blanco-tequila/entry-12899485835.html"
+    ]
   },
   {
     "id": "34714",
@@ -61558,6 +62619,61 @@
     "is_public": false
   },
   {
+    "id": "35038",
+    "name_ja": "フリッパー",
+    "name_en": "Flipper",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "60ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "22.5ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "1片",
+        "measure_en": "1 pc"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスに氷と材料を入れてステアし、冷やしたカクテルグラスへ注ぐ。オレンジピールを絞りかけて飾る。アマレットの杏仁香とカンパリのほろ苦さが交差する辛口の一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "http://ycos2.sakura.ne.jp/Cocktail/cgi-bin/cdb_form.cgi?../Gin/Flipper.key",
+      "https://ameblo.jp/bar-saigetsuan/entry-12721261118.html"
+    ]
+  },
+  {
     "id": "30403",
     "name_ja": "フリップ",
     "name_en": "Flip",
@@ -62168,6 +63284,49 @@
     "style": "ショート",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ブルー・トレイン.html"
+  },
+  {
+    "id": "35098",
+    "name_ja": "ブルー・ハイボール",
+    "name_en": "Blue Highball",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "Whisky",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue curacao",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      }
+    ],
+    "instructions_ja": "氷を入れたグラスにウイスキーとブルーキュラソーを注ぎ、冷えた炭酸水で満たして軽くステアする。ハイボールにオレンジ香るブルーキュラソーを重ねた、青く透き通る一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010401199",
+      "https://japanfield.net/home/cocktail/bluehighball/"
+    ]
   },
   {
     "id": "34766",
@@ -76225,6 +77384,56 @@
     "is_public": false
   },
   {
+    "id": "35064",
+    "name_ja": "ムーンライト・アカサカ",
+    "name_en": "Moonlight Akasaka",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "35ml",
+        "measure_en": "35ml"
+      },
+      {
+        "name_ja": "パルフェタムール",
+        "name_en": "Parfait Amour",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "全材料をシェーカーに入れ、氷とともによくシェイク。冷やしたカクテルグラスに注ぐ。1973年第2回H.B.A.創作カクテルコンペティション第2位入賞、赤坂東急ホテルの木原均氏が考案。レモンとスミレの香りが漂う、爽やかな味わい。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://akasaka.keizai.biz/photoflash/3112/",
+      "https://www.youtube.com/watch?v=xDiwChIBrec",
+      "https://www.comforts.jp/tokyu-hotels/19080/"
+    ]
+  },
+  {
     "id": "34955",
     "name_ja": "ムーンライト・クーラー",
     "name_en": "Moonlight Cooler",
@@ -76519,6 +77728,50 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/mexican"
+  },
+  {
+    "id": "35088",
+    "name_ja": "メキシコーラ",
+    "name_en": "Mexicola",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime Juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "コーラ",
+        "name_en": "Cola",
+        "measure_ja": "適量",
+        "measure_en": "top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにテキーラとライムジュースを注ぎ、冷えたコーラで満たして軽くステアする。メキシコ生まれの定番ロングドリンクで、アガベのコクとコーラの甘み、ライムの酸味が爽快に調和する。メキシコでは「バタンガ」とも呼ばれる。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/mexicola/",
+      "https://nomikata.kitchen/mexicola/",
+      "https://kondosaketen.net/cocktail_tequilacola/"
+    ]
   },
   {
     "id": "31103",
@@ -80270,6 +81523,49 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ラム・コーク.html"
   },
   {
+    "id": "35076",
+    "name_ja": "ラム・コーラ",
+    "name_en": "Rum Cola",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White Rum",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "コーラ",
+        "name_en": "Cola",
+        "measure_ja": "適量",
+        "measure_en": "to fill"
+      },
+      {
+        "name_ja": "レモンスライス",
+        "name_en": "Lemon Slice",
+        "measure_ja": "1枚",
+        "measure_en": "1 slice"
+      }
+    ],
+    "instructions_ja": "氷を詰めたタンブラーにホワイトラムを注ぎ、軽くステアして冷やす。冷えたコーラで満たし、炭酸を逃がさないようにごく軽く混ぜる。レモンスライスを添える。シンプルだから素材で印象が変わる定番ロング。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://jazzandcocktail.com/rum-cola/",
+      "https://cocktailrecipe.jp/recipe/3/"
+    ]
+  },
+  {
     "id": "12067",
     "name_ja": "ラム・コブラー",
     "name_en": "Rum Cobbler",
@@ -80672,6 +81968,62 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "35061",
+    "name_ja": "ラム・トディ・バタード",
+    "name_en": "Rum Toddy Buttered",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ホットグラス",
+    "glass_en": "Hot glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "角砂糖",
+        "name_en": "Sugar cube",
+        "measure_ja": "1個",
+        "measure_en": "1 cube"
+      },
+      {
+        "name_ja": "バター",
+        "name_en": "Butter",
+        "measure_ja": "1片",
+        "measure_en": "1 pat"
+      },
+      {
+        "name_ja": "熱湯",
+        "name_en": "Hot water",
+        "measure_ja": "適量",
+        "measure_en": "fill"
+      },
+      {
+        "name_ja": "シナモンスティック",
+        "name_en": "Cinnamon stick",
+        "measure_ja": "1本",
+        "measure_en": "1 stick"
+      }
+    ],
+    "instructions_ja": "温めた耐熱グラスに角砂糖を入れ、少量の熱湯で溶かす。ダークラムを注ぎ、熱湯で満たして軽くステア。バターを浮かべ、シナモンスティックを添える。ホット・バタード・ラムの別名としても知られる。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ホット",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=2000000209",
+      "https://www.bacardijapan.jp/cocktails/recipe/hot-buttered-rum/",
+      "https://cocktailrecipe.suntory.co.jp/wnb/cocktail/recipe/hot_buttered_rum/"
+    ]
   },
   {
     "id": "35007",
@@ -84933,6 +86285,106 @@
     "is_public": false
   },
   {
+    "id": "35085",
+    "name_ja": "ロング・ブルー・マルガリータ",
+    "name_en": "Long Blue Margarita",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue Curaçao",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime Juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "トニックウォーター",
+        "name_en": "Tonic Water",
+        "measure_ja": "適量",
+        "measure_en": "top up"
+      }
+    ],
+    "instructions_ja": "シェーカーにテキーラ、ブルーキュラソー、ライムジュースと氷を入れてシェークする。氷を入れたグラスに注ぎ、トニックウォーターで満たして軽くステアする。澄んだ青色とほのかな酸味が爽やかで、ブルーマルガリータを軽快に楽しめるロングドリンク。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/long-blue-margarita/",
+      "https://www.youtube.com/watch?v=3wGLZnS-aIg",
+      "https://kakuteru.jp/recipe/blue-margarita"
+    ]
+  },
+  {
+    "id": "35084",
+    "name_ja": "ロング・マルガリータ",
+    "name_en": "Long Margarita",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White Curaçao",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime Juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "トニックウォーター",
+        "name_en": "Tonic Water",
+        "measure_ja": "適量",
+        "measure_en": "top up"
+      }
+    ],
+    "instructions_ja": "シェーカーにテキーラ、ホワイトキュラソー、ライムジュース、氷を入れてシェークする。氷を入れたグラスに注ぎ、冷えたトニックウォーターで満たして軽くステアする。定番マルガリータをロングスタイルにアレンジした、軽快で飲みやすい一杯。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/long-blue-margarita/",
+      "https://nico-bar.net/nicobar/cocktail_margarita.php",
+      "https://kakuteru.jp/recipe/blue-margarita"
+    ]
+  },
+  {
     "id": "17204",
     "name_ja": "ロングアイランド・アイスティー",
     "name_en": "Long Island Iced Tea",
@@ -85921,6 +87373,50 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/satsuma-komachi"
+  },
+  {
+    "id": "35014",
+    "name_ja": "紫水晶",
+    "name_en": "Murasaki Suisho",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "バイオレットリキュール",
+        "name_en": "Violet liqueur",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      }
+    ],
+    "instructions_ja": "全ての材料をシェーカーに入れ、氷とともにシェークしてカクテルグラスに注ぐ。1964年サントリーカクテルコンペティション・ジン部門優勝作品。薄田恒氏の創作。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://cocktail-sound.com/recipe/kueihuachenchiew/amethyst.htm",
+      "http://mycocktail.seesaa.net/article/6138586.html",
+      "https://www.youtube.com/watch?v=CLBnxgLh2K0"
+    ]
   },
   {
     "id": "32515",
