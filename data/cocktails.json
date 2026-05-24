@@ -4599,32 +4599,32 @@
     "image": "data/images-public/17255.jpg",
     "ingredients": [
       {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "2 1/2 オンス",
-        "measure_en": "2 1/2 oz"
+        "name_ja": "ドライジン",
+        "name_en": "Dry gin",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "ライムジュース",
-        "name_en": "Lime Juice",
-        "measure_ja": "1/2 オンス",
-        "measure_en": "1/2 oz"
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "シュガーシロップ",
-        "name_en": "Sugar Syrup",
-        "measure_ja": "1/2 オンス",
-        "measure_en": "1/2 oz"
+        "name_en": "Sugar syrup",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
       },
       {
-        "name_ja": "ライム",
-        "name_en": "Lime",
-        "measure_ja": "1",
+        "name_ja": "ライムホイール",
+        "name_en": "Lime wheel",
+        "measure_ja": "1 枚",
         "measure_en": "1"
       }
     ],
-    "instructions_ja": "全材料をシェイカーに入れ、氷を満たす。シェイクして、冷やしたカクテルグラスまたは新しい氷を入れたオールドファッションドグラスに注ぐ。ライムホイールで飾る。",
-    "instructions_en": "Add all the ingredients to a shaker and fill with ice.\r\n\r\nShake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.\r\n\r\nGarnish with a lime wheel.",
+    "instructions_ja": "シェーカーにドライジン、ライムジュース、シュガーシロップ、氷を入れてシェイクする。冷やしたカクテルグラスに注ぎ、ライムホイールで飾る。",
+    "instructions_en": "Shake dry gin, lime juice, and sugar syrup with ice. Strain into a chilled cocktail glass and garnish with a lime wheel.",
     "iba": null,
     "tags": [],
     "is_public": true,
