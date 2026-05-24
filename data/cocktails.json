@@ -2803,6 +2803,56 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　アップル・ア・ラ・モード.html"
   },
   {
+    "id": "35204",
+    "name_ja": "アップル・サンライズ",
+    "name_en": "Apple Sunrise",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "カルヴァドス",
+        "name_en": "Calvados",
+        "measure_ja": "40ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de Cassis",
+        "measure_ja": "10ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "80ml",
+        "measure_en": "80 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "2〜3dash",
+        "measure_en": "2-3 dashes"
+      }
+    ],
+    "instructions_ja": "コリンズグラスに氷を満たし、カルヴァドス、クレーム・ド・カシス、オレンジジュース、レモンジュースを順に注いでステアする。りんごとオレンジの香りにカシスが寄り添うフルーティーな一杯。",
+    "instructions_en": "Fill a Collins glass with ice and pour Calvados, Crème de Cassis, orange juice and lemon juice in order, then stir. A fruity drink where apple and orange aromas meet a touch of cassis.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/calvados-cocktail/",
+      "http://cocktail-zanmai.seesaa.net/article/442032656.html",
+      "https://www.drinkplanet.jp/cocktail_todays/tag/%E3%83%AA%E3%83%B3%E3%82%B4%EF%BC%8F%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB/"
+    ]
+  },
+  {
     "id": "33004",
     "name_ja": "アップル・ジャック",
     "name_en": "Apple Jack",
@@ -4808,6 +4858,51 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　アプリコット・サワー.html"
   },
   {
+    "id": "35265",
+    "name_ja": "アプリコット・ジンジャー",
+    "name_en": "Apricot Ginger",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ジンジャーエール",
+        "name_en": "Ginger Ale",
+        "measure_ja": "90ml",
+        "measure_en": "90ml"
+      },
+      {
+        "name_ja": "ライム",
+        "name_en": "Lime Wedge",
+        "measure_ja": "1切れ",
+        "measure_en": "1 wedge"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにアプリコットブランデーを注ぎ、冷えたジンジャーエールで満たして軽くステアする。カットライムを添える。",
+    "instructions_en": "Pour apricot brandy into an ice-filled tumbler, top with chilled ginger ale and stir briefly. Garnish with a lime wedge.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.game-and-cocktail.com/cocktail-recipe/cocktail-recipe-859",
+      "https://hakaru-kk.com/apricot-ginger/",
+      "http://blanton.seesaa.net/article/418942617.html",
+      "https://www.green-alaska.com/entry/2018/10/11/230714"
+    ]
+  },
+  {
     "id": "34049",
     "name_ja": "アプリコット・フィズ",
     "name_en": "Apricot Fizz",
@@ -5078,6 +5173,54 @@
     "is_public": false
   },
   {
+    "id": "35299",
+    "name_ja": "アペロール・クラシック",
+    "name_en": "Aperol Classic",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アペロール",
+        "name_en": "Aperol",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      }
+    ],
+    "instructions_ja": "全材料をシェーカーに氷とともに入れ、よくシェークする。冷やしたカクテルグラスに注ぐ。アペロール本来のほろ苦さと柑橘の酸味、ガムシロップの甘さがバランスする大人のショートカクテル。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass. The bittersweet Aperol harmonises with citrus acidity and a touch of syrup.",
+    "iba": null,
+    "tags": [
+      "ビター",
+      "柑橘"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/aperol-classic/",
+      "https://tanoshiiosake.jp/4076",
+      "https://www.nomooo.jp/article/2023/06/14/13039.html",
+      "https://macaro-ni.jp/33263"
+    ]
+  },
+  {
     "id": "31008",
     "name_ja": "アペロール・スプリッツ",
     "name_en": "Aperol Spritz",
@@ -5301,6 +5444,86 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　アマレット・カルピス.html"
   },
   {
+    "id": "35288",
+    "name_ja": "アマレット・クランベリー",
+    "name_en": "Amaretto Cranberry",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry Juice",
+        "measure_ja": "90ml",
+        "measure_en": "90 ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたハイボールグラスにアマレットを注ぎ、クランベリージュースで満たして軽くステアする。アマレットの甘い香りとクランベリーの酸味が綺麗に重なる。",
+    "instructions_en": "Pour amaretto over ice in a highball glass, top with cranberry juice and stir gently. The almond sweetness of amaretto layers cleanly over the tart cranberry.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://makemeacocktail.com/en/cocktail/8423/amaretto-cranberry",
+      "https://www.diffordsguide.com/cocktails/recipe/32000/amaretto-cranberry-cocktail",
+      "https://boulderlocavore.com/cranberry-amaretto-cocktail/"
+    ]
+  },
+  {
+    "id": "35294",
+    "name_ja": "アマレット・コーラ",
+    "name_en": "Amaretto Cola",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "コーラ",
+        "name_en": "Cola",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を詰めたグラスにアマレットを注ぎ、泡立たないようコーラを静かに注ぐ。軽くステアして完成。お好みでレモンを一絞りすると締まる。",
+    "instructions_en": "Pour amaretto over ice and gently top up with cola without disturbing the bubbles. Stir lightly. A squeeze of lemon adds balance.",
+    "iba": null,
+    "tags": [
+      "甘口",
+      "炭酸"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/amaretto-coke/",
+      "https://www.green-alaska.com/entry/2021/02/10/183855",
+      "https://chisou-media.jp/posts/10197",
+      "https://kurashi-no.jp/I0024288"
+    ]
+  },
+  {
     "id": "30008",
     "name_ja": "アマレット・サワー",
     "name_en": "Amaretto sour",
@@ -5393,6 +5616,136 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　アマレット・ジンジャー.html"
   },
   {
+    "id": "35282",
+    "name_ja": "アマレット・スプモーニ",
+    "name_en": "Amaretto Spumoni",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit Juice",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "トニックウォーター",
+        "name_en": "Tonic Water",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたコリンズグラスにアマレットとグレープフルーツジュースを注ぎ、トニックウォーターで満たして軽くステアする。スプモーニのカンパリをアマレットに置き換えたバリエーション。",
+    "instructions_en": "Pour amaretto and grapefruit juice into an ice-filled collins glass, top with tonic water and stir lightly. A variation of the classic Spumoni with amaretto in place of Campari.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010401166",
+      "https://hakaru-kk.com/amaretto-spumoni/",
+      "https://nico-bar.net/nicobar/cocktail_spumoni.php"
+    ]
+  },
+  {
+    "id": "35292",
+    "name_ja": "アマレット・ソーダ",
+    "name_en": "Amaretto Soda",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を詰めたグラスにアマレットを注ぎ、炭酸水で満たす。炭酸が抜けないようマドラーで軽く一回だけステアする。お好みでレモンスライスを添える。",
+    "instructions_en": "Pour amaretto into a glass filled with ice and top up with soda water. Stir gently once. Garnish with a lemon slice if desired.",
+    "iba": null,
+    "tags": [
+      "ハイボール",
+      "炭酸"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/list-of-amaretto/",
+      "https://osakekimama.com/2025/08/amaretto-soda-recipe/kimamaya/",
+      "https://www.green-alaska.com/entry/2021/02/10/183855",
+      "https://cocktail.inokazu.com/amaretto-cocktail/"
+    ]
+  },
+  {
+    "id": "35296",
+    "name_ja": "アマレット・ミルク",
+    "name_en": "Amaretto Milk",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "Old-fashioned glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "牛乳",
+        "name_en": "Milk",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を詰めたグラスにアマレットを注ぎ、牛乳で満たしてからゆっくりとステアする。アマレットの杏仁香とミルクのコクが溶け合い、まるで杏仁豆腐のような優しい味わいに仕上がる。",
+    "instructions_en": "Pour amaretto over ice and top up with milk. Stir slowly. The almond aroma blends with creamy milk for a flavour reminiscent of Chinese almond tofu.",
+    "iba": null,
+    "tags": [
+      "デザート",
+      "甘口",
+      "ミルク"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.tsukuba-milk.co.jp/recipe/recipe_727/",
+      "https://chisou-media.jp/posts/10413",
+      "https://cocktail28.ikidane.com/cocktail/liq/ama/ama_mil.html",
+      "https://marr.monster/amaretto_milk/",
+      "https://osusumenomono.com/amaretto-milk"
+    ]
+  },
+  {
     "id": "34059",
     "name_ja": "アマレット・リッキー",
     "name_en": "Amaretto Rickey",
@@ -5431,6 +5784,44 @@
     "style": "ロング",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　アマレット・リッキー.html"
+  },
+  {
+    "id": "35287",
+    "name_ja": "アマレット豆乳",
+    "name_en": "Amaretto and Soy Milk",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "Old Fashioned Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "豆乳",
+        "name_en": "Soy Milk",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたオールドファッションドグラスにアマレットを注ぎ、豆乳で満たしてよくステアする。杏仁豆腐を思わせるまろやかなデザートカクテル。",
+    "instructions_en": "Build amaretto over ice in an old fashioned glass, fill with soy milk and stir well. A creamy, dessert-like drink reminiscent of almond tofu.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010401171",
+      "https://www.tsukuba-milk.co.jp/recipe/recipe_727/",
+      "https://marr.monster/amaretto_milk/"
+    ]
   },
   {
     "id": "34058",
@@ -7796,6 +8187,54 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　イタリアン・アイス・ティー.html"
   },
   {
+    "id": "35297",
+    "name_ja": "イタリアン・カイピリーニャ",
+    "name_en": "Italian Caipirinha",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "Old-fashioned glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "カシャーサ",
+        "name_en": "Cachaça",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "ライム",
+        "name_en": "Lime",
+        "measure_ja": "1/4個",
+        "measure_en": "1/4 each"
+      }
+    ],
+    "instructions_ja": "ぶつ切りにしたライムをグラスに入れ、ペストルでしっかりつぶす。クラッシュドアイスを詰め、カシャーサとアマレットを注いでステアする。カイピリーニャの爽快さにアマレットの甘い香りが加わったイタリア風アレンジ。",
+    "instructions_en": "Muddle lime wedges in a glass. Fill with crushed ice, pour cachaça and amaretto, and stir well. An Italian twist on the classic Caipirinha, with amaretto adding sweet almond notes.",
+    "iba": null,
+    "tags": [
+      "クラッシュドアイス",
+      "ライム"
+    ],
+    "style": "ロック",
+    "is_public": false,
+    "_sources": [
+      "http://www.siregenuine.com/recipe/ai/ai0010.htm",
+      "http://cocktail-recipe.seesaa.net/article/49854222.html",
+      "https://www.weblio.jp/content/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AB%E3%82%A4%E3%83%94%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%A3",
+      "https://www.rakuten.ne.jp/gold/kawachi/products/cachaca51-cocktail.html"
+    ]
+  },
+  {
     "id": "34091",
     "name_ja": "イタリアン・サーファー",
     "name_en": "Italian Surfer",
@@ -7834,6 +8273,50 @@
     "style": "ロング",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　イタリアン・サーファー.html"
+  },
+  {
+    "id": "35285",
+    "name_ja": "イタリアン・スクリュードライバー",
+    "name_en": "Italian Screwdriver",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "90ml",
+        "measure_en": "90 ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたハイボールグラスにウォッカとアマレットを注ぎ、オレンジジュースで満たして軽くステアする。スクリュードライバーにアマレットでアーモンドの甘い香りを加えたアレンジ。",
+    "instructions_en": "Build vodka and amaretto over ice in a highball glass, top with fresh orange juice and stir gently. A Screwdriver dressed up with a touch of almond sweetness from amaretto.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.haveacocktail.com/italian-screwdriver.htm",
+      "https://www.snapcalorie.com/recipes/italian_screwdriver.html",
+      "https://vinepair.com/cocktail-recipe/the-nutty-screwdriver-recipe/"
+    ]
   },
   {
     "id": "34092",
@@ -14959,6 +15442,52 @@
     "is_public": false
   },
   {
+    "id": "35238",
+    "name_ja": "オレンジ・デーモン",
+    "name_en": "Orange Demon",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "エバークリア",
+        "name_en": "Everclear",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "適量",
+        "measure_en": "Half glass"
+      }
+    ],
+    "instructions_ja": "カクテルグラスにオレンジジュースを注ぎ、エバークリアとコアントローを加えて軽くステアする。アルコール度数の高いエバークリアにオレンジ系の香味を重ねた、見た目に反して非常に強いショート寄りのカクテル。少量ずつ味わうのが安全。",
+    "instructions_en": "Pour orange juice into a cocktail glass, then add Everclear and Cointreau and stir gently. A deceptively orange-forward drink built on high-proof grain alcohol, layered with orange liqueur and juice. Sip carefully.",
+    "iba": null,
+    "tags": [
+      "オレンジ",
+      "ハイプルーフ"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.cocktailbuilder.com/recipe/orange-demon",
+      "http://www.drinksmixer.com/drink5691.html"
+    ]
+  },
+  {
     "id": "34170",
     "name_ja": "オレンジ・トニック",
     "name_en": "Orange and Tonic",
@@ -15992,6 +16521,44 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　カシス・カルピス.html"
   },
   {
+    "id": "35203",
+    "name_ja": "カシス・クランベリー",
+    "name_en": "Cassis Cranberry",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de Cassis",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにクレーム・ド・カシスを注ぎ、よく冷えたクランベリージュースで満たして軽くステアする。カシスの甘みとクランベリーの酸味が調和する一杯。",
+    "instructions_en": "Pour Crème de Cassis into a tumbler filled with ice, top up with chilled cranberry juice and stir lightly. The sweetness of cassis balances the tartness of cranberry.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://cocktailrecipe.jp/recipe/101",
+      "https://hakaru-kk.com/list-of-cassis/",
+      "https://www.green-alaska.com/entry/2019/01/01/022057"
+    ]
+  },
+  {
     "id": "34182",
     "name_ja": "カシス・グレープフルーツ",
     "name_en": "Cassis and Grapefruit",
@@ -16266,6 +16833,44 @@
     "_sources": [
       "http://cocktail28.ikidane.com/cocktail/liq/cas/cas_pai.html",
       "http://www.cocktailtype.com/cgi-bin/call.cgi?m=recipe_material&material=45"
+    ]
+  },
+  {
+    "id": "35201",
+    "name_ja": "カシス・マンゴー",
+    "name_en": "Cassis Mango",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de Cassis",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "マンゴージュース",
+        "name_en": "Mango juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにクレーム・ド・カシスを注ぎ、冷えたマンゴージュースで満たす。軽くステアして仕上げる。",
+    "instructions_en": "Pour Crème de Cassis into a tumbler filled with ice, top up with chilled mango juice and stir lightly.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://recipe.rakuten.co.jp/recipe/1680001184/",
+      "https://www.game-and-cocktail.com/cocktail-recipe/cocktail-recipe-129",
+      "https://cocktail-labo.net/knowledge/mango-cocktail/"
     ]
   },
   {
@@ -16895,6 +17500,66 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/cafe-de-paris"
+  },
+  {
+    "id": "35237",
+    "name_ja": "カフェ・ブラックジャック",
+    "name_en": "Cafe Blackjack",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White curacao",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "アイスコーヒー",
+        "name_en": "Iced coffee",
+        "measure_ja": "100ml",
+        "measure_en": "100ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "スノースタイル",
+        "measure_en": "For snow-style rim"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "適量",
+        "measure_en": "As needed"
+      }
+    ],
+    "instructions_ja": "グラスの縁を軽く濡らして砂糖でスノースタイルに仕立てる。シェーカーに氷、アイスコーヒー、ブランデー、ホワイトキュラソーを入れてシェイクし、グラスへ注ぐ。キュラソーがブランデーの重さを軽くし、コーヒーのほろ苦さと砂糖の甘さがデザート感覚で楽しめる大人向けの一杯。",
+    "instructions_en": "Rim a glass with sugar for a snow-style look. Shake iced coffee, brandy and white curacao with ice, then strain into the glass. The curacao softens the brandy and pairs the coffee's bitterness with the sweet rim for a grown-up dessert drink.",
+    "iba": null,
+    "tags": [
+      "コーヒー",
+      "ブランデー",
+      "キュラソー"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/cafe-blackjack/",
+      "https://ameblo.jp/marmorkuchen/entry-10738877427.html",
+      "https://gohobi.co/liquor/1026/"
+    ]
   },
   {
     "id": "34193",
@@ -25036,6 +25701,100 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　コアントロー・エッグノッグ.html"
   },
   {
+    "id": "35232",
+    "name_ja": "コアントロー・オレンジ",
+    "name_en": "Cointreau Orange",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "適量",
+        "measure_en": "As needed"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにコアントローを注ぎ、オレンジジュースで満たして軽く混ぜる。コアントローの華やかなオレンジの香りがジュースの甘酸っぱさと重なり合う、簡単で爽やかな一杯。",
+    "instructions_en": "Pour Cointreau into an ice-filled tumbler, top up with orange juice and stir gently. The bright orange aroma of Cointreau layers over the juice for an easy, refreshing drink.",
+    "iba": null,
+    "tags": [
+      "コアントロー",
+      "オレンジ"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/cointreau-orange/",
+      "https://delishkitchen.tv/articles/1869",
+      "https://tanoshiiosake.jp/4334"
+    ]
+  },
+  {
+    "id": "35233",
+    "name_ja": "コアントロー・ソーダ",
+    "name_en": "Cointreau Soda",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "適量",
+        "measure_en": "As needed"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにコアントローを注ぎ、炭酸水で満たして軽くステアする。コアントローの濃厚なオレンジ香が炭酸の刺激でほどよく開き、軽やかに飲める食前酒向きのロングドリンク。",
+    "instructions_en": "Pour Cointreau into an ice-filled tumbler, top up with soda water and stir gently. The rich orange aroma of Cointreau opens up with the bubbles for a light, aperitif-style long drink.",
+    "iba": null,
+    "tags": [
+      "コアントロー",
+      "炭酸"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.cointreau.com/us/en/cocktails/cointreau-fizz",
+      "https://www.finedininglovers.com/explore/articles/10-best-cointreau-cocktail-recipes",
+      "https://cocktail.inokazu.com/cointreau/"
+    ]
+  },
+  {
     "id": "34294",
     "name_ja": "コアントロー・トニック",
     "name_en": "Cointreau and Tonic",
@@ -25074,6 +25833,176 @@
     "style": "ロング",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　コアントロー・トニック.html"
+  },
+  {
+    "id": "35234",
+    "name_ja": "コアントロー・フィズ",
+    "name_en": "Cointreau Fizz",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "50ml",
+        "measure_en": "50ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "60ml",
+        "measure_en": "60ml"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "適量",
+        "measure_en": "As needed"
+      }
+    ],
+    "instructions_ja": "氷を満たしたグラスにコアントローとライムジュースを注ぎ、炭酸水で満たして軽くステアする。1950年代パリでジャン・リュポイユが考案した定番フィズで、コアントローの華やかな香りとライムの酸味が炭酸でキレよくまとまる。",
+    "instructions_en": "Pour Cointreau and lime juice into an ice-filled glass, top up with soda water and stir gently. Created by Jean Lupoiu in 1950s Paris, this classic fizz balances Cointreau's orange notes with crisp lime and soda.",
+    "iba": null,
+    "tags": [
+      "コアントロー",
+      "ライム",
+      "炭酸"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.cointreau.com/us/en/cocktails/cointreau-fizz",
+      "https://lucylovesuk.com/drinks/cointreau-fizz/",
+      "https://www.cocktailwave.com/recipes/cointreau-fizz"
+    ]
+  },
+  {
+    "id": "35235",
+    "name_ja": "コアントロー・フィズ・オレンジ",
+    "name_en": "Cointreau Fizz Orange",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "50ml",
+        "measure_en": "50ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "適量",
+        "measure_en": "As needed"
+      }
+    ],
+    "instructions_ja": "氷を満たしたグラスにコアントロー、ライムジュース、オレンジジュースを注ぎ、炭酸水で満たして軽くステア。オレンジスライスを飾る。通常のコアントロー・フィズにオレンジジュースを加えたフルーティーなアレンジで、甘さと爽快感のバランスが取りやすい。",
+    "instructions_en": "Add Cointreau, lime juice and orange juice to a glass filled with ice, top up with soda water and stir gently. Garnish with an orange slice. A fruity twist on the classic Cointreau Fizz with a softer, juicier finish.",
+    "iba": null,
+    "tags": [
+      "コアントロー",
+      "オレンジ",
+      "ライム",
+      "炭酸"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.cointreau.com/int/en/cocktails/cointreau-fizz",
+      "https://tendercrate.com/en/recipes/cointreau-fizz/",
+      "https://thehomecocktail.club/2022/03/16/cointreau-fizz/"
+    ]
+  },
+  {
+    "id": "35242",
+    "name_ja": "コアントロー・フィズ・グレープフルーツ",
+    "name_en": "Cointreau Fizz Grapefruit",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "50ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      },
+      {
+        "name_ja": "グレープフルーツ",
+        "name_en": "Grapefruit slice",
+        "measure_ja": "飾り用",
+        "measure_en": "Garnish"
+      }
+    ],
+    "instructions_ja": "氷を入れたグラスにコアントロー、ライムジュース、グレープフルーツジュースを注ぎ軽くステア。炭酸水で満たし、グレープフルーツスライスを飾る。",
+    "instructions_en": "Pour Cointreau, lime juice and grapefruit juice over ice in a glass and stir briefly. Top with soda water and garnish with a grapefruit slice.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.cointreau.com/int/en/cocktails/cointreau-grapefruit-fizz",
+      "https://www.ateliersetsaveurs.com/en/the-recipes/cocktails/detail/1735/cointreau-fizz-gold"
+    ]
   },
   {
     "id": "34295",
@@ -26651,6 +27580,50 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/cossack"
+  },
+  {
+    "id": "35273",
+    "name_ja": "コスタ・デル・ソル",
+    "name_en": "Costa del Sol",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      }
+    ],
+    "instructions_ja": "シェーカーに材料と氷を入れ、よく振って冷やしたカクテルグラスに注ぐ。スペイン南部の太陽海岸にちなむ名前で、ジンにアプリコットとオレンジの甘い香りが重なる華やかな味わい。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass. Named after Spain's sunny southern coast, gin meets apricot and orange for a vibrant aroma.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.cocktail.uk.com/cocktails/costa-del-sol",
+      "https://www.food.com/recipe/costa-del-sol-372780",
+      "https://www.cocktailbuilder.com/recipe/costa-del-sol"
+    ]
   },
   {
     "id": "34314",
@@ -29509,6 +30482,61 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/santiago"
+  },
+  {
+    "id": "35274",
+    "name_ja": "サンバ",
+    "name_en": "Samba",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "name_en": "Light Rum",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple Sec",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "60ml",
+        "measure_en": "60ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple Juice",
+        "measure_ja": "60ml",
+        "measure_en": "60ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine Syrup",
+        "measure_ja": "1dash",
+        "measure_en": "1dash"
+      }
+    ],
+    "instructions_ja": "シェーカーに材料と氷を入れて振り、氷を満たしたハイボールグラスに注ぐ。ブラジルの陽気な踊りを思わせるトロピカルな一杯で、ラムとフルーツジュースが軽やかに弾む。",
+    "instructions_en": "Shake all ingredients with ice and pour into an ice-filled highball glass. A tropical drink evoking Brazil's lively dance, rum and fruit juices play together lightly.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.cocktail.uk.com/cocktails/samba",
+      "https://www.drinknation.com/drink/samba"
+    ]
   },
   {
     "id": "15933",
@@ -39241,6 +40269,56 @@
     "is_public": false
   },
   {
+    "id": "35276",
+    "name_ja": "スペンサー",
+    "name_en": "Spencer",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "40ml",
+        "measure_en": "40ml"
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "1dash",
+        "measure_en": "1dash"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura Bitters",
+        "measure_ja": "1dash",
+        "measure_en": "1dash"
+      }
+    ],
+    "instructions_ja": "材料をシェーカーに入れて氷とともによく振り、よく冷えた小ぶりのカクテルグラスに注ぐ。お好みでチェリーを沈め、オレンジピールを絞り掛ける。サヴォイ・カクテルブック由来の小さく強い一杯。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled small cocktail glass. Optionally garnish with a cherry and squeeze an orange peel over the top. A small, strong gem from The Savoy Cocktail Book.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/1852/spencer-cocktail",
+      "https://propercocktails.wordpress.com/2014/05/14/the-spencer-cocktail/",
+      "https://www.absolutdrinks.com/en/drinks/spencer/"
+    ]
+  },
+  {
     "id": "17141",
     "name_ja": "スマット",
     "name_en": "Smut",
@@ -45406,6 +46484,88 @@
     "style": "ショート",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　テイク・ファイブ.html"
+  },
+  {
+    "id": "35283",
+    "name_ja": "ディサローノ・スプラッシュ",
+    "name_en": "Disaronno Splash",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "Old Fashioned Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ディサローノ アマレット",
+        "name_en": "Disaronno Amaretto",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "120ml",
+        "measure_en": "120 ml"
+      }
+    ],
+    "instructions_ja": "氷を詰めたオールドファッションドグラスにディサローノとオレンジジュースを注ぎ、軽くステアする。オレンジのくし切りを添える。",
+    "instructions_en": "Build Disaronno and orange juice over cubed ice in an old fashioned glass and stir gently. Garnish with an orange wedge.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://thedrinkmixer.club/drink/DisaronnoSplash",
+      "https://www.saq.com/en/disaronno-splash-ec",
+      "http://www.inthespirit.co.uk/cocktails/view_cocktail.php?id=100"
+    ]
+  },
+  {
+    "id": "35286",
+    "name_ja": "ディサローノ・ミスト",
+    "name_en": "Disaronno Mist",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "Old Fashioned Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ディサローノ アマレット",
+        "name_en": "Disaronno Amaretto",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "クラッシュドアイス",
+        "name_en": "Crushed Ice",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      },
+      {
+        "name_ja": "レモンウェッジ",
+        "name_en": "Lemon Wedge",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "オールドファッションドグラスにクラッシュドアイスをたっぷり詰め、ディサローノを注ぐ。レモンウェッジを添える。グラスの側面に霧（ミスト）が立ち上り、冷えたアマレットの素材感をじっくり味わえる。",
+    "instructions_en": "Pack an old fashioned glass with crushed ice, pour Disaronno over and add a lemon wedge. The frosted glass mists up, letting you sip the chilled amaretto in its purest form.",
+    "iba": null,
+    "tags": [],
+    "style": "ロック",
+    "is_public": false,
+    "_sources": [
+      "https://www.food.com/recipe/amaretto-mist-252151",
+      "https://www.weblio.jp/content/%E3%83%87%E3%82%A3%E3%82%B5%E3%83%AD%E3%83%BC%E3%83%8E%E3%83%9F%E3%82%B9%E3%83%88",
+      "https://hakaru-kk.com/disaronno-mist/"
+    ]
   },
   {
     "id": "34522",
@@ -52032,6 +53192,55 @@
     "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%90%E3%83%B3%E3%82%AC%E3%83%BC"
   },
   {
+    "id": "35248",
+    "name_ja": "ハーベスト・ムーン",
+    "name_en": "Harvest Moon",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "Orange curaçao",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "パッションフルーツリキュール",
+        "name_en": "Passion fruit liqueur",
+        "measure_ja": "10ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "10ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "10ml",
+        "measure_en": "10 ml"
+      }
+    ],
+    "instructions_ja": "材料すべてをシェーカーに入れて氷とともによくシェイクし、冷やしたカクテルグラスに注ぐ。お好みで金粉を散らす。",
+    "instructions_en": "Shake all ingredients well with ice and strain into a chilled cocktail glass. Optionally garnish with gold leaf.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "http://www.quon.info/cocktail/harvest-moon/",
+      "https://ameblo.jp/blanco-tequila/entry-12850964525.html"
+    ]
+  },
+  {
     "id": "32407",
     "name_ja": "ハーボ・ジ・ガーロ",
     "name_en": "Rabo de Galo",
@@ -55166,6 +56375,74 @@
     "is_public": false
   },
   {
+    "id": "35275",
+    "name_ja": "バミューダ・ブーケ",
+    "name_en": "Bermuda Bouquet",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple Sec",
+        "measure_ja": "1tsp",
+        "measure_en": "1tsp"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine Syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1tsp"
+      },
+      {
+        "name_ja": "粉砂糖",
+        "name_en": "Powdered Sugar",
+        "measure_ja": "1tsp",
+        "measure_en": "1tsp"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      }
+    ],
+    "instructions_ja": "シェーカーに氷と全ての材料を入れて十分にシェイクし、氷を満たしたハイボールグラスに注ぐ。お好みでオレンジピールを添える。バミューダの花束のような華やかさを持つ、多彩な香りのトロピカルカクテル。",
+    "instructions_en": "Shake all ingredients with ice and strain into an ice-filled highball glass. Garnish with an orange twist if desired. A bouquet-like tropical cocktail rich in aroma.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.cocktailsdrinks.com/bermuda-bouquet-cocktail-recipe/",
+      "https://completecocktails.com/Drinks/BermudaBouquet.aspx",
+      "https://www.cocktail.uk.com/cocktails/bermuda-bouquet"
+    ]
+  },
+  {
     "id": "34643",
     "name_ja": "バミューダ・ローズ",
     "name_en": "Bermuda Rose",
@@ -55204,6 +56481,56 @@
     "style": "ショート",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　バミューダ・ローズ.html"
+  },
+  {
+    "id": "35272",
+    "name_ja": "バミューディアン",
+    "name_en": "Bermudian",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "ピーチブランデー",
+        "name_en": "Peach Brandy",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine Syrup",
+        "measure_ja": "2dash",
+        "measure_en": "2dash"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "2dash",
+        "measure_en": "2dash"
+      }
+    ],
+    "instructions_ja": "シェーカーに材料と氷を入れ、しっかりとシェイクして冷やしたカクテルグラスに注ぐ。バミューダ諸島の名を冠する一杯で、ピーチとグレナデンの甘い香りがジンのキレを和らげる。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass. Named after the Bermuda islands, peach and grenadine soften the gin's edge.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/542/bermuda-cocktail",
+      "https://www.gotobermuda.com/plan/inspiration/article/bermudas-classic-cocktails",
+      "https://www.absolutdrinks.com/en/drinks/bermuda/"
+    ]
   },
   {
     "id": "34644",
@@ -57194,6 +58521,314 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Bee%27s_knees"
   },
   {
+    "id": "35208",
+    "name_ja": "ピーチ・アイスティー",
+    "name_en": "Peach Iced Tea",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アイスティー",
+        "name_en": "Iced tea",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      },
+      {
+        "name_ja": "ライムスライス",
+        "name_en": "Lime slice",
+        "measure_ja": "1枚",
+        "measure_en": "1 slice"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールを注ぎ、よく冷えた無糖アイスティーで満たして軽くステアする。お好みでライムを添える。桃の香りが紅茶の渋みに溶ける飲みやすい一杯。",
+    "instructions_en": "Pour peach liqueur over ice in a tumbler, top up with chilled unsweetened iced tea and stir gently. Garnish with a lime slice if desired. The peach aroma melts into the tannins of the tea.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/enjoy/liquorworld/brand/bols/search/recipe9.html",
+      "https://cocktail.trc-vlackhistory.net/detail/cocktail/6721",
+      "https://cookpad.com/jp/recipes/23920330"
+    ]
+  },
+  {
+    "id": "35221",
+    "name_ja": "ピーチ・アップル",
+    "name_en": "Peach Apple",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach Liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "アップルジュース",
+        "name_en": "Apple Juice",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "1tsp",
+        "measure_en": "1tsp"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールとレモンジュースを注ぎ、アップルジュースで満たして軽くステアする。",
+    "instructions_en": "Pour peach liqueur and lemon juice into a tumbler filled with ice. Top with apple juice and stir gently.",
+    "iba": null,
+    "tags": [
+      "フルーティ",
+      "甘口"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.game-and-cocktail.com/cocktail-recipe/cocktail-recipe-277",
+      "https://hakaru-kk.com/peach-apple/"
+    ]
+  },
+  {
+    "id": "35223",
+    "name_ja": "ピーチ・カルピスソーダ",
+    "name_en": "Peach Calpis Soda",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach Liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "カルピス",
+        "name_en": "Calpis",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールとカルピスを注ぎ、炭酸水で満たして軽くステアする。",
+    "instructions_en": "Pour peach liqueur and Calpis into a tumbler filled with ice, top with soda water, and stir gently.",
+    "iba": null,
+    "tags": [
+      "フルーティ",
+      "甘口",
+      "発泡"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://kotori-family.com/peach-calpis-soda/",
+      "https://sanchoku-prime.com/articles/grsp-peach-cocktail",
+      "https://pickys-life.jp/peach-liqueur/"
+    ]
+  },
+  {
+    "id": "35216",
+    "name_ja": "ピーチ・グリーンティー",
+    "name_en": "Peach Green Tea",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "緑茶",
+        "name_en": "Green tea",
+        "measure_ja": "90ml",
+        "measure_en": "90ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールを注ぎ、よく冷やした緑茶で満たして軽くステアする。",
+    "instructions_en": "Pour peach liqueur into a tumbler filled with ice, top with chilled green tea and stir lightly.",
+    "iba": null,
+    "tags": [
+      "ピーチ",
+      "緑茶",
+      "和風"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "http://www.japanese-greentea.net/arrange/liquor_028.html",
+      "https://pochapicha.exblog.jp/14484916/"
+    ]
+  },
+  {
+    "id": "35215",
+    "name_ja": "ピーチ・グレープフルーツ",
+    "name_en": "Peach Grapefruit",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "90ml",
+        "measure_en": "90ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールを注ぎ、グレープフルーツジュースで満たして軽くステアする。",
+    "instructions_en": "Pour peach liqueur into a tumbler filled with ice, top with grapefruit juice and stir lightly.",
+    "iba": null,
+    "tags": [
+      "ピーチ",
+      "グレープフルーツ",
+      "ロング"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.game-and-cocktail.com/cocktail-recipe/cocktail-recipe-1059",
+      "https://recipe.rakuten.co.jp/recipe/1670003296/",
+      "https://vivre-media.jp/13785"
+    ]
+  },
+  {
+    "id": "35225",
+    "name_ja": "ピーチ・コーラ",
+    "name_en": "Peach Cola",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach Liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "コーラ",
+        "name_en": "Cola",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "1切れ",
+        "measure_en": "1 wedge"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールを注ぎ、コーラで満たして軽くステアする。カットレモンを飾る。",
+    "instructions_en": "Pour peach liqueur into a tumbler filled with ice, top with cola, and stir gently. Garnish with a lemon wedge.",
+    "iba": null,
+    "tags": [
+      "フルーティ",
+      "発泡"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010400301",
+      "https://recipe.yamasa.com/recipes/5598",
+      "https://ameblo.jp/blanco-tequila/entry-12898616016.html"
+    ]
+  },
+  {
+    "id": "35224",
+    "name_ja": "ピーチ・ジンジャー",
+    "name_en": "Peach Ginger",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach Liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ジンジャーエール",
+        "name_en": "Ginger Ale",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールを注ぎ、ジンジャーエールで満たして軽くステアする。お好みでカットレモンを添える。",
+    "instructions_en": "Pour peach liqueur into a tumbler filled with ice, top with ginger ale, and stir gently. Garnish with a lemon wedge if desired.",
+    "iba": null,
+    "tags": [
+      "フルーティ",
+      "発泡"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.game-and-cocktail.com/cocktail-recipe/cocktail-recipe-303",
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010400001"
+    ]
+  },
+  {
     "id": "34670",
     "name_ja": "ピーチ・ソーダ",
     "name_en": "Peach and Soda",
@@ -57232,6 +58867,94 @@
     "style": "ロング",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ピーチ・ソーダ.html"
+  },
+  {
+    "id": "35226",
+    "name_ja": "ピーチ・トニック",
+    "name_en": "Peach Tonic",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach Liqueur",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "トニックウォーター",
+        "name_en": "Tonic Water",
+        "measure_ja": "適量",
+        "measure_en": "Fill"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "1スライス",
+        "measure_en": "1 slice"
+      }
+    ],
+    "instructions_ja": "氷を入れたコリンズグラスにピーチリキュールを注ぎ、トニックウォーターで満たして軽くステアする。レモンスライスを飾る。",
+    "instructions_en": "Pour peach liqueur into a Collins glass filled with ice, top with tonic water, and stir gently. Garnish with a lemon slice.",
+    "iba": null,
+    "tags": [
+      "フルーティ",
+      "発泡"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/peach-tree-cooler/",
+      "https://ameblo.jp/bar-saigetsuan/entry-12675450511.html",
+      "https://www.green-alaska.com/entry/2018/10/28/044902"
+    ]
+  },
+  {
+    "id": "35212",
+    "name_ja": "ピーチ・パイン",
+    "name_en": "Peach Pine",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "90ml",
+        "measure_en": "90ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールを注ぎ、パイナップルジュースで満たして軽くステアする。",
+    "instructions_en": "Pour peach liqueur into a tumbler filled with ice, top with pineapple juice and stir lightly.",
+    "iba": null,
+    "tags": [
+      "ピーチ",
+      "パイナップル",
+      "ロング"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.thebar.com/en-gb/recipes/peach-schnapps-pineapple-juice",
+      "https://www.malibudrinks.com/en/drinks/malibu-peach-and-pineapple-juice/"
+    ]
   },
   {
     "id": "34671",
@@ -57532,6 +59255,50 @@
     "style": "ロング",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ピーチ・レディ.html"
+  },
+  {
+    "id": "35206",
+    "name_ja": "ピーチ＆カシス・トマト",
+    "name_en": "Peach & Cassis Tomato",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de Cassis",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "トマトジュース",
+        "name_en": "Tomato juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールとクレーム・ド・カシスを注ぎ、冷えたトマトジュースで満たして軽くステアする。桃とカシスの甘い香りがトマトのまろやかさと重なる飲みやすい一杯。",
+    "instructions_en": "Pour peach liqueur and Crème de Cassis over ice in a tumbler, top up with chilled tomato juice and stir gently. Sweet aromas of peach and cassis pair with the rounded body of tomato juice.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010400016",
+      "https://www.sapporobeer.jp/hanjo/drink-pickup/pdf/lisette.pdf",
+      "https://yuubartender.com/tomatococktail/3391/"
+    ]
   },
   {
     "id": "34678",
@@ -59851,6 +61618,50 @@
     "_source": "https://kakuteru.jp/recipe/ping-pong"
   },
   {
+    "id": "35277",
+    "name_ja": "ファーザー・シャーマン",
+    "name_en": "Father Sherman",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "2tsp",
+        "measure_en": "2tsp"
+      }
+    ],
+    "instructions_ja": "シェーカーに材料と氷を入れてしっかり振り、冷やしたカクテルグラスに注ぐ。コニャックの深いコクにアプリコットの甘い香りとオレンジの果実味が重なる、まろやかな仕上がり。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass. Cognac's depth meets apricot's sweet aroma and a touch of orange for a mellow finish.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://completecocktails.com/Drinks/FatherSherman.aspx",
+      "https://www.cocktailbuilder.com/recipe/father-sherman",
+      "https://www.drinknation.com/drink/father-sherman"
+    ]
+  },
+  {
     "id": "30401",
     "name_ja": "ファーネル",
     "name_en": "Farnell",
@@ -60077,6 +61888,56 @@
     "style": "ショート",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ファイナル・アプローチ.html"
+  },
+  {
+    "id": "35241",
+    "name_ja": "ファイン・アンド・ダンディー",
+    "name_en": "Fine and Dandy",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "instructions_ja": "材料すべてをシェーカーに入れて氷とともによくシェイクし、冷やしたカクテルグラスに注ぐ。",
+    "instructions_en": "Shake all ingredients well with ice and strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/746/fine-and-dandy",
+      "https://www.cointreau.com/int/en/cocktails/fine-dandy",
+      "https://saucydressings.com/blog/fine-dandy-cocktail/amp/"
+    ]
   },
   {
     "id": "15743",
@@ -60409,6 +62270,60 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/fifth-avenue"
+  },
+  {
+    "id": "35213",
+    "name_ja": "プーケットスリング",
+    "name_en": "Phuket Sling",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue curaçao",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "トニックウォーター",
+        "name_en": "Tonic water",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "ピーチリキュール、ブルーキュラソー、グレープフルーツジュースをシェークし、氷を詰めたコリンズグラスに注ぐ。冷えたトニックウォーターで満たして軽くステアする。",
+    "instructions_en": "Shake peach liqueur, blue curaçao and grapefruit juice with ice. Strain into an ice-filled Collins glass and top with chilled tonic water. Stir gently.",
+    "iba": null,
+    "tags": [
+      "トロピカル",
+      "ピーチ",
+      "ブルー"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/phuket-sling/",
+      "https://mystyle.bar/phuket-sling/",
+      "https://barmiyako.tokyo/2023/07/16/%E3%80%8C%E3%83%97%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0%E3%80%8D/"
+    ]
   },
   {
     "id": "33188",
@@ -61388,6 +63303,50 @@
       "license": "CC BY 2.0",
       "source_url": "https://www.flickr.com/photos/45457437@N00/40824741143"
     }
+  },
+  {
+    "id": "35284",
+    "name_ja": "ブラウン・スクァーレル",
+    "name_en": "Brown Squirrel",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ブラウンカカオリキュール",
+        "name_en": "Dark Crème de Cacao",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh Cream",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      }
+    ],
+    "instructions_ja": "アマレット、ブラウンカカオリキュール、生クリームをシェーカーで氷とよくシェイクし、冷やしたカクテルグラスに注ぐ。ピンク・スクィレルのカカオを茶色に振った姉妹レシピで、デザートのような甘さ。",
+    "instructions_en": "Shake amaretto, dark crème de cacao and fresh cream hard with ice and strain into a chilled cocktail glass. A darker sibling of the Pink Squirrel with a rich, dessert-like sweetness.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.acouplecooks.com/pink-squirrel/",
+      "https://www.shakedrinkrepeat.com/pink-squirrel/",
+      "https://homecookedharvest.com/pink-squirrel-drink/"
+    ]
   },
   {
     "id": "30205",
@@ -65597,6 +67556,50 @@
     "is_public": false
   },
   {
+    "id": "35245",
+    "name_ja": "ブルーテールフライ",
+    "name_en": "Blue Tail Fly",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトカカオリキュール",
+        "name_en": "White crème de cacao",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue curaçao",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "25ml",
+        "measure_en": "25 ml"
+      }
+    ],
+    "instructions_ja": "材料すべてをシェーカーに入れて強めにシェイクし、冷やしたカクテルグラスに注ぐ。",
+    "instructions_en": "Shake all ingredients vigorously with ice and strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "http://ycos2.sakura.ne.jp/Cocktail/cgi-bin/cdb_form.cgi?Liqueur%2FBlueTailFlyCocktail=",
+      "http://kuma-bar.na.coocan.jp/cocktail/b-t-fly.htm",
+      "http://www.siregenuine.com/recipe/hu/hu0324.htm"
+    ]
+  },
+  {
     "id": "11120",
     "name_ja": "ブルーバード",
     "name_en": "Bluebird",
@@ -66296,6 +68299,54 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/brain-hemmorhage"
+  },
+  {
+    "id": "35214",
+    "name_ja": "ブレイン・ヘモレージ",
+    "name_en": "Brain Hemorrhage",
+    "category_ja": "ショット",
+    "category_en": "Shot",
+    "glass_ja": "リキュールグラス",
+    "glass_en": "Liqueur glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "ベイリーズ",
+        "name_en": "Baileys Irish Cream",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "よく冷やしたピーチリキュールをリキュールグラスに注ぐ。バースプーンの背を使ってベイリーズを静かに浮かべ、最後にグレナデンシロップを上から数滴落とす。",
+    "instructions_en": "Pour chilled peach liqueur into a liqueur glass. Float Baileys carefully over the back of a bar spoon, then drop grenadine on top.",
+    "iba": null,
+    "tags": [
+      "ショット",
+      "ノベルティ",
+      "ハロウィン"
+    ],
+    "style": "ショット",
+    "is_public": false,
+    "_sources": [
+      "https://nico-bar.net/nicobar/cocktail_brain-hemorrhage.php",
+      "https://cocktail-f.com/cocktails/177",
+      "https://blog-alchol-life.com/cocktail-brainhemotage/"
+    ]
   },
   {
     "id": "17120",
@@ -67450,6 +69501,59 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "35211",
+    "name_ja": "フローズン・ウーウー",
+    "name_en": "Frozen WooWoo",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry juice",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "クラッシュドアイス",
+        "name_en": "Crushed ice",
+        "measure_ja": "1カップ",
+        "measure_en": "1 cup"
+      }
+    ],
+    "instructions_ja": "ブレンダーに全ての材料とクラッシュドアイスを入れ、滑らかになるまで撹拌する。冷やしておいたカクテルグラスに注ぐ。",
+    "instructions_en": "Combine all ingredients with crushed ice in a blender and blend until smooth. Pour into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [
+      "フローズン",
+      "ピーチ",
+      "クランベリー"
+    ],
+    "style": "フローズン",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/woowoo/",
+      "https://cocktail-cocktail.net/sakeninki/post-1029/"
+    ]
   },
   {
     "id": "34787",
@@ -69352,6 +71456,61 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/bay-breeze"
+  },
+  {
+    "id": "35207",
+    "name_ja": "ベイサイド・ピーチ",
+    "name_en": "Bayside Peach",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "10ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry juice",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "シェーカーにピーチリキュール、ブランデー、グレープフルーツジュース、クランベリージュース、氷を入れてシェークし、カクテルグラスに注ぐ。マラスキーノチェリーをピンに刺して飾る。",
+    "instructions_en": "Shake peach liqueur, brandy, grapefruit juice, cranberry juice and ice in a shaker, then strain into a cocktail glass. Garnish with a skewered maraschino cherry.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/bayside-peach/",
+      "https://www.youtube.com/watch?v=MO0G4O4uELk"
+    ]
   },
   {
     "id": "30014",
@@ -74213,6 +76372,49 @@
     "_source": "https://kakuteru.jp/recipe/white-spider"
   },
   {
+    "id": "35291",
+    "name_ja": "ホワイト・スワン",
+    "name_en": "White Swan",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "20ml",
+        "measure_en": "20ml"
+      },
+      {
+        "name_ja": "牛乳",
+        "name_en": "Milk",
+        "measure_ja": "40ml",
+        "measure_en": "40ml"
+      }
+    ],
+    "instructions_ja": "材料をシェーカーに入れ、十分に冷えるまでシェークする。冷やしておいたカクテルグラスに注ぐ。アマレットのアーモンド香とミルクの組み合わせで杏仁豆腐を思わせる甘いデザートカクテル。",
+    "instructions_en": "Shake all ingredients with ice until well chilled. Strain into a chilled cocktail glass. A sweet dessert cocktail with almond aroma reminiscent of almond tofu.",
+    "iba": null,
+    "tags": [
+      "デザート",
+      "甘口",
+      "ミルク"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/white-swan/",
+      "https://jazzandcocktail.com/white_swan/",
+      "http://www.cocktailtype.com/recipe/recipe_0448.html",
+      "https://cocktail-labo.net/liqueur-base-cocktail/white-swan-recipe/"
+    ]
+  },
+  {
     "id": "34878",
     "name_ja": "ホワイト・チョコ・ミルク",
     "name_en": "",
@@ -76924,6 +79126,56 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/marilyn-monroe"
+  },
+  {
+    "id": "35244",
+    "name_ja": "マリン・スノー",
+    "name_en": "Marine Snow",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ピルスナーグラス",
+    "glass_en": "Pilsner glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue curaçao",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "カルピス",
+        "name_en": "Calpis",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "60ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ビール",
+        "name_en": "Beer",
+        "measure_ja": "100ml",
+        "measure_en": "100 ml"
+      }
+    ],
+    "instructions_ja": "グラスにブルーキュラソーとカルピスを注ぎ軽くステア。冷えた炭酸水とビールで満たし、静かにステアする。",
+    "instructions_en": "Pour blue curaçao and Calpis into a glass and stir lightly. Top up with chilled soda water and beer, then gently stir.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010400084",
+      "https://hakaru-kk.com/marine-snow/",
+      "https://cocktail-labo.net/beer-base-cocktail/marine-snow-recipe/"
+    ]
   },
   {
     "id": "34915",
@@ -81913,6 +84165,164 @@
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ヨーグリート・オレンジ.html"
   },
   {
+    "id": "35262",
+    "name_ja": "ヨーグリート・クランベリー",
+    "name_en": "Yogurito Cranberry",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ヨーグリート",
+        "name_en": "Yogurito",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry Juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにヨーグリートを注ぎ、冷やしたクランベリージュースで満たして軽くステアする。",
+    "instructions_en": "Pour Yogurito into an ice-filled tumbler, top with chilled cranberry juice, and stir briefly.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.recipe-blog.jp/profile/36892/blog/11110452",
+      "http://www.cocktailtype.com/cgi-bin/call.cgi?m=recipe_material&material=170",
+      "https://tanoshiiosake.jp/4504"
+    ]
+  },
+  {
+    "id": "35255",
+    "name_ja": "ヨーグリート・グリーンティー",
+    "name_en": "Yogurito Green Tea",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ヨーグリート",
+        "name_en": "Yogurito",
+        "measure_ja": "40ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "グリーンティーリキュール",
+        "name_en": "Green tea liqueur",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "牛乳",
+        "name_en": "Milk",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      }
+    ],
+    "instructions_ja": "材料をシェーカーに入れ、氷とともによくシェイクしてカクテルグラスに注ぐ。抹茶のほろ苦さとヨーグルトのコクが重なる和テイストの一杯。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass. Matcha bitterness layered with creamy yogurt for a Japanese-style short cocktail.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "http://www.japanese-greentea.net/arrange/liquor_036.html",
+      "https://cocktail-labo.net/knowledge/green-tea-cocktail/",
+      "https://tanoshiiosake.jp/4504"
+    ]
+  },
+  {
+    "id": "35252",
+    "name_ja": "ヨーグリート・グレープフルーツ",
+    "name_en": "Yogurito Grapefruit",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ヨーグリート",
+        "name_en": "Yogurito",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにヨーグリートを注ぎ、冷えたグレープフルーツジュースで満たして軽くステア。ほろ苦さと乳のコクが重なる、すっきりした口当たり。",
+    "instructions_en": "Pour Yogurito into an ice-filled tumbler, top up with chilled grapefruit juice and stir lightly. The citrus bitterness and creamy yogurt notes balance into a crisp long drink.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://cocktail-labo.net/knowledge/yogurt-cocktail/",
+      "https://tanoshiiosake.jp/4504",
+      "http://www.cocktailtype.com/cgi-bin/call.cgi?m=recipe_material&material=170"
+    ]
+  },
+  {
+    "id": "35251",
+    "name_ja": "ヨーグリート・ジンジャー",
+    "name_en": "Yogurito Ginger",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ヨーグリート",
+        "name_en": "Yogurito",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ジンジャーエール",
+        "name_en": "Ginger ale",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにヨーグリートを注ぎ、冷えたジンジャーエールで満たして軽くステアする。ヨーグルトのやさしい酸味と生姜の香りが調和する飲みやすい一杯。",
+    "instructions_en": "Pour Yogurito into an ice-filled highball glass, top up with chilled ginger ale and stir gently. A mild, refreshing long drink balancing yogurt tang and ginger spice.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://cocktailrecipe.suntory.co.jp/wnb/cocktail/recipe/yogurito_ginger/",
+      "https://nico-bar.net/nicobar/cocktail_yoguritoginger.php",
+      "http://www.cocktailtype.com/cgi-bin/call.cgi?m=recipe_material&material=170"
+    ]
+  },
+  {
     "id": "34980",
     "name_ja": "ヨーグリート・ストロベリー・ソーダ",
     "name_en": "Yogurito Strawberry Soda",
@@ -81979,6 +84389,164 @@
     "style": "",
     "is_public": false,
     "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ヨーグリート・ストロベリー・ミルク.html"
+  },
+  {
+    "id": "35250",
+    "name_ja": "ヨーグリート・ソーダ",
+    "name_en": "Yogurito Soda",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ヨーグリート",
+        "name_en": "Yogurito",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "60ml",
+        "measure_en": "60 ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにヨーグリートを注ぎ、冷やした炭酸水で満たしてから軽くステアする。",
+    "instructions_en": "Pour Yogurito into a tumbler with ice, top with chilled soda water and stir gently.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://cocktailrecipe.suntory.co.jp/wnb/cocktail/recipe/yogurito_soda/",
+      "http://www.cocktailtype.com/recipe/recipe_0397.html",
+      "https://nico-bar.net/nicobar/cocktail_yoguritoginger.php"
+    ]
+  },
+  {
+    "id": "35261",
+    "name_ja": "ヨーグリート・トマト",
+    "name_en": "Yogurito Tomato",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ヨーグリート",
+        "name_en": "Yogurito",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "トマトジュース",
+        "name_en": "Tomato Juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにヨーグリートを注ぎ、上から冷えたトマトジュースを静かに満たす。マドラーを添えて提供する。",
+    "instructions_en": "Pour Yogurito into an ice-filled tumbler, then gently top with chilled tomato juice. Serve with a stirrer.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010401250",
+      "https://tanoshiiosake.jp/4504",
+      "http://www.cocktailtype.com/cgi-bin/call.cgi?m=recipe_material&material=170"
+    ]
+  },
+  {
+    "id": "35253",
+    "name_ja": "ヨーグリート・パイン",
+    "name_en": "Yogurito Pineapple",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ヨーグリート",
+        "name_en": "Yogurito",
+        "measure_ja": "30ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにヨーグリートを注ぎ、冷えたパイナップルジュースで満たして軽くステア。トロピカルな甘さとヨーグルトのまろやかさが融合する。",
+    "instructions_en": "Pour Yogurito into an ice-filled tumbler, top up with chilled pineapple juice and stir lightly. Tropical sweetness meets a creamy yogurt finish.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://cocktailrecipe.suntory.co.jp/wnb/cocktail/recipe/yogurito_pineapple/",
+      "https://www.weblio.jp/content/%E3%83%A8%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%88%E3%83%91%E3%82%A4%E3%83%B3",
+      "https://www.game-and-cocktail.com/cocktail-recipe/cocktail-recipe-286"
+    ]
+  },
+  {
+    "id": "35263",
+    "name_ja": "ヨーグリート・マンゴー",
+    "name_en": "Yogurito Mango",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ヨーグリート",
+        "name_en": "Yogurito",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "マンゴヤン",
+        "name_en": "Mangoyan",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda Water",
+        "measure_ja": "60ml",
+        "measure_en": "60ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにヨーグリート、マンゴヤン、炭酸水を1:1:2の割合で注ぎ、軽くステアする。",
+    "instructions_en": "Pour Yogurito, Mangoyan and soda water in a 1:1:2 ratio into an ice-filled tumbler and stir briefly.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.asahibeer.co.jp/cocktailguide/recipe/index.psp.html?ID=1010401243",
+      "https://tanoshiiosake.jp/4504",
+      "http://www.cocktailtype.com/cgi-bin/call.cgi?m=recipe_material&material=170"
+    ]
   },
   {
     "id": "34981",
@@ -83056,6 +85624,50 @@
       "https://hakaru-kk.com/dita-tonic/",
       "https://cocktail-labo.net/knowledge/lychee-cocktail/",
       "https://mstenderblog.com/dita/"
+    ]
+  },
+  {
+    "id": "35205",
+    "name_ja": "ライト・オン・ディタ",
+    "name_en": "Light on Dita",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ディタ",
+        "name_en": "Dita (Lychee liqueur)",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de Cassis",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにクレーム・ド・カシスを注ぎ、続けてディタを加える。冷えたグレープフルーツジュースで満たし、軽くステアする。ライチとカシスの甘さをグレープフルーツの酸味がまとめる。",
+    "instructions_en": "Pour Crème de Cassis over ice in a tumbler, add Dita, then top up with chilled grapefruit juice and stir gently. The sweetness of lychee and cassis is rounded out by the tart grapefruit.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://hakaru-kk.com/light-on-dita/",
+      "http://www.cocktailtype.com/recipe/recipe_0683.html",
+      "https://loohcs.jp/articles/2170"
     ]
   },
   {
@@ -86728,6 +89340,50 @@
     "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B2%E3%82%A8%E3%83%91%E3%83%B3%E3%83%81"
   },
   {
+    "id": "35271",
+    "name_ja": "レゾリューション・マティーニ",
+    "name_en": "Resolution Martini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "1tsp",
+        "measure_en": "1tsp"
+      }
+    ],
+    "instructions_ja": "材料をシェーカーに入れ、氷とともによくシェイクする。冷やしたカクテルグラスに注ぐ。マティーニの名を冠するが、ベルモットの代わりにアプリコットブランデーを用いるため、フルーティで甘やかな味わいに仕上がる。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass. Despite the Martini name, apricot brandy replaces vermouth for a fruity, gently sweet finish.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "http://www.quon.info/cocktail/resolution-martini/",
+      "https://www.liveinstyle.com/cocktails/gin-cocktails/resolution-martini",
+      "https://ameblo.jp/bar-saigetsuan/entry-12781760165.html"
+    ]
+  },
+  {
     "id": "32508",
     "name_ja": "レッド・アイ",
     "name_en": "red eye",
@@ -86760,6 +89416,57 @@
     "style": "ビルド",
     "is_public": false,
     "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%82%A2%E3%82%A4"
+  },
+  {
+    "id": "35266",
+    "name_ja": "レッド・クラウド",
+    "name_en": "Red Cloud",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "15ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tbsp"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine Syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "全ての材料を氷とともにシェークし、冷やしたカクテルグラスに注ぐ。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "http://www.drinksmixer.com/drink6323.html",
+      "https://www.foodanddrinkrecipes.com/red-cloud/",
+      "https://www.cocktailbuilder.com/recipe/red-cloud",
+      "https://www.socialandcocktail.co.uk/cocktails/red-cloud/"
+    ]
   },
   {
     "id": "14087",
@@ -90508,6 +93215,52 @@
     "style": "",
     "is_public": false,
     "_source": "https://kakuteru.jp/recipe/chu-tini"
+  },
+  {
+    "id": "35231",
+    "name_ja": "桃太郎",
+    "name_en": "Momotaro",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "適量",
+        "measure_en": "As needed"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールを注ぎ、グレープフルーツジュースで満たして軽くステアする。桃の甘い香りとグレープフルーツのほろ苦さが調和した、桜色のロングカクテル。",
+    "instructions_en": "Pour peach liqueur into an ice-filled tumbler, top up with grapefruit juice and stir gently. A pale-pink long drink balancing peach sweetness with grapefruit bitterness.",
+    "iba": null,
+    "tags": [
+      "桃",
+      "グレープフルーツ"
+    ],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.pub-hub.com/index.php/en/menu/detail/HUB/965",
+      "https://quizlet.com/jp/834301675/hub%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%E3%83%AC%E3%82%B7%E3%83%94-flash-cards/"
+    ]
   },
   {
     "id": "32516",
