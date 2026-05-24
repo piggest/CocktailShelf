@@ -433,10 +433,29 @@ select:focus { border-color: var(--accent); }
 /* 材料一覧タブ */
 .ing-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 8px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 6px;
+}
+.ing-row {
+  display: flex; gap: 6px;
+  align-items: stretch;
+}
+.ing-own {
+  flex: 0 0 auto;
+  width: 36px;
+  background: var(--panel); color: var(--muted);
+  border: 1px solid var(--line); border-radius: 8px;
+  cursor: pointer; font-size: 14px; font-weight: 700;
+  display: inline-flex; align-items: center; justify-content: center;
+  transition: all .15s ease;
+}
+.ing-own:hover { color: var(--accent); border-color: var(--accent); }
+.ing-own.is-owned {
+  background: rgba(143,201,154,.12);
+  color: #8fc99a; border-color: #8fc99a;
 }
 .ing-chip {
+  flex: 1;
   display: flex; justify-content: space-between; align-items: center;
   gap: 8px; padding: 10px 12px;
   background: var(--panel); color: var(--text);
@@ -444,16 +463,21 @@ select:focus { border-color: var(--accent); }
   cursor: pointer; font-size: 13px;
   transition: all .15s ease;
   text-align: left;
+  min-width: 0;
 }
 .ing-chip:hover {
   border-color: var(--accent);
   background: var(--panel-2);
   transform: translateY(-1px);
 }
-.ing-chip .ing-name { flex: 1; }
+.ing-chip .ing-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ing-chip .ing-count {
   background: var(--bg-2); color: var(--accent);
   font-size: 11px; font-weight: 700;
   padding: 2px 8px; border-radius: 999px;
   border: 1px solid var(--line);
+}
+.ing-row.is-owned .ing-chip {
+  background: rgba(143,201,154,.05);
+  border-color: rgba(143,201,154,.3);
 }

@@ -2,6 +2,7 @@
 const DATA_URL = "data/cocktails.json";
 const FAV_KEY  = "cocktailshelf:favs";
 const WISH_KEY = "cocktailshelf:wishlist";
+const OWN_KEY  = "cocktailshelf:owned-ingredients";
 
 // DOM
 const grid         = document.getElementById("grid");
@@ -83,6 +84,19 @@ function toggleWish(id) {
   else wish[sid] = Date.now();
   localStorage.setItem(WISH_KEY, JSON.stringify(wish));
   return !!wish[sid];
+}
+
+// --- 所持材料（owned ingredients） ---
+function getOwned() {
+  try { return JSON.parse(localStorage.getItem(OWN_KEY)) || {}; }
+  catch { return {}; }
+}
+function isOwned(name) { return !!getOwned()[name]; }
+function toggleOwned(name) {
+  const owned = getOwned();
+  if (owned[name]) delete owned[name]; else owned[name] = true;
+  localStorage.setItem(OWN_KEY, JSON.stringify(owned));
+  return !!owned[name];
 }
 
 // --- ユーティリティ ---
@@ -666,19 +680,49 @@ function buildIngredientStats() {
 
 function renderIngredients() {
   const list = buildIngredientStats();
-  setTitle("材料一覧（頻出順）", list.length);
+  const ownedCount = list.filter(it => isOwned(it.ja)).length;
+  setTitle(`材料一覧（頻出順）  所持 ${ownedCount} / ${list.length}`);
+
   grid.innerHTML = "";
   emptyMsg.classList.add("hidden");
 
   const wrap = document.createElement("div");
   wrap.className = "ing-grid";
   for (const it of list) {
+    const row = document.createElement("div");
+    row.className = "ing-row";
+
+    // 所持チェックボックス（押下伝播は止める）
+    const ownBtn = document.createElement("button");
+    ownBtn.className = "ing-own";
+    ownBtn.type = "button";
+    const renderOwnBtn = () => {
+      const on = isOwned(it.ja);
+      ownBtn.classList.toggle("is-owned", on);
+      ownBtn.title = on ? `${it.ja} を所持中` : `${it.ja} を持っている？`;
+      ownBtn.textContent = on ? "✓" : "□";
+    };
+    renderOwnBtn();
+    ownBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      toggleOwned(it.ja);
+      renderOwnBtn();
+      row.classList.toggle("is-owned", isOwned(it.ja));
+      // タイトルの所持数を更新
+      const cur = buildIngredientStats();
+      const owned = cur.filter(x => isOwned(x.ja)).length;
+      setTitle(`材料一覧（頻出順）  所持 ${owned} / ${cur.length}`);
+    });
+
+    // チップ本体（クリックで絞り込み）
     const chip = document.createElement("button");
     chip.className = "ing-chip";
+    chip.type = "button";
     chip.innerHTML = `
-      <span class="ing-name">${escapeHTML(it.ja)}</span>
+      <span class="ing-name"></span>
       <span class="ing-count">${it.count}</span>
     `;
+    chip.querySelector(".ing-name").textContent = it.ja;
     chip.title = `${it.ja} を使うカクテルを表示`;
     chip.addEventListener("click", () => {
       document.querySelector('input[name="mode"][value="ingredient"]').checked = true;
@@ -686,7 +730,10 @@ function renderIngredients() {
       switchTab("browse");
       applyFilters();
     });
-    wrap.appendChild(chip);
+
+    if (isOwned(it.ja)) row.classList.add("is-owned");
+    row.append(ownBtn, chip);
+    wrap.appendChild(row);
   }
   grid.appendChild(wrap);
 }
