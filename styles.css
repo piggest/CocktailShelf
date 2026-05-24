@@ -445,7 +445,7 @@ select:focus { border-color: var(--accent); }
 /* 材料一覧タブ */
 .ing-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 6px;
 }
 .ing-row {
@@ -482,7 +482,12 @@ select:focus { border-color: var(--accent); }
   background: var(--panel-2);
   transform: translateY(-1px);
 }
-.ing-chip .ing-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ing-chip .ing-name {
+  flex: 1; min-width: 0;
+  white-space: normal;
+  word-break: break-word;
+  line-height: 1.35;
+}
 .ing-chip .ing-count {
   background: var(--bg-2); color: var(--accent);
   font-size: 11px; font-weight: 700;

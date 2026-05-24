@@ -88,11 +88,20 @@ function toggleWish(id) {
 }
 
 // --- 所持材料（owned ingredients） ---
+// 共通材料（水・氷・湯）は所持判定から除外し、所持リストにも表示しない
+const COMMON_INGREDIENTS = new Set([
+  "水", "氷", "クラッシュドアイス", "熱湯", "湯", "ホットウォーター",
+  "Water", "Ice", "Ice cubes", "Crushed ice", "Hot water"
+]);
+function isCommonIngredient(name) { return COMMON_INGREDIENTS.has(name); }
 function getOwned() {
   try { return JSON.parse(localStorage.getItem(OWN_KEY)) || {}; }
   catch { return {}; }
 }
-function isOwned(name) { return !!getOwned()[name]; }
+function isOwned(name) {
+  if (isCommonIngredient(name)) return true; // 水・氷は常に所持扱い
+  return !!getOwned()[name];
+}
 function toggleOwned(name) {
   const owned = getOwned();
   if (owned[name]) delete owned[name]; else owned[name] = true;
@@ -696,9 +705,10 @@ function buildIngredientStats() {
 }
 
 function renderIngredients() {
-  const list = buildIngredientStats();
-  const ownedCount = list.filter(it => isOwned(it.ja)).length;
-  setTitle(`材料一覧（頻出順）  所持 ${ownedCount} / ${list.length}`);
+  // 共通材料（水・氷など）は所持リストに出さない
+  const list = buildIngredientStats().filter(it => !isCommonIngredient(it.ja));
+  const owned = Object.keys(getOwned()).length;
+  setTitle(`材料一覧（頻出順）  所持 ${owned} / ${list.length}`);
 
   grid.innerHTML = "";
   emptyMsg.classList.add("hidden");
@@ -726,9 +736,9 @@ function renderIngredients() {
       renderOwnBtn();
       row.classList.toggle("is-owned", isOwned(it.ja));
       // タイトルの所持数を更新
-      const cur = buildIngredientStats();
-      const owned = cur.filter(x => isOwned(x.ja)).length;
-      setTitle(`材料一覧（頻出順）  所持 ${owned} / ${cur.length}`);
+      const cur = buildIngredientStats().filter(x => !isCommonIngredient(x.ja));
+      const ownedNow = Object.keys(getOwned()).length;
+      setTitle(`材料一覧（頻出順）  所持 ${ownedNow} / ${cur.length}`);
     });
 
     // チップ本体（クリックで絞り込み）

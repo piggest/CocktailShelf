@@ -3252,7 +3252,7 @@
     "image": "data/images-public/20014.png",
     "ingredients": [
       {
-        "name_ja": "ドライジン",
+        "name_ja": "ジン",
         "name_en": "Dry gin",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -4641,7 +4641,7 @@
     "image": "data/images-public/17255.jpg",
     "ingredients": [
       {
-        "name_ja": "ドライジン",
+        "name_ja": "ジン",
         "name_en": "Dry gin",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -5565,7 +5565,7 @@
     "image": "data/images-public/20002.png",
     "ingredients": [
       {
-        "name_ja": "ドライジン",
+        "name_ja": "ジン",
         "name_en": "Dry gin",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -8674,7 +8674,7 @@
     "image": "data/images-public/20013.png",
     "ingredients": [
       {
-        "name_ja": "ドライジン",
+        "name_ja": "ジン",
         "name_en": "Dry gin",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -14471,7 +14471,7 @@
     "image": "data/images-public/20006.png",
     "ingredients": [
       {
-        "name_ja": "ドライジン",
+        "name_ja": "ジン",
         "name_en": "Dry gin",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -17946,7 +17946,7 @@
     "image": "data/images-public/20012.png",
     "ingredients": [
       {
-        "name_ja": "ドライジン",
+        "name_ja": "ジン",
         "name_en": "Dry gin",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
@@ -19889,7 +19889,7 @@
     "image": "data/images-public/20004.png",
     "ingredients": [
       {
-        "name_ja": "スコッチウイスキー",
+        "name_ja": "スコッチ",
         "name_en": "Scotch whisky",
         "measure_ja": "60 ml",
         "measure_en": "60 ml"
@@ -20327,7 +20327,7 @@
     "image": "data/images-public/20001.png",
     "ingredients": [
       {
-        "name_ja": "ドライジン",
+        "name_ja": "ジン",
         "name_en": "Dry gin",
         "measure_ja": "40 ml",
         "measure_en": "40 ml"
@@ -20405,7 +20405,7 @@
         "measure_en": "1"
       },
       {
-        "name_ja": "砂糖（スノースタイル用）",
+        "name_ja": "砂糖",
         "name_en": "Sugar (for snow rim)",
         "measure_ja": "適量",
         "measure_en": "as needed"
