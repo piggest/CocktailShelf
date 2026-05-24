@@ -28771,32 +28771,32 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ラム",
-        "name_en": "",
-        "measure_ja": "",
-        "measure_en": ""
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
-        "name_ja": "キュラソー",
-        "name_en": "",
-        "measure_ja": "",
-        "measure_en": ""
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White curaçao",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
-        "name_ja": "ベルモット",
-        "name_en": "",
-        "measure_ja": "",
-        "measure_en": ""
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
-        "name_ja": "チェリー",
-        "name_en": "",
-        "measure_ja": "",
-        "measure_en": ""
+        "name_ja": "チェリーヒーリング",
+        "name_en": "Cherry Heering",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
-    "instructions_ja": "ダーク・ラム、ホワイト・キュラソー、ドライ・ベルモット、そしてチェリー・ヒーリングを同量ずつ量り取り、これらを全て氷を入れたミキシング・グラスで冷却しながら混ぜる。それを、氷が入らないようにカクテル・グラス（容量75〜90ml程度）に注ぐ。",
-    "instructions_en": "",
+    "instructions_ja": "4つの材料を等量ずつ量り、氷を入れたミキシンググラスで冷えるまでステアする。氷を入れず、冷やしたカクテルグラス（容量 75〜90ml）に注ぐ。",
+    "instructions_en": "Measure four ingredients in equal parts and stir with ice in a mixing glass until well chilled. Strain into a chilled cocktail glass (75–90 ml) without ice.",
     "iba": null,
     "tags": [],
     "style": "ステア",
