@@ -15,7 +15,8 @@ const searchBtn    = document.getElementById("searchBtn");
 const searchHint   = document.getElementById("searchHint");
 const styleSel     = document.getElementById("styleSelect");
 const baseSel      = document.getElementById("baseSelect");
-const ownedOnlyChk = document.getElementById("ownedOnly");
+const ownedOnlyChk    = document.getElementById("ownedOnly");
+const obtainableOkChk = document.getElementById("obtainableOk");
 const randomBtn    = document.getElementById("randomBtn");
 const tabs         = document.querySelectorAll(".tab");
 const modal        = document.getElementById("modal");
@@ -94,19 +95,49 @@ const COMMON_INGREDIENTS = new Set([
   "Water", "Ice", "Ice cubes", "Crushed ice", "Hot water"
 ]);
 function isCommonIngredient(name) { return COMMON_INGREDIENTS.has(name); }
-function getOwned() {
-  try { return JSON.parse(localStorage.getItem(OWN_KEY)) || {}; }
-  catch { return {}; }
+
+// 材料ステータス: "owned" / "obtainable" / "none"
+// 旧形式（{name: true}）からは自動マイグレーション
+function getStatusMap() {
+  let raw;
+  try { raw = JSON.parse(localStorage.getItem(OWN_KEY)); }
+  catch { raw = null; }
+  if (!raw || typeof raw !== "object") return {};
+  // 旧形式（boolean）→ owned に変換
+  let migrated = false;
+  for (const k of Object.keys(raw)) {
+    if (raw[k] === true) { raw[k] = "owned"; migrated = true; }
+    else if (!["owned", "obtainable"].includes(raw[k])) { delete raw[k]; migrated = true; }
+  }
+  if (migrated) localStorage.setItem(OWN_KEY, JSON.stringify(raw));
+  return raw;
 }
-function isOwned(name) {
-  if (isCommonIngredient(name)) return true; // 水・氷は常に所持扱い
-  return !!getOwned()[name];
+function getStatus(name) {
+  if (isCommonIngredient(name)) return "owned";
+  return getStatusMap()[name] || "none";
 }
-function toggleOwned(name) {
-  const owned = getOwned();
-  if (owned[name]) delete owned[name]; else owned[name] = true;
-  localStorage.setItem(OWN_KEY, JSON.stringify(owned));
-  return !!owned[name];
+function setStatus(name, status) {
+  const map = getStatusMap();
+  if (status === "none") delete map[name];
+  else map[name] = status;
+  localStorage.setItem(OWN_KEY, JSON.stringify(map));
+}
+function isOwned(name) { return getStatus(name) === "owned"; }
+function isObtainable(name) { return getStatus(name) === "obtainable"; }
+function cycleStatus(name) {
+  const s = getStatus(name);
+  const next = s === "none" ? "obtainable" : s === "obtainable" ? "owned" : "none";
+  setStatus(name, next);
+  return next;
+}
+function countByStatus() {
+  const map = getStatusMap();
+  let owned = 0, obtainable = 0;
+  for (const v of Object.values(map)) {
+    if (v === "owned") owned++;
+    else if (v === "obtainable") obtainable++;
+  }
+  return { owned, obtainable };
 }
 
 // --- ユーティリティ ---
@@ -609,6 +640,11 @@ function applyFilters() {
     items = items.filter(c => cocktailMadeFromOwned(c));
     labels.push("所持材料のみ");
   }
+  // 調達可能を含めて作れる
+  if (obtainableOkChk && obtainableOkChk.checked) {
+    items = items.filter(c => cocktailMadeFromAvailable(c));
+    labels.push("所持+調達可能で作れる");
+  }
 
   if (labels.length === 0) {
     loadInitial();
@@ -621,9 +657,16 @@ function applyFilters() {
 function cocktailMadeFromOwned(c) {
   const ings = c.ingredients || [];
   if (ings.length === 0) return false;
+  return ings.every(it => isOwned(it.name_ja || it.name_en || ""));
+}
+// 所持 + 調達可能 で全材料を満たせるか
+function cocktailMadeFromAvailable(c) {
+  const ings = c.ingredients || [];
+  if (ings.length === 0) return false;
   return ings.every(it => {
-    const name = it.name_ja || it.name_en || "";
-    return isOwned(name);
+    const n = it.name_ja || it.name_en || "";
+    const s = getStatus(n);
+    return s === "owned" || s === "obtainable";
   });
 }
 
@@ -705,10 +748,12 @@ function buildIngredientStats() {
 }
 
 function renderIngredients() {
-  // 共通材料（水・氷など）は所持リストに出さない
   const list = buildIngredientStats().filter(it => !isCommonIngredient(it.ja));
-  const owned = Object.keys(getOwned()).length;
-  setTitle(`材料一覧（頻出順）  所持 ${owned} / ${list.length}`);
+  const updateTitle = () => {
+    const { owned, obtainable } = countByStatus();
+    setTitle(`材料一覧（頻出順）  所持 ${owned} ・ 調達可 ${obtainable} / ${list.length}`);
+  };
+  updateTitle();
 
   grid.innerHTML = "";
   emptyMsg.classList.add("hidden");
@@ -719,26 +764,27 @@ function renderIngredients() {
     const row = document.createElement("div");
     row.className = "ing-row";
 
-    // 所持チェックボックス（押下伝播は止める）
-    const ownBtn = document.createElement("button");
-    ownBtn.className = "ing-own";
-    ownBtn.type = "button";
-    const renderOwnBtn = () => {
-      const on = isOwned(it.ja);
-      ownBtn.classList.toggle("is-owned", on);
-      ownBtn.title = on ? `${it.ja} を所持中` : `${it.ja} を持っている？`;
-      ownBtn.textContent = on ? "✓" : "□";
+    // 3段階ステータスボタン: none → obtainable → owned → none
+    const statBtn = document.createElement("button");
+    statBtn.className = "ing-status";
+    statBtn.type = "button";
+    const renderStatusBtn = () => {
+      const s = getStatus(it.ja);
+      statBtn.classList.toggle("is-owned", s === "owned");
+      statBtn.classList.toggle("is-obtainable", s === "obtainable");
+      statBtn.title = s === "owned" ? `${it.ja}: 所持中` :
+                      s === "obtainable" ? `${it.ja}: 調達可能` :
+                      `${it.ja}: 未設定`;
+      statBtn.textContent = s === "owned" ? "✓" : s === "obtainable" ? "↻" : "□";
+      row.classList.toggle("is-owned", s === "owned");
+      row.classList.toggle("is-obtainable", s === "obtainable");
     };
-    renderOwnBtn();
-    ownBtn.addEventListener("click", (e) => {
+    renderStatusBtn();
+    statBtn.addEventListener("click", (e) => {
       e.stopPropagation();
-      toggleOwned(it.ja);
-      renderOwnBtn();
-      row.classList.toggle("is-owned", isOwned(it.ja));
-      // タイトルの所持数を更新
-      const cur = buildIngredientStats().filter(x => !isCommonIngredient(x.ja));
-      const ownedNow = Object.keys(getOwned()).length;
-      setTitle(`材料一覧（頻出順）  所持 ${ownedNow} / ${cur.length}`);
+      cycleStatus(it.ja);
+      renderStatusBtn();
+      updateTitle();
     });
 
     // チップ本体（クリックで絞り込み）
@@ -758,8 +804,7 @@ function renderIngredients() {
       applyFilters();
     });
 
-    if (isOwned(it.ja)) row.classList.add("is-owned");
-    row.append(ownBtn, chip);
+    row.append(statBtn, chip);
     wrap.appendChild(row);
   }
   grid.appendChild(wrap);
@@ -816,6 +861,7 @@ document.querySelectorAll('input[name="mode"]').forEach(r => {
 styleSel.addEventListener("change", applyFilters);
 baseSel.addEventListener("change", applyFilters);
 if (ownedOnlyChk) ownedOnlyChk.addEventListener("change", applyFilters);
+if (obtainableOkChk) obtainableOkChk.addEventListener("change", applyFilters);
 randomBtn.addEventListener("click", loadRandom);
 tabs.forEach(t => t.addEventListener("click", () => switchTab(t.dataset.tab)));
 

@@ -452,7 +452,7 @@ select:focus { border-color: var(--accent); }
   display: flex; gap: 6px;
   align-items: stretch;
 }
-.ing-own {
+.ing-status {
   flex: 0 0 auto;
   width: 36px;
   background: var(--panel); color: var(--muted);
@@ -461,10 +461,14 @@ select:focus { border-color: var(--accent); }
   display: inline-flex; align-items: center; justify-content: center;
   transition: all .15s ease;
 }
-.ing-own:hover { color: var(--accent); border-color: var(--accent); }
-.ing-own.is-owned {
+.ing-status:hover { color: var(--accent); border-color: var(--accent); }
+.ing-status.is-owned {
   background: rgba(143,201,154,.12);
   color: #8fc99a; border-color: #8fc99a;
+}
+.ing-status.is-obtainable {
+  background: rgba(126,182,201,.12);
+  color: #7eb6c9; border-color: #7eb6c9;
 }
 .ing-chip {
   flex: 1;
@@ -497,4 +501,8 @@ select:focus { border-color: var(--accent); }
 .ing-row.is-owned .ing-chip {
   background: rgba(143,201,154,.05);
   border-color: rgba(143,201,154,.3);
+}
+.ing-row.is-obtainable .ing-chip {
+  background: rgba(126,182,201,.05);
+  border-color: rgba(126,182,201,.3);
 }
