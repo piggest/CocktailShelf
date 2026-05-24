@@ -5649,7 +5649,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "data/images-public/17252.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -5668,13 +5668,7 @@
     "instructions_en": "Add the vodka to a Collins glass filled with ice.\nTop with grapefruit juice and stir.\n\n",
     "iba": null,
     "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "File:Leonardi Cocktail Lounge, Greyhound Terminal, 12 St. James Ave., Boston, Mass (85387).jpg",
-      "artist": "Tichnor Bros. Inc., Boston, Mass.",
-      "license": "Public domain",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Leonardi_Cocktail_Lounge,_Greyhound_Terminal,_12_St._James_Ave.,_Boston,_Mass_(85387).jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17186",
@@ -6555,7 +6549,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Brandy",
-    "image": "data/images-public/12196.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "コニャック",
@@ -6583,13 +6577,7 @@
       "IBA",
       "Classic"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Sidecar-cocktail.jpg",
-      "artist": "Evan Swigart from Chicago, USA",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Sidecar-cocktail.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "12127",
@@ -6602,7 +6590,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "data/images-public/12127.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "リカール",
@@ -6648,13 +6636,7 @@
       "IBA",
       "Classic"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Sazerac Cocktail - New Orleans April 2022.jpg",
-      "artist": "Carnaval.com Studios",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Sazerac_Cocktail_-_New_Orleans_April_2022.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "13020",
@@ -8531,7 +8513,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Gin",
-    "image": "data/images-public/178366.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ジン",
@@ -8566,13 +8548,7 @@
       "classic",
       "refreshing"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Gin Lemon Spirit Drink.jpg",
-      "artist": "JIP",
-      "license": "CC BY-SA 4.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Gin_Lemon_Spirit_Drink.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "14888",
@@ -14412,7 +14388,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "data/images-public/178310.jpg",
+    "image": "",
     "ingredients": [
       {
         "name_ja": "ライウイスキー",
@@ -14454,13 +14430,7 @@
       "DateNight",
       "USA"
     ],
-    "is_public": true,
-    "credit": {
-      "title": "File:Brooklyn cocktail, The Post Brewing Co, Boulder CO.jpg",
-      "artist": "John Phelan",
-      "license": "CC BY-SA 4.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_cocktail,_The_Post_Brewing_Co,_Boulder_CO.jpg"
-    }
+    "is_public": false
   },
   {
     "id": "17120",
@@ -15782,6 +15752,66 @@
     "tags": [
       "Winter"
     ],
+    "is_public": false
+  },
+  {
+    "id": "20017",
+    "name_ja": "ホット・バタード・ラム",
+    "name_en": "Hot Buttered Rum",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "アイリッシュコーヒーカップ",
+    "glass_en": "Irish coffee cup",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ブラウンシュガー",
+        "name_en": "Brown sugar",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "無塩バター",
+        "name_en": "Unsalted butter",
+        "measure_ja": "1 かけ",
+        "measure_en": "1 pat"
+      },
+      {
+        "name_ja": "熱湯",
+        "name_en": "Hot water",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "シナモンスティック",
+        "name_en": "Cinnamon stick",
+        "measure_ja": "1 本",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "ナツメグ",
+        "name_en": "Nutmeg",
+        "measure_ja": "少々",
+        "measure_en": "pinch"
+      }
+    ],
+    "instructions_ja": "温めたマグカップにブラウンシュガーを入れ、少量の熱湯で溶かす。ダークラム、無塩バター、残りの熱湯を加えて軽く混ぜる。シナモンスティックを差し、ナツメグをふりかける。",
+    "instructions_en": "Dissolve brown sugar with a splash of hot water in a warmed mug. Add dark rum, butter, and remaining hot water. Stir gently. Garnish with a cinnamon stick and grated nutmeg.",
+    "iba": null,
+    "tags": [
+      "Classic",
+      "Winter"
+    ],
+    "style": "ホット",
     "is_public": false
   },
   {
