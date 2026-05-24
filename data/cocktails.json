@@ -10292,6 +10292,61 @@
     "is_public": false
   },
   {
+    "id": "20020",
+    "name_ja": "サッポロ",
+    "name_en": "Sapporo",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "グリーンシャルトリューズ",
+        "name_en": "Green Chartreuse",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1個",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスに材料と氷を入れてステアし、カクテルグラスに注ぐ。マラスキーノチェリー（ミントチェリー）を飾る。",
+    "instructions_en": "Stir all ingredients with ice in a mixing glass and strain into a cocktail glass. Garnish with a maraschino cherry (mint cherry).",
+    "iba": null,
+    "tags": [
+      "Japanese",
+      "札幌"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/サッポロ_(カクテル)"
+  },
+  {
     "id": "30810",
     "name_ja": "サファリング・バスタード",
     "name_en": "Suffering bastard",
@@ -18584,6 +18639,60 @@
       "license": "Public domain",
       "source_url": "https://commons.wikimedia.org/wiki/File:Harvey_Wallbanger.jpg"
     }
+  },
+  {
+    "id": "20021",
+    "name_ja": "バーテンダー",
+    "name_en": "Bartender",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "name_en": "Dry gin",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ドライシェリー",
+        "name_en": "Dry sherry",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "デュボネ",
+        "name_en": "Dubonnet",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "グラン・マルニエ",
+        "name_en": "Grand Marnier",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスに全ての材料と氷を入れてステアする。カクテルグラスに注ぐ。",
+    "instructions_en": "Stir all ingredients with ice in a mixing glass and strain into a cocktail glass.",
+    "iba": null,
+    "tags": [
+      "Classic"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://kakuteru.jp/recipe/bartender"
   },
   {
     "id": "15813",
