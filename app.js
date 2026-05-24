@@ -15,6 +15,7 @@ const searchBtn    = document.getElementById("searchBtn");
 const searchHint   = document.getElementById("searchHint");
 const styleSel     = document.getElementById("styleSelect");
 const baseSel      = document.getElementById("baseSelect");
+const ownedOnlyChk = document.getElementById("ownedOnly");
 const randomBtn    = document.getElementById("randomBtn");
 const tabs         = document.querySelectorAll(".tab");
 const modal        = document.getElementById("modal");
@@ -594,11 +595,27 @@ function applyFilters() {
     labels.push(`${baseLabel} ベース`);
   }
 
+  // 所持材料だけで作れる
+  if (ownedOnlyChk && ownedOnlyChk.checked) {
+    items = items.filter(c => cocktailMadeFromOwned(c));
+    labels.push("所持材料のみ");
+  }
+
   if (labels.length === 0) {
     loadInitial();
     return;
   }
   renderCards(items, labels.join(" × "));
+}
+
+// 所持材料だけで全材料を満たせるか
+function cocktailMadeFromOwned(c) {
+  const ings = c.ingredients || [];
+  if (ings.length === 0) return false;
+  return ings.every(it => {
+    const name = it.name_ja || it.name_en || "";
+    return isOwned(name);
+  });
 }
 
 // 与えられた配列内で名前検索
@@ -788,6 +805,7 @@ document.querySelectorAll('input[name="mode"]').forEach(r => {
 });
 styleSel.addEventListener("change", applyFilters);
 baseSel.addEventListener("change", applyFilters);
+if (ownedOnlyChk) ownedOnlyChk.addEventListener("change", applyFilters);
 randomBtn.addEventListener("click", loadRandom);
 tabs.forEach(t => t.addEventListener("click", () => switchTab(t.dataset.tab)));
 
