@@ -446,6 +446,138 @@
     "is_public": false
   },
   {
+    "id": "32013",
+    "name_ja": "JFK",
+    "name_en": "JFK",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "タンカレーナンバーテン",
+        "name_en": "タンカレーナンバーテン",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "ドライシェリー",
+        "name_en": "ドライシェリー",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "Orange curacao",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "オレンジビターズ",
+        "name_en": "Orange bitters",
+        "measure_ja": "2dashes",
+        "measure_en": "2dashes"
+      }
+    ],
+    "instructions_ja": "材料 タンカレーナンバーテン - 45ml ドライシェリー - 10ml オレンジキュラソー - 10ml オレンジ・ビターズ - 2dashes 作り方 材料をステアして、カクテルグラスに注ぐ。 オレンジピールをライターであぶり、油分を発火させながら搾る。 スタッフド・オリーブを添える。",
+    "instructions_en": "Stir all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/JFK%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
+    "id": "32001",
+    "name_ja": "X・Y・Z",
+    "name_en": "X.Y.Z.",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "data/images-wiki-ja/32001.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White curacao",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ラム、コアントロー、レモンジュースをシェークし、カクテル・グラス（容量75〜90ml程度）に注げば完成である。なお、レモン・ジュースは、その場でレモンを絞ったものを使用するのがベストであるが、市販のジュースを用いても良い。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "File:XYZ(cocktail).jpg",
+      "artist": "eWikiLearner",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:XYZ(cocktail).jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/X-Y-Z"
+  },
+  {
+    "id": "32017",
+    "name_ja": "アースクェイク",
+    "name_en": "Earthquake",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "name_en": "Dry gin",
+        "measure_ja": "1/3",
+        "measure_en": "1/3"
+      },
+      {
+        "name_ja": "ウィスキー",
+        "name_en": "ウィスキー",
+        "measure_ja": "1/3",
+        "measure_en": "1/3"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "1/3",
+        "measure_en": "1/3"
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。<!--野菜スティックやパール・オニオンなど-->を飾る。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A7%E3%82%A4%E3%82%AF%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
     "id": "30013",
     "name_ja": "アーセニック・アンド・オールド・レース",
     "name_en": "Arsenic and Old Lace",
@@ -540,6 +672,64 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32009",
+    "name_ja": "アイ・オープナー",
+    "name_en": "Eye-Opener",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "1グラスぶん",
+        "measure_en": "1グラスぶん"
+      },
+      {
+        "name_ja": "キュラソー",
+        "name_en": "キュラソー",
+        "measure_ja": "2dash",
+        "measure_en": "2dash"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "2dash",
+        "measure_en": "2dash"
+      },
+      {
+        "name_ja": "クレーム・ド・ノワヨー",
+        "name_en": "クレーム・ド・ノワヨー",
+        "measure_ja": "2dash",
+        "measure_en": "2dash"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "1tsp",
+        "measure_en": "1tsp"
+      },
+      {
+        "name_ja": "卵黄",
+        "name_en": "Egg yolk",
+        "measure_ja": "1個ぶん",
+        "measure_en": "1個ぶん"
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8A%E3%83%BC"
   },
   {
     "id": "12770",
@@ -666,6 +856,40 @@
       "license": "CC BY-SA 2.0",
       "source_url": "https://www.flickr.com/photos/50968580@N00/10636261003"
     }
+  },
+  {
+    "id": "32007",
+    "name_ja": "アイスブレーカー",
+    "name_en": "Ice Breaker",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションド、タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "テキーラ、ホワイト・キュラソー、グレープフルーツ・ジュース、グレナデン・シロップをシェークして、氷を入れたオールド・ファッションド・グラス（容量180〜300ml程度）かタンブラー（容量240～300ml程度）に注ぐ。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%BC"
   },
   {
     "id": "16987",
@@ -1380,6 +1604,58 @@
     }
   },
   {
+    "id": "32006",
+    "name_ja": "アップ・トゥ・デイト",
+    "name_en": "Up-to-Date",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "data/images-wiki-ja/32006.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ライウイスキー",
+        "name_en": "Rye whiskey",
+        "measure_ja": "1/2",
+        "measure_en": "1/2"
+      },
+      {
+        "name_ja": "シェリー",
+        "name_en": "シェリー",
+        "measure_ja": "1/2",
+        "measure_en": "1/2"
+      },
+      {
+        "name_ja": "グランマルニエ",
+        "name_en": "Grand Marnier",
+        "measure_ja": "2dash",
+        "measure_en": "2dash"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "2dash",
+        "measure_en": "2dash"
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "File:Up to Date cocktail (unedited).jpg",
+      "artist": "SamHolt6",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Up_to_Date_cocktail_(unedited).jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BB%E3%83%87%E3%82%A4%E3%83%88"
+  },
+  {
     "id": "30821",
     "name_ja": "アップ・トゥ・デート",
     "name_en": "Up to date",
@@ -1423,6 +1699,64 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "32008",
+    "name_ja": "アップル・パイ",
+    "name_en": "Apple Pie",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "data/images-wiki-ja/32008.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "アプリコット・リキュール",
+        "name_en": "アプリコット・リキュール",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレナデン・シロップ",
+        "name_en": "Grenadine",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ラム、スイート・ヴェルモット、アプリコット・ブランデー、レモンジュース、グレナデン・シロップをシェークして、カクテル・グラス（容量75〜90ml程度）に注げば完成である。",
+    "instructions_en": "Pour ingredients into the glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "File:アップル・パイ_(カクテル).jpg",
+      "artist": "あおのひーたん",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%BB%E3%83%91%E3%82%A4_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB).jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%BB%E3%83%91%E3%82%A4"
   },
   {
     "id": "31206",
@@ -1920,6 +2254,86 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Adonis_(cocktail)"
   },
   {
+    "id": "32014",
+    "name_ja": "アバディーン・アンガス",
+    "name_en": "Aberdeen Angus",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "スコッチ・ウイスキー",
+        "name_en": "Scotch whisky",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "アイリッシュグラスに氷を入れずにスコッチ・ウイスキー、蜂蜜およびレモンジュース（もしくはライムジュース）を入れ、よく混ぜる。 ドランブイをレードルに入れ、弱火で熱する。 火がついたら、燃えたままグラスに入れてステアする。",
+    "instructions_en": "Stir all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%90%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%AC%E3%82%B9%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
+    "id": "32012",
+    "name_ja": "アビエーション",
+    "name_en": "Aviation",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "data/images-wiki-ja/32012.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45ml",
+        "measure_en": "45ml"
+      },
+      {
+        "name_ja": "マラスキーノ",
+        "name_en": "Maraschino",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "レモン果汁",
+        "name_en": "レモン果汁",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "バイオレット・リキュール",
+        "name_en": "バイオレット・リキュール",
+        "measure_ja": "1tsp",
+        "measure_en": "1tsp"
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。マラスキーノ・チェリーを飾る。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "File:Aviation Cocktail.jpg",
+      "artist": "Bskinner112 at English Wikipedia",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aviation_Cocktail.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
     "id": "17835",
     "name_ja": "アビリーン",
     "name_en": "Abilene",
@@ -2290,6 +2704,126 @@
     }
   },
   {
+    "id": "32003",
+    "name_ja": "アメリカン・レモネード",
+    "name_en": "American Lemonade",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "Red wine",
+        "measure_ja": "30ml",
+        "measure_en": "30ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "40ml",
+        "measure_en": "40ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "3tsp",
+        "measure_en": "3tsp"
+      },
+      {
+        "name_ja": "ミネラル・ウォーター",
+        "name_en": "Mineral water",
+        "measure_ja": "適量",
+        "measure_en": "適量"
+      }
+    ],
+    "instructions_ja": "グラスに材料を直接注ぎ、軽くステアする。",
+    "instructions_en": "Build in the glass over ice.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89"
+  },
+  {
+    "id": "32005",
+    "name_ja": "アラウンド・ザ・ワールド",
+    "name_en": "Around the World",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "name_en": "Dry gin",
+        "measure_ja": "50ml",
+        "measure_en": "50ml"
+      },
+      {
+        "name_ja": "ペパーミントリキュール",
+        "name_en": "ペパーミントリキュール",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。ミントチェリーを飾る。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
+    "id": "32004",
+    "name_ja": "アラスカ",
+    "name_en": "Alaska",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "name_en": "Dry gin",
+        "measure_ja": "3/4",
+        "measure_en": "3/4"
+      },
+      {
+        "name_ja": "シャルトリューズ・ジョーヌ",
+        "name_en": "Yellow Chartreuse",
+        "measure_ja": "1/4",
+        "measure_en": "1/4"
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%B9%E3%82%AB%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
     "id": "30002",
     "name_ja": "アラバマ・スラマー",
     "name_en": "Alabama slammer",
@@ -2472,6 +3006,52 @@
     }
   },
   {
+    "id": "32002",
+    "name_ja": "アレクサンダー",
+    "name_en": "Alexander",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "data/images-wiki-ja/32002.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "クレームドカカオ",
+        "name_en": "Crème de cacao",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Cream",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "File:Brandy_alexander.jpg",
+      "artist": "Jason Lam",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brandy_alexander.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
     "id": "11021",
     "name_ja": "アレゲニー",
     "name_en": "Allegheny",
@@ -2566,6 +3146,46 @@
     "style": "ショート",
     "is_public": false,
     "_wiki_source": "https://en.wikipedia.org/wiki/Amber_moon"
+  },
+  {
+    "id": "32010",
+    "name_ja": "アンバサダー",
+    "name_en": "Ambassador",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "タンブラーに氷をいれる。 テキーラ、オレンジ・ジュースをグラスに注ぎ、軽くステアする。 グラスの縁から静かにシュガー・シロップを注ぎ、底に沈める。",
+    "instructions_en": "Build in the glass over ice.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "30509",
@@ -3246,6 +3866,46 @@
     "is_public": false
   },
   {
+    "id": "32104",
+    "name_ja": "ウイスキー・サイドカー",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ホワイト・キュラソー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモン・ジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "シェイカーに材料を全て入れる。 シェイクし、カクテル・グラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AB%E3%83%BC"
+  },
+  {
     "id": "11004",
     "name_ja": "ウイスキー・サワー",
     "name_en": "Whiskey Sour",
@@ -3305,6 +3965,40 @@
       "license": "CC BY 2.0",
       "source_url": "https://commons.wikimedia.org/wiki/File:A_whiskey_sour_in_the_hand.jpg"
     }
+  },
+  {
+    "id": "32106",
+    "name_ja": "ウイスキー・ソーダ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "タンブラーに多めの氷を入れ、ウイスキーを注ぐ。 グラスを炭酸水で満たし、軽くステアする。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%80"
   },
   {
     "id": "31203",
@@ -3946,6 +4640,58 @@
     "is_public": false
   },
   {
+    "id": "32108",
+    "name_ja": "ウォッカ・コリンズ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズ・グラス（ないしロンググラス）",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモン・ジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジスライス、チェリー",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "シェイカーにウォッカ、レモンジュース、ガムシロップを入れ、シェイクする。 上記を氷を入れたロンググラス、ないし、さらに細長いコリンズ・グラスに注ぎ、炭酸水を加え、軽くステアする。 オレンジスライスやチェリーを飾ることもある。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%AA%E3%83%B3%E3%82%BA"
+  },
+  {
     "id": "178362",
     "name_ja": "ウォッカ・スライム",
     "name_en": "Vodka Slime",
@@ -4407,6 +5153,46 @@
     }
   },
   {
+    "id": "32107",
+    "name_ja": "エクソシスト",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ブルー・キュラソー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモン・ジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクする。 カクテル・グラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%BD%E3%82%B7%E3%82%B9%E3%83%88%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
     "id": "30318",
     "name_ja": "エスプレッソ・トニック",
     "name_en": "Espresso and Tonic",
@@ -4532,6 +5318,40 @@
       "StrongFlavor"
     ],
     "is_public": false
+  },
+  {
+    "id": "32103",
+    "name_ja": "エッグ・ビール",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ゴブレット 300mL程度",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ビール",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "卵黄",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ゴブレット（容量300ml程度）に卵黄を入れて潰し、よく冷やしたビールを注いで軽くステアすれば完成である。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ステア",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%83%E3%82%B0%E3%83%BB%E3%83%93%E3%83%BC%E3%83%AB"
   },
   {
     "id": "12668",
@@ -4770,6 +5590,52 @@
     "is_public": false
   },
   {
+    "id": "32016",
+    "name_ja": "エル・ディアブロ",
+    "name_en": "El Diablo",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "クレームドカシス",
+        "name_en": "Crème de cassis",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ジンジャービア",
+        "name_en": "Ginger beer",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。カットライムを飾る。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%83%96%E3%83%AD"
+  },
+  {
     "id": "30317",
     "name_ja": "エル・プレジデンテ",
     "name_en": "El Presidente",
@@ -4901,6 +5767,40 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Angel_face_(cocktail)"
   },
   {
+    "id": "32015",
+    "name_ja": "エンジェルズ・キッス",
+    "name_en": "Angel's Kiss",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "リキュールグラス",
+    "glass_en": "Liqueur glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "クレームドカカオ",
+        "name_en": "Crème de cacao",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Cream",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "クレーム・ド・カカオをリキュールグラスに入れる。 生クリームを上に浮かべる（フロートする）。 マラスキーノ・チェリーをカクテルピンに通し、グラスの口にさし渡す。",
+    "instructions_en": "Build in the glass over ice.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%AD%E3%83%83%E3%82%B9"
+  },
+  {
     "id": "31007",
     "name_ja": "エンジェルズキス",
     "name_en": "Angel's Kiss",
@@ -4980,6 +5880,46 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32105",
+    "name_ja": "オーヴェルニュ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライ・ジン",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ヴェルヴェーヌ・ヴェレ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ドライ・ジン、ヴェルヴェーヌ・ヴェレ、ライム・ジュースをシェークして、カクテル・グラス（容量75〜90ml程度）に注げば完成である。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8B%E3%83%A5%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "13200",
@@ -5400,6 +6340,50 @@
     ]
   },
   {
+    "id": "20022",
+    "name_ja": "オリンピック",
+    "name_en": "Olympic",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "Orange curaçao",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      }
+    ],
+    "instructions_ja": "シェーカーに材料と氷を入れてよくシェイクし、冷やしたカクテルグラスに注ぐ。",
+    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [
+      "Classic"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://cocktaillog.com/ja/recipes/olympic"
+    ]
+  },
+  {
     "id": "13499",
     "name_ja": "オレオ・マッドスライド",
     "name_en": "Oreo Mudslide",
@@ -5676,6 +6660,46 @@
     "is_public": false
   },
   {
+    "id": "32101",
+    "name_ja": "オレンジ・ブロッサム",
+    "name_en": "Desert Healer",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32101.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "シェイク/ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク/ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Orange_Blossom_Cocktail.jpg",
+      "artist": "eWikiLearner",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Orange_Blossom_Cocktail.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%BB%E3%83%96%E3%83%AD%E3%83%83%E3%82%B5%E3%83%A0"
+  },
+  {
     "id": "178341",
     "name_ja": "オレンジ・ローズマリー・コリンズ",
     "name_en": "Orange Rosemary Collins",
@@ -5782,6 +6806,64 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32117",
+    "name_ja": "カールトン",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー『カクテル大全1000』",
+        "name_en": "",
+        "measure_ja": "30ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "22頁。",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "[[キュラソー (酒)",
+        "name_en": "",
+        "measure_ja": "10ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ホワイト・キュラソー]]",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "[[オレンジジュース",
+        "name_en": "",
+        "measure_ja": "20ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジ・ジュース]]",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "シェイカーに材料を全て入れる。 シェイクし、カクテル・グラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%88%E3%83%B3%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "11202",
@@ -5974,6 +7056,92 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32111",
+    "name_ja": "カシス・オレンジ",
+    "name_en": "cassis orange",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32111.jpg",
+    "ingredients": [
+      {
+        "name_ja": "カシスリキュール",
+        "name_en": "",
+        "measure_ja": "30ml - 45ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Cassis_and_Orange_8757100129_173bcfcb9d_o.jpg",
+      "artist": "uka0310",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cassis_and_Orange_8757100129_173bcfcb9d_o.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8"
+  },
+  {
+    "id": "32114",
+    "name_ja": "カシス・ソーダ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "data/images-wiki-ja/32114.jpg",
+    "ingredients": [
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ソーダ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "スライス・レモン（お好みで）",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "タンブラーに氷とクレーム・ド・カシス、ソーダを入れ、軽くステアする。 お好みでスライス・レモンを添える。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:カシスソーダ Cassis and Soda (8746728089).jpg",
+      "artist": "uka0310",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%E3%82%AB%E3%82%B7%E3%82%B9%E3%82%BD%E3%83%BC%E3%83%80_Cassis_and_Soda_(8746728089).jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%80"
   },
   {
     "id": "17185",
@@ -6330,6 +7498,46 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Garibaldi_(cocktail)"
   },
   {
+    "id": "32116",
+    "name_ja": "カリモーチョ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32116.jpg",
+    "ingredients": [
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "",
+        "measure_ja": "1/2",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "コーラ",
+        "name_en": "",
+        "measure_ja": "1/2",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Mini de Kalimotxo.jpg",
+      "artist": "Tripy",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mini_de_Kalimotxo.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%81%E3%83%A7"
+  },
+  {
     "id": "30508",
     "name_ja": "カリモチョ",
     "name_en": "Kalimotxo",
@@ -6361,6 +7569,46 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "32109",
+    "name_ja": "カルーア・ミルク",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32109.png",
+    "ingredients": [
+      {
+        "name_ja": "カルーア",
+        "name_en": "",
+        "measure_ja": "30ml〜40ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "牛乳",
+        "name_en": "",
+        "measure_ja": "80ml〜120ml",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Kahlua and Milk.png",
+      "artist": "Unknown",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kahlua_and_Milk.png"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%9F%E3%83%AB%E3%82%AF"
   },
   {
     "id": "12764",
@@ -6495,6 +7743,132 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "32110",
+    "name_ja": "カンパリ・オレンジ",
+    "name_en": "Campari & Orange",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32110.jpg",
+    "ingredients": [
+      {
+        "name_ja": "カンパリ",
+        "name_en": "",
+        "measure_ja": "45ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "スライス・オレンジ",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Campari Orange.jpg",
+      "artist": "eWikiLearner",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Campari_Orange.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%91%E3%83%AA%E3%83%BB%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8"
+  },
+  {
+    "id": "32112",
+    "name_ja": "カンパリ・グレープフルーツ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "カンパリ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレープフルーツ・ジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラー（容量240〜300ml程度）に、カンパリとグレープフルーツ・ジュースを注ぎ、軽くステアする。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%91%E3%83%AA%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%97%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84"
+  },
+  {
+    "id": "32113",
+    "name_ja": "カンパリ・ソーダ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "data/images-wiki-ja/32113.jpg",
+    "ingredients": [
+      {
+        "name_ja": "カンパリ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "スライス・オレンジ或いはスライス・レモン",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラー（容量240〜300ml程度）に、カンパリ、炭酸水を入れ、軽くステアする。 スライス・オレンジ或いはスライス・レモンを添える。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Campari Soda (2).jpg",
+      "artist": "https://www.flickr.com/photos/mesec/",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Campari_Soda_(2).jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%91%E3%83%AA%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%80"
   },
   {
     "id": "16047",
@@ -6878,6 +8252,52 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32115",
+    "name_ja": "キッス・オブ・ファイア",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "",
+        "measure_ja": "1/3",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "スロー・ジン",
+        "name_en": "",
+        "measure_ja": "1/3",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ドライ・ベルモット",
+        "name_en": "",
+        "measure_ja": "1/3",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "",
+        "measure_ja": "2dash",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "シェイクで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2"
   },
   {
     "id": "30406",
@@ -8081,6 +9501,72 @@
     "is_public": false
   },
   {
+    "id": "32203",
+    "name_ja": "グラン・マルニエ・オレンジ",
+    "name_en": "Grand Marnier Orange",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "グラン・マルニエ",
+        "measure_ja": "45ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "measure_ja": "適量"
+      },
+      {
+        "name_ja": "オレンジスライス",
+        "measure_ja": "1枚"
+      }
+    ],
+    "instructions_ja": "タンブラーに氷を入れ、材料を全て注いでステアする。カット・オレンジまたはスライス・オレンジを飾る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
+    "id": "32204",
+    "name_ja": "グラン・マルニエ・サイドカー",
+    "name_en": "Grand Marnier Side Car",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "measure_ja": "30ml"
+      },
+      {
+        "name_ja": "グラン・マルニエ",
+        "measure_ja": "15ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "measure_ja": "15ml"
+      }
+    ],
+    "instructions_ja": "シェイカーに材料を全て入れてシェイクし、カクテル・グラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "14456",
     "name_ja": "クラント・ティー",
     "name_en": "Kurant Tea",
@@ -8256,6 +9742,51 @@
       "license": "CC BY 2.0",
       "source_url": "https://commons.wikimedia.org/wiki/File:Drink_Hand_crafted_cream_soda_(18705306063).jpg"
     }
+  },
+  {
+    "id": "32207",
+    "name_ja": "グリーン・アイズ",
+    "name_en": "Green Eyes",
+    "category_ja": "フローズン",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ゴールドラム",
+        "measure_ja": "30ml"
+      },
+      {
+        "name_ja": "ミドリ",
+        "measure_ja": "25ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "measure_ja": "45ml"
+      },
+      {
+        "name_ja": "ココナッツミルク",
+        "measure_ja": "15ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "measure_ja": "15ml"
+      },
+      {
+        "name_ja": "ライムスライス",
+        "measure_ja": "1枚"
+      }
+    ],
+    "instructions_ja": "バー・ブレンダーに氷と材料を入れてブレンドし、グラスに注ぐ。スライスライムを飾り、ストローを添える。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
   },
   {
     "id": "30417",
@@ -8501,6 +10032,43 @@
     "instructions_en": "Add the vodka to a Collins glass filled with ice.\nTop with grapefruit juice and stir.\n\n",
     "iba": null,
     "tags": [],
+    "is_public": false
+  },
+  {
+    "id": "32205",
+    "name_ja": "クレオパトラ",
+    "name_en": "Cleopatra",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "measure_ja": "等量"
+      },
+      {
+        "name_ja": "クレーム・ド・モカ",
+        "measure_ja": "等量"
+      },
+      {
+        "name_ja": "ヘビークリーム",
+        "measure_ja": "等量"
+      },
+      {
+        "name_ja": "ナツメグ",
+        "measure_ja": "適量"
+      }
+    ],
+    "instructions_ja": "ラム、クレーム・ド・モカ、生クリームをシェイクし、カクテル・グラス(75〜90ml)に注ぐ。適量のナツメグを振りかけて仕上げる。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
     "is_public": false
   },
   {
@@ -8774,6 +10342,43 @@
     "style": "ロング",
     "is_public": false,
     "_wiki_source": "https://en.wikipedia.org/wiki/Gatorwine"
+  },
+  {
+    "id": "32206",
+    "name_ja": "ケイブルグラム",
+    "name_en": "Cablegram",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "measure_ja": "45ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "measure_ja": "15〜20ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "measure_ja": "1tsp"
+      },
+      {
+        "name_ja": "ジンジャーエール",
+        "measure_ja": "適量"
+      }
+    ],
+    "instructions_ja": "ウイスキー、レモン・ジュース、砂糖をシェイクし、氷を入れたタンブラー(240〜300ml)に注ぐ。よく冷やしたジンジャー・エールでグラスを満たし、軽くステアする。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
   },
   {
     "id": "30211",
@@ -9164,6 +10769,39 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Golden_Elk"
   },
   {
+    "id": "32202",
+    "name_ja": "ゴールデン・スリッパー",
+    "name_en": "Golden Slipper",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "イエローシャルトリューズ",
+        "measure_ja": "1/2"
+      },
+      {
+        "name_ja": "ゴールドワッサー",
+        "measure_ja": "1/2"
+      },
+      {
+        "name_ja": "卵黄",
+        "measure_ja": "1個"
+      }
+    ],
+    "instructions_ja": "シェーカーに氷と材料を入れ、シェイクしてカクテルグラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "30413",
     "name_ja": "ゴールデン・ドリーム",
     "name_en": "Golden Dream",
@@ -9214,6 +10852,47 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Godlen-Dream_Mixed_Drink_Cocktail_(2360538105).jpg"
     },
     "_wiki_source": "https://en.wikipedia.org/wiki/Golden_dream_(cocktail)"
+  },
+  {
+    "id": "32211",
+    "name_ja": "ゴールデン・フレンド",
+    "name_en": "Golden Friend",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "measure_ja": "20ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "measure_ja": "20ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "measure_ja": "20ml"
+      },
+      {
+        "name_ja": "コーラ",
+        "measure_ja": "適量"
+      },
+      {
+        "name_ja": "レモンスライス",
+        "measure_ja": "1枚"
+      }
+    ],
+    "instructions_ja": "ダーク・ラム、アマレット、レモン・ジュースをシェイクし、氷を入れたタンブラーグラスに注ぐ。コーラでフルアップして軽くステアし、スライス・レモンを飾る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
   },
   {
     "id": "31006",
@@ -9722,6 +11401,39 @@
     "is_public": false
   },
   {
+    "id": "32201",
+    "name_ja": "コンクラーベ",
+    "name_en": "Conclave",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Non-Alcoholic",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "オレンジジュース",
+        "measure_ja": "120ml"
+      },
+      {
+        "name_ja": "牛乳",
+        "measure_ja": "60ml"
+      },
+      {
+        "name_ja": "ラズベリーシロップ",
+        "measure_ja": "20ml"
+      }
+    ],
+    "instructions_ja": "シェイカーに材料を全て入れ、シェイクしてタンブラーに注ぐ。スライス・オレンジを飾ることもある。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "178350",
     "name_ja": "ザ・ガラー",
     "name_en": "The Galah",
@@ -10151,6 +11863,52 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "32011",
+    "name_ja": "さくらさくら",
+    "name_en": "Sakura Sakura",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "35ml",
+        "measure_en": "35ml"
+      },
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "15ml",
+        "measure_en": "15ml"
+      },
+      {
+        "name_ja": "サクラ・リキュール",
+        "name_en": "サクラ・リキュール",
+        "measure_ja": "10ml",
+        "measure_en": "10ml"
+      },
+      {
+        "name_ja": "フレッシュ・レモン・ジュース",
+        "name_en": "フレッシュ・レモン・ジュース",
+        "measure_ja": "5ml",
+        "measure_en": "5ml"
+      }
+    ],
+    "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。グレープフルーツ・ピール ライム・ピール リンゴの皮 マラスキーノ・チェリーを飾る。",
+    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E3%81%95%E3%81%8F%E3%82%89%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "30713",
@@ -11102,6 +12860,51 @@
     "is_public": false
   },
   {
+    "id": "32213",
+    "name_ja": "シカゴ",
+    "name_en": "Chicago Cocktail",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "フルートグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "measure_ja": "45ml"
+      },
+      {
+        "name_ja": "オレンジキュラソー",
+        "measure_ja": "2dashes"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "measure_ja": "22.5ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "measure_ja": "1dash"
+      },
+      {
+        "name_ja": "シャンパン",
+        "measure_ja": "適量"
+      },
+      {
+        "name_ja": "粉砂糖",
+        "measure_ja": "適量"
+      }
+    ],
+    "instructions_ja": "フルートグラスの縁を粉砂糖でスノースタイルにする。シャンパン以外の材料をシェイクしてグラスに注ぎ、シャンパンでフルアップして軽く混ぜる。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "30218",
     "name_ja": "シカゴ・カクテル",
     "name_en": "Chicago cocktail",
@@ -11244,6 +13047,35 @@
     "instructions_en": "Pour 5cl of Cointreau on ice, add 2cl of fresh lemon (or lime) juice, stir gently, and finally add slices of lemon/lime in glass.",
     "iba": null,
     "tags": [],
+    "is_public": false
+  },
+  {
+    "id": "32210",
+    "name_ja": "シシリアン・キッス",
+    "name_en": "Sicilian Kiss",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "オールド・ファッションド・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "サザンカンフォート",
+        "measure_ja": "40ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "measure_ja": "20ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたオールド・ファッションド・グラスに全ての材料を注ぎ、ステアする。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
     "is_public": false
   },
   {
@@ -11563,6 +13395,46 @@
     "is_public": false
   },
   {
+    "id": "32304",
+    "name_ja": "ジャック・ター",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "サザンカンフォート",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "上記材料を氷といっしょにシェークする。 クラッシュドアイスを入れたオールドファッションドグラスに注ぐ。 好みでグラスにライムを飾り、マドラー(アメリカンマドラー)を添える。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェーク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%BF%E3%83%BC"
+  },
+  {
     "id": "11542",
     "name_ja": "ジャック・ローズ・カクテル",
     "name_en": "Jack Rose Cocktail",
@@ -11824,6 +13696,58 @@
     "is_public": false
   },
   {
+    "id": "32302",
+    "name_ja": "ジャマイカ・ジョー",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "コーヒーリキュール",
+        "name_en": "",
+        "measure_ja": "1",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "アドヴォカート",
+        "name_en": "",
+        "measure_ja": "1",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ラム",
+        "name_en": "",
+        "measure_ja": "1",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "",
+        "measure_ja": "1dash",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ナツメグ",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "コーヒー・リキュール、アドヴォカート、ラムをシェークして、カクテル・グラス（容量75 - 90ml程度）に注ぎ、グレナデン・シロップをグラスに沈める。最後に、ナツメグをふりかければ、完成である。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%82%A4%E3%82%AB%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC"
+  },
+  {
     "id": "15825",
     "name_ja": "ジャマイカン・コーヒー",
     "name_en": "Jamaican Coffee",
@@ -11957,6 +13881,35 @@
     "is_public": false
   },
   {
+    "id": "32209",
+    "name_ja": "シャンギロンゴ",
+    "name_en": "Changuirongo",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "measure_ja": "30ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "measure_ja": "適量"
+      }
+    ],
+    "instructions_ja": "タンブラーグラスに氷を入れ、材料を注いでステアする。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "30510",
     "name_ja": "ジャングルバード",
     "name_en": "Jungle Bird",
@@ -12002,6 +13955,35 @@
     ],
     "instructions_ja": "氷と共にシェイクし、氷を入れたロックグラスに漉し入れる。",
     "instructions_en": "Shake with ice and strain into a rocks glass filled with ice.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
+    "id": "32208",
+    "name_ja": "シャンディ・ガフ",
+    "name_en": "Shandy Gaff",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ビール",
+        "measure_ja": "1/2"
+      },
+      {
+        "name_ja": "ジンジャーエール",
+        "measure_ja": "1/2"
+      }
+    ],
+    "instructions_ja": "タンブラーにビールを先に注ぎ、ジンジャー・エールで満たして軽くステアする。材料はいずれもよく冷やしておく。",
+    "instructions_en": "",
     "iba": null,
     "tags": [],
     "style": "ショート",
@@ -12230,6 +14212,40 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "32307",
+    "name_ja": "ジン・アンド・イット",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "",
+        "measure_ja": "等量",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "",
+        "measure_ja": "等量",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "材料をグラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A4%E3%83%83%E3%83%88"
   },
   {
     "id": "30408",
@@ -12943,6 +14959,35 @@
     }
   },
   {
+    "id": "32214",
+    "name_ja": "ジン・ライム",
+    "name_en": "Gin and Lime",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "オールド・ファッションド・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "measure_ja": "45ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "measure_ja": "15ml"
+      }
+    ],
+    "instructions_ja": "氷を入れたオールド・ファッションド・グラスにドライ・ジンとライムジュース(コーディアル)を注ぎ、軽くステアする。フレッシュライムジュースを使う場合はシロップを加えることもある。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "17230",
     "name_ja": "ジン・リッキー",
     "name_en": "Gin Rickey",
@@ -13418,6 +15463,52 @@
     "is_public": false
   },
   {
+    "id": "32305",
+    "name_ja": "スカイ・ダイビング",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "data/images-wiki-ja/32305.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "",
+        "measure_ja": "3/6",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "",
+        "measure_ja": "2/6",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "",
+        "measure_ja": "1/6",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "上記材料をシェークする。 カクテル・グラス（容量75〜90ml程度）に注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェーク",
+    "is_public": true,
+    "credit": {
+      "title": "File:Sky-Diving Cocktail.jpg",
+      "artist": "ＫｏＺ",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sky-Diving_Cocktail.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%BB%E3%83%80%E3%82%A4%E3%83%93%E3%83%B3%E3%82%B0"
+  },
+  {
     "id": "12130",
     "name_ja": "スクーター",
     "name_en": "Scooter",
@@ -13704,6 +15795,40 @@
     "is_public": false
   },
   {
+    "id": "32306",
+    "name_ja": "スタテンアイランド・フェリー",
+    "name_en": "",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラーなどの平底のある程度容量の大きなグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "マリブ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "スタテンアイランド・フェリーは、氷を入れたグラスに、マリブとパイナップル・ジュースを等量ずつ注いだカクテルである。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%86%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%20%28%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%29"
+  },
+  {
     "id": "17193",
     "name_ja": "スティンガー",
     "name_en": "Stinger",
@@ -13787,6 +15912,39 @@
       "license": "CC BY 2.0",
       "source_url": "https://www.flickr.com/photos/14588042@N06/5168590042"
     }
+  },
+  {
+    "id": "32217",
+    "name_ja": "ストロー・ハット",
+    "name_en": "Straw Hat",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "measure_ja": "45ml"
+      },
+      {
+        "name_ja": "トマトジュース",
+        "measure_ja": "適量"
+      },
+      {
+        "name_ja": "レモン",
+        "measure_ja": "適量"
+      }
+    ],
+    "instructions_ja": "タンブラー(240〜300ml)にテキーラを注ぎ、氷塊を加えてからトマト・ジュースで満たす。レモンをグラスの中に入れる、縁に飾る、または絞ってレモン・ジュースとして加える。レモンを入れた場合はマドラーを添え、絞った場合はステアしておく。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
   },
   {
     "id": "31201",
@@ -14246,6 +16404,35 @@
     }
   },
   {
+    "id": "32215",
+    "name_ja": "スプリッツァー",
+    "name_en": "Spritzer",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "フルート型シャンパン・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "白ワイン",
+        "measure_ja": "90ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "measure_ja": "適量"
+      }
+    ],
+    "instructions_ja": "フルート型のシャンパン・グラスに辛口白ワインと炭酸水(ソーダ水)を注ぎ、軽くステアする。大型ワイン・グラスを使うこともある。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "30807",
     "name_ja": "スプリングボッキー",
     "name_en": "Springbokkie",
@@ -14561,6 +16748,35 @@
     "instructions_en": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.",
     "iba": null,
     "tags": [],
+    "is_public": false
+  },
+  {
+    "id": "32216",
+    "name_ja": "スレッジハンマー",
+    "name_en": "Sledgehammer",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "measure_ja": "50ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "measure_ja": "10ml"
+      }
+    ],
+    "instructions_ja": "材料をシェイクし、カクテル・グラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
     "is_public": false
   },
   {
@@ -14986,6 +17202,46 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32303",
+    "name_ja": "ソル・クバーノ",
+    "name_en": "",
+    "category_ja": "ロング",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "トニックウォーター",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーグラス（容量240〜300ml程度）に、ラムを注ぎ、そこにグレープフルーツ・ジュースを注いでステアする。最後に、トニック・ウォーターでグラスを満たせば完成である。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%90%E3%83%BC%E3%83%8E"
   },
   {
     "id": "12107",
@@ -16263,6 +18519,52 @@
     ]
   },
   {
+    "id": "32313",
+    "name_ja": "チャーチル",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "スコッチ",
+        "name_en": "",
+        "measure_ja": "30ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "",
+        "measure_ja": "10ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "",
+        "measure_ja": "10ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "",
+        "measure_ja": "10ml",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "材料をシェークして、カクテルグラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェーク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%81%E3%83%AB%20%28%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%29"
+  },
+  {
     "id": "30219",
     "name_ja": "チャタム・アーティラリー・パンチ",
     "name_en": "Chatham Artillery punch",
@@ -16455,6 +18757,52 @@
       "license": "CC0",
       "source_url": "https://commons.wikimedia.org/wiki/File:Hot_Chocolate_drinks.jpg"
     }
+  },
+  {
+    "id": "32309",
+    "name_ja": "ツァリーヌ",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ステアする（稀にシェイクしてつくられることもある）。 カクテルグラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ステア",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A1%E3%83%AA%E3%83%BC%E3%83%8C"
   },
   {
     "id": "30816",
@@ -16664,6 +19012,46 @@
     }
   },
   {
+    "id": "32315",
+    "name_ja": "ティント・デ・ベラノ",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "data/images-wiki-ja/32315.jpg",
+    "ingredients": [
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモンライムソーダ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "赤ワインと任意の炭酸飲料を１対１～２で割り、ロックアイスを入れたタンブラーに注いでよく冷やして供する。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Tinto de verano.jpg",
+      "artist": "Arkangel from Granada, España",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tinto_de_verano.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%83%BB%E3%83%99%E3%83%A9%E3%83%8E"
+  },
+  {
     "id": "14602",
     "name_ja": "テキーラ・サプライズ",
     "name_en": "Tequila Surprise",
@@ -16750,6 +19138,46 @@
       "license": "Public domain",
       "source_url": "https://commons.wikimedia.org/wiki/File:Tequila_sour.jpg"
     }
+  },
+  {
+    "id": "32308",
+    "name_ja": "テキーラ・サンセット",
+    "name_en": "",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "テキーラ、レモン・ジュース、グレナデン・シロップを氷とともにミキサーにかける。 グラスに注ぎ、レモン・スライスとマラスキーノ・チェリーを飾る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ブレンド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%83%BC%E3%83%A9%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88"
   },
   {
     "id": "13621",
@@ -17542,6 +19970,40 @@
     "is_public": false
   },
   {
+    "id": "32310",
+    "name_ja": "ドッグズ・ノーズ",
+    "name_en": "",
+    "category_ja": "ロングドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "ピルスナーグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ビール",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "タンブラーやコリンズグラス等、冷やした大型グラスにジンを入れる。 ビールで満たす。 軽くステアする。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ステア",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%83%E3%82%B0%E3%82%BA%E3%83%BB%E3%83%8E%E3%83%BC%E3%82%BA"
+  },
+  {
     "id": "12726",
     "name_ja": "トマト・タン",
     "name_en": "Tomato Tang",
@@ -18009,6 +20471,40 @@
     "is_public": false
   },
   {
+    "id": "32312",
+    "name_ja": "トロイの木馬",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "スタウト",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "コカ・コーラ",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "グラスにスタウトとコーラを静かに入れる。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%82%A4%E3%81%AE%E6%9C%A8%E9%A6%AC%20%28%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%29"
+  },
+  {
     "id": "30818",
     "name_ja": "トロント",
     "name_en": "Toronto",
@@ -18242,6 +20738,46 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32314",
+    "name_ja": "ナポリタン",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "",
+        "measure_ja": "30ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "",
+        "measure_ja": "15ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "",
+        "measure_ja": "15ml",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "全ての材料をシェークしてカクテル・グラスに注げば完成である。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェーク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B3%20%28%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%29"
   },
   {
     "id": "20016",
@@ -18594,6 +21130,52 @@
     ]
   },
   {
+    "id": "32311",
+    "name_ja": "ノックアウト",
+    "name_en": "",
+    "category_ja": "スタンダードカクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "name_en": "",
+        "measure_ja": "1/3",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "",
+        "measure_ja": "1/3",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "",
+        "measure_ja": "1/3",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ホワイトクレーム・ド・マント",
+        "name_en": "",
+        "measure_ja": "1tsp",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "材料をシェークしてカクテルグラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェーク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%20%28%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%29"
+  },
+  {
     "id": "11462",
     "name_ja": "ハーヴェイ・ウォールバンガー",
     "name_en": "Harvey Wallbanger",
@@ -18725,6 +21307,112 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32404",
+    "name_ja": "ハーベイ・ウォールバンガー",
+    "name_en": "Harvey Wallbanger",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "data/images-wiki-ja/32404.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      },
+      {
+        "name_ja": "ガリアーノ",
+        "name_en": "Galliano",
+        "measure_ja": "2tsp",
+        "measure_en": "2 tsp"
+      },
+      {
+        "name_ja": "オレンジスライス",
+        "name_en": "Orange Slice",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "氷を入れたグラスにウォッカとオレンジジュースを入れてステアする。ガリアーノをフロートさせ、カットしたオレンジを飾る。",
+    "instructions_en": "Pour vodka and orange juice into a glass with ice and stir. Float Galliano on top and garnish with an orange slice.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": true,
+    "credit": {
+      "title": "File:Harvey Wallbanger.jpg",
+      "artist": "User JayKeaton on English Wikipedia, http://en.wikipedia.org/wiki/User:JayKeaton",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Harvey_Wallbanger.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%99%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%90%E3%83%B3%E3%82%AC%E3%83%BC"
+  },
+  {
+    "id": "32407",
+    "name_ja": "ハーボ・ジ・ガーロ",
+    "name_en": "Rabo de Galo",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Rocks glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "カシャーサ",
+        "name_en": "Cachaça",
+        "measure_ja": "60ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet Vermouth",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "チナール",
+        "name_en": "Cynar",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura Bitters",
+        "measure_ja": "2drops",
+        "measure_en": "2 drops"
+      },
+      {
+        "name_ja": "オレンジの皮",
+        "name_en": "Orange Peel",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "全ての材料を氷を入れたロックグラスに注いでステアし、オレンジの皮を飾る。",
+    "instructions_en": "Pour all ingredients into a rocks glass with ice and stir. Garnish with an orange peel.",
+    "iba": null,
+    "tags": [
+      "IBA"
+    ],
+    "style": "ロック",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%9C%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%AD"
   },
   {
     "id": "30115",
@@ -18996,6 +21684,52 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32402",
+    "name_ja": "バカルディ",
+    "name_en": "Bacardi Cocktail",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "data/images-wiki-ja/32402.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White Rum",
+        "measure_ja": "3/4",
+        "measure_en": "3/4 part"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime Juice",
+        "measure_ja": "1/4",
+        "measure_en": "1/4 part"
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "Grenadine",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "材料をシェイカーに入れてシェイクし、カクテルグラスに注ぐ。バカルディ社のホワイトラム使用が指定されている。",
+    "instructions_en": "Shake the ingredients in a shaker and strain into a cocktail glass. Bacardi white rum is specified.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "File:Bacardicooktail in glass.jpg",
+      "artist": "Nayu-75",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bacardicooktail_in_glass.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "30015",
@@ -19287,6 +22021,40 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32403",
+    "name_ja": "パナシェ",
+    "name_en": "Panaché",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ゴブレット",
+    "glass_en": "Goblet",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ビール",
+        "name_en": "Beer",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "レモンライムソーダ",
+        "name_en": "Lemon-Lime Soda",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      }
+    ],
+    "instructions_ja": "ビールと透明なレモン炭酸飲料をよく冷やし、ゴブレット（容量300ml程度）にビールを注ぎ、そこに同量のレモン炭酸飲料を静かに注ぐ。ステアは行わない。",
+    "instructions_en": "Chill the beer and clear lemon soda well. Pour the beer into a goblet (about 300ml), then gently pour an equal amount of lemon soda. Do not stir.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%82%B7%E3%82%A7"
   },
   {
     "id": "30420",
@@ -19675,6 +22443,52 @@
     }
   },
   {
+    "id": "32316",
+    "name_ja": "バラライカ",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "data/images-wiki-ja/32316.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "",
+        "measure_ja": "1/2",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "",
+        "measure_ja": "1/4",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "",
+        "measure_ja": "1/4",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "材料をシェイクしてカクテル・グラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": true,
+    "credit": {
+      "title": "File:Balalaika Cocktail.jpg",
+      "artist": "eWikiLearner",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Balalaika_Cocktail.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%AB%20%28%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%29"
+  },
+  {
     "id": "30421",
     "name_ja": "ハリケーン",
     "name_en": "Hurricane",
@@ -19781,6 +22595,46 @@
       "license": "CC BY 2.0",
       "source_url": "https://www.flickr.com/photos/7831824@N04/51500784671"
     }
+  },
+  {
+    "id": "32401",
+    "name_ja": "バレンシア",
+    "name_en": "Valencia",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot Brandy",
+        "measure_ja": "2",
+        "measure_en": "2 parts"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "オレンジビターズ",
+        "name_en": "Orange Bitters",
+        "measure_ja": "4dash",
+        "measure_en": "4 dashes"
+      }
+    ],
+    "instructions_ja": "アプリコットブランデー、オレンジジュース、オレンジビターズをシェイクしてカクテルグラスに注ぐ。",
+    "instructions_en": "Shake apricot brandy, orange juice, and orange bitters, then strain into a cocktail glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%A2_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "12434",
@@ -20206,6 +23060,52 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Hand_Grenade_(cocktail)"
   },
   {
+    "id": "32406",
+    "name_ja": "バンブー",
+    "name_en": "Bamboo",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "シェリー",
+        "name_en": "Dry Sherry",
+        "measure_ja": "2",
+        "measure_en": "2 parts"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry Vermouth",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "オレンジビターズ",
+        "name_en": "Orange Bitters",
+        "measure_ja": "1dash",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange Peel",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "全ての材料と氷をミキシンググラスに入れてステアし、カクテルグラスに注ぐ。香り付けにオレンジの果皮から香油を飛ばしかける。",
+    "instructions_en": "Stir all ingredients with ice in a mixing glass and strain into a cocktail glass. Express orange peel over the drink for aroma.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
     "id": "14538",
     "name_ja": "バンブルビー",
     "name_en": "Bumble Bee",
@@ -20524,6 +23424,40 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "32405",
+    "name_ja": "ビター・オレンジ",
+    "name_en": "Bitter Orange",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ビール",
+        "name_en": "Beer",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      }
+    ],
+    "instructions_ja": "大型のタンブラー（容量300ml以上）にビールとオレンジジュースを注ぎ、軽くステアする。材料はよく冷やしておく。",
+    "instructions_en": "Pour beer and orange juice into a large tumbler (300ml or more) and stir lightly. Use well-chilled ingredients.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "13222",
@@ -21184,6 +24118,52 @@
     }
   },
   {
+    "id": "32317",
+    "name_ja": "ピンク・レディー",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "data/images-wiki-ja/32317.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "",
+        "measure_ja": "45ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "",
+        "measure_ja": "20ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "",
+        "measure_ja": "1個分",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "氷と材料をシェイカーに入れ強くシェイクする。 ソーサー型のシャンパン・グラス、または大型のカクテル・グラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェーク",
+    "is_public": true,
+    "credit": {
+      "title": "File:15-09-26-RalfR-WLC-0152.jpg",
+      "artist": "Ralf Roletschek",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0152.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%B3%E3%82%AF%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%20%28%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%29"
+  },
+  {
     "id": "30401",
     "name_ja": "ファーネル",
     "name_en": "Farnell",
@@ -21304,6 +24284,52 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32415",
+    "name_ja": "ファジー・ネーブル",
+    "name_en": "Fuzzy Navel",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "data/images-wiki-ja/32415.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach Liqueur",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      },
+      {
+        "name_ja": "オレンジスライス",
+        "name_en": "Orange Slice",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにピーチリキュールを注ぎ、冷えたオレンジジュースで満たして軽くステアする。カットオレンジまたはスライスオレンジを飾る。",
+    "instructions_en": "Pour peach liqueur into a tumbler with ice, top with chilled orange juice and stir lightly. Garnish with orange slice or wedge.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": true,
+    "credit": {
+      "title": "File:Fuzzy navel 01.jpg",
+      "artist": "逃亡者 (ja:利用者:逃亡者)",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fuzzy_navel_01.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%8D%E3%83%BC%E3%83%99%E3%83%AB"
   },
   {
     "id": "178328",
@@ -21704,6 +24730,104 @@
     "is_public": false
   },
   {
+    "id": "32412",
+    "name_ja": "プッシー・キャット",
+    "name_en": "Pussy Cat",
+    "category_ja": "ノンアルコールカクテル",
+    "category_en": "Non-Alcoholic Cocktail",
+    "glass_ja": "サワーグラス",
+    "glass_en": "Sour glass",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non-Alcoholic",
+    "base": "Non-Alcoholic",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "60ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple Juice",
+        "measure_ja": "60ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit Juice",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "Grenadine",
+        "measure_ja": "3dash",
+        "measure_en": "3 dashes"
+      },
+      {
+        "name_ja": "オレンジスライス",
+        "name_en": "Orange Slice",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "材料をシェイクしてグラスに注ぎ、オレンジスライスとグレープフルーツスライスをグラスの縁に飾る。",
+    "instructions_en": "Shake the ingredients and pour into a glass. Garnish the rim with orange and grapefruit slices.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%83%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88"
+  },
+  {
+    "id": "32409",
+    "name_ja": "プッシーフット",
+    "name_en": "Pussyfoot",
+    "category_ja": "ノンアルコールカクテル",
+    "category_en": "Non-Alcoholic Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non-Alcoholic",
+    "base": "Non-Alcoholic",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "3/4",
+        "measure_en": "3/4 part"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "1/4",
+        "measure_en": "1/4 part"
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "Grenadine",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "卵黄",
+        "name_en": "Egg Yolk",
+        "measure_ja": "1個分",
+        "measure_en": "1 yolk"
+      }
+    ],
+    "instructions_ja": "材料をシェイクし、大きめのカクテルグラスかソーサー型シャンパングラスに注ぐ。",
+    "instructions_en": "Shake the ingredients and strain into a large cocktail glass or saucer champagne glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%83%E3%82%B7%E3%83%BC%E3%83%95%E3%83%83%E3%83%88"
+  },
+  {
     "id": "30204",
     "name_ja": "ブッシュワッカー",
     "name_en": "Bushwacker",
@@ -22070,6 +25194,46 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Black_and_tan"
   },
   {
+    "id": "32416",
+    "name_ja": "ブラック・アンド・ホワイト",
+    "name_en": "Black and White",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "スタウト",
+        "name_en": "Stout",
+        "measure_ja": "2",
+        "measure_en": "2 parts"
+      },
+      {
+        "name_ja": "牛乳",
+        "name_en": "Milk",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar Syrup",
+        "measure_ja": "2tsp",
+        "measure_en": "2 tsp"
+      }
+    ],
+    "instructions_ja": "グラスに黒ビール、牛乳、シュガーシロップを注ぎ、軽くステアする。材料はよく冷やしておく。",
+    "instructions_en": "Pour stout, milk, and sugar syrup into a glass and stir lightly. Use well-chilled ingredients.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88"
+  },
+  {
     "id": "30021",
     "name_ja": "ブラック・ルシアン",
     "name_en": "Black Russian",
@@ -22108,6 +25272,40 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Black_Russian.jpg"
     },
     "_wiki_source": "https://en.wikipedia.org/wiki/Black_Russian"
+  },
+  {
+    "id": "32413",
+    "name_ja": "ブラック・レイン",
+    "name_en": "Black Rain",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "フルート型シャンパングラス",
+    "glass_en": "Champagne flute",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "スパークリングワイン",
+        "name_en": "Sparkling Wine",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      },
+      {
+        "name_ja": "ブラックサンブーカ",
+        "name_en": "Black Sambuca",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      }
+    ],
+    "instructions_ja": "フルート型シャンパングラスにブラックサンブーカを注ぎ、冷やしたスパークリングワインで満たしてごく軽くステアする。",
+    "instructions_en": "Pour black sambuca into a champagne flute and top with chilled sparkling wine. Stir very gently.",
+    "iba": null,
+    "tags": [],
+    "style": "スパークリング",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AC%E3%82%A4%E3%83%B3_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "11106",
@@ -22380,6 +25578,40 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32408",
+    "name_ja": "フランシス・アルバート",
+    "name_en": "Francis Albert",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ワイルドターキー",
+        "name_en": "Wild Turkey",
+        "measure_ja": "1/2",
+        "measure_en": "1/2 part"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Tanqueray Dry Gin",
+        "measure_ja": "1/2",
+        "measure_en": "1/2 part"
+      }
+    ],
+    "instructions_ja": "ワイルドターキーとタンカレー・ドライジンを等量でステアし、カクテルグラスに注ぐ。ロックスタイルで時間をかけて飲むこともある。",
+    "instructions_en": "Stir equal parts of Wild Turkey and Tanqueray Dry Gin, then strain into a cocktail glass. Can also be served on the rocks.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88"
   },
   {
     "id": "17191",
@@ -22691,6 +25923,46 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Brandy_sour"
   },
   {
+    "id": "32301",
+    "name_ja": "ブランデー・ズーム・カクテル",
+    "name_en": "",
+    "category_ja": "ショートドリンク",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "蜂蜜",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "氷とともに全ての材料をシェイクし、カクテルグラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%82%BA%E3%83%BC%E3%83%A0%20%28%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%29"
+  },
+  {
     "id": "30112",
     "name_ja": "ブランデー・デイジー",
     "name_en": "Brandy Daisy",
@@ -22934,6 +26206,86 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Brandy_flip_in_stemmed_cocktail_glass.jpg"
     },
     "_wiki_source": "https://en.wikipedia.org/wiki/Flip_(cocktail)"
+  },
+  {
+    "id": "32411",
+    "name_ja": "プリンセス・メアリー",
+    "name_en": "Princess Mary",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライジン",
+        "name_en": "Dry Gin",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "クレーム・ド・カカオ",
+        "name_en": "Crème de Cacao",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "ヘビークリーム",
+        "name_en": "Fresh Cream",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      }
+    ],
+    "instructions_ja": "全ての材料を氷と共にシェイクし、カクテルグラスに注ぐ。",
+    "instructions_en": "Shake all ingredients with ice and strain into a cocktail glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%BB%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
+    "id": "32410",
+    "name_ja": "ブルー・マンデー",
+    "name_en": "Blue Monday",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "15ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue Curaçao",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "材料をミキシンググラスに入れてステアし、カクテルグラスに注ぐ。",
+    "instructions_en": "Stir the ingredients in a mixing glass and strain into a cocktail glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%B3%E3%83%87%E3%83%BC_(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "12672",
@@ -23629,6 +26981,64 @@
     }
   },
   {
+    "id": "32504",
+    "name_ja": "プレーリー・オイスター",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールド・ファッションド・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32504.jpg",
+    "ingredients": [
+      {
+        "name_ja": "卵黄",
+        "name_en": "",
+        "measure_ja": "1個分",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ウスターソース",
+        "name_en": "",
+        "measure_ja": "小さじ1",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "トマトケチャップ",
+        "name_en": "",
+        "measure_ja": "小さじ1",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ビネガー",
+        "name_en": "",
+        "measure_ja": "2ふり",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "コショウ",
+        "name_en": "",
+        "measure_ja": "1ふり",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "卵黄を崩さないように注意しながらグラスに入れ、そこへほかの材料を加える。逆に、ソース、ケチャップ、ビネガーを混ぜた中に卵黄を落とし、コショウを振るという作り方もある。飲む際には、卵黄を崩さないように一気に飲むのが正しいとも、卵黄を砕いても構わないともいう。バリエーションとして、ケチャップではなくトマトジュースを用いることもあり、唐辛子の粉末、タバスコ、セロリソルト、塩などが用いられることもある。ウォッカ、ブランデー、バーボン・ウイスキーなどを用いてアルコール仕立てにする場合もあるが、これは二日酔い対策として飲む際、迎え酒の効果を高めるためともいわれる。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Prairie_Oyster_.jpg",
+      "artist": "KAMEDA, Akihiro",
+      "license": "CC BY 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Prairie_Oyster_.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC"
+  },
+  {
     "id": "30202",
     "name_ja": "ブレックファスト・マティーニ",
     "name_en": "Breakfast martini",
@@ -24276,6 +27686,52 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32414",
+    "name_ja": "ブロードウェイ・サースト",
+    "name_en": "Broadway Thirst",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "2",
+        "measure_en": "2 parts"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "1",
+        "measure_en": "1 part"
+      },
+      {
+        "name_ja": "粉砂糖",
+        "name_en": "Powdered Sugar",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "テキーラ、オレンジジュース、レモンジュース、粉砂糖をシェイクしてカクテルグラスに注ぐ。",
+    "instructions_en": "Shake tequila, orange juice, lemon juice, and powdered sugar, then strain into a cocktail glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%B9%E3%83%88"
   },
   {
     "id": "178311",
@@ -25112,6 +28568,58 @@
     "is_public": false
   },
   {
+    "id": "32505",
+    "name_ja": "ポート・フリップ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32505.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ポートワイン",
+        "name_en": "",
+        "measure_ja": "45ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "",
+        "measure_ja": "15ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "卵黄",
+        "name_en": "",
+        "measure_ja": "10ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ナツメグ",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "シェイクで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": true,
+    "credit": {
+      "title": "File:Porto Flip.jpg",
+      "artist": "Stuart Webster",
+      "license": "CC BY 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Porto_Flip.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%BB%E3%83%95%E3%83%AA%E3%83%83%E3%83%97"
+  },
+  {
     "id": "11963",
     "name_ja": "ポートワイン・カクテル",
     "name_en": "Port Wine Cocktail",
@@ -25250,6 +28758,52 @@
     "is_public": false
   },
   {
+    "id": "32501",
+    "name_ja": "ポーラー・ショート・カット",
+    "name_en": "Polar Short Cut",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "キュラソー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ベルモット",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "チェリー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ダーク・ラム、ホワイト・キュラソー、ドライ・ベルモット、そしてチェリー・ヒーリングを同量ずつ量り取り、これらを全て氷を入れたミキシング・グラスで冷却しながら混ぜる。それを、氷が入らないようにカクテル・グラス（容量75〜90ml程度）に注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ステア",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AB%E3%83%83%E3%83%88"
+  },
+  {
     "id": "30117",
     "name_ja": "ボストン",
     "name_en": "Boston",
@@ -25300,6 +28854,52 @@
     "style": "ショート",
     "is_public": false,
     "_wiki_source": "https://en.wikipedia.org/wiki/Boston_(cocktail)"
+  },
+  {
+    "id": "32417",
+    "name_ja": "ボストン・クーラー",
+    "name_en": "Boston Cooler",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White Rum",
+        "measure_ja": "45ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "20ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar Syrup",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "ジンジャーエール",
+        "name_en": "Ginger Ale",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      }
+    ],
+    "instructions_ja": "ジンジャーエール以外の材料をシェイクしてグラスに注ぎ、冷やしたジンジャーエールで満たして軽く混ぜる。",
+    "instructions_en": "Shake all ingredients except ginger ale, pour into a glass, top with chilled ginger ale, and stir lightly.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC"
   },
   {
     "id": "11129",
@@ -25406,6 +29006,40 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32503",
+    "name_ja": "ボッチ・ボール",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジ",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラー（容量300ml程度）に、アマレットとオレンジ・ジュースを注ぎ、よく冷やした炭酸水でタンブラーを満たして、軽くステアすれば完成である。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%83%E3%83%81%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB"
   },
   {
     "id": "14782",
@@ -25816,6 +29450,46 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "32502",
+    "name_ja": "ボルガ・ボートマン",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテル・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジ",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ウォッカ、チェリー・ブランデー、オレンジ・ジュースをシェークして、カクテル・グラス（容量75〜90ml程度）に注げば完成である。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%AC%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%83%9E%E3%83%B3"
   },
   {
     "id": "30119",
@@ -26323,6 +29997,52 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Bombardino.jpg"
     },
     "_wiki_source": "https://en.wikipedia.org/wiki/Bombardino"
+  },
+  {
+    "id": "32506",
+    "name_ja": "マイアミ・サンセット",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "",
+        "measure_ja": "45ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "キュラソー",
+        "name_en": "",
+        "measure_ja": "20ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジ",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "",
+        "measure_ja": "2-3tsp.",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "氷を入れたタンブラーにバーボン・ウイスキーとホワイト・キュラソーを注ぐ。オレンジ・ジュースを満たしてステアする。グレナデン・シロップを静かに沈める。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%A2%E3%83%9F%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88"
   },
   {
     "id": "13936",
@@ -27884,6 +31604,58 @@
     "is_public": false
   },
   {
+    "id": "32507",
+    "name_ja": "モスコー・ミュール",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "銅製マグカップ",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32507.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "",
+        "measure_ja": "45ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ジュース",
+        "name_en": "",
+        "measure_ja": "10ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ジンジャービア",
+        "name_en": "",
+        "measure_ja": "120ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ライム",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Moscow_Mule_at_Rye,_San_Francisco.jpg",
+      "artist": "Will Shenton",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Moscow_Mule_at_Rye,_San_Francisco.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%AB"
+  },
+  {
     "id": "11009",
     "name_ja": "モスコミュール",
     "name_en": "Moscow Mule",
@@ -28306,6 +32078,46 @@
     "is_public": false
   },
   {
+    "id": "32510",
+    "name_ja": "モンテカルロ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ライ・ウィスキー",
+        "name_en": "",
+        "measure_ja": "3/4",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ベネディクティン",
+        "name_en": "",
+        "measure_ja": "1/4",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ビターズ",
+        "name_en": "",
+        "measure_ja": "2dash",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "シェイクで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
     "id": "31309",
     "name_ja": "ユズ・サワー",
     "name_en": "Yuzu Sour",
@@ -28486,6 +32298,58 @@
       "license": "Original (本人撮影)",
       "source_url": ""
     }
+  },
+  {
+    "id": "32512",
+    "name_ja": "ライジング・サン",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "",
+        "measure_ja": "30ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "シャルトリューズ",
+        "name_en": "",
+        "measure_ja": "20ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "",
+        "measure_ja": "10ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "スロー・ジン",
+        "name_en": "",
+        "measure_ja": "1tsp",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "チェリー",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "シェイクで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B5%E3%83%B3%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "12704",
@@ -30172,6 +34036,86 @@
     "is_public": false
   },
   {
+    "id": "32509",
+    "name_ja": "レゲエパンチ",
+    "name_en": "Reggae Punch",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32509.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "",
+        "measure_ja": "1",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "烏龍茶",
+        "name_en": "",
+        "measure_ja": "3",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "レモンスライス",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": true,
+    "credit": {
+      "title": "File:Reggaepunch.jpg",
+      "artist": "Shoichi.M",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Reggaepunch.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B2%E3%82%A8%E3%83%91%E3%83%B3%E3%83%81"
+  },
+  {
+    "id": "32508",
+    "name_ja": "レッド・アイ",
+    "name_en": "red eye",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ビール",
+        "name_en": "",
+        "measure_ja": "1/2",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ジュース",
+        "name_en": "",
+        "measure_ja": "1/2",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%82%A2%E3%82%A4"
+  },
+  {
     "id": "14087",
     "name_ja": "レッド・スナッパー",
     "name_en": "Red Snapper",
@@ -31080,6 +35024,40 @@
     "is_public": false
   },
   {
+    "id": "32513",
+    "name_ja": "ロッシーニ",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "フルートグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "プロセッコ",
+        "name_en": "",
+        "measure_ja": "100ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "イチゴ",
+        "name_en": "",
+        "measure_ja": "30ml",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%B7%E3%83%BC%E3%83%8B%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
     "id": "20004",
     "name_ja": "ロブロイ",
     "name_en": "Rob Roy",
@@ -31349,6 +35327,58 @@
     "is_public": false
   },
   {
+    "id": "32511",
+    "name_ja": "ワード・エイト",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "data/images-wiki-ja/32511.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "",
+        "measure_ja": "2",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "オレンジ",
+        "name_en": "",
+        "measure_ja": "1",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ジュース",
+        "name_en": "",
+        "measure_ja": "1",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "",
+        "measure_ja": "2dash",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "氷と上記の材料をシェイクし、カクテル・グラスに注ぐ。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": true,
+    "credit": {
+      "title": "File:Ward_8_cocktail.jpg",
+      "artist": "CApitol3 (talk)Jim Hood",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ward_8_cocktail.jpg"
+    },
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%88"
+  },
+  {
     "id": "30906",
     "name_ja": "ワード8",
     "name_en": "Ward 8",
@@ -31569,6 +35599,80 @@
     ]
   },
   {
+    "id": "32517",
+    "name_ja": "吉野",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "",
+        "measure_ja": "50ml",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "キルシュ",
+        "name_en": "",
+        "measure_ja": "1tsp",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "リキュール",
+        "name_en": "",
+        "measure_ja": "1tsp",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "塩",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "シェイクで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "シェイク",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E5%90%89%E9%87%8E%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
+  },
+  {
+    "id": "32514",
+    "name_ja": "午後の死",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "シャンパン・グラス",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ペルノー",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ビルドで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E5%8D%88%E5%BE%8C%E3%81%AE%E6%AD%BB"
+  },
+  {
     "id": "20007",
     "name_ja": "高輪の夜",
     "name_en": "Takanawa no Yoru",
@@ -31659,6 +35763,40 @@
       "https://punchdrink.com/recipes/sakura-martini/",
       "https://www.diffordsguide.com/cocktails/recipe/3622/sakura-martini"
     ]
+  },
+  {
+    "id": "32515",
+    "name_ja": "春暁",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス (115ml)",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "リキュール",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "塩",
+        "name_en": "",
+        "measure_ja": "装飾",
+        "measure_en": "garnish"
+      }
+    ],
+    "instructions_ja": "ステアで作る。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ステア",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E6%98%A5%E6%9A%81%20(%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB)"
   },
   {
     "id": "30605",
@@ -31806,6 +35944,40 @@
       "license": "Original (本人撮影)",
       "source_url": ""
     }
+  },
+  {
+    "id": "32516",
+    "name_ja": "函館ガラビー",
+    "name_en": "",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ビール",
+        "name_en": "",
+        "measure_ja": "6/10",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "コアップガラナ",
+        "name_en": "",
+        "measure_ja": "4/10",
+        "measure_en": ""
+      }
+    ],
+    "instructions_ja": "ビールを先にタンブラーやジョッキなどの器に注ぐ。コアップガラナをゆっくりと充たし、軽くステアする（ビルドとして、全くステアしない事もある）。急に注ぐと泡が立ち過ぎるので注意が必要。",
+    "instructions_en": "",
+    "iba": null,
+    "tags": [],
+    "style": "ビルド",
+    "is_public": false,
+    "_wiki_source": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E3%82%AC%E3%83%A9%E3%83%93%E3%83%BC"
   },
   {
     "id": "30812",
