@@ -476,6 +476,28 @@ select:focus { border-color: var(--accent); }
   background: rgba(126,182,201,.03);
   border-color: rgba(126,182,201,.15);
 }
+/* 分類見出し（レシピに直接出てこない親） */
+.ing-status-spacer {
+  flex: 0 0 auto;
+  width: 36px;
+  display: inline-block;
+}
+.ing-chip.is-category {
+  cursor: default;
+  background: transparent;
+  border: 1px dashed var(--line);
+  color: var(--muted);
+  letter-spacing: .05em;
+  font-size: 12px;
+}
+.ing-chip.is-category:hover {
+  background: transparent;
+  border-color: var(--line);
+  transform: none;
+}
+.ing-chip .ing-sub {
+  font-weight: 400; color: var(--muted); margin-left: 2px;
+}
 .ing-status {
   flex: 0 0 auto;
   width: 36px;

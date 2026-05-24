@@ -846,6 +846,8 @@ function renderIngredients() {
 
     const kids = visibleChildren(name);
     const hasKids = kids.length > 0;
+    // 「実体」: レシピに直接出現しているか
+    const isConcrete = (countMap[name] || 0) > 0;
 
     // 折りたたみアイコン or 空白
     const toggle = document.createElement("button");
@@ -860,7 +862,6 @@ function renderIngredients() {
       toggle.addEventListener("click", (e) => {
         e.stopPropagation();
         setCollapsed(name, !isCollapsed(name));
-        // 再描画（軽量に部分再描画は手間なので全体再描画）
         renderIngredients();
       });
     } else {
@@ -869,55 +870,78 @@ function renderIngredients() {
       toggle.textContent = "";
     }
 
-    // 3段階ステータスボタン
-    const statBtn = document.createElement("button");
-    statBtn.className = "ing-status";
-    statBtn.type = "button";
-    const renderStatusBtn = () => {
-      const s = getStatus(name);
-      statBtn.classList.toggle("is-owned", s === "owned");
-      statBtn.classList.toggle("is-obtainable", s === "obtainable");
-      statBtn.title = s === "owned" ? `${name}: 所持中` :
-                      s === "obtainable" ? `${name}: 調達可能` :
-                      `${name}: 未設定`;
-      statBtn.textContent = s === "owned" ? "✓" : s === "obtainable" ? "↻" : "□";
-      // effective も視覚化（子で所持なら薄く緑）
-      const eff = effectiveStatus(name);
-      row.classList.toggle("is-eff-owned", eff === "owned" && s !== "owned");
-      row.classList.toggle("is-eff-obtainable", eff === "obtainable" && s !== "obtainable");
-      row.classList.toggle("is-owned", s === "owned");
-      row.classList.toggle("is-obtainable", s === "obtainable");
-    };
-    renderStatusBtn();
-    statBtn.addEventListener("click", (e) => {
-      e.stopPropagation();
-      cycleStatus(name);
+    // ステータスボタン（実体のみ）
+    if (isConcrete) {
+      const statBtn = document.createElement("button");
+      statBtn.className = "ing-status";
+      statBtn.type = "button";
+      const renderStatusBtn = () => {
+        const s = getStatus(name);
+        statBtn.classList.toggle("is-owned", s === "owned");
+        statBtn.classList.toggle("is-obtainable", s === "obtainable");
+        statBtn.title = s === "owned" ? `${name}: 所持中` :
+                        s === "obtainable" ? `${name}: 調達可能` :
+                        `${name}: 未設定`;
+        statBtn.textContent = s === "owned" ? "✓" : s === "obtainable" ? "↻" : "□";
+        const eff = effectiveStatus(name);
+        row.classList.toggle("is-eff-owned", eff === "owned" && s !== "owned");
+        row.classList.toggle("is-eff-obtainable", eff === "obtainable" && s !== "obtainable");
+        row.classList.toggle("is-owned", s === "owned");
+        row.classList.toggle("is-obtainable", s === "obtainable");
+      };
       renderStatusBtn();
-      updateTitle();
-    });
+      statBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        cycleStatus(name);
+        renderStatusBtn();
+        updateTitle();
+      });
+      row.append(toggle, statBtn);
+    } else {
+      // 親カテゴリ（実体なし）: ステータスボタンの代わりに空きスペース
+      const placeholder = document.createElement("span");
+      placeholder.className = "ing-status-spacer";
+      row.append(toggle, placeholder);
+      row.classList.add("is-category");
+    }
 
     // チップ本体
     const chip = document.createElement("button");
     chip.className = "ing-chip";
     chip.type = "button";
-    const count = totalCount(name);
+    const ownCount = countMap[name] || 0;
+    const subTotal = totalCount(name);
+    const countLabel = isConcrete
+      ? (hasKids ? `${ownCount}<span class="ing-sub">/${subTotal}</span>` : `${ownCount}`)
+      : `${subTotal}`;
     chip.innerHTML = `
       <span class="ing-name"></span>
-      <span class="ing-count">${count}</span>
+      <span class="ing-count">${countLabel}</span>
     `;
     chip.querySelector(".ing-name").textContent = name;
-    chip.title = `${name} を使うカクテルを表示`;
-    chip.addEventListener("click", () => {
-      document.querySelector('input[name="mode"][value="ingredient"]').checked = true;
-      searchInput.value = name;
-      switchTab("browse");
-      applyFilters();
-    });
+    if (isConcrete) {
+      chip.title = `${name} を使うカクテルを表示`;
+      chip.addEventListener("click", () => {
+        // 完全一致絞り込み：その名前そのものがレシピに書かれているカクテルのみ
+        const items = DATA.filter(c =>
+          (c.ingredients || []).some(it => (it.name_ja || it.name_en) === name)
+        );
+        switchTab("browse");
+        // 検索フォームはクリア、フィルタを直接適用
+        if (searchInput) searchInput.value = "";
+        if (styleSel) styleSel.value = "";
+        if (baseSel) baseSel.value = "";
+        renderCards(items, `材料「${name}」（完全一致）`);
+      });
+    } else {
+      chip.classList.add("is-category");
+      chip.title = `${name} は分類名（レシピに直接出現しない）`;
+      chip.disabled = true;
+    }
 
-    row.append(toggle, statBtn, chip);
+    row.append(chip);
     wrap.appendChild(row);
 
-    // 子を描画（折りたたまれていない時）
     if (hasKids && !isCollapsed(name)) {
       for (const c of kids) renderNode(c, depth + 1);
     }
