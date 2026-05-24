@@ -94,6 +94,24 @@ const COMMON_INGREDIENTS = new Set([
   "水", "氷", "クラッシュドアイス", "熱湯", "湯", "ホットウォーター",
   "Water", "Ice", "Ice cubes", "Crushed ice", "Hot water"
 ]);
+// 階層分類（子 → 親）。fetch でロード
+let TAXONOMY = {};
+let CHILDREN_INDEX = {}; // 親 → [子, ...] の逆引き
+function parentOf(name) { return TAXONOMY[name]; }
+function ancestorsOf(name, set = new Set()) {
+  let p = parentOf(name);
+  while (p && !set.has(p)) { set.add(p); p = parentOf(p); }
+  return set;
+}
+function childrenOf(name) { return CHILDREN_INDEX[name] || []; }
+function descendantsOf(name, set = new Set()) {
+  for (const c of childrenOf(name)) {
+    if (set.has(c)) continue;
+    set.add(c);
+    descendantsOf(c, set);
+  }
+  return set;
+}
 function isCommonIngredient(name) { return COMMON_INGREDIENTS.has(name); }
 
 // 材料ステータス: "owned" / "obtainable" / "none"
@@ -116,14 +134,29 @@ function getStatus(name) {
   if (isCommonIngredient(name)) return "owned";
   return getStatusMap()[name] || "none";
 }
+// 所持判定（子孫の所持も自分の所持として扱う）
+// レシピが「ウイスキー」を要求 → バーボン所持していれば true
+function effectiveStatus(name) {
+  if (isCommonIngredient(name)) return "owned";
+  const direct = getStatus(name);
+  if (direct === "owned") return "owned";
+  // 子孫を辿る
+  let bestObtainable = direct === "obtainable";
+  for (const desc of descendantsOf(name)) {
+    const s = getStatus(desc);
+    if (s === "owned") return "owned";
+    if (s === "obtainable") bestObtainable = true;
+  }
+  return bestObtainable ? "obtainable" : "none";
+}
 function setStatus(name, status) {
   const map = getStatusMap();
   if (status === "none") delete map[name];
   else map[name] = status;
   localStorage.setItem(OWN_KEY, JSON.stringify(map));
 }
-function isOwned(name) { return getStatus(name) === "owned"; }
-function isObtainable(name) { return getStatus(name) === "obtainable"; }
+function isOwned(name) { return effectiveStatus(name) === "owned"; }
+function isObtainable(name) { return effectiveStatus(name) === "obtainable"; }
 function cycleStatus(name) {
   const s = getStatus(name);
   const next = s === "none" ? "obtainable" : s === "obtainable" ? "owned" : "none";
@@ -747,66 +780,150 @@ function buildIngredientStats() {
   return [...map.values()].sort((a, b) => b.count - a.count || a.ja.localeCompare(b.ja, "ja"));
 }
 
+// 折りたたみ状態を保持
+const COLLAPSED_KEY = "cocktailshelf:collapsed-categories";
+function getCollapsed() {
+  try { return JSON.parse(localStorage.getItem(COLLAPSED_KEY)) || {}; }
+  catch { return {}; }
+}
+function isCollapsed(name) { return !!getCollapsed()[name]; }
+function setCollapsed(name, on) {
+  const map = getCollapsed();
+  if (on) map[name] = true; else delete map[name];
+  localStorage.setItem(COLLAPSED_KEY, JSON.stringify(map));
+}
+
 function renderIngredients() {
-  const list = buildIngredientStats().filter(it => !isCommonIngredient(it.ja));
+  const stats = buildIngredientStats().filter(it => !isCommonIngredient(it.ja));
+  const countMap = {};
+  for (const it of stats) countMap[it.ja] = it.count;
+
+  // データ内出現材料 + taxonomy 内の親カテゴリも全部表示候補に
+  const allNames = new Set(stats.map(it => it.ja));
+  for (const [child, parent] of Object.entries(TAXONOMY)) {
+    allNames.add(parent);
+    // taxonomy にあって出現してない子は表示しない（実データに無い銘柄は除外）
+    if (countMap[child] !== undefined) allNames.add(child);
+  }
+  // 親（子を持つ）でカウント0でも、子が出現していれば親を出す
+  // 出現していない単独カテゴリは出さない
+
   const updateTitle = () => {
     const { owned, obtainable } = countByStatus();
-    setTitle(`材料一覧（頻出順）  所持 ${owned} ・ 調達可 ${obtainable} / ${list.length}`);
+    setTitle(`材料一覧（頻出順）  所持 ${owned} ・ 調達可 ${obtainable}`);
   };
   updateTitle();
 
   grid.innerHTML = "";
   emptyMsg.classList.add("hidden");
 
+  // ルートを判定: taxonomy で親を持たない and (出現する OR 子を持つ)
+  const isRoot = (name) => !parentOf(name) && allNames.has(name);
+  // 子のうち allNames に入っているもの
+  const visibleChildren = (name) =>
+    childrenOf(name)
+      .filter(c => allNames.has(c) || descendantsOf(c).size > 0)
+      .sort((a, b) => (countMap[b]||0) - (countMap[a]||0) || a.localeCompare(b, 'ja'));
+
+  // 各エントリの合計件数（自分 + 子孫の出現回数）を計算（表示用）
+  const totalCount = (name) => {
+    let n = countMap[name] || 0;
+    for (const d of descendantsOf(name)) n += countMap[d] || 0;
+    return n;
+  };
+
+  // ルートカテゴリ一覧（頻度合計順）
+  const roots = [...allNames].filter(isRoot)
+    .sort((a, b) => totalCount(b) - totalCount(a) || a.localeCompare(b, 'ja'));
+
   const wrap = document.createElement("div");
-  wrap.className = "ing-grid";
-  for (const it of list) {
+  wrap.className = "ing-tree";
+
+  function renderNode(name, depth) {
     const row = document.createElement("div");
     row.className = "ing-row";
+    row.style.paddingLeft = `${depth * 18}px`;
 
-    // 3段階ステータスボタン: none → obtainable → owned → none
+    const kids = visibleChildren(name);
+    const hasKids = kids.length > 0;
+
+    // 折りたたみアイコン or 空白
+    const toggle = document.createElement("button");
+    toggle.className = "ing-toggle";
+    toggle.type = "button";
+    if (hasKids) {
+      const updateToggle = () => {
+        toggle.textContent = isCollapsed(name) ? "▶" : "▼";
+        toggle.title = isCollapsed(name) ? "展開" : "折りたたむ";
+      };
+      updateToggle();
+      toggle.addEventListener("click", (e) => {
+        e.stopPropagation();
+        setCollapsed(name, !isCollapsed(name));
+        // 再描画（軽量に部分再描画は手間なので全体再描画）
+        renderIngredients();
+      });
+    } else {
+      toggle.classList.add("is-leaf");
+      toggle.disabled = true;
+      toggle.textContent = "";
+    }
+
+    // 3段階ステータスボタン
     const statBtn = document.createElement("button");
     statBtn.className = "ing-status";
     statBtn.type = "button";
     const renderStatusBtn = () => {
-      const s = getStatus(it.ja);
+      const s = getStatus(name);
       statBtn.classList.toggle("is-owned", s === "owned");
       statBtn.classList.toggle("is-obtainable", s === "obtainable");
-      statBtn.title = s === "owned" ? `${it.ja}: 所持中` :
-                      s === "obtainable" ? `${it.ja}: 調達可能` :
-                      `${it.ja}: 未設定`;
+      statBtn.title = s === "owned" ? `${name}: 所持中` :
+                      s === "obtainable" ? `${name}: 調達可能` :
+                      `${name}: 未設定`;
       statBtn.textContent = s === "owned" ? "✓" : s === "obtainable" ? "↻" : "□";
+      // effective も視覚化（子で所持なら薄く緑）
+      const eff = effectiveStatus(name);
+      row.classList.toggle("is-eff-owned", eff === "owned" && s !== "owned");
+      row.classList.toggle("is-eff-obtainable", eff === "obtainable" && s !== "obtainable");
       row.classList.toggle("is-owned", s === "owned");
       row.classList.toggle("is-obtainable", s === "obtainable");
     };
     renderStatusBtn();
     statBtn.addEventListener("click", (e) => {
       e.stopPropagation();
-      cycleStatus(it.ja);
+      cycleStatus(name);
       renderStatusBtn();
       updateTitle();
     });
 
-    // チップ本体（クリックで絞り込み）
+    // チップ本体
     const chip = document.createElement("button");
     chip.className = "ing-chip";
     chip.type = "button";
+    const count = totalCount(name);
     chip.innerHTML = `
       <span class="ing-name"></span>
-      <span class="ing-count">${it.count}</span>
+      <span class="ing-count">${count}</span>
     `;
-    chip.querySelector(".ing-name").textContent = it.ja;
-    chip.title = `${it.ja} を使うカクテルを表示`;
+    chip.querySelector(".ing-name").textContent = name;
+    chip.title = `${name} を使うカクテルを表示`;
     chip.addEventListener("click", () => {
       document.querySelector('input[name="mode"][value="ingredient"]').checked = true;
-      searchInput.value = it.ja;
+      searchInput.value = name;
       switchTab("browse");
       applyFilters();
     });
 
-    row.append(statBtn, chip);
+    row.append(toggle, statBtn, chip);
     wrap.appendChild(row);
+
+    // 子を描画（折りたたまれていない時）
+    if (hasKids && !isCollapsed(name)) {
+      for (const c of kids) renderNode(c, depth + 1);
+    }
   }
+
+  for (const root of roots) renderNode(root, 0);
   grid.appendChild(wrap);
 }
 
@@ -827,9 +944,23 @@ function loadRandom() {
 }
 
 // --- 起動 ---
+async function loadTaxonomy() {
+  try {
+    const res = await fetch("data/taxonomy.json");
+    const j = await res.json();
+    delete j._note;
+    TAXONOMY = j;
+    CHILDREN_INDEX = {};
+    for (const [child, parent] of Object.entries(TAXONOMY)) {
+      (CHILDREN_INDEX[parent] = CHILDREN_INDEX[parent] || []).push(child);
+    }
+  } catch (e) { console.warn("taxonomy load failed", e); TAXONOMY = {}; CHILDREN_INDEX = {}; }
+}
+
 async function init() {
   showLoader(true);
   try {
+    await loadTaxonomy();
     const res = await fetch(DATA_URL);
     DATA = await res.json();
     // 各カクテルにスタイル属性を付与

@@ -448,9 +448,33 @@ select:focus { border-color: var(--accent); }
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 6px;
 }
+.ing-tree {
+  display: flex; flex-direction: column;
+  gap: 4px;
+}
 .ing-row {
   display: flex; gap: 6px;
   align-items: stretch;
+}
+.ing-toggle {
+  flex: 0 0 auto;
+  width: 24px;
+  background: transparent; color: var(--muted);
+  border: 1px solid transparent;
+  border-radius: 6px;
+  cursor: pointer; font-size: 11px;
+  display: inline-flex; align-items: center; justify-content: center;
+  transition: color .15s ease;
+}
+.ing-toggle:hover { color: var(--accent); }
+.ing-toggle.is-leaf { cursor: default; }
+.ing-row.is-eff-owned .ing-chip {
+  background: rgba(143,201,154,.03);
+  border-color: rgba(143,201,154,.15);
+}
+.ing-row.is-eff-obtainable .ing-chip {
+  background: rgba(126,182,201,.03);
+  border-color: rgba(126,182,201,.15);
 }
 .ing-status {
   flex: 0 0 auto;
