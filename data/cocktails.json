@@ -1425,6 +1425,55 @@
     "is_public": false
   },
   {
+    "id": "31206",
+    "name_ja": "アップル・マティーニ",
+    "name_en": "Apple Martini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "マティーニグラス",
+    "glass_en": "Martini glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "アップルリキュール",
+        "name_en": "Sour apple liqueur",
+        "measure_ja": "45ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "22ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "リンゴスライス",
+        "name_en": "Apple slice",
+        "measure_ja": "1枚",
+        "measure_en": "1 slice"
+      }
+    ],
+    "instructions_ja": "シェイカーに氷、ウォッカ、サワーアップルリキュール、ライムジュースを入れて手早くシェイク。冷やしたマティーニグラスに濾して注ぎ、薄切りのリンゴを飾る。",
+    "instructions_en": "Combine ice, vodka, sour apple liqueur and lime juice in a shaker. Shake briskly, strain into a chilled martini glass and garnish with an apple slice.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/1797/appletini-sour-apple-martini",
+      "https://www.smalltownwoman.com/appletini/"
+    ]
+  },
+  {
     "id": "11046",
     "name_ja": "アップルカー",
     "name_en": "Applecar",
@@ -1519,6 +1568,158 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Appletini.jpg"
     },
     "_wiki_source": "https://en.wikipedia.org/wiki/Appletini"
+  },
+  {
+    "id": "31405",
+    "name_ja": "アディオス",
+    "name_en": "Adios",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue curaçao",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "サワーミックス",
+        "name_en": "Sweet & sour mix",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "レモンライムソーダ",
+        "name_en": "Lemon-lime soda",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "レモンスライス",
+        "name_en": "Lemon slice",
+        "measure_ja": "1枚",
+        "measure_en": "1 slice"
+      }
+    ],
+    "instructions_ja": "氷をたっぷり入れたハイボールグラスにウォッカ、ラム、ジン、テキーラ、ブルーキュラソー、サワーミックスを注ぎ、軽くステアして混ぜる。レモンライムソーダを加えて静かに混ぜ、レモンスライスとマラスキーノチェリーを飾る。",
+    "instructions_en": "Fill a highball glass with ice and add vodka, rum, gin, tequila, blue curaçao, and sweet & sour mix. Stir gently to combine, then top with lemon-lime soda. Garnish with a lemon slice and a maraschino cherry.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://enzasquailhollowkitchen.com/the-ultimate-blue-motorcycle-drink-aka-adios-drink/",
+      "https://www.bargpt.app/ai-cocktail-recipe/adios-mf"
+    ]
+  },
+  {
+    "id": "31403",
+    "name_ja": "アディオス・マザーファッカー",
+    "name_en": "Adios Motherfucker",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハリケーングラス",
+    "glass_en": "Hurricane glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue curaçao",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "シンプルシロップ",
+        "name_en": "Simple syrup",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "レモンライムソーダ",
+        "name_en": "Lemon-lime soda",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      },
+      {
+        "name_ja": "レモンスライス",
+        "name_en": "Lemon slice",
+        "measure_ja": "1枚",
+        "measure_en": "1 slice"
+      }
+    ],
+    "instructions_ja": "シェーカーにレモンライムソーダ以外の材料と氷を入れ、よく冷えるまでシェイクする。氷を詰めたハリケーングラスまたはコリンズグラスに漉し入れ、レモンライムソーダで満たす。レモンスライスとマラスキーノチェリーを飾る。",
+    "instructions_en": "Combine all ingredients except the lemon-lime soda in a shaker with ice and shake until well chilled. Strain into an ice-filled hurricane or Collins glass and top with lemon-lime soda. Garnish with a lemon slice and a maraschino cherry.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://cocktail-society.com/recipes/adios-motherfucker-cocktail/",
+      "https://www.diffordsguide.com/cocktails/recipe/6291/adios-motherfucker"
+    ]
   },
   {
     "id": "17228",
@@ -1931,6 +2132,57 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "31008",
+    "name_ja": "アペロール・スプリッツ",
+    "name_en": "Aperol Spritz",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ワイングラス",
+    "glass_en": "Wine glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "プロセッコ",
+        "name_en": "Prosecco",
+        "measure_ja": "3オンス",
+        "measure_en": "3 oz"
+      },
+      {
+        "name_ja": "アペロール",
+        "name_en": "Aperol",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "オレンジスライス",
+        "name_en": "Orange slice",
+        "measure_ja": "1枚",
+        "measure_en": "1 slice"
+      }
+    ],
+    "instructions_ja": "氷をたっぷり入れたワイングラスにプロセッコ、アペロール、炭酸水の順で注ぎ、軽くステアする。オレンジスライスを飾って供する。",
+    "instructions_en": "Fill a wine glass with ice, pour in Prosecco, Aperol, and soda water in order, then stir gently. Garnish with an orange slice.",
+    "iba": null,
+    "tags": [
+      "IBA"
+    ],
+    "style": "スパークリング",
+    "is_public": false,
+    "_sources": [
+      "https://www.aperol.com/en-us/aperol-spritz-cocktail/",
+      "https://cookieandkate.com/classic-aperol-spritz-recipe/"
+    ]
   },
   {
     "id": "30008",
@@ -3055,6 +3307,49 @@
     }
   },
   {
+    "id": "31203",
+    "name_ja": "ウイスキー・ハイボール",
+    "name_en": "Whiskey Highball",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "Whiskey",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Club soda",
+        "measure_ja": "120ml",
+        "measure_en": "4 oz"
+      },
+      {
+        "name_ja": "レモンの捻り",
+        "name_en": "Lemon twist",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "ハイボールグラスに大きめの氷を入れ、ウイスキーを注ぐ。炭酸を逃がさないよう静かに炭酸水を加え、軽く一回ステア。レモンピールで香り付け。",
+    "instructions_en": "Fill a highball glass with large ice cubes, pour in whiskey, top gently with club soda to keep the carbonation. Stir once and garnish with a lemon twist.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.jamesonwhiskey.com/en/our-world/whiskey-highball-guide/",
+      "https://sugarandcharm.com/whiskey-highball"
+    ]
+  },
+  {
     "id": "12518",
     "name_ja": "ウィスキー・マック",
     "name_en": "Whisky Mac",
@@ -3085,6 +3380,55 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "31005",
+    "name_ja": "ウイスキースマッシュ",
+    "name_en": "Whiskey Smash",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "オールドファッションドグラス",
+    "glass_en": "Old-fashioned glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "バーボン",
+        "name_en": "Bourbon",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "1/4個",
+        "measure_en": "1/4 lemon"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "5枚",
+        "measure_en": "5 leaves"
+      },
+      {
+        "name_ja": "シンプルシロップ",
+        "name_en": "Simple syrup",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      }
+    ],
+    "instructions_ja": "シェーカーにレモンとミントを入れて軽くマドラーで潰し、バーボンとシンプルシロップ、クラッシュドアイスを加えてしっかり振る。クラッシュドアイスを詰めたオールドファッションドグラスへ漉し入れ、ミントの枝を飾る。",
+    "instructions_en": "Muddle lemon and mint in a shaker, add bourbon, simple syrup, and crushed ice, then shake until frosty. Strain into an old-fashioned glass filled with crushed ice and garnish with a mint sprig.",
+    "iba": null,
+    "tags": [],
+    "style": "ロック",
+    "is_public": false,
+    "_sources": [
+      "https://www.thekitchn.com/whiskey-smash-recipe-23295017",
+      "https://www.diffordsguide.com/cocktails/recipe/3347/whiskey-smash"
+    ]
   },
   {
     "id": "178348",
@@ -3427,6 +3771,57 @@
       "license": "CC BY 4.0",
       "source_url": "https://commons.wikimedia.org/wiki/File:Vesper_in_Bordeaux.jpg"
     }
+  },
+  {
+    "id": "31208",
+    "name_ja": "ヴェスパー・マティーニ",
+    "name_en": "Vesper Martini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "マティーニグラス",
+    "glass_en": "Martini glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "22ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "リレ・ブラン",
+        "name_en": "Lillet Blanc",
+        "measure_ja": "15ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "レモンの捻り",
+        "name_en": "Lemon twist",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "シェイカーに氷、ジン、ウォッカ、リレ・ブランを入れて十分に冷えるまでシェイク。冷やしたマティーニグラスに濾し、レモンピールで香りを付けて飾る。",
+    "instructions_en": "Add gin, vodka and Lillet Blanc to a shaker filled with ice. Shake until well chilled, strain into a chilled martini glass and garnish with a lemon twist.",
+    "iba": null,
+    "tags": [
+      "IBA"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://en.wikipedia.org/wiki/Vesper_(cocktail)",
+      "https://www.gastronomblog.com/vesper-martini/"
+    ]
   },
   {
     "id": "12446",
@@ -3905,6 +4300,55 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "31106",
+    "name_ja": "エアメール",
+    "name_en": "Air Mail",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "フルートグラス",
+    "glass_en": "Flute glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "1 1/2 oz",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "3/4 oz",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "ハニーシロップ",
+        "name_en": "Honey syrup",
+        "measure_ja": "3/4 oz",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "シャンパン",
+        "name_en": "Champagne",
+        "measure_ja": "トップアップ",
+        "measure_en": "To top"
+      }
+    ],
+    "instructions_ja": "シェーカーにホワイトラム、ライムジュース、ハニーシロップと氷を入れてよくシェイクする。フルートグラスに濾して注ぎ、冷えたシャンパンをトップアップする。",
+    "instructions_en": "Combine white rum, lime juice and honey syrup in a shaker with ice and shake vigorously. Strain into a flute glass and top with chilled champagne.",
+    "iba": null,
+    "tags": [],
+    "style": "スパークリング",
+    "is_public": false,
+    "_sources": [
+      "https://imbibemagazine.com/recipe/recipe-airmail/",
+      "https://www.diffordsguide.com/cocktails/recipe/27/air-mail"
+    ]
   },
   {
     "id": "17225",
@@ -4455,6 +4899,49 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:IBA_Cocktail_Angel_Face_(28068833805).jpg"
     },
     "_wiki_source": "https://en.wikipedia.org/wiki/Angel_face_(cocktail)"
+  },
+  {
+    "id": "31007",
+    "name_ja": "エンジェルズキス",
+    "name_en": "Angel's Kiss",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "リキュールグラス",
+    "glass_en": "Liqueur glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "クレーム・ド・カカオ",
+        "name_en": "Crème de cacao",
+        "measure_ja": "3/4オンス",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "ヘビークリーム",
+        "name_en": "Heavy cream",
+        "measure_ja": "1/4オンス",
+        "measure_en": "1/4 oz"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1個",
+        "measure_en": "1 cherry"
+      }
+    ],
+    "instructions_ja": "リキュールグラスにクレーム・ド・カカオを注ぎ、バースプーンの背を使ってヘビークリームを静かにフロートさせて層を作る。カクテルピックに刺したマラスキーノチェリーを飾る。",
+    "instructions_en": "Pour the crème de cacao into a liqueur glass, then carefully layer the heavy cream on top using the back of a bar spoon. Garnish with a maraschino cherry on a cocktail pick.",
+    "iba": null,
+    "tags": [],
+    "style": "ショット",
+    "is_public": false,
+    "_sources": [
+      "https://cocktaillog.com/en/recipes/angels_kiss",
+      "https://savoycocktaildatabase.com/cocktails/angels-kiss-cocktail/"
+    ]
   },
   {
     "id": "17246",
@@ -6691,6 +7178,57 @@
     "is_public": false
   },
   {
+    "id": "31302",
+    "name_ja": "キョウト・サワー",
+    "name_en": "Kyoto Sour",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Rocks glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "日本酒",
+        "name_en": "Junmai sake",
+        "measure_ja": "90 ml",
+        "measure_en": "3 oz"
+      },
+      {
+        "name_ja": "グレープフルーツ",
+        "name_en": "Fresh grapefruit",
+        "measure_ja": "2 スライス",
+        "measure_en": "2 slices"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "アガベシロップ",
+        "name_en": "Agave nectar",
+        "measure_ja": "22 ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "ししとう",
+        "name_en": "Shishito pepper",
+        "measure_ja": "1/4 個",
+        "measure_en": "1/4"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスでグレープフルーツとししとうを潰し、残りの材料を加えて氷とともにシェイクする。漉して新しい氷を入れたグラスに注ぐ。",
+    "instructions_en": "Muddle grapefruit and pepper in a mixing glass, add remaining ingredients, shake with ice, then strain over fresh ice.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "12720",
     "name_ja": "キル・ザ・コールド・スムージー",
     "name_en": "Kill the cold Smoothie",
@@ -8535,6 +9073,63 @@
     }
   },
   {
+    "id": "31002",
+    "name_ja": "コープスリバイバー No.2",
+    "name_en": "Corpse Reviver No. 2",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "3/4オンス",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "3/4オンス",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "リレ・ブラン",
+        "name_en": "Lillet Blanc",
+        "measure_ja": "3/4オンス",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "3/4オンス",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "1ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "instructions_ja": "グラスをアブサンでリンスしておく。残りの材料を氷とともにシェーカーで強く振り、リンス済みのグラスへ漉し入れる。オレンジピールを飾る。",
+    "instructions_en": "Rinse a chilled cocktail glass with absinthe. Shake the remaining ingredients with ice and strain into the glass. Garnish with an orange peel.",
+    "iba": null,
+    "tags": [
+      "IBA"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://punchdrink.com/articles/ultimate-best-corpse-reviver-no-2-chartreuse-cocktail-recipe/",
+      "https://casualfoodist.com/corpse-reviver-no-2-cocktail/"
+    ]
+  },
+  {
     "id": "30412",
     "name_ja": "ゴールデン・エルク",
     "name_en": "Golden Elk",
@@ -8619,6 +9214,49 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Godlen-Dream_Mixed_Drink_Cocktail_(2360538105).jpg"
     },
     "_wiki_source": "https://en.wikipedia.org/wiki/Golden_dream_(cocktail)"
+  },
+  {
+    "id": "31006",
+    "name_ja": "ゴールデンキャデラック",
+    "name_en": "Golden Cadillac",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "クープグラス",
+    "glass_en": "Coupe glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ガリアーノ",
+        "name_en": "Galliano",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "クレーム・ド・カカオ",
+        "name_en": "White crème de cacao",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ヘビークリーム",
+        "name_en": "Heavy cream",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      }
+    ],
+    "instructions_ja": "シェーカーに氷と全材料を入れ、外側が凍るまでしっかり振る。冷やしたクープグラスに二度漉しで注ぎ、ナツメグを軽く振りかける。",
+    "instructions_en": "Shake all ingredients with ice until very cold and creamy. Double strain into a chilled coupe glass and dust with grated nutmeg.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.acouplecooks.com/golden-cadillac/",
+      "https://www.diffordsguide.com/cocktails/recipe/872/golden-cadillac"
+    ]
   },
   {
     "id": "17830",
@@ -9336,6 +9974,49 @@
     }
   },
   {
+    "id": "31404",
+    "name_ja": "サーファー・オン・アシッド",
+    "name_en": "Surfer on Acid",
+    "category_ja": "シューター",
+    "category_en": "Shot",
+    "glass_ja": "ショットグラス",
+    "glass_en": "Shot glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "イェーガーマイスター",
+        "name_en": "Jägermeister",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "マリブ",
+        "name_en": "Malibu rum",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      }
+    ],
+    "instructions_ja": "シェーカーに氷と全材料を入れ、しっかり冷えるまでシェイクする。ショットグラスに漉し入れる。氷を入れたロックグラスで提供しても良い。",
+    "instructions_en": "Combine all ingredients in a shaker with ice and shake until well chilled. Strain into a shot glass, or serve over ice in a rocks glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショット",
+    "is_public": false,
+    "_sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/4312/surfer-on-acid-cocktail",
+      "https://mybartender.com/recipe/surfer-on-acid/"
+    ]
+  },
+  {
     "id": "15092",
     "name_ja": "サイク・ビタミン・ライト",
     "name_en": "Pysch Vitamin Light",
@@ -9656,6 +10337,51 @@
     ],
     "instructions_ja": "ジンジャービア以外の材料をシェイカーに入れ、氷と共によく振る。コリンズグラスまたはサファリング・バスタード・マグに漉さずに注ぎ、ジンジャービアを満たす。",
     "instructions_en": "Pour all ingredients into a cocktail shaker except the ginger beer, shake well with ice, pour unstrained into a Collins glass or in the original S. Bastard mug and top up with ginger beer.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
+    "id": "31301",
+    "name_ja": "サムライ",
+    "name_en": "Samurai Cocktail",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Rocks glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジャパニーズウイスキー",
+        "name_en": "Japanese whisky",
+        "measure_ja": "45 ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "ジンジャーリキュール",
+        "name_en": "Ginger liqueur",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "柚子ジュース",
+        "name_en": "Yuzu juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "生姜",
+        "name_en": "Ginger",
+        "measure_ja": "適量(飾り)",
+        "measure_en": "Twist for garnish"
+      }
+    ],
+    "instructions_ja": "氷を満たしたロックグラスに材料を注ぎ、軽くステアして馴染ませる。生姜の薄切りを添える。",
+    "instructions_en": "Build over ice in a rocks glass, stir briefly to combine, and garnish with a twist of ginger.",
     "iba": null,
     "tags": [],
     "style": "ショート",
@@ -10060,6 +10786,81 @@
     "instructions_en": "Serve without ice. At least the juice shold have room temperature.",
     "iba": null,
     "tags": [],
+    "is_public": false
+  },
+  {
+    "id": "31306",
+    "name_ja": "ジェット・パイロット",
+    "name_en": "Jet Pilot",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Old-Fashioned glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark Jamaican rum",
+        "measure_ja": "30 ml",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ゴールドラム",
+        "name_en": "Gold Puerto Rican rum",
+        "measure_ja": "22 ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "151プルーフラム",
+        "name_en": "151-proof Demerara rum",
+        "measure_ja": "22 ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "シナモンシロップ",
+        "name_en": "Cinnamon syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ペルノー",
+        "name_en": "Pernod",
+        "measure_ja": "6 ドロップ",
+        "measure_en": "6 drops"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "instructions_ja": "全ての材料とクラッシュドアイスをブレンダーに入れ、短時間ブレンドする。オールドファッションドグラスに注ぎ、シナモンスティックを飾る。",
+    "instructions_en": "Combine all ingredients with crushed ice in a blender and flash-blend. Pour into an old-fashioned glass and garnish with a cinnamon stick.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
     "is_public": false
   },
   {
@@ -12373,6 +13174,57 @@
     "is_public": false
   },
   {
+    "id": "31304",
+    "name_ja": "スイカ・ハイボール",
+    "name_en": "Suika Highball",
+    "category_ja": "ロング",
+    "category_en": "Long Drink",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45 ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "スイカ",
+        "name_en": "Watermelon juice",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Top"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "適量(飾り)",
+        "measure_en": "For garnish"
+      }
+    ],
+    "instructions_ja": "シェイカーにジン、スイカ果汁、ライムジュースを入れて氷と共にシェイクする。氷を入れたハイボールグラスに漉して注ぎ、炭酸水で満たす。スイカ片とミントの葉を飾る。",
+    "instructions_en": "Shake gin, watermelon juice, and lime juice with ice. Strain into an ice-filled highball glass and top with soda water. Garnish with a watermelon slice and mint leaves.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "13024",
     "name_ja": "スウィート・サングリア",
     "name_en": "Sweet Sangria",
@@ -12587,6 +13439,63 @@
       "license": "CC0",
       "source_url": "https://commons.wikimedia.org/wiki/File:A_screwdriver_drink_with_ice.jpg"
     }
+  },
+  {
+    "id": "31305",
+    "name_ja": "スコーピオン",
+    "name_en": "Scorpion",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "name_en": "Light rum",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "オルジェ・シロップ",
+        "name_en": "Orgeat syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint sprig",
+        "measure_ja": "適量(飾り)",
+        "measure_en": "For garnish"
+      }
+    ],
+    "instructions_ja": "全ての材料をクラッシュドアイスとともにブレンダーで短時間ブレンドし、ハイボールまたはティキグラスに注ぐ。ミントを飾る。",
+    "instructions_en": "Blend all ingredients briefly with crushed ice and pour into a highball or tiki glass. Garnish with a sprig of mint.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
   },
   {
     "id": "30715",
@@ -12825,6 +13734,61 @@
     }
   },
   {
+    "id": "31201",
+    "name_ja": "ストロベリー・ダイキリ",
+    "name_en": "Strawberry Daiquiri",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30ml",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "シンプルシロップ",
+        "name_en": "Simple syrup",
+        "measure_ja": "15ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "イチゴ",
+        "name_en": "Strawberry",
+        "measure_ja": "冷凍 1カップ",
+        "measure_en": "1 cup frozen"
+      },
+      {
+        "name_ja": "クラッシュドアイス",
+        "name_en": "Crushed ice",
+        "measure_ja": "適量",
+        "measure_en": "as needed"
+      }
+    ],
+    "instructions_ja": "ブレンダーに冷凍ストロベリー、ホワイトラム、ライムジュース、シンプルシロップ、クラッシュドアイスを入れ、なめらかになるまで撹拌。冷やしたグラスに注ぎ、ストロベリーで飾る。",
+    "instructions_en": "Combine frozen strawberries, white rum, lime juice, simple syrup and crushed ice in a blender. Blend until smooth, pour into a chilled glass, garnish with a strawberry.",
+    "iba": null,
+    "tags": [],
+    "style": "フローズン",
+    "is_public": false,
+    "_sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/1883/strawberry-daiquiri",
+      "https://littlesunnykitchen.com/strawberry-daiquiri/"
+    ]
+  },
+  {
     "id": "30802",
     "name_ja": "スネークバイト",
     "name_en": "Snakebite",
@@ -13017,6 +13981,73 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "31108",
+    "name_ja": "スパイシー・マルガリータ",
+    "name_en": "Spicy Margarita",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Rocks glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Blanco tequila",
+        "measure_ja": "2 oz",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "アガベシロップ",
+        "name_en": "Agave syrup",
+        "measure_ja": "1/2 oz",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "唐辛子",
+        "name_en": "Jalapeno slices",
+        "measure_ja": "3〜4枚",
+        "measure_en": "3-4 slices"
+      },
+      {
+        "name_ja": "塩",
+        "name_en": "Salt",
+        "measure_ja": "リム用",
+        "measure_en": "For rim"
+      },
+      {
+        "name_ja": "ライムウェッジ",
+        "name_en": "Lime wedge",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish"
+      }
+    ],
+    "instructions_ja": "ロックグラスの縁をライムで湿らせ、塩をつけてスノースタイルにする。シェーカーにハラペーニョのスライスを入れ、マドラーで軽く潰す。テキーラ、トリプルセック、ライムジュース、アガベシロップと氷を加え、よくシェイクする。氷を入れたグラスに濾して注ぎ、ライムウェッジを添える。",
+    "instructions_en": "Rim a rocks glass with lime and salt. Muddle jalapeno slices in a shaker, then add tequila, triple sec, lime juice, agave syrup and ice. Shake well and strain into the rimmed glass over fresh ice. Garnish with a lime wedge.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.thekitchn.com/spicy-margarita-recipe-23522969",
+      "https://www.loveandlemons.com/jalapeno-margarita/"
+    ]
   },
   {
     "id": "178322",
@@ -13338,6 +14369,69 @@
     ],
     "instructions_ja": "赤ワインに桃やレモンなどの果物、砂糖、シナモンを漬け込んで作るスペインの伝統的な飲料。",
     "instructions_en": "A traditional Spanish drink made by macerating fruit (peaches, lemons), sugar, and cinnamon in red wine.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
+    "id": "31307",
+    "name_ja": "スリー・ドッツ・アンド・ア・ダッシュ",
+    "name_en": "Three Dots and a Dash",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ティキマグ",
+    "glass_en": "Tiki mug",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アニェホラム",
+        "name_en": "Aged rum",
+        "measure_ja": "45 ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "ラム",
+        "name_en": "Rhum agricole",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ドライキュラソー",
+        "name_en": "Dry curaçao",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "オールスパイス",
+        "name_en": "Allspice dram",
+        "measure_ja": "1 ティースプーン",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "22 ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "ハニーシロップ",
+        "name_en": "Honey syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      }
+    ],
+    "instructions_ja": "全ての材料をシェイカーに入れ、クラッシュドアイスとともに短くシェイクする。クラッシュドアイスを詰めたティキマグまたはスニフターに漉して注ぐ。パイナップル葉とブランデーチェリーで飾る。",
+    "instructions_en": "Combine all ingredients in a shaker, add crushed ice, and shake briefly. Strain into a tiki mug or snifter filled with crushed ice. Garnish with pineapple leaves and brandied cherries.",
     "iba": null,
     "tags": [],
     "style": "ショート",
@@ -14203,6 +15297,55 @@
     "is_public": false
   },
   {
+    "id": "31407",
+    "name_ja": "ダーティ・シャーリー",
+    "name_en": "Dirty Shirley",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "Grenadine",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "レモンライムソーダ",
+        "name_en": "Lemon-lime soda",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1個",
+        "measure_en": "1 cherry"
+      }
+    ],
+    "instructions_ja": "氷を詰めたハイボールグラスにウォッカとグレナデンを注ぐ。レモンライムソーダで満たし、バースプーンで軽く混ぜる。マラスキーノチェリーを飾って供する。子供向けのシャーリーテンプルを大人向けにアレンジした一杯。",
+    "instructions_en": "Fill a highball glass with ice, then add vodka and grenadine. Top with lemon-lime soda and stir gently with a bar spoon. Garnish with a maraschino cherry.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.thekitchn.com/dirty-shirley-cocktail-recipe-23712665",
+      "https://www.culinaryhill.com/dirty-shirley-cocktail/"
+    ]
+  },
+  {
     "id": "14466",
     "name_ja": "ダーティ・ニップル",
     "name_en": "Dirty Nipple",
@@ -14923,6 +16066,55 @@
     "is_public": false
   },
   {
+    "id": "31408",
+    "name_ja": "チェリーコーク",
+    "name_en": "Cherry Coke",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "バーボン",
+        "name_en": "Bourbon",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "グレナデン",
+        "name_en": "Grenadine",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "コカ・コーラ",
+        "name_en": "Coca-Cola",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "2個",
+        "measure_en": "2 cherries"
+      }
+    ],
+    "instructions_ja": "氷を詰めたハイボールグラスにバーボンとグレナデンを注ぎ、よく冷えたコカ・コーラで満たす。バースプーンで軽く混ぜ、マラスキーノチェリーを飾る。チェリーシロップを少量加えても良い。",
+    "instructions_en": "Fill a highball glass with ice, then pour in bourbon and grenadine. Top with chilled Coca-Cola and stir gently with a bar spoon. Garnish with maraschino cherries.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://crayonsandcravings.com/whiskey-cherry-coke-cocktail/",
+      "https://kitchenfunwithmy3sons.com/bourbon-cherry-coke/"
+    ]
+  },
+  {
     "id": "11239",
     "name_ja": "チェリーラム",
     "name_en": "Cherry Rum",
@@ -14959,6 +16151,61 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "31102",
+    "name_ja": "チナール・ジュレップ",
+    "name_en": "Cynar Julep",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "チナール",
+        "name_en": "Cynar",
+        "measure_ja": "1 1/2 oz",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "1/2 oz",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "シンプルシロップ",
+        "name_en": "Simple syrup",
+        "measure_ja": "1/2 oz",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "6〜8枚",
+        "measure_en": "6-8 leaves"
+      }
+    ],
+    "instructions_ja": "ハイボールグラスにミントの葉、レモンジュース、シンプルシロップを入れ、マドラーで軽く潰して香りを引き出す。クラッシュドアイスを加えてチナールを注ぎ、スウィズルスティックで混ぜる。グレープフルーツジュースを上から注ぎ、ミントを飾る。",
+    "instructions_en": "Add mint leaves, lemon juice and simple syrup to a highball glass and muddle gently to release the oils. Fill with crushed ice and add the Cynar, then swizzle to mix. Top with grapefruit juice and garnish with a mint sprig.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://punchdrink.com/recipes/argentinas-cynar-julep/",
+      "https://imbibemagazine.com/recipe/cynar-julep/"
+    ]
   },
   {
     "id": "30219",
@@ -15016,6 +16263,61 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "31207",
+    "name_ja": "チョコレート・マティーニ",
+    "name_en": "Chocolate Martini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "マティーニグラス",
+    "glass_en": "Martini glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "チョコレートリキュール",
+        "name_en": "Chocolate liqueur",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ベイリーズ アイリッシュクリーム",
+        "name_en": "Bailey's Irish cream",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "チョコレートシロップ",
+        "name_en": "Chocolate syrup",
+        "measure_ja": "リム用",
+        "measure_en": "for rim"
+      },
+      {
+        "name_ja": "ココアパウダー",
+        "name_en": "Cocoa powder",
+        "measure_ja": "リム用",
+        "measure_en": "for rim"
+      }
+    ],
+    "instructions_ja": "マティーニグラスのリムにチョコレートシロップを塗り、ココアパウダーを付ける。シェイカーに氷、ウォッカ、チョコレートリキュール、ベイリーズを入れ、30秒シェイク。濾してグラスに注ぐ。",
+    "instructions_en": "Rim a martini glass with chocolate syrup and cocoa powder. In a shaker with ice, combine vodka, chocolate liqueur and Bailey's. Shake for 30 seconds and strain into the glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://preppykitchen.com/chocolate-martini/",
+      "https://www.savoryexperiments.com/chocolate-martini/"
+    ]
   },
   {
     "id": "13328",
@@ -15206,6 +16508,61 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "31101",
+    "name_ja": "ディヴィジョン・ベル",
+    "name_en": "Division Bell",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "クープグラス",
+    "glass_en": "Coupe glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "メスカル",
+        "name_en": "Mezcal",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "アペロール",
+        "name_en": "Aperol",
+        "measure_ja": "3/4 oz",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino liqueur",
+        "measure_ja": "1/4 oz",
+        "measure_en": "1/4 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "3/4 oz",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "グレープフルーツの皮",
+        "name_en": "Grapefruit twist",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish"
+      }
+    ],
+    "instructions_ja": "クープグラスを冷やしておく。シェーカーに氷と全ての材料を入れ、よく冷えるまで力強くシェイクする。冷やしたグラスに濾して注ぐ。グレープフルーツの皮を絞ってオイルを表面に乗せ、グラスに添える。",
+    "instructions_en": "Chill a coupe glass. Combine all ingredients in a shaker with ice and shake vigorously until well chilled. Strain into the chilled glass. Express a grapefruit twist over the drink and drop it in as garnish.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://punchdrink.com/recipes/division-bell/",
+      "https://www.diffordsguide.com/cocktails/recipe/3634/division-bell"
+    ]
   },
   {
     "id": "17828",
@@ -15419,6 +16776,49 @@
       "Drunk"
     ],
     "is_public": false
+  },
+  {
+    "id": "31202",
+    "name_ja": "テキーラ・ハイボール",
+    "name_en": "Tequila Highball",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Club soda",
+        "measure_ja": "120ml",
+        "measure_en": "4 oz"
+      },
+      {
+        "name_ja": "ライムウェッジ",
+        "name_en": "Lime wedge",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "ハイボールグラスに氷を満たし、テキーラを注ぎ、炭酸水で満たす。軽くステアし、ライムウェッジを飾る。",
+    "instructions_en": "Fill a highball glass with ice, pour in tequila, top with club soda. Stir gently and garnish with a lime wedge.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.totalwine.com/cocktail-recipes/tequila-highball",
+      "https://vinepair.com/articles/9-best-tequila-highball-cocktails/"
+    ]
   },
   {
     "id": "12362",
@@ -15946,6 +17346,145 @@
     "style": "ショート",
     "is_public": false,
     "_wiki_source": "https://en.wikipedia.org/wiki/20th_century_(cocktail)"
+  },
+  {
+    "id": "31107",
+    "name_ja": "トゥエンティース・センチュリー",
+    "name_en": "Twentieth Century",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "クープグラス",
+    "glass_en": "Coupe glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "1 1/2 oz",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "クレーム・ド・カカオ",
+        "name_en": "White creme de cacao",
+        "measure_ja": "3/4 oz",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "リレ・ブラン",
+        "name_en": "Lillet Blanc",
+        "measure_ja": "3/4 oz",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "3/4 oz",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "レモンの皮",
+        "name_en": "Lemon twist",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish"
+      }
+    ],
+    "instructions_ja": "シェーカーに全ての材料と氷を入れ、十分に冷えるまで力強くシェイクする。冷やしたクープグラスにダブルストレインで注ぎ、レモンの皮を絞って添える。",
+    "instructions_en": "Combine all ingredients in a shaker with ice and shake vigorously until well chilled. Fine strain into a chilled coupe glass and garnish with a lemon twist.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/2006/twentieth-century",
+      "https://tuxedono2.com/20th-century-cocktail-recipe"
+    ]
+  },
+  {
+    "id": "31308",
+    "name_ja": "トウキョウ・ミュール",
+    "name_en": "Tokyo Mule",
+    "category_ja": "ロング",
+    "category_en": "Long Drink",
+    "glass_ja": "銅マグ",
+    "glass_en": "Copper mug",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "日本酒",
+        "name_en": "Sake",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ジンジャービア",
+        "name_en": "Ginger beer",
+        "measure_ja": "120 ml",
+        "measure_en": "4 oz"
+      },
+      {
+        "name_ja": "ライムウェッジ",
+        "name_en": "Lime wedge",
+        "measure_ja": "1 片(飾り)",
+        "measure_en": "1 piece (garnish)"
+      }
+    ],
+    "instructions_ja": "銅マグに氷を満たし、日本酒とライムジュースを注ぐ。ジンジャービアで満たし、軽くステアする。ライムウェッジを添える。",
+    "instructions_en": "Fill a copper mug with ice, pour in sake and lime juice, top with ginger beer, and stir gently. Garnish with a lime wedge.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
+    "id": "31303",
+    "name_ja": "トキ・ハイボール",
+    "name_en": "Toki Highball",
+    "category_ja": "ロング",
+    "category_en": "Long Drink",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball Glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジャパニーズウイスキー",
+        "name_en": "Suntory Whisky Toki",
+        "measure_ja": "45 ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "180 ml",
+        "measure_en": "6 oz"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1 片(飾り)",
+        "measure_en": "1 piece (garnish)"
+      }
+    ],
+    "instructions_ja": "グラス・ウイスキー・炭酸水をしっかり冷やしておく。ハイボールグラスに氷を満たし、ウイスキーを注いで軽くステアして冷やす。再度氷を足してから炭酸水を注ぎ、レモンピールをひねって添える。",
+    "instructions_en": "Chill the glass, whisky, and soda water first. Fill a highball glass with ice, add the whisky and stir briefly to chill, then top with ice, pour in the soda water, and garnish with a lemon twist.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
   },
   {
     "id": "12726",
@@ -16951,6 +18490,55 @@
     }
   },
   {
+    "id": "31105",
+    "name_ja": "ネグローニ・スバリアート",
+    "name_en": "Negroni Sbagliato",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Rocks glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "プロセッコ",
+        "name_en": "Prosecco",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "オレンジスライス",
+        "name_en": "Orange slice",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish"
+      }
+    ],
+    "instructions_ja": "ロックグラスに氷を入れ、カンパリとスイートベルモットを注いで軽くステアする。冷えたプロセッコをトップアップする。オレンジスライスを添える。",
+    "instructions_en": "Fill a rocks glass with ice, add Campari and sweet vermouth, and stir gently. Top with chilled prosecco and garnish with an orange slice.",
+    "iba": null,
+    "tags": [],
+    "style": "スパークリング",
+    "is_public": false,
+    "_sources": [
+      "https://punchdrink.com/recipes/negroni-sbagliato/",
+      "https://www.cinzano.com/en-us/cocktails/negroni-sbagliato/"
+    ]
+  },
+  {
     "id": "11462",
     "name_ja": "ハーヴェイ・ウォールバンガー",
     "name_en": "Harvey Wallbanger",
@@ -17212,6 +18800,49 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "31204",
+    "name_ja": "ハイボール",
+    "name_en": "Highball",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ハイボールグラス",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "Whiskey",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Club soda",
+        "measure_ja": "120-180ml",
+        "measure_en": "4-6 oz"
+      },
+      {
+        "name_ja": "レモンの捻り",
+        "name_en": "Lemon twist",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "背の高いグラスに氷を満たし、ベーススピリッツを注ぐ。炭酸水で割り、軽くステア。レモンピールを添える。",
+    "instructions_en": "Fill a tall glass with ice and pour in the base spirit. Top with club soda and stir gently. Garnish with a lemon twist.",
+    "iba": null,
+    "tags": [],
+    "style": "ロング",
+    "is_public": false,
+    "_sources": [
+      "https://www.angelsenvy.com/us/en/cocktails/highball-cocktail-recipe/",
+      "https://www.themixer.com/en-us/recipes/highball-cocktail-ingredients/"
+    ]
   },
   {
     "id": "11476",
@@ -19158,6 +20789,61 @@
     "_wiki_source": "https://en.wikipedia.org/wiki/Hugo_(cocktail)"
   },
   {
+    "id": "31009",
+    "name_ja": "ヒューゴ・スプリッツ",
+    "name_en": "Hugo Spritz",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ワイングラス",
+    "glass_en": "Wine glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "プロセッコ",
+        "name_en": "Prosecco",
+        "measure_ja": "4オンス",
+        "measure_en": "4 oz"
+      },
+      {
+        "name_ja": "エルダーフラワーリキュール",
+        "name_en": "Elderflower liqueur",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "適量",
+        "measure_en": "to taste"
+      },
+      {
+        "name_ja": "ライムスライス",
+        "name_en": "Lime slice",
+        "measure_ja": "2枚",
+        "measure_en": "2 slices"
+      }
+    ],
+    "instructions_ja": "ワイングラスに氷とミント、ライムスライスを入れる。エルダーフラワーリキュール、よく冷やしたプロセッコ、炭酸水の順に注ぎ、炭酸を逃がさないよう軽くステアする。ミントの枝を飾る。",
+    "instructions_en": "Fill a wine glass with ice, mint, and lime slices. Add elderflower liqueur, chilled Prosecco, and soda water, then stir gently to preserve the bubbles. Garnish with a mint sprig.",
+    "iba": null,
+    "tags": [],
+    "style": "スパークリング",
+    "is_public": false,
+    "_sources": [
+      "https://www.stgermainliqueur.com/us/en/cocktails/hugo-spritz/",
+      "https://www.loveandlemons.com/hugo-spritz/"
+    ]
+  },
+  {
     "id": "11936",
     "name_ja": "ピンク・ジン",
     "name_en": "Pink Gin",
@@ -20085,6 +21771,49 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "31004",
+    "name_ja": "ブラウンダービー",
+    "name_en": "Brown Derby",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "クープグラス",
+    "glass_en": "Coupe glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "バーボン",
+        "name_en": "Bourbon",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ハニーシロップ",
+        "name_en": "Honey syrup",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      }
+    ],
+    "instructions_ja": "シェーカーに氷とバーボン、グレープフルーツジュース、ハニーシロップを入れて手早くシェイクする。冷やしておいたクープグラスに二度漉しで注ぎ、グレープフルーツの皮を飾る。",
+    "instructions_en": "Combine bourbon, grapefruit juice, and honey syrup in a shaker with ice. Shake vigorously, then double strain into a chilled coupe glass. Garnish with a grapefruit twist.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://robbreport.com/food-drink/spirits/best-brown-derby-recipe-bourbon-grapefruit-cocktail-1235651510/",
+      "https://www.ohlq.com/recipes/whiskey/brown-derby-cocktail"
+    ]
   },
   {
     "id": "30110",
@@ -22065,6 +23794,61 @@
     "is_public": false
   },
   {
+    "id": "31402",
+    "name_ja": "フレンチパール",
+    "name_en": "French Pearl",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "クープグラス",
+    "glass_en": "Coupe glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "1/4オンス",
+        "measure_en": "1/4 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "シンプルシロップ",
+        "name_en": "Simple syrup",
+        "measure_ja": "3/4オンス",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "5枚",
+        "measure_en": "5 leaves"
+      }
+    ],
+    "instructions_ja": "シェーカーにミントの葉とシロップを入れて軽くマドラーで潰す。残りの材料と氷を加え、10秒ほど強くシェイクする。冷やしたクープグラスに漉し入れ、ミントとライムホイールを飾る。アブサンと水分が出会うとカクテルが乳白色に変化する。",
+    "instructions_en": "Muddle mint leaves with simple syrup in a shaker. Add the remaining ingredients with ice and shake hard for about 10 seconds. Strain into a chilled coupe glass and garnish with fresh mint and a lime wheel.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.diffordsguide.com/cocktails/recipe/5856/french-pearl",
+      "https://www.jamesbeard.org/recipes/french-pearl-cocktail"
+    ]
+  },
+  {
     "id": "30107",
     "name_ja": "ブロー・マイ・スカル",
     "name_en": "Blow My Skull",
@@ -22272,6 +24056,73 @@
     "iba": null,
     "tags": [],
     "is_public": false
+  },
+  {
+    "id": "31109",
+    "name_ja": "フローズン・マルガリータ",
+    "name_en": "Frozen Margarita",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "マルガリータグラス",
+    "glass_en": "Margarita glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "1 1/2 oz",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "シンプルシロップ",
+        "name_en": "Simple syrup",
+        "measure_ja": "1/2 oz",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "クラッシュドアイス",
+        "name_en": "Crushed ice",
+        "measure_ja": "1カップ",
+        "measure_en": "1 cup"
+      },
+      {
+        "name_ja": "塩",
+        "name_en": "Salt",
+        "measure_ja": "リム用",
+        "measure_en": "For rim"
+      },
+      {
+        "name_ja": "ライムウェッジ",
+        "name_en": "Lime wedge",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish"
+      }
+    ],
+    "instructions_ja": "マルガリータグラスの縁をライムで湿らせ、塩をつけてスノースタイルにする。ブレンダーにテキーラ、トリプルセック、ライムジュース、シンプルシロップ、クラッシュドアイスを入れ、なめらかになるまで撹拌する。スラッシュ状になったらグラスに注ぎ、ライムウェッジを添える。",
+    "instructions_en": "Rim a margarita glass with lime and salt. Combine tequila, triple sec, lime juice, simple syrup and crushed ice in a blender. Blend until smooth and slushy, then pour into the glass and garnish with a lime wedge.",
+    "iba": null,
+    "tags": [],
+    "style": "フローズン",
+    "is_public": false,
+    "_sources": [
+      "https://www.isabeleats.com/frozen-margarita-recipe/",
+      "https://www.absolutdrinks.com/en/drinks/frozen-margarita/"
+    ]
   },
   {
     "id": "11390",
@@ -22844,6 +24695,57 @@
       "ContemporaryClassic"
     ],
     "is_public": false
+  },
+  {
+    "id": "31003",
+    "name_ja": "ヘミングウェイ・ダイキリ",
+    "name_en": "Hemingway Daiquiri",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "クープグラス",
+    "glass_en": "Coupe glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino Liqueur",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "3/4オンス",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      }
+    ],
+    "instructions_ja": "シェーカーに氷と全材料を入れ、よく冷えるまで強く振る。クープグラスに漉し入れ、ライムホイールを飾る。",
+    "instructions_en": "Shake all ingredients with ice until well chilled. Strain into a chilled coupe glass and garnish with a lime wheel.",
+    "iba": null,
+    "tags": [
+      "IBA"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.thekitchn.com/the-9bottle-bar-recipe-the-hemingway-daiquiri-recipes-from-the-kitchn-204683",
+      "https://www.foodnetwork.com/recipes/geoffrey-zakarian/hemingway-daiquiri-13331915"
+    ]
   },
   {
     "id": "17195",
@@ -23985,6 +25887,55 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "31104",
+    "name_ja": "ホワイト・ネグローニ",
+    "name_en": "White Negroni",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Rocks glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "1 1/2 oz",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "リレ・ブラン",
+        "name_en": "Lillet Blanc",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "スーズ",
+        "name_en": "Suze",
+        "measure_ja": "1/2 oz",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "グレープフルーツの皮",
+        "name_en": "Grapefruit twist",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish"
+      }
+    ],
+    "instructions_ja": "ロックグラスに大きめの氷を1個入れ、ジン、スーズ、リレ・ブランを注ぐ。よく冷えるまでステアする。グレープフルーツの皮をひねってオイルを表面に飛ばし、グラスに沈める。",
+    "instructions_en": "Add a large ice cube to a rocks glass, then pour in gin, Suze and Lillet Blanc. Stir until well chilled. Express a grapefruit twist over the top to spray the oils and drop the peel into the glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ロック",
+    "is_public": false,
+    "_sources": [
+      "https://punchdrink.com/recipes/white-negroni/",
+      "https://www.diffordsguide.com/cocktails/recipe/3420/white-negroni"
+    ]
   },
   {
     "id": "12528",
@@ -25681,6 +27632,67 @@
     }
   },
   {
+    "id": "31103",
+    "name_ja": "メスカル・マルガリータ",
+    "name_en": "Mezcal Margarita",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Rocks glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Tequila",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "メスカル",
+        "name_en": "Mezcal",
+        "measure_ja": "2 oz",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "1 oz",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "アガベシロップ",
+        "name_en": "Agave syrup",
+        "measure_ja": "1/2 oz",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "塩",
+        "name_en": "Salt",
+        "measure_ja": "リム用",
+        "measure_en": "For rim"
+      },
+      {
+        "name_ja": "ライムウェッジ",
+        "name_en": "Lime wedge",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish"
+      }
+    ],
+    "instructions_ja": "ロックグラスの縁をライムで湿らせ、塩をつけてスノースタイルにする。シェーカーにメスカル、トリプルセック、ライムジュース、アガベシロップと氷を入れてよくシェイクする。氷を入れたグラスに注ぎ、ライムウェッジを添える。",
+    "instructions_en": "Rim a rocks glass with lime and salt. Combine mezcal, triple sec, lime juice and agave syrup in a shaker with ice and shake well. Strain into the rimmed glass over fresh ice and garnish with a lime wedge.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.thekitchn.com/mezcal-margarita-recipe-23659551",
+      "https://vinepair.com/cocktail-recipe/mezcal-margarita-recipe/"
+    ]
+  },
+  {
     "id": "12776",
     "name_ja": "メリヤ",
     "name_en": "Melya",
@@ -26185,6 +28197,57 @@
     "is_public": false
   },
   {
+    "id": "31309",
+    "name_ja": "ユズ・サワー",
+    "name_en": "Yuzu Sour",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジャパニーズウイスキー",
+        "name_en": "Japanese whisky",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "柚子ジュース",
+        "name_en": "Yuzu juice",
+        "measure_ja": "22 ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "シンプルシロップ",
+        "name_en": "Simple syrup",
+        "measure_ja": "22 ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "1 個分",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "シェイカーに全ての材料を入れ、氷なしで10秒ほどドライシェイクする。氷を加えてさらにシェイクし、冷えたカクテルグラスに漉して注ぐ。",
+    "instructions_en": "Combine all ingredients in a shaker and dry-shake for about 10 seconds. Add ice, shake again until well-chilled, then strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false
+  },
+  {
     "id": "12728",
     "name_ja": "ヨーグルト・クーラー",
     "name_en": "Yoghurt Cooler",
@@ -26479,6 +28542,58 @@
       "license": "CC BY-SA 2.0",
       "source_url": "https://commons.wikimedia.org/wiki/File:Rusty_Nail_a_cocktail_by_@tokenchick13_(16503594826).jpg"
     }
+  },
+  {
+    "id": "31001",
+    "name_ja": "ラストワード",
+    "name_en": "Last Word",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "グリーンシャルトリューズ",
+        "name_en": "Green Chartreuse",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino Liqueur",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "1オンス",
+        "measure_en": "1 oz"
+      }
+    ],
+    "instructions_ja": "シェーカーに氷と全材料を入れ、よく冷えるまでシェイクする。ストレーナーで漉してカクテルグラスに注ぐ。",
+    "instructions_en": "Add all ingredients to a shaker with ice, shake until well chilled, then strain into a chilled cocktail glass.",
+    "iba": null,
+    "tags": [
+      "IBA",
+      "Unforgettables"
+    ],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://en.wikipedia.org/wiki/Last_Word_(cocktail)",
+      "https://www.diffordsguide.com/cocktails/recipe/1133/last-word"
+    ]
   },
   {
     "id": "17167",
@@ -27430,6 +29545,49 @@
     "is_public": false
   },
   {
+    "id": "31406",
+    "name_ja": "リキッドコカイン",
+    "name_en": "Liquid Cocaine",
+    "category_ja": "シューター",
+    "category_en": "Shot",
+    "glass_ja": "ショットグラス",
+    "glass_en": "Shot glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "イェーガーマイスター",
+        "name_en": "Jägermeister",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ゴールドシュレーガー",
+        "name_en": "Goldschläger",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ペパーミントシュナップス",
+        "name_en": "Peppermint schnapps",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      }
+    ],
+    "instructions_ja": "シェーカーに氷と全材料を入れ、しっかり冷えるまで強くシェイクする。ショットグラスに漉し入れ、一気にあおる。等量のシナモンシュナップス・ペパーミントリキュール・ハーブリキュールの組み合わせが特徴。",
+    "instructions_en": "Combine all ingredients in a shaker with ice and shake hard until well chilled. Strain into a shot glass and serve.",
+    "iba": null,
+    "tags": [],
+    "style": "ショット",
+    "is_public": false,
+    "_sources": [
+      "https://cocktailsandshots.com/recipe/liquid-cocaine-shot-recipe/",
+      "https://www.crystalmixer.com/original-liquid-cocaine-recipe/"
+    ]
+  },
+  {
     "id": "30514",
     "name_ja": "リコリス・スティック",
     "name_en": "Licorice stick",
@@ -28307,6 +30465,67 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
+  },
+  {
+    "id": "31205",
+    "name_ja": "レモンドロップ・マティーニ",
+    "name_en": "Lemon Drop Martini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "マティーニグラス",
+    "glass_en": "Martini glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "45ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "22ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "シンプルシロップ",
+        "name_en": "Simple syrup",
+        "measure_ja": "22ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "細目グラニュー糖",
+        "name_en": "Superfine sugar",
+        "measure_ja": "リム用",
+        "measure_en": "for rim"
+      },
+      {
+        "name_ja": "レモンの捻り",
+        "name_en": "Lemon twist",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "マティーニグラスのリムをレモンで湿らせ砂糖を付ける。シェイカーに氷とウォッカ、レモンジュース、トリプルセック、シロップを入れて十分にシェイク。グラスに濾して注ぎ、レモンピールを飾る。",
+    "instructions_en": "Rim a martini glass with lemon and sugar. In a shaker with ice, add vodka, lemon juice, triple sec and simple syrup. Shake well, strain into the prepared glass and garnish with a lemon twist.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.inspiredtaste.net/3970/lemon-drop-martini/",
+      "https://www.savoryexperiments.com/lemon-drop-martini/"
+    ]
   },
   {
     "id": "12057",
@@ -29192,6 +31411,55 @@
     "is_public": false
   },
   {
+    "id": "31401",
+    "name_ja": "ワサビマティーニ",
+    "name_en": "Wasabi Martini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "2オンス",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "1/2オンス",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "わさびペースト",
+        "name_en": "Wasabi paste",
+        "measure_ja": "小さじ1/4",
+        "measure_en": "1/4 tsp"
+      },
+      {
+        "name_ja": "レモンの捻り",
+        "name_en": "Lemon twist",
+        "measure_ja": "1個",
+        "measure_en": "1 twist"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスにウォッカと少量のドライベルモットを注ぎ、わさびペーストを溶かし込む。氷を加えてしっかり冷えるまでステアし、冷やしたカクテルグラスに漉し入れる。レモンの皮をひねって香りを移し、グラスに飾る。",
+    "instructions_en": "Pour vodka and dry vermouth into a mixing glass, then stir in the wasabi paste until dissolved. Add ice and stir until well chilled, then strain into a chilled cocktail glass. Express a lemon twist over the drink and use it as garnish.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://www.slurrp.com/recipes/wasabi-martini-cocktail-1613045564",
+      "https://www.diffordsguide.com/cocktails/recipe/2065/wasabi-martini"
+    ]
+  },
+  {
     "id": "20007",
     "name_ja": "高輪の夜",
     "name_en": "Takanawa no Yoru",
@@ -29233,6 +31501,55 @@
       "source_url": "",
       "note": "Shot Bar Momo オリジナル"
     }
+  },
+  {
+    "id": "31209",
+    "name_ja": "桜マティーニ",
+    "name_en": "Sakura Martini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "マティーニグラス",
+    "glass_en": "Martini glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "日本酒",
+        "name_en": "Sake",
+        "measure_ja": "60ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30ml",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino liqueur",
+        "measure_ja": "1tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "桜の塩漬け",
+        "name_en": "Salted cherry blossom",
+        "measure_ja": "1個",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスに日本酒、ジン、マラスキーノを入れ、氷を加えて十分に冷えるまでステア。冷やしたグラスに濾して注ぎ、塩抜きした桜の塩漬けを浮かべる。",
+    "instructions_en": "Combine sake, gin and maraschino in a mixing glass. Add ice and stir until well chilled. Strain into a chilled glass and garnish with a rinsed salted cherry blossom.",
+    "iba": null,
+    "tags": [],
+    "style": "ショート",
+    "is_public": false,
+    "_sources": [
+      "https://punchdrink.com/recipes/sakura-martini/",
+      "https://www.diffordsguide.com/cocktails/recipe/3622/sakura-martini"
+    ]
   },
   {
     "id": "30605",
