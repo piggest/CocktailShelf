@@ -1,0 +1,267 @@
+[
+  {
+    "id": "13395",
+    "ingredients": [
+      {"name_ja": "メロンリキュール", "name_en": "Melon liqueur", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "イェーガーマイスター", "name_en": "Jägermeister", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ゴールドシュレーガー", "name_en": "Goldschläger", "measure_ja": "15 ml", "measure_en": "15 ml"}
+    ],
+    "_source": "puredrinkology.com, cocktailfyi.com",
+    "_note": "等量3層 (1/2 oz × 3) のレイヤーショット。45ml合計はショットグラス容量を超えるが、レイヤー演出のための標準レシピのため保持。"
+  },
+  {
+    "id": "178326",
+    "ingredients": [
+      {"name_ja": "ライム", "name_en": "Lime", "measure_ja": "1", "measure_en": "1"},
+      {"name_ja": "レモン", "name_en": "Lemon", "measure_ja": "1", "measure_en": "1"},
+      {"name_ja": "白ワイン", "name_en": "White wine", "measure_ja": "750 ml", "measure_en": "750 ml"},
+      {"name_ja": "イチゴ", "name_en": "Strawberry", "measure_ja": "1 カップ", "measure_en": "1 cup"},
+      {"name_ja": "リンゴ", "name_en": "Apple", "measure_ja": "1 カップ", "measure_en": "1 cup"},
+      {"name_ja": "アップルブランデー", "name_en": "Apple brandy", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "炭酸水", "name_en": "Soda water", "measure_ja": "上まで", "measure_en": "Top", "optional": true}
+    ],
+    "_source": "thekitchn.com, minimalistbaker.com",
+    "_note": "ピッチャー仕込みのサングリア。アップルブランデーは一般的に1/4カップ (約60ml) のレシピが多いため修正。フルーツ・炭酸水は標準的な配合のため保持。"
+  },
+  {
+    "id": "16041",
+    "ingredients": [
+      {"name_ja": "サザンカンフォート", "name_en": "Southern Comfort", "measure_ja": "750 ml", "measure_en": "750 ml"},
+      {"name_ja": "オレンジジュース", "name_en": "Orange juice", "measure_ja": "1 L", "measure_en": "1 L"},
+      {"name_ja": "ペプシコーラ", "name_en": "Pepsi Cola", "measure_ja": "750 ml", "measure_en": "750 ml"}
+    ],
+    "_source": "puredrinkology.com, drinky-drink.com",
+    "_note": "パンチボウル仕込みのMudslinger。サザンカンフォート1本・OJ1L・コーラ1本の標準レシピ。"
+  },
+  {
+    "id": "35145",
+    "ingredients": [
+      {"name_ja": "マリブ", "name_en": "Malibu", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "マンゴージュース", "name_en": "Mango juice", "measure_ja": "90 ml", "measure_en": "90 ml"}
+    ],
+    "_source": "malibudrinks.com",
+    "_note": "公式の単独レシピは未確認だが、Malibu + マンゴージュース 1:3 のハイボール配合は一般的。タンブラー容量に合致。"
+  },
+  {
+    "id": "12988",
+    "ingredients": [
+      {"name_ja": "水", "name_en": "Water", "measure_ja": "3 カップ", "measure_en": "3 cups"},
+      {"name_ja": "砂糖", "name_en": "Sugar", "measure_ja": "1 カップ", "measure_en": "1 cup"},
+      {"name_ja": "クローブ", "name_en": "Clove", "measure_ja": "12", "measure_en": "12"},
+      {"name_ja": "シナモン", "name_en": "Cinnamon", "measure_ja": "2", "measure_en": "2"},
+      {"name_ja": "レモンピール", "name_en": "Lemon peel", "measure_ja": "1", "measure_en": "1"},
+      {"name_ja": "赤ワイン", "name_en": "Red wine", "measure_ja": "750 ml", "measure_en": "750 ml"},
+      {"name_ja": "ブランデー", "name_en": "Brandy", "measure_ja": "1/4 カップ", "measure_en": "1/4 cup"}
+    ],
+    "_source": "wellplated.com, theendlessmeal.com",
+    "_note": "ホットワインの一般的なバッチレシピ。赤ワイン1本+ブランデー1/4カップ+スパイス類の標準的配合。"
+  },
+  {
+    "id": "178358",
+    "ingredients": [
+      {"name_ja": "ライム", "name_en": "Lime", "measure_ja": "3", "measure_en": "3"},
+      {"name_ja": "マンゴー", "name_en": "Mango", "measure_ja": "1 フレッシュ", "measure_en": "1 Fresh"},
+      {"name_ja": "ミント", "name_en": "Mint", "measure_ja": "小枝", "measure_en": "Sprig"},
+      {"name_ja": "ホワイトラム", "name_en": "White rum", "measure_ja": "200 ml", "measure_en": "200 ml"},
+      {"name_ja": "氷", "name_en": "Ice", "measure_ja": "個", "measure_en": "cubes"},
+      {"name_ja": "炭酸水", "name_en": "Soda water", "measure_ja": "上まで", "measure_en": "Top", "optional": true},
+      {"name_ja": "マンゴー", "name_en": "Mango", "measure_ja": "飾り", "measure_en": "Garnish with"}
+    ],
+    "_source": "vanillaandbean.com, vikalinka.com",
+    "_note": "ジャー仕込み・複数人前のバッチMojito。ホワイトラム200mlは4〜5人前相当の標準配合のため保持。"
+  },
+  {
+    "id": "34920",
+    "ingredients": [
+      {"name_ja": "マンゴーリキュール", "name_en": "Mango liqueur", "measure_ja": "30 ml", "measure_en": "30 ml", "note": "マンゴヤン"},
+      {"name_ja": "マンゴージュース", "name_en": "Mango juice", "measure_ja": "90 ml", "measure_en": "90 ml"}
+    ],
+    "_source": "cocktaillog.com",
+    "_note": "Mangoyan (フィリピン産マンゴーリキュール) を使ったマンゴーマティーニ。公式のmlは未確認だが1:3配合はマンゴージュース系カクテルの標準。8ozグラスに合致。"
+  },
+  {
+    "id": "11008",
+    "ingredients": [
+      {"name_ja": "スイートベルモット", "name_en": "Sweet vermouth", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "ライウイスキー", "name_en": "Rye whiskey", "measure_ja": "50 ml", "measure_en": "50 ml", "alternatives": ["バーボン"]},
+      {"name_ja": "アンゴスチュラビターズ", "name_en": "Angostura bitters", "measure_ja": "ダッシュ", "measure_en": "dash"},
+      {"name_ja": "氷", "name_en": "Ice", "measure_ja": "2 または 3", "measure_en": "2 or 3"},
+      {"name_ja": "マラスキーノチェリー", "name_en": "Maraschino cherry", "measure_ja": "1", "measure_en": "1"},
+      {"name_ja": "オレンジピール", "name_en": "Orange peel", "measure_ja": "1 ツイスト", "measure_en": "1 twist"}
+    ],
+    "_source": "IBA (iba-world.com), diffordsguide.com",
+    "_note": "IBA公式: ライウイスキー50ml + スイートベルモット20ml + アンゴスチュラ1ダッシュ。バーボンは代替可。"
+  },
+  {
+    "id": "30609",
+    "ingredients": [
+      {"name_ja": "ダークラム", "name_en": "Dark rum", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "ホワイトラム", "name_en": "White rum", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "コーヒーブランデー", "name_en": "Coffee brandy", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "パイナップルジュース", "name_en": "Pineapple juice", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "15 ml", "measure_en": "15 ml"}
+    ],
+    "_source": "diffordsguide.com, kitchenriffs.com, wikipedia",
+    "_note": "1970s San Diego Bali Hai Restaurantのクラシックレシピ: 1.5oz dark + 1oz white + 3/4oz coffee brandy + 1.5oz pineapple + 1oz lemon + 1/2oz sugar syrup。"
+  },
+  {
+    "id": "31103",
+    "ingredients": [
+      {"name_ja": "メスカル", "name_en": "Mezcal", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "トリプルセック", "name_en": "Triple sec", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "アガベシロップ", "name_en": "Agave syrup", "measure_ja": "7.5 ml", "measure_en": "7.5 ml"},
+      {"name_ja": "塩", "name_en": "Salt", "measure_ja": "リム用", "measure_en": "For rim"},
+      {"name_ja": "カットライム", "name_en": "Lime wedge", "measure_ja": "ガーニッシュ", "measure_en": "Garnish"}
+    ],
+    "_source": "diffordsguide.com, vinepair.com",
+    "_note": "アガベシロップの '1/60 ml' は明らかな入力エラー。Difford's準拠で2.5〜7.5mlの範囲。中央値7.5mlに修正。"
+  },
+  {
+    "id": "14209",
+    "ingredients": [
+      {"name_ja": "コーヒー", "name_en": "Coffee", "measure_ja": "180 ml", "measure_en": "180 ml"},
+      {"name_ja": "シャンボール", "name_en": "Chambord", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "ココアパウダー", "name_en": "Cocoa powder", "measure_ja": "2 大さじ", "measure_en": "2 tblsp"},
+      {"name_ja": "ホイップクリーム", "name_en": "Whipped cream", "measure_ja": "", "measure_en": "", "optional": true}
+    ],
+    "_source": "mixthatdrink.com, drinksmixer.com",
+    "_note": "コーヒー6oz + Chambord 2oz + ココアパウダー2大さじ + ホイップクリーム (オプション) の標準レシピ。"
+  },
+  {
+    "id": "11009",
+    "ingredients": [
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ジンジャービア", "name_en": "Ginger beer", "measure_ja": "120 ml", "measure_en": "120 ml"}
+    ],
+    "_source": "IBA (iba-world.com), diffordsguide.com",
+    "_note": "IBA公式: Vodka 45ml + Lime juice 15ml + Ginger beer 120ml。元データのウォッカ60ml+ライム60ml+ジンジャーエール240mlは過剰だったため修正。本来はジンジャー'ビア'。"
+  },
+  {
+    "id": "34971",
+    "ingredients": [
+      {"name_ja": "ベネディクティン", "name_en": "Bénédictine", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "水", "name_en": "Water", "measure_ja": "130 ml", "measure_en": "130 ml", "note": "常温のものを使用"},
+      {"name_ja": "インスタントコーヒー", "name_en": "Instant coffee", "measure_ja": "3 tsps.", "measure_en": "3 tsps."},
+      {"name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "2 tsps.", "measure_en": "2 tsps."},
+      {"name_ja": "生クリーム", "name_en": "Fresh cream", "measure_ja": "15 ml", "measure_en": "15 ml", "note": "フロート"}
+    ],
+    "_source": "cocktaillog.com, diffordsguide.com",
+    "_note": "ホットコーヒーカクテル。ベネディクティン30ml + 水130ml + インスタントコーヒー3tsp + シロップ2tsp + 生クリームフロート。8ozグラスに合致。"
+  },
+  {
+    "id": "31309",
+    "ingredients": [
+      {"name_ja": "ジャパニーズウイスキー", "name_en": "Japanese whisky", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "ゆず果汁", "name_en": "Yuzu juice", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "卵白", "name_en": "Egg white", "measure_ja": "1 個分", "measure_en": "1"}
+    ],
+    "_source": "diffordsguide.com, drinksworld.com",
+    "_note": "Japanese whisky 2oz + yuzu 3/4oz + lemon 1/2oz + simple syrup 3/4oz + 卵白の標準レシピ。"
+  },
+  {
+    "id": "30912",
+    "ingredients": [
+      {"name_ja": "ペールラガー", "name_en": "Pale lager", "measure_ja": "135 ml", "measure_en": "135 ml"},
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "45 ml", "measure_en": "45 ml"}
+    ],
+    "_source": "drinkscocktails.com, cocktailflavors.com, wikipedia",
+    "_note": "ロシアのビアカクテル。一般的配合は1.5oz vodka + 4.5oz pale lager (1:3)。元データの300ml+60mlはパイントグラス用の倍量バージョン。標準1人前に正規化。"
+  },
+  {
+    "id": "34993",
+    "ingredients": [
+      {"name_ja": "白ワイン", "name_en": "White wine", "measure_ja": "750 ml", "measure_en": "750 ml", "note": "ラインガウ / 1本"},
+      {"name_ja": "ブランデー", "name_en": "Brandy", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "ホワイトキュラソー", "name_en": "White curaçao", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "オレンジキュラソー", "name_en": "Orange curaçao", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "炭酸水", "name_en": "Soda water", "measure_ja": "400 ml", "measure_en": "400 ml", "note": "2本"}
+    ],
+    "_source": "barnonedrinks.com",
+    "_note": "ピッチャー仕込みのRhine Wine Cup。白ワイン1本ベースに各種リキュール・炭酸水を加える伝統的レシピ。"
+  },
+  {
+    "id": "16984",
+    "ingredients": [
+      {"name_ja": "ラム", "name_en": "Rum", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "テキーラ", "name_en": "Tequila", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ジン", "name_en": "Gin", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "トリプルセック", "name_en": "Triple sec", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "シャンボール", "name_en": "Chambord", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "メロンリキュール", "name_en": "Melon liqueur", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "マリブ", "name_en": "Malibu", "measure_ja": "30 ml", "measure_en": "30 ml"}
+    ],
+    "_source": "cocktailbuilder.com, thecocktaildb.com",
+    "_note": "8種類のスピリッツを各1oz (30ml) ずつ。合計240mlの超強力ロングカクテル。"
+  },
+  {
+    "id": "31001",
+    "ingredients": [
+      {"name_ja": "ジン", "name_en": "Gin", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "グリーンシャルトリューズ", "name_en": "Chartreuse Verte", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "マラスキーノリキュール", "name_en": "Maraschino liqueur", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "22 ml", "measure_en": "22 ml"}
+    ],
+    "_source": "diffordsguide.com, saveur.com",
+    "_note": "Equal parts: 4種を各3/4oz (22ml) ずつ。元データの各30mlは合計120mlでカクテルグラスに過剰なため、Difford'sの3/4oz配合に修正。"
+  },
+  {
+    "id": "30712",
+    "ingredients": [
+      {"name_ja": "ダークラム", "name_en": "Dark rum", "measure_ja": "120 ml", "measure_en": "120 ml"},
+      {"name_ja": "ゴールドラム", "name_en": "Gold rum", "measure_ja": "120 ml", "measure_en": "120 ml"},
+      {"name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "レモン2 個分", "measure_en": "Juice of 2 lemons"},
+      {"name_ja": "パイナップルジュース", "name_en": "Pineapple juice", "measure_ja": "150 ml", "measure_en": "150 ml"},
+      {"name_ja": "オレンジジュース", "name_en": "Orange juice", "measure_ja": "150 ml", "measure_en": "150 ml"},
+      {"name_ja": "ファレルナム", "name_en": "Falernum", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "アンゴスチュラビターズ", "name_en": "Angostura bitters", "measure_ja": "6 dash", "measure_en": "6 dashes"},
+      {"name_ja": "オレンジ", "name_en": "Orange", "measure_ja": "1 片", "measure_en": "1 slice"},
+      {"name_ja": "マラスキーノチェリー", "name_en": "Maraschino cherry", "measure_ja": "1 個", "measure_en": "1"}
+    ],
+    "_source": "diffordsguide.com, thebermudian.com",
+    "_note": "Swizzle Inn (Bermuda) のクラシックレシピ。バッチ仕込みで複数人前。Goslings系のダーク&ゴールドラム各4oz + 各種ジュース + falernumの伝統配合。"
+  },
+  {
+    "id": "35012",
+    "ingredients": [
+      {"name_ja": "ビーフィータージン", "name_en": "Beefeater gin", "measure_ja": "50 ml", "measure_en": "50 ml"},
+      {"name_ja": "白ワイン", "name_en": "White wine", "measure_ja": "12.5 ml", "measure_en": "12.5 ml"},
+      {"name_ja": "チンザノオランチョ", "name_en": "Cinzano Orancio", "measure_ja": "6.25 ml", "measure_en": "6.25 ml"},
+      {"name_ja": "ドライベルモット", "name_en": "Dry vermouth", "measure_ja": "6.25 ml", "measure_en": "6.25 ml", "note": "チンザノ"},
+      {"name_ja": "フランボワーズリキュール", "name_en": "Framboise liqueur", "measure_ja": "10 ml", "measure_en": "10 ml", "note": "クレーム・ド・フランボアーズ"},
+      {"name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "25 ml", "measure_en": "25 ml"},
+      {"name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "10 ml", "measure_en": "10 ml"},
+      {"name_ja": "炭酸水", "name_en": "Soda water", "measure_ja": "", "measure_en": "", "note": "適量", "optional": true}
+    ],
+    "_source": "未確認 (公式レシピ見つからず)",
+    "_note": "Lambeth Lemonadeの公式レシピは2サイト以上で確認できず。元データの細かい配合 (50ml gin + 12.5ml wine + 6.25ml vermouth等) は特定バーのオリジナルレシピと思われるため現状値を保持。"
+  },
+  {
+    "id": "31406",
+    "ingredients": [
+      {"name_ja": "イェーガーマイスター", "name_en": "Jägermeister", "measure_ja": "10 ml", "measure_en": "10 ml"},
+      {"name_ja": "ゴールドシュレーガー", "name_en": "Goldschläger", "measure_ja": "10 ml", "measure_en": "10 ml"},
+      {"name_ja": "ペパーミントシュナップス", "name_en": "Peppermint schnapps", "measure_ja": "10 ml", "measure_en": "10 ml"}
+    ],
+    "_source": "homebarmenu.com, socialandcocktail.co.uk",
+    "_note": "等量3種のショット。Home Bar Menu準拠で各10ml (合計30ml = ショットグラス標準容量) に修正。"
+  },
+  {
+    "id": "30710",
+    "ingredients": [
+      {"name_ja": "ライウイスキー", "name_en": "Rye whiskey", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "スイートベルモット", "name_en": "Sweet vermouth", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "チェリーブランデー", "name_en": "Cherry brandy", "measure_ja": "10 ml", "measure_en": "10 ml", "note": "Cherry Heering推奨"},
+      {"name_ja": "アブサン", "name_en": "Absinthe", "measure_ja": "ダッシュ", "measure_en": "dash", "note": "3 dashes"},
+      {"name_ja": "レモンピール", "name_en": "Lemon peel", "measure_ja": "1 片", "measure_en": "1 twist"}
+    ],
+    "_source": "diffordsguide.com, imbibemagazine.com",
+    "_note": "Difford's: rye 45ml + sweet vermouth 22.5ml + Cherry Heering 10ml + absinthe 3 dashes。元データのアブサン7.5mlは多すぎるためdashに修正、チェリーブランデーも15→10mlに調整。"
+  }
+]

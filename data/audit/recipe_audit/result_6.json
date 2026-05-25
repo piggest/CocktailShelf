@@ -1,0 +1,268 @@
+[
+  {
+    "id": "31207",
+    "ingredients": [
+      { "name_ja": "ウォッカ", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "チョコレートリキュール", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ベイリーズ", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "チョコレートシロップ", "measure_ja": "リム用", "measure_en": "for rim" },
+      { "name_ja": "ココアパウダー", "measure_ja": "リム用", "measure_en": "for rim" }
+    ],
+    "_source": "TheWanderlustKitchen / TheBar (Baileys公式)",
+    "_note": "等量2oz×3 (60/60/60) のレシピが広く流通。現状値維持。"
+  },
+  {
+    "id": "35453",
+    "ingredients": [
+      { "name_ja": "バーボン", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "10 ml", "measure_en": "10 ml" },
+      { "name_ja": "ミント", "measure_ja": "10枚", "measure_en": "10 leaves" },
+      { "name_ja": "アイスティー", "measure_ja": "90 ml", "measure_en": "90 ml" }
+    ],
+    "_source": "HomeCookingMemories / SmithTea / TEALEAVES",
+    "_note": "バーボン+ミント+シロップ+アイスティーの一般的なジュレップ系比率と整合。現状値維持。"
+  },
+  {
+    "id": "35452",
+    "ingredients": [
+      { "name_ja": "ホワイトラム", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "10 ml", "measure_en": "10 ml" },
+      { "name_ja": "ミント", "measure_ja": "10枚", "measure_en": "10 leaves" },
+      { "name_ja": "アイスティー", "measure_ja": "90 ml", "measure_en": "90 ml" },
+      { "name_ja": "炭酸水", "measure_ja": "", "measure_en": "", "note": "適量" }
+    ],
+    "_source": "ChocolateAndCheesePlease / FirebellyTea (Mojitoベース+ティー)",
+    "_note": "モヒート (ラム30/ライム15/シロップ10/ミント/ソーダ) のティー版。現状値維持。"
+  },
+  {
+    "id": "17828",
+    "ingredients": [
+      { "name_ja": "アイリッシュウイスキー", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "スイートベルモット", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "グリーンシャルトリューズ", "measure_ja": "15 ml", "measure_en": "15 ml" }
+    ],
+    "_source": "Difford's Guide / Jameson公式 / VinePair",
+    "_note": "現代版 2:1:0.5 比率 (60/30/15) と一致。Difford's Guideでも採用。"
+  },
+  {
+    "id": "32315",
+    "ingredients": [
+      { "name_ja": "赤ワイン", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "レモンライムソーダ", "measure_ja": "120 ml", "measure_en": "120 ml" }
+    ],
+    "_source": "TheKitchn / Saveur / SpanishSabores",
+    "_note": "Tinto de Verano は赤ワイン:レモンソーダ 1:1 が標準。現状値維持。"
+  },
+  {
+    "id": "12370",
+    "ingredients": [
+      { "name_ja": "テキーラ", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "レモンジュース", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "粉砂糖", "measure_ja": "1 小さじ", "measure_en": "1 tsp" },
+      { "name_ja": "レモン", "measure_ja": "1/2 スライス", "measure_en": "1/2 slice" },
+      { "name_ja": "チェリー", "measure_ja": "1", "measure_en": "1" }
+    ],
+    "_source": "thecocktaildb (id 12370)",
+    "_note": "現代の標準サワー比率は 2:1:0.75 (60/30/22) だが、thecocktaildb原典の 2oz:2oz:1tsp 配分を維持。レモン60mlは多めの可能性。"
+  },
+  {
+    "id": "35474",
+    "ingredients": [
+      { "name_ja": "テキーラローズ", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "アイリッシュクリーム", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "グレナデンシロップ", "measure_ja": "15 ml", "measure_en": "15 ml" }
+    ],
+    "_source": "Tequila Rose UK公式 / cocktaillog / SpiritDrinks",
+    "_note": "公式レシピ 2oz:1oz:0.5oz (60/30/15) と一致。"
+  },
+  {
+    "id": "15515",
+    "ingredients": [
+      { "name_ja": "コーヒー", "measure_ja": "240 ml", "measure_en": "240 ml" },
+      { "name_ja": "テネシーウイスキー", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "アマレット", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "ホイップクリーム", "measure_ja": "", "measure_en": "" }
+    ],
+    "_source": "Puredrinkology / EmpireWine / CocktailBuilder",
+    "_note": "8oz coffee / 4oz JD / 4oz amaretto (240/120/120) の標準レシピと一致。ホットドリンクで合計量大。"
+  },
+  {
+    "id": "30817",
+    "ingredients": [
+      { "name_ja": "テキーラ", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      {
+        "name_ja": "アガベシロップ",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
+        "alternatives": [
+          { "name_ja": "2+アガベネクター1", "name_en": "" },
+          { "name_ja": "2", "name_en": "" }
+        ]
+      }
+    ],
+    "_source": "IBA公式 / Difford's Guide",
+    "_note": "IBA公式: テキーラ60ml / ライム30ml / アガベ30ml と完全一致。"
+  },
+  {
+    "id": "30820",
+    "ingredients": [
+      { "name_ja": "バカルディ・リモン", "measure_ja": "38 ml", "measure_en": "38 ml" },
+      { "name_ja": "コアントロー", "measure_ja": "23 ml", "measure_en": "23 ml" },
+      { "name_ja": "サワーミックス", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      {
+        "name_ja": "クランベリージュース",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
+        "note": "少量(スプラッシュ)"
+      }
+    ],
+    "_source": "Wikipedia / HomeBarMenu / Recipezazz",
+    "_note": "公式レシピ 1.25oz / 0.75oz / 2oz / 1oz = 38/23/60/30。クランベリーを8mlから30mlへ修正。"
+  },
+  {
+    "id": "30313",
+    "ingredients": [
+      { "name_ja": "ピスコ", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "サンジェルマン", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "20 ml", "measure_en": "20 ml" },
+      { "name_ja": "炭酸水", "measure_ja": "少量", "measure_en": "Splash" }
+    ],
+    "_source": "Wikipedia / TasteAtlas / KindredCocktails",
+    "_note": "Don Alfredo標準レシピ Pisco 45 / St-Germain 30 / Lime 20 / Soda splash と一致。"
+  },
+  {
+    "id": "34567",
+    "ingredients": [
+      { "name_ja": "ブランデー", "measure_ja": "5 ml", "measure_en": "5 ml" },
+      { "name_ja": "ベイリーズ", "measure_ja": "45 ml", "measure_en": "45 ml" }
+    ],
+    "_source": "原典未確認",
+    "_note": "Night Baron の公式レシピを2サイト以上で確認できず。元データ値を維持。"
+  },
+  {
+    "id": "13192",
+    "ingredients": [
+      { "name_ja": "ラム", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "ウォッカ", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "ジン", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "ブルーキュラソー", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "サワーミックス", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "レモンライムソーダ", "measure_ja": "8 ml", "measure_en": "8 ml" }
+    ],
+    "_source": "BarNoneDrinks / CocktailBuilder / Puredrinkology",
+    "_note": "0.5oz×4 + 2oz sour + splash = 15/15/15/15/60/8 と一致。"
+  },
+  {
+    "id": "11844",
+    "ingredients": [
+      { "name_ja": "ブレンデッドウイスキー", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "レモンジュース", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "砂糖", "measure_ja": "1 小さじ", "measure_en": "1 tsp" },
+      { "name_ja": "赤ワイン", "measure_ja": "(クラレット)", "measure_en": "(Claret)" },
+      { "name_ja": "レモン", "measure_ja": "", "measure_en": "" },
+      { "name_ja": "チェリー", "measure_ja": "", "measure_en": "" }
+    ],
+    "_source": "Mr. Boston Bartender's Guide / Difford's Guide / IBA (参考)",
+    "_note": "IBA現代版は 60/30/22.5/15ワイン。元データはMr.Boston系で 'juice of lemon' を60ml換算しており多め。クラレットのml指定なし。原典記述を維持。"
+  },
+  {
+    "id": "34582",
+    "ingredients": [
+      {
+        "name_ja": "アップルブランデー",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
+        "note": "カルバドス"
+      },
+      { "name_ja": "水", "measure_ja": "130 ml", "measure_en": "130 ml" },
+      { "name_ja": "インスタントコーヒー", "measure_ja": "3 tsps.", "measure_en": "3 tsps." },
+      {
+        "name_ja": "生クリーム",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml",
+        "note": "フロート"
+      }
+    ],
+    "_source": "Food.com / Recipezazz / Snapcalorie",
+    "_note": "Normandy Coffee の標準的レシピ (カルバドス1oz+コーヒー+クリームフロート) と整合。"
+  },
+  {
+    "id": "36027",
+    "ingredients": [
+      { "name_ja": "カシスシロップ", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ジャスミン茶", "measure_ja": "120 ml", "measure_en": "120 ml" }
+    ],
+    "_source": "cocktaillog (ノンアル・カシスジャスミン)",
+    "_note": "cocktaillog掲載レシピと整合。30ml + ジャスミン茶適量。"
+  },
+  {
+    "id": "15813",
+    "ingredients": [
+      { "name_ja": "ホットダム", "measure_ja": "150 ml", "measure_en": "150 ml" },
+      { "name_ja": "紅茶", "measure_ja": "甘めに", "measure_en": "very sweet" }
+    ],
+    "_source": "thecocktaildb / Puredrinkology / HomeBartender",
+    "_note": "5 shots Hot Damn (= 150ml) + 甘い紅茶 のレシピと一致。"
+  },
+  {
+    "id": "34602",
+    "ingredients": [
+      { "name_ja": "バーボン", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "レモンジュース", "measure_ja": "20 ml", "measure_en": "20 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "1 tsp.", "measure_en": "1 tsp." },
+      { "name_ja": "カットレモン", "measure_ja": "1/8 個", "measure_en": "1/8 個" },
+      { "name_ja": "マラスキーノチェリー", "measure_ja": "1 個", "measure_en": "1 個" }
+    ],
+    "_source": "Mr. Boston Bartender's Guide / Difford's Guide",
+    "_note": "Mr.Boston系古典サワー (1.5oz whiskey + lemon juice + sugar) と整合。"
+  },
+  {
+    "id": "12718",
+    "ingredients": [
+      { "name_ja": "生姜", "measure_ja": "1/4インチ", "measure_en": "1/4 inch" },
+      { "name_ja": "パイナップル", "measure_ja": "120 ml", "measure_en": "120 ml" }
+    ],
+    "_source": "thecocktaildb / CocktailBuilder / Haveacocktail",
+    "_note": "CocktailBuilder: 250g スライスパイナップル + 1/4 ginger slice をブレンドのレシピと整合。"
+  },
+  {
+    "id": "178327",
+    "ingredients": [
+      { "name_ja": "テキーラ", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "グレープフルーツジュース", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "パイナップルジュース", "measure_ja": "240 ml", "measure_en": "240 ml" },
+      { "name_ja": "ライム", "measure_ja": "飾りに", "measure_en": "Garnish with" },
+      { "name_ja": "胡椒", "measure_ja": "リムに", "measure_en": "Rimmed" }
+    ],
+    "_source": "thecocktaildb (id 178327)",
+    "_note": "標準的1人前は2oz tequila / 2oz pineapple / 1oz GF / 0.5oz lime (60/60/30/15)。原典は2-3人分量と思われる。原典値維持。"
+  },
+  {
+    "id": "16986",
+    "ingredients": [
+      { "name_ja": "サザンカンフォート", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "トリプルセック", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "ライム", "measure_ja": "2 くし切り", "measure_en": "2 wedges" },
+      { "name_ja": "サワーミックス", "measure_ja": "60 ml", "measure_en": "60 ml" }
+    ],
+    "_source": "CocktailBuilder / Drinksmixer / Puredrinkology",
+    "_note": "Bible Belt: 2oz SoCo / 0.5oz triple sec / 2 lime wedges / 2oz sour と一致。"
+  },
+  {
+    "id": "34614",
+    "ingredients": [
+      { "name_ja": "パスティス", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      {
+        "name_ja": "水",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml",
+        "note": "適量"
+      }
+    ],
+    "_source": "SippitySup / NoseyChef / Food.com",
+    "_note": "Pastis:水 = 1:5 が標準だが、1:3 も許容範囲。現状30/90 (1:3) を維持。"
+  }
+]

@@ -1,0 +1,658 @@
+[
+  {
+    "id": "12436",
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "name_en": "Light rum",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      },
+      {
+        "name_ja": "メープルシロップ",
+        "name_en": "Maple syrup",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "_source": "thecocktaildb / Foodie Pilgrim / Good Cocktails",
+    "_note": "オールドファッションドグラスでロックスタイル。3:1:1の比率が定番。元の値を保持。"
+  },
+  {
+    "id": "12452",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      },
+      {
+        "name_ja": "グレープジュース",
+        "name_en": "Grape juice",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml",
+        "note": "無糖"
+      },
+      {
+        "name_ja": "粉砂糖",
+        "name_en": "Powdered sugar",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "オレンジ",
+        "name_en": "Orange",
+        "measure_ja": "1 スライス",
+        "measure_en": "1 slice"
+      }
+    ],
+    "_source": "barnonedrinks / cocktailbuilder / haveacocktail",
+    "_note": "1.5oz vodka / 3oz lemon / 3oz grape juice / 1tsp powdered sugar / 1 orange slice が定番。元の値と一致。"
+  },
+  {
+    "id": "34118",
+    "ingredients": [
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "160 ml",
+        "measure_en": "160 ml",
+        "note": "常温のものを使用"
+      },
+      {
+        "name_ja": "インスタントコーヒー",
+        "name_en": "Instant coffee",
+        "measure_ja": "3 tsps.",
+        "measure_en": "3 tsps."
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "2 tsps.",
+        "measure_en": "2 tsps."
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml",
+        "note": "フロート"
+      }
+    ],
+    "_source": "UCC上島珈琲 / クラシル / キーコーヒー",
+    "_note": "ウインナーコーヒーは濃いめのコーヒーに生クリームをフロート。インスタント版で材料は一般的。"
+  },
+  {
+    "id": "34124",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "カルピス",
+        "name_en": "Calpis",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "55 ml",
+        "measure_en": "55 ml",
+        "note": "適量"
+      },
+      {
+        "name_ja": "カルピスウォーター",
+        "name_en": "Calpis Water",
+        "measure_ja": "75 ml",
+        "measure_en": "75 ml",
+        "note": "適量"
+      }
+    ],
+    "_source": "BAR信天翁 / Plus X Cocktail",
+    "_note": "原液版(vodka 45 / カルピス 20 / 水 55)とカルピスウォーター版(vodka 45 / カルピスウォーター 75)の併記。元の値を保持。"
+  },
+  {
+    "id": "16967",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ハーフ&ハーフ",
+        "name_en": "Half-and-half",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ライメード",
+        "name_en": "Limeade",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "ナツメグ",
+        "name_en": "Nutmeg",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "_source": "cocktailbuilder / Absolut Drinks",
+    "_note": "2oz/2oz/2ozの等分ブレンド版で一致。フローズン後白ワイングラスに注ぐ。"
+  },
+  {
+    "id": "178309",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "バニラシロップ",
+        "name_en": "Vanilla syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "エスプレッソ",
+        "name_en": "Espresso",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "コーヒー",
+        "name_en": "Coffee",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "_source": "Maine Spirits / puredrinkology / diffordsguide",
+    "_note": "Three Piece Bar版: 35ml rum / 25ml espresso / 25ml vanilla syrup。元値はコーヒーリキュール代わりにコーヒーを足した変則レシピ。元の値を保持。"
+  },
+  {
+    "id": "32016",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de cassis",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "ジンジャービア",
+        "name_en": "Ginger beer",
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
+      }
+    ],
+    "_source": "diffordsguide / European Bartender School / cancuntequilatasting",
+    "_note": "標準レシピ60/15/22.5/100mlと完全一致。IBA未登録だが広く認められたモダンクラシック。"
+  },
+  {
+    "id": "32015",
+    "ingredients": [
+      {
+        "name_ja": "クレームドカカオ",
+        "name_en": "Crème de cacao",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "cocktaillog / kitchycooking",
+    "_note": "プース・カフェスタイル。Savoy原典は等分版だが、現代日本標準は cacao 45 / cream 15 = 3:1。元の値を保持。"
+  },
+  {
+    "id": "35483",
+    "ingredients": [
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "パルフェ・タムール",
+        "name_en": "Parfait d'Amour",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White curaçao",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      }
+    ],
+    "_source": "cocktaillog / mixthatdrink / cocktailbuilder",
+    "_note": "プース・カフェスタイル4層、等分10ml×4=40mlでリキュールグラスに収まる。元の値と一致。"
+  },
+  {
+    "id": "17246",
+    "ingredients": [
+      {
+        "name_ja": "メスカル",
+        "name_en": "Mezcal",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "チョコレートリキュール",
+        "name_en": "Chocolate liqueur",
+        "measure_ja": "23 ml",
+        "measure_en": "23 ml"
+      },
+      {
+        "name_ja": "コーヒーリキュール",
+        "name_en": "Coffee liqueur",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "thecocktaildb / thebeerguy / cocktailpro",
+    "_note": "2oz mezcal / 3/4oz chocolate / 2oz coffee liqueur が原典。元値のコーヒーリキュール 15ml は原典の60ml(2oz)より少なめだが、_note 上保持。"
+  },
+  {
+    "id": "13200",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "name_en": "Whiskey",
+        "measure_ja": "360 ml",
+        "measure_en": "360 ml"
+      },
+      {
+        "name_ja": "ビール",
+        "name_en": "Beer",
+        "measure_ja": "360 ml",
+        "measure_en": "360 ml"
+      },
+      {
+        "name_ja": "レモネード",
+        "name_en": "Lemonade",
+        "measure_ja": "360 ml",
+        "measure_en": "360 ml",
+        "note": "冷凍"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "1カップ クラッシュド",
+        "measure_en": "1 cup crushed"
+      }
+    ],
+    "_source": "cocktailand.fr",
+    "_note": "12cl=120ml × 3材料が仏ソースの値だが、英米ソースだと12oz缶単位の大容量パンチ。複数人前。元の値を保持。"
+  },
+  {
+    "id": "178371",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "2 ダッシュ",
+        "measure_en": "2 dashes"
+      },
+      {
+        "name_ja": "プロセッコ",
+        "name_en": "Prosecco",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      }
+    ],
+    "_source": "diffordsguide / BACARDI / Imbibe Magazine",
+    "_note": "Audrey Saunders原典: 45ml aged rum / 22.5ml lime / 30ml simple syrup / 2 dashes / 60ml prosecco + mint 6-8枚。元値はラムが60mlとやや多めだが許容範囲。本来は熟成ラム+ミント。"
+  },
+  {
+    "id": "17827",
+    "ingredients": [
+      {
+        "name_ja": "ライウイスキー",
+        "name_en": "Rye whiskey",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "_source": "diffordsguide / Robb Report / Imbibe Magazine",
+    "_note": "古典は等分 30/30/30、現代モダン版はライ 2oz(60ml) + Campari/Vermouth 1oz(30ml) ずつ。元の値は現代版で広く受け入れ可。"
+  },
+  {
+    "id": "15330",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "_source": "Wikipedia / savoryexperiments",
+    "_note": "Maryland式は vodka 2oz / triple sec 2oz / OJ + lemon-lime soda 少量。本データは等分ショットスタイル簡略版。ショットグラスでは30ml限度なのでショット仕様で保持。"
+  },
+  {
+    "id": "35238",
+    "ingredients": [
+      {
+        "name_ja": "エバークリア",
+        "name_en": "Everclear",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      }
+    ],
+    "_source": "カクテルログ",
+    "_note": "公式詳細レシピは未確認。カクテルログのオレンジ・デーモンは存在するが分量は限定的情報のみ。元の値を保持。"
+  },
+  {
+    "id": "33049",
+    "ingredients": [
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "Red wine",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de cassis",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "_source": "cocktailmag.fr / wineponder / Social and Cocktail",
+    "_note": "Kir Cardinaleとも。赤ワインベースのKir。一般的にカシス 1/5 + 赤ワイン 4/5 程度。元の値は 4:1 で標準的。"
+  },
+  {
+    "id": "36029",
+    "ingredients": [
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de cassis",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ジャスミン茶",
+        "name_en": "Jasmine tea",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      }
+    ],
+    "_source": "アサヒビール / cocktaillog / クックパッド",
+    "_note": "アサヒ式: クレーム・ド・カシス 30ml + ジャスミン茶 + ミント。元の値と一致。"
+  },
+  {
+    "id": "35367",
+    "ingredients": [
+      {
+        "name_ja": "ブラウンクレームドカカオ",
+        "name_en": "Brown crème de cacao",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "コーヒー",
+        "name_en": "Coffee",
+        "measure_ja": "150 ml",
+        "measure_en": "150 ml"
+      },
+      {
+        "name_ja": "ホイップクリーム",
+        "name_en": "Whipped cream",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      }
+    ],
+    "_source": "hakaru-kk / cocktailtype / cocktaillog",
+    "_note": "ホットコーヒー 150ml + クレーム・ド・カカオ 15ml + ホイップクリームのホットカクテルで標準と一致。"
+  },
+  {
+    "id": "35122",
+    "ingredients": [
+      {
+        "name_ja": "コーヒー",
+        "name_en": "Coffee",
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
+      },
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "グラニュー糖",
+        "name_en": "Granulated sugar",
+        "measure_ja": "10 g",
+        "measure_en": "10 g"
+      },
+      {
+        "name_ja": "オレンジスライス",
+        "name_en": "Orange slice",
+        "measure_ja": "3 枚",
+        "measure_en": "3 slices"
+      }
+    ],
+    "_source": "coffee-effect / cocktaillog",
+    "_note": "コーヒー100ml / ブランデー5ml / ダークラム5ml / OJ 20ml / グラニュー糖10g / オレンジスライス3枚で完全一致。"
+  },
+  {
+    "id": "35237",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White curaçao",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "アイスコーヒー",
+        "name_en": "Iced coffee",
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "スノースタイル",
+        "measure_en": "For snow-style rim"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      }
+    ],
+    "_source": "hakaru-kk / cocktaillog",
+    "_note": "ブランデー10ml / ホワイトキュラソー10ml / アイスコーヒー100ml + 砂糖スノースタイルで標準と完全一致。"
+  },
+  {
+    "id": "34193",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "1 tsp.",
+        "measure_en": "1 tsp."
+      },
+      {
+        "name_ja": "角砂糖",
+        "name_en": "Sugar cube",
+        "measure_ja": "1 個",
+        "measure_en": "1 piece"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "160 ml",
+        "measure_en": "160 ml",
+        "note": "常温のものを使用"
+      },
+      {
+        "name_ja": "インスタントコーヒー",
+        "name_en": "Instant coffee",
+        "measure_ja": "3 tsps.",
+        "measure_en": "3 tsps."
+      }
+    ],
+    "_source": "アサヒビール / coffee-fam / coffeemecca",
+    "_note": "ナポレオン由来の古典ホットカクテル。一般にコーヒー1杯+角砂糖1個+ブランデーをロワイヤルスプーンで点火するスタイル。インスタントコーヒー版で水とコーヒー粉に分解した形式の値を保持。"
+  },
+  {
+    "id": "30212",
+    "ingredients": [
+      {
+        "name_ja": "アグアルディエンテ",
+        "name_en": "Aguardiente",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "蜂蜜",
+        "name_en": "Honey",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      }
+    ],
+    "_source": "diffordsguide / PUNCH / Punch Drink",
+    "_note": "標準レシピ: 2oz(60ml) aguardiente / 0.5oz(15ml) honey / 0.5oz(15ml) lime / 1.67oz(50ml) water。元の値と完全一致。キューバ最古のカクテル。"
+  }
+]

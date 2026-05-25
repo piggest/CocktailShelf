@@ -1,0 +1,252 @@
+[
+  {
+    "id": "17826",
+    "ingredients": [
+      {"name_ja": "アイリッシュウイスキー", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "アマレット", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "クランベリージュース", "measure_ja": "60 ml", "measure_en": "60 ml"}
+    ],
+    "_source": "puredrinkology.com / TheCocktailDB",
+    "_note": "公式IBA外。元データは50/50/120と等量寄りで合計過大。一般的なサワー系比率(3:1)+クランベリーで再構成。"
+  },
+  {
+    "id": "17247",
+    "ingredients": [
+      {"name_ja": "ジン", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "グリーンシャルトリューズ", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "マラスキーノリキュール", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "ライムジュース", "measure_ja": "22 ml", "measure_en": "22 ml"}
+    ],
+    "_source": "Difford's Guide / Saveur (等量レシピ)",
+    "_note": "等量配分は確定。30ml×4=120mlでもよいが、カクテルグラス容量に合わせ22ml×4=88mlに調整。"
+  },
+  {
+    "id": "31404",
+    "ingredients": [
+      {"name_ja": "イェーガーマイスター", "measure_ja": "10 ml", "measure_en": "10 ml"},
+      {"name_ja": "マリブ", "measure_ja": "10 ml", "measure_en": "10 ml"},
+      {"name_ja": "パイナップルジュース", "measure_ja": "10 ml", "measure_en": "10 ml"}
+    ],
+    "_source": "Difford's Guide / cocktailwave.com",
+    "_note": "ショットグラス(30ml)に合わせ等量3分割。原作Eric Tecoskyレシピは等量。"
+  },
+  {
+    "id": "12196",
+    "ingredients": [
+      {"name_ja": "ブランデー", "measure_ja": "50 ml", "measure_en": "50 ml"},
+      {"name_ja": "コアントロー", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "レモンジュース", "measure_ja": "20 ml", "measure_en": "20 ml"}
+    ],
+    "_source": "IBA Official (Unforgettables)",
+    "_note": "IBA公式 50/20/20。元データはBrandy 60が過大。"
+  },
+  {
+    "id": "30805",
+    "ingredients": [
+      {"name_ja": "ロンドンドライジン", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "レモンジュース", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "シュガーシロップ", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ミントの葉", "measure_ja": "5〜6枚", "measure_en": "5–6 leaves"},
+      {"name_ja": "卵白", "measure_ja": "数滴(任意)", "measure_en": "Few drops (optional)", "optional": true}
+    ],
+    "_source": "IBA Official (South Side, 2020収録)",
+    "_note": "IBA公式値で現状値と一致。"
+  },
+  {
+    "id": "35441",
+    "ingredients": [
+      {"name_ja": "グレナデンシロップ", "measure_ja": "10 ml", "measure_en": "10 ml"},
+      {"name_ja": "グリーンミントリキュール", "measure_ja": "10 ml", "measure_en": "10 ml"},
+      {"name_ja": "ホワイトクレームドカカオ", "measure_ja": "10 ml", "measure_en": "10 ml"}
+    ],
+    "_source": "mixthatdrink.com / mybartender.com",
+    "_note": "ショットグラス30ml内に収めるため等量3分割。3層レイヤード。"
+  },
+  {
+    "id": "30207",
+    "ingredients": [
+      {"name_ja": "ウォッカ", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "クラマトジュース", "measure_ja": "120 ml", "measure_en": "120 ml"},
+      {"name_ja": "ホットソース", "measure_ja": "2ダッシュ", "measure_en": "2 dashes"},
+      {"name_ja": "ウスターソース", "measure_ja": "4ダッシュ", "measure_en": "4 dashes"},
+      {"name_ja": "セロリソルト", "measure_ja": "", "measure_en": ""},
+      {"name_ja": "胡椒", "measure_ja": "", "measure_en": ""},
+      {"name_ja": "カットライム", "measure_ja": "1切れ", "measure_en": "1"},
+      {"name_ja": "セロリスティック", "measure_ja": "1本", "measure_en": "1"}
+    ],
+    "_source": "Wikipedia / Mott's Clamato (Mott's公式)",
+    "_note": "Wikipediaの28mlウォッカ+クラマト top upはハイボール想定。Mott's公式は1oz vodka/4oz clamato。元データの「1〜45 ml」表記を45mlに統一、クラマトを180→120mlに調整。"
+  },
+  {
+    "id": "17027",
+    "ingredients": [
+      {"name_ja": "ジーマ", "measure_ja": "120 ml", "measure_en": "120 ml"},
+      {"name_ja": "シャンボール", "measure_ja": "30 ml", "measure_en": "30 ml"}
+    ],
+    "_source": "cocktailbuilder.com / TheCocktailDB",
+    "_note": "オリジナルは Zima 12oz + Chambord 3oz (360/90ml)だがハリケーンでも過大。一般的飲用量に合わせ4:1比率で縮小。"
+  },
+  {
+    "id": "35572",
+    "ingredients": [
+      {"name_ja": "ブランコテキーラ", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "カンパリ", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "グレープフルーツジュース", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ライムジュース", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "シュガーシロップ", "measure_ja": "15 ml", "measure_en": "15 ml"}
+    ],
+    "_source": "Katie Stipe original (Flatiron Lounge 2006) / Difford's Guide / MasterClass",
+    "_note": "オリジナル 1.5oz tequila / 0.5oz Campari / 1oz grapefruit / 0.75oz lime / 0.5oz syrup。元データのGF 15ml/lime 20mlを公式比率に修正。"
+  },
+  {
+    "id": "31306",
+    "ingredients": [
+      {"name_ja": "ジャマイカンラム", "name_en": "Jamaican rum", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ゴールドラム", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "151プルーフラム", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "グレープフルーツジュース", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "シナモンシロップ", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ファレルナム", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ペルノー", "measure_ja": "6 ドロップ", "measure_en": "6 drops"},
+      {"name_ja": "アンゴスチュラビターズ", "measure_ja": "1 ダッシュ", "measure_en": "1 dash"}
+    ],
+    "_source": "Robb Report / Cocktail Wonk (Beaumont-Gantt原典系)",
+    "_note": "元データ通り。'Dark rum'→'Jamaican rum'に修正(原典はJamaican pot still)。クラッシュドアイスでブレンドする tiki カクテルのため合計約120mlは想定内。"
+  },
+  {
+    "id": "30801",
+    "ingredients": [
+      {"name_ja": "アモンティリャードシェリー", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "パロコルタードシェリー", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "砂糖", "measure_ja": "小さじ1", "measure_en": "1 tsp"},
+      {"name_ja": "オレンジスライス", "measure_ja": "1/2片", "measure_en": "1/2 wheel"},
+      {"name_ja": "レモンスライス", "measure_ja": "1/2片", "measure_en": "1/2 wheel"}
+    ],
+    "_source": "IBA Official (Sherry Cobbler)",
+    "_note": "IBA公式。オレンジ/レモンは「30ml」が誤りでスライス(wheel)単位。修正。"
+  },
+  {
+    "id": "35083",
+    "ingredients": [
+      {"name_ja": "テキーラ", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "カルーア", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "生クリーム", "measure_ja": "30 ml", "measure_en": "30 ml"}
+    ],
+    "_source": "(参考)Brave Bull/White Bull系統",
+    "_note": "Gentle Bull公式レシピは未発見。一般的tequila+Kahlua+creamの比率として元データ45/20/30を保持。"
+  },
+  {
+    "id": "11242",
+    "ingredients": [
+      {"name_ja": "ライトラム", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ポートワイン", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "レモンジュース", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "粉砂糖", "measure_ja": "1 小さじ", "measure_en": "1 tsp"},
+      {"name_ja": "卵白", "measure_ja": "1個分", "measure_en": "1"},
+      {"name_ja": "炭酸水", "measure_ja": "適量", "measure_en": "Top up"}
+    ],
+    "_source": "Difford's Guide / Imbibe Magazine (Straub 1914)",
+    "_note": "古典フィズは rum/port 各 1/2 jigger(約22ml) + lemon 1/2個分(約20ml)。元データのlemon 120mlは過大なため20mlに修正。"
+  },
+  {
+    "id": "14065",
+    "ingredients": [
+      {"name_ja": "アマレット", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ラム", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "クールエイド", "measure_ja": "60 ml", "measure_en": "60 ml", "note": "グレープ"}
+    ],
+    "_source": "cocktailbuilder.com / TheCocktailDB / drinksmixer.com",
+    "_note": "オリジナルは to taste で量規定なし。元データ60/60/120は過大。オールドファッションド容量に合わせ縮小。"
+  },
+  {
+    "id": "15801",
+    "ingredients": [
+      {"name_ja": "メロンリキュール", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "ジーマ", "measure_ja": "150 ml", "measure_en": "150 ml"}
+    ],
+    "_source": "cocktailbuilder.com / TheCocktailDB",
+    "_note": "原典は Midori 1.5oz + Zima 12oz(360ml)だが過大。コリンズグラスで現実的な150mlに縮小。"
+  },
+  {
+    "id": "34354",
+    "ingredients": [
+      {"name_ja": "キルシュ", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "水", "measure_ja": "130 ml", "measure_en": "130 ml", "note": "常温のものを使用"},
+      {"name_ja": "インスタントコーヒー", "measure_ja": "3 tsps.", "measure_en": "3 tsps."},
+      {"name_ja": "シュガーシロップ", "measure_ja": "2 tsps.", "measure_en": "2 tsps."},
+      {"name_ja": "生クリーム", "measure_ja": "15 ml", "measure_en": "15 ml", "note": "フロート"}
+    ],
+    "_source": "germanfoods.org / cocktailbuilder.com",
+    "_note": "8oz(約220ml)ホットグラス想定で元データ通り。Kirsch 30+水130+クリーム15で約175ml、コーヒー粉込みで適量。"
+  },
+  {
+    "id": "11542",
+    "ingredients": [
+      {"name_ja": "アップルブランデー", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "ライムジュース", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "グレナデンシロップ", "measure_ja": "15 ml", "measure_en": "15 ml"}
+    ],
+    "_source": "Difford's Guide / Behind the Bar (古典)",
+    "_note": "標準 45/22.5/15 比率。元データのlime 60ml/grenadine 1tspは比率不一致のため修正。"
+  },
+  {
+    "id": "11558",
+    "ingredients": [
+      {"name_ja": "ブレンデッドウイスキー", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "レモンジュース", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "粉砂糖", "measure_ja": "1 小さじ", "measure_en": "1 tsp"},
+      {"name_ja": "ポートワイン", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "卵白", "measure_ja": "1個分", "measure_en": "1"},
+      {"name_ja": "炭酸水", "measure_ja": "適量", "measure_en": "Top up"}
+    ],
+    "_source": "Food Republic / Complete Cocktails (古典)",
+    "_note": "2oz whiskey + 1oz lemon + 1tbsp port が標準。元データのlemon 120mlは過大のため20mlに修正。"
+  },
+  {
+    "id": "35057",
+    "ingredients": [
+      {"name_ja": "ジャマイカラム", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "10 ml", "measure_en": "10 ml"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ジンジャエール", "name_en": "Ginger ale", "measure_ja": "適量", "measure_en": "Top up"},
+      {"name_ja": "レモンピール", "measure_ja": "1 片", "measure_en": "1 piece"}
+    ],
+    "_source": "cocktailbuilder.com / mjskitchen.com / cocktailsandshots.com",
+    "_note": "Jamaica Coolerはダークラム+シュガー+ライム/レモン+7UPもしくはジンジャエールが定番。元データの「コーヒー50ml+水100ml」はジャマイカコーヒーとの混同で誤り。標準のCoolerレシピに再構成。"
+  },
+  {
+    "id": "30510",
+    "ingredients": [
+      {"name_ja": "ブラックストラップラム", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "カンパリ", "measure_ja": "22 ml", "measure_en": "22 ml"},
+      {"name_ja": "パイナップルジュース", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "デメララシロップ", "measure_ja": "15 ml", "measure_en": "15 ml"}
+    ],
+    "_source": "IBA Official (Jungle Bird)",
+    "_note": "IBA公式値で元データと一致(22.5→22 ml四捨五入)。"
+  },
+  {
+    "id": "178342",
+    "ingredients": [
+      {"name_ja": "ジン", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "炭酸水", "measure_ja": "適量", "measure_en": "Top up"}
+    ],
+    "_source": "Difford's Guide / A Couple Cooks",
+    "_note": "標準 1.5oz gin + 0.5oz lime + soda top up。元データのgin 60/soda 150/lime 120は不自然(lime 120mlは過大)のため修正。"
+  },
+  {
+    "id": "11415",
+    "ingredients": [
+      {"name_ja": "ジン", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "レモンジュース", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "粉砂糖", "measure_ja": "1 小さじ", "measure_en": "1 tsp"},
+      {"name_ja": "水", "measure_ja": "1 小さじ", "measure_en": "1 tsp"},
+      {"name_ja": "オレンジピール", "measure_ja": "の捻り", "measure_en": "Twist of"}
+    ],
+    "_source": "Difford's Guide / williams-sonoma.com (古典 Sling)",
+    "_note": "古典slingはgin+sugar/water+lemon。元データのlemon 60mlは過大のため20mlに修正。"
+  }
+]

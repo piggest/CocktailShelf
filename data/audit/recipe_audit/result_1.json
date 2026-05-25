@@ -1,0 +1,255 @@
+[
+  {
+    "id": "17222",
+    "ingredients": [
+      {"name_ja": "ジン", "name_en": "Gin", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "グラン・マルニエ", "name_en": "Grand Marnier", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "1 dash", "measure_en": "1 dash"},
+      {"name_ja": "グレナデンシロップ", "name_en": "Grenadine syrup", "measure_ja": "1 dash", "measure_en": "1 dash"}
+    ],
+    "_source": "Difford's Guide / Cafe Royal Cocktail Book 1937 (W.J. Tarling)",
+    "_note": "原典は Gin 2/3 (約60ml), Grand Marnier 1/3 (約30ml), レモン・グレナデン各1dash。元データの 53/30/8/4ml は独自の比率調整版だったので原典に寄せた。"
+  },
+  {
+    "id": "30504",
+    "ingredients": [
+      {"name_ja": "ハバナクラブプロフンドラム", "name_en": "Havana Club Profundo Rum", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ハバナクラブスモーキーラム", "name_en": "Havana Club Smoky Rum", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "アマレット", "name_en": "Amaretto", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "フランジェリコ", "name_en": "Frangelico", "measure_ja": "5 ml", "measure_en": "5 ml"},
+      {"name_ja": "マラスキーノリキュール", "name_en": "Maraschino liqueur", "measure_ja": "5 滴", "measure_en": "5 drops"},
+      {"name_ja": "パッションフルーツピューレ", "name_en": "Passion fruit purée", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "パイナップルジュース", "name_en": "Pineapple juice", "measure_ja": "90 ml", "measure_en": "90 ml"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "生姜", "name_en": "Ginger", "measure_ja": "1 スライス", "measure_en": "1 slice"}
+    ],
+    "_source": "IBA公式 (iba-world.com/iba-cocktail/iba-tiki/), Wikipedia",
+    "_note": "IBA 2022年新カテゴリ。公式と一致。Tiki グラスで pebbled ice 使用、合計液量200ml超だが冷却・希釈込みでハイボール想定。"
+  },
+  {
+    "id": "34001",
+    "ingredients": [
+      {"name_ja": "アイリッシュウイスキー", "name_en": "Irish whiskey", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "インスタントコーヒー", "name_en": "Instant coffee", "measure_ja": "4 tsps.", "measure_en": "4 tsps."},
+      {"name_ja": "ダークシロップ", "name_en": "Dark syrup", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "水", "name_en": "Water", "measure_ja": "90 ml", "measure_en": "90 ml", "note": "常温のものを使用"},
+      {"name_ja": "水", "name_en": "Water", "measure_ja": "", "measure_en": "", "note": "適量"},
+      {"name_ja": "牛乳", "name_en": "Milk", "measure_ja": "20 ml", "measure_en": "20 ml", "note": "フロート"}
+    ],
+    "_source": "IBA公式は Hot のみ (iba-world.com)、Iced は非公式バリエーション",
+    "_note": "IBA公式 Iced 版は存在せず。元データの比率は一般的なバリエーション範囲内のため保持。"
+  },
+  {
+    "id": "13539",
+    "ingredients": [
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "アイスティー", "name_en": "Iced tea", "measure_ja": "120 ml", "measure_en": "120 ml"},
+      {"name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "15 ml", "measure_en": "15 ml", "note": "お好み"}
+    ],
+    "_source": "Make Me a Cocktail, Puredrinkology",
+    "_note": "1.5oz vodka + 4oz iced tea + 0.5oz lemon が標準。コリンズグラス想定で 180ml→120ml に調整しレモン明記化。"
+  },
+  {
+    "id": "13971",
+    "ingredients": [
+      {"name_ja": "アイリッシュウイスキー", "name_en": "Irish whiskey", "measure_ja": "50 ml", "measure_en": "50 ml"},
+      {"name_ja": "コーヒー", "name_en": "Coffee", "measure_ja": "120 ml", "measure_en": "120 ml"},
+      {"name_ja": "砂糖", "name_en": "Sugar", "measure_ja": "1 tsp", "measure_en": "1 tsp"},
+      {"name_ja": "生クリーム", "name_en": "Fresh cream", "measure_ja": "50 ml", "measure_en": "50 ml", "note": "フロート"}
+    ],
+    "_source": "IBA公式 (iba-world.com/iba-cocktail/irish-coffee/)",
+    "_note": "IBA Contemporary Classics 公式レシピ 50/120/50/1tsp に統一。元データのホイップクリーム表記をフレッシュクリーム(IBA表記)に修正。"
+  },
+  {
+    "id": "35439",
+    "ingredients": [
+      {"name_ja": "グリーンミントリキュール", "name_en": "Green crème de menthe", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ベイリーズ", "name_en": "Baileys Irish Cream", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "グラン・マルニエ", "name_en": "Grand Marnier", "measure_ja": "15 ml", "measure_en": "15 ml"}
+    ],
+    "_source": "Mix That Drink, Dishes Delish, Mantitlement",
+    "_note": "緑→白→橙の3層 (アイルランド国旗) を各 1/2oz (15ml) 等分でレイヤー。元データと一致。"
+  },
+  {
+    "id": "30012",
+    "ingredients": [
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ブルーキュラソー", "name_en": "Blue curaçao", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "グレナデンシロップ", "name_en": "Grenadine syrup", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "サワーミックス", "name_en": "Sour mix", "measure_ja": "30 ml", "measure_en": "30 ml"}
+    ],
+    "_source": "Cocktail Builder, Drinknation",
+    "_note": "1oz vodka + 1oz sour + 0.5oz grenadine + 0.5oz blue curacao が標準。元データと一致。"
+  },
+  {
+    "id": "31206",
+    "ingredients": [
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "アップルリキュール", "name_en": "Apple liqueur", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "リンゴスライス", "name_en": "Apple slice", "measure_ja": "1 枚", "measure_en": "1 slice"}
+    ],
+    "_source": "The Kitchn, A Communal Table",
+    "_note": "1.5oz vodka + 1oz apple liqueur + 0.5oz citrus が一般的。元データの45/45/22ml はリキュール多すぎ、ライム少なめに調整。"
+  },
+  {
+    "id": "31405",
+    "ingredients": [
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ホワイトラム", "name_en": "White rum", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ジン", "name_en": "Gin", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "テキーラ", "name_en": "Tequila", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ブルーキュラソー", "name_en": "Blue curaçao", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "サワーミックス", "name_en": "Sour mix", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "レモンライムソーダ", "name_en": "Lemon-lime soda", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "レモンスライス", "name_en": "Lemon slice", "measure_ja": "1 枚", "measure_en": "1 slice"}
+    ],
+    "_source": "Difford's Guide, MyBartender, Tipsy Bartender",
+    "_note": "AMF/Blue Long Island の標準レシピ。元データと一致。"
+  },
+  {
+    "id": "32014",
+    "ingredients": [
+      {"name_ja": "スコッチ", "name_en": "Scotch whisky", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "ドランブイ", "name_en": "Drambuie", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "蜂蜜", "name_en": "Honey", "measure_ja": "1 tbsp", "measure_en": "1 tbsp"}
+    ],
+    "_source": "Make Me a Cocktail, Drinklab",
+    "_note": "2oz Scotch + 1oz Drambuie + 2 tbsp lime + 1 tbsp honey が標準。元データの honey は 1tsp だが原典は1tblspなので修正。"
+  },
+  {
+    "id": "17840",
+    "ingredients": [
+      {"name_ja": "スコッチ", "name_en": "Scotch whisky", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "スイートベルモット", "name_en": "Sweet vermouth", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ドライベルモット", "name_en": "Dry vermouth", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "オレンジビターズ", "name_en": "Orange bitters", "measure_ja": "2 ダッシュ", "measure_en": "2 dashes"}
+    ],
+    "_source": "Difford's Guide, NEGRONI.CO",
+    "_note": "1.5oz Scotch + 1oz Sweet + 1oz Dry + 2 dashes Orange bitters が標準。元データと一致。"
+  },
+  {
+    "id": "34041",
+    "ingredients": [
+      {"name_ja": "コーヒーリキュール", "name_en": "Coffee liqueur", "measure_ja": "15 ml", "measure_en": "15 ml", "note": "黒 / カルーア"},
+      {"name_ja": "グリーンミントリキュール", "name_en": "Green crème de menthe", "measure_ja": "15 ml", "measure_en": "15 ml", "note": "緑 / ジェット27"},
+      {"name_ja": "ベイリーズ", "name_en": "Baileys Irish Cream", "measure_ja": "15 ml", "measure_en": "15 ml", "note": "白"}
+    ],
+    "_source": "Home Bar Menu, Cocktail Builder",
+    "_note": "After Five は通常 Kahlua + Peppermint Schnapps + Baileys の3層 (各1/3oz) が原典。元データはミントリキュールを採用したバリエーションのため、note の表記そのまま保持。"
+  },
+  {
+    "id": "34048",
+    "ingredients": [
+      {"name_ja": "アプリコットブランデー", "name_en": "Apricot brandy", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "1 tsp. (砂糖)", "measure_en": "1 tsp. (sugar)"},
+      {"name_ja": "カットレモン", "name_en": "Lemon wedge", "measure_ja": "1/8 個", "measure_en": "1/8 piece"},
+      {"name_ja": "マラスキーノチェリー", "name_en": "Maraschino cherry", "measure_ja": "1 個", "measure_en": "1 piece"}
+    ],
+    "_source": "Have a Cocktail, BC Liquor",
+    "_note": "2oz Apricot brandy + 1oz lemon + 0.5tsp sugar が標準。元データの 45/20/1tsp は近似値で問題なし、保持。"
+  },
+  {
+    "id": "35773",
+    "ingredients": [
+      {"name_ja": "ベイリーズ", "name_en": "Baileys Irish Cream", "measure_ja": "60 ml", "measure_en": "60 ml"},
+      {"name_ja": "フランジェリコ", "name_en": "Frangelico", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "バナナリキュール", "name_en": "Banana liqueur", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "生クリーム", "name_en": "Fresh cream", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "クラッシュドアイス", "name_en": "Crushed ice", "measure_ja": "1 カップ", "measure_en": "1 cup"}
+    ],
+    "_source": "Drinksmixer, Barnonedrinks, Drinklab",
+    "_note": "2oz Baileys + 1oz Frangelico + 0.5oz banana + 0.5oz cream を crushed ice でブレンド。元データと一致。"
+  },
+  {
+    "id": "30008",
+    "ingredients": [
+      {"name_ja": "アマレット", "name_en": "Amaretto", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "サワーミックス", "name_en": "Sour mix", "measure_ja": "90 ml", "measure_en": "90 ml"},
+      {"name_ja": "マラスキーノチェリー", "name_en": "Maraschino cherry", "measure_ja": "飾り", "measure_en": "garnish"},
+      {"name_ja": "オレンジウェッジ", "name_en": "Orange wedge", "measure_ja": "飾り", "measure_en": "garnish"}
+    ],
+    "_source": "Mix That Drink, Sugar and Soul",
+    "_note": "1.5oz amaretto + 3oz sour mix の比率 (簡易版) が標準。クラシック版は lemon + simple syrup を分けるが、元データは sour mix 一本タイプ。保持。"
+  },
+  {
+    "id": "34070",
+    "ingredients": [
+      {"name_ja": "ジン", "name_en": "Gin", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "メロンリキュール", "name_en": "Melon liqueur", "measure_ja": "45 ml", "measure_en": "45 ml", "note": "ミドリ"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "40 ml", "measure_en": "40 ml"},
+      {"name_ja": "卵白", "name_en": "Egg white", "measure_ja": "1 個分 (40 ml)", "measure_en": "1 個分 (40 ml)"},
+      {"name_ja": "カットライム", "name_en": "Lime wedge", "measure_ja": "1/8 個", "measure_en": "1/8 piece"}
+    ],
+    "_source": "Phototora 日本サイト 'Albatross' レシピ",
+    "_note": "Gin 30ml + Midori 45ml + Lime 40ml + 卵白 が典拠。元データの lime 60ml は多すぎたので 40ml に調整。"
+  },
+  {
+    "id": "35764",
+    "ingredients": [
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "アマレット", "name_en": "Amaretto", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ベイリーズ", "name_en": "Baileys Irish Cream", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "フランジェリコ", "name_en": "Frangelico", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "カルーア", "name_en": "Kahlúa", "measure_ja": "15 ml", "measure_en": "15 ml"}
+    ],
+    "_source": "Drinknation, Cocktail.uk.com",
+    "_note": "各 1/2oz (15ml) の等量5種シェイクが典拠。元データの 20/10/10/10/10ml を等分の 15ml × 5 に修正。"
+  },
+  {
+    "id": "30009",
+    "ingredients": [
+      {"name_ja": "ウイスキー", "name_en": "Whiskey", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "30 ml", "measure_en": "30 ml"},
+      {"name_ja": "卵", "name_en": "Egg", "measure_ja": "1 個", "measure_en": "1 piece"},
+      {"name_ja": "タバスコ", "name_en": "Tabasco", "measure_ja": "", "measure_en": "", "note": "適量"}
+    ],
+    "_source": "Wikipedia, TasteAtlas, Izzy Cooking",
+    "_note": "Amber Moon は whiskey OR vodka が原典で量は明記されないが 1oz 程度が一般的。元データの 90/90ml は過多だったので各 30ml に修正。"
+  },
+  {
+    "id": "34082",
+    "ingredients": [
+      {"name_ja": "イェーガーマイスター", "name_en": "Jägermeister", "measure_ja": "45 ml", "measure_en": "45 ml"}
+    ],
+    "_source": "Delishably, 一般的なバーレシピ",
+    "_note": "単体ショット。1.5oz (45ml) が標準量。元データと一致。"
+  },
+  {
+    "id": "35332",
+    "ingredients": [
+      {"name_ja": "イェーガーマイスター", "name_en": "Jägermeister", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "レッドブル", "name_en": "Red Bull", "measure_ja": "120 ml", "measure_en": "120 ml"}
+    ],
+    "_source": "Drinklab, DrinksWorld, A Beautiful Mess",
+    "_note": "30ml Jager + 120ml Red Bull もしくは 45ml + 175ml が標準。元データの Red Bull 240ml は多すぎたので 120ml に調整。"
+  },
+  {
+    "id": "30502",
+    "ingredients": [
+      {"name_ja": "メスカル", "name_en": "Mezcal", "measure_ja": "30 ml", "measure_en": "3 cl"},
+      {"name_ja": "ホワイトラム", "name_en": "White rum", "measure_ja": "15 ml", "measure_en": "1.5 cl"},
+      {"name_ja": "ファレルナム", "name_en": "Falernum", "measure_ja": "15 ml", "measure_en": "1.5 cl"},
+      {"name_ja": "マラスキーノリキュール", "name_en": "Maraschino liqueur", "measure_ja": "バースプーン1 杯", "measure_en": "1 bar spoon"},
+      {"name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "22.5 ml", "measure_en": "2.25 cl"},
+      {"name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "15 ml", "measure_en": "1.5 cl"},
+      {"name_ja": "卵白", "name_en": "Egg white", "measure_ja": "数滴", "measure_en": "Few drops", "optional": true}
+    ],
+    "_source": "IBA公式 (iba-world.com/illegal/), Difford's Guide",
+    "_note": "IBA New Era Drinks 2020 公式。元データと完全一致。"
+  },
+  {
+    "id": "11524",
+    "ingredients": [
+      {"name_ja": "ライトラム", "name_en": "Light rum", "measure_ja": "15 ml", "measure_en": "15 ml"},
+      {"name_ja": "ブレンデッドウイスキー", "name_en": "Blended whiskey", "measure_ja": "45 ml", "measure_en": "45 ml"},
+      {"name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "20 ml", "measure_en": "20 ml"},
+      {"name_ja": "粉砂糖", "name_en": "Powdered sugar", "measure_ja": "1 tsp", "measure_en": "1 tsp"},
+      {"name_ja": "炭酸水", "name_en": "Soda water", "measure_ja": "", "measure_en": ""}
+    ],
+    "_source": "Complete Cocktails, Absolut Drinks, Cocktail Builder",
+    "_note": "0.5oz rum + 1.5oz whiskey + juice of 1/2 lemon (~15-20ml) + 1tsp sugar + soda が標準。元データの lemon 120ml は誤りで 20ml に修正。"
+  }
+]

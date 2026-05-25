@@ -1,0 +1,784 @@
+[
+  {
+    "id": "12714",
+    "ingredients": [
+      {
+        "name_ja": "キウイ",
+        "name_en": "Kiwi",
+        "measure_ja": "2 個",
+        "measure_en": "2 whole"
+      },
+      {
+        "name_ja": "パパイヤ",
+        "name_en": "Papaya",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml",
+        "note": "1カップ角切り"
+      }
+    ],
+    "_source": "thecocktaildb / keeshaskitchen.com",
+    "_note": "ノンアル スムージー。果実量を whole 表記で明確化。混合後の出力量はハイボールグラス相当。"
+  },
+  {
+    "id": "178359",
+    "ingredients": [
+      {
+        "name_ja": "キウイ",
+        "name_en": "Kiwi",
+        "measure_ja": "1/2 個",
+        "measure_en": "1/2 whole"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "キウイ",
+        "name_en": "Kiwi",
+        "measure_ja": "適量",
+        "measure_en": "Garnish",
+        "note": "ガーニッシュ"
+      }
+    ],
+    "_source": "socialandcocktail.co.uk / puredrinkology.com",
+    "_note": "キウイは個数指定が一般的。ウォッカ45ml、シュガーシロップ1tsp、ガーニッシュ用キウイスライス。"
+  },
+  {
+    "id": "15026",
+    "ingredients": [
+      {
+        "name_ja": "クランベリーウォッカ",
+        "name_en": "Cranberry vodka",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "アプフェルコルン",
+        "name_en": "Apfelkorn",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "シュウェップス・ラスチアン",
+        "name_en": "Schweppes Russchian",
+        "measure_ja": "70 ml",
+        "measure_en": "70 ml"
+      },
+      {
+        "name_ja": "アップルジュース",
+        "name_en": "Apple juice",
+        "measure_ja": "80 ml",
+        "measure_en": "80 ml"
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "適量",
+        "measure_en": "As needed",
+        "note": "適量"
+      }
+    ],
+    "_source": "cocktailbuilder.com / webtender.com",
+    "_note": "Webtender 由来レシピと一致。40/20/70/80ml で公式値。ハイボールグラスにビルド。"
+  },
+  {
+    "id": "11288",
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "name_en": "Light rum",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "コーラ",
+        "name_en": "Cola",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      }
+    ],
+    "_source": "IBA (iba-world.com) / diffordsguide.com",
+    "_note": "IBA Contemporary Classic 公式値に修正。ラム50ml/ライム10ml/コーラ120ml。元データのライム120mlは誤りでコーラ量と混同していた。"
+  },
+  {
+    "id": "30310",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml",
+        "note": "3パート"
+      },
+      {
+        "name_ja": "ライムソーダ",
+        "name_en": "Lime soda",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml",
+        "note": "6パート"
+      },
+      {
+        "name_ja": "レモネード",
+        "name_en": "Lemonade",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
+        "note": "2パート"
+      },
+      {
+        "name_ja": "グアバジュース",
+        "name_en": "Guava nectar",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
+        "note": "2パート"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml",
+        "note": "1.5パート"
+      }
+    ],
+    "_source": "wikipedia / food.com",
+    "_note": "パート比率(3:6:2:2:1.5)を基準に整合性のあるml量へ微修正。レモネード/グアバを2パート=30ml、グレナデン1.5パート=22mlに統一。"
+  },
+  {
+    "id": "31302",
+    "ingredients": [
+      {
+        "name_ja": "日本酒",
+        "name_en": "Sake",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "グレープフルーツ",
+        "name_en": "Grapefruit",
+        "measure_ja": "2 スライス",
+        "measure_en": "2 slices"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "アガベシロップ",
+        "name_en": "Agave syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ししとう",
+        "name_en": "Shishito pepper",
+        "measure_ja": "1 個",
+        "measure_en": "1 piece",
+        "alternatives": ["グリーンタバスコ 2ダッシュ"]
+      }
+    ],
+    "_source": "imbibemagazine.com / socialandcocktail.co.uk",
+    "_note": "Imbibe Magazine 公式: sake 60ml, lemon 10ml, agave 15ml に修正。ししとうは個数表記が正で、ml は誤記。"
+  },
+  {
+    "id": "12720",
+    "ingredients": [
+      {
+        "name_ja": "生姜",
+        "name_en": "Ginger",
+        "measure_ja": "1 inch",
+        "measure_en": "1 inch"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "1/2 個",
+        "measure_en": "1/2 whole"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "240 ml",
+        "measure_en": "1 cup hot",
+        "note": "ホット"
+      }
+    ],
+    "_source": "thecocktaildb / theblendergirl.com",
+    "_note": "ノンアル ホットドリンク。レモンは半個分の絞り汁が標準、水1カップ=240ml に統一。元データ「レモン120ml」は誤りで個数表記が正。"
+  },
+  {
+    "id": "13190",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "スロージン",
+        "name_en": "Sloe gin",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry juice",
+        "measure_ja": "適量",
+        "measure_en": "To top",
+        "note": "好みで"
+      }
+    ],
+    "_source": "cocktailbuilder.com / drinksmixer.com",
+    "_note": "等分(各1oz=約30ml)レシピで一致。クランベリーは「to taste」が標準のため適量表記に統一。"
+  },
+  {
+    "id": "34258",
+    "ingredients": [
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "Red wine",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml",
+        "note": "1本"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White curaçao",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "5 tsp",
+        "measure_en": "5 tsp"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "400 ml",
+        "measure_en": "400 ml",
+        "note": "2本"
+      }
+    ],
+    "_source": "wikipedia (Claret cup) / artofdrink.com",
+    "_note": "大量調製のパンチ系。1本(750ml)ベースで複数人分のためグラス容量と合計が一致しないのは正常。元値そのまま維持。"
+  },
+  {
+    "id": "34260",
+    "ingredients": [
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "Red wine",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml",
+        "note": "1本"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      },
+      {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White curaçao",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "400 ml",
+        "measure_en": "400 ml",
+        "note": "2本"
+      },
+      {
+        "name_ja": "フルーツ",
+        "name_en": "Fruit",
+        "measure_ja": "適量",
+        "measure_en": "As needed",
+        "note": "適量"
+      }
+    ],
+    "_source": "haveacocktail.com / cocktailsandshots.com",
+    "_note": "大量調製のパンチ系。複数人分のため合計とグラス容量の不一致は正常。元値維持。"
+  },
+  {
+    "id": "12944",
+    "ingredients": [
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "Red wine",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml",
+        "note": "1本"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "125 ml",
+        "measure_en": "125 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "60 g",
+        "measure_en": "60 g"
+      },
+      {
+        "name_ja": "シナモン",
+        "name_en": "Cinnamon",
+        "measure_ja": "1 本",
+        "measure_en": "1 stick"
+      },
+      {
+        "name_ja": "クローブ",
+        "name_en": "Clove",
+        "measure_ja": "3 個",
+        "measure_en": "3 pcs"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1 大さじ",
+        "measure_en": "1 tblsp"
+      }
+    ],
+    "_source": "saveur.com / thekitchn.com",
+    "_note": "ドイツ式ホットマルドワイン。750ml ボトル基準で複数人分。赤ワイン量を 1L→750ml(1本) へ修正(thecocktaildbの大ボトル表記補正)。"
+  },
+  {
+    "id": "30309",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "1000 ml",
+        "measure_en": "1000 ml",
+        "note": "1本"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "50 g",
+        "measure_en": "50 g"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1/2 個分",
+        "measure_en": "1/2 lemon"
+      },
+      {
+        "name_ja": "シナモン",
+        "name_en": "Cinnamon",
+        "measure_ja": "1 本",
+        "measure_en": "1 stick"
+      },
+      {
+        "name_ja": "コーヒー豆",
+        "name_en": "Coffee bean",
+        "measure_ja": "適量",
+        "measure_en": "As needed"
+      }
+    ],
+    "_source": "wikipedia (Cremat) / barcelona.cat",
+    "_note": "カタルーニャ伝統ホットドリンク、1本(1L)で複数人分(50-75ml/人)。元データのラム125mlは個別グラス容量、本来は1ボトル分。Wikipediaに合わせ修正。"
+  },
+  {
+    "id": "17186",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml",
+        "alternatives": ["ラズベリーシロップ"]
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "1 個",
+        "measure_en": "1 whole"
+      }
+    ],
+    "_source": "diffordsguide.com / wikipedia (Clover Club)",
+    "_note": "IBA Unforgettables。Jin 45ml/レモン15ml/グレナデン(またはラズベリー)15ml/卵白1個が標準。元値の レモン60ml は過剰で 15ml に修正、グレナデンも 2tsp→15ml で標準化。"
+  },
+  {
+    "id": "34290",
+    "ingredients": [
+      {
+        "name_ja": "スコッチ",
+        "name_en": "Scotch whisky",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ホットコーヒー",
+        "name_en": "Hot coffee",
+        "measure_ja": "130 ml",
+        "measure_en": "130 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "2 tsp",
+        "measure_en": "2 tsp"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml",
+        "note": "フロート"
+      }
+    ],
+    "_source": "drimaco.com / diffordsguide.com (Irish Coffee variant)",
+    "_note": "Gaelic Coffee = Scotch版 Irish Coffee。本来「ホットコーヒー」を直接使うのが標準。元データは「水＋インスタントコーヒー」と分割していたが、簡略化してホットコーヒー 130ml に統合。"
+  },
+  {
+    "id": "11604",
+    "ingredients": [
+      {
+        "name_ja": "バーボン",
+        "name_en": "Bourbon",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "ベネディクティン",
+        "name_en": "Bénédictine",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1 ツイスト",
+        "measure_en": "1 twist"
+      }
+    ],
+    "_source": "diffordsguide.com / binnys.com",
+    "_note": "Difford's の 1¾oz バーボン/¾oz ベネディクティン基準に修正。元値 90ml は過剰、合計 72ml がカクテルグラス基準と合致。"
+  },
+  {
+    "id": "12800",
+    "ingredients": [
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "480 ml",
+        "measure_en": "2 cups"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "400 g",
+        "measure_en": "2 cups white"
+      },
+      {
+        "name_ja": "インスタントコーヒー",
+        "name_en": "Instant coffee",
+        "measure_ja": "1/2 カップ",
+        "measure_en": "1/2 cup instant"
+      },
+      {
+        "name_ja": "バニラビーンズ",
+        "name_en": "Vanilla bean",
+        "measure_ja": "1/2 本",
+        "measure_en": "1/2 chopped"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "360 ml",
+        "measure_en": "1 1/2 cups"
+      },
+      {
+        "name_ja": "カラメル色素",
+        "name_en": "Caramel color",
+        "measure_ja": "適量",
+        "measure_en": "As needed"
+      }
+    ],
+    "_source": "drinksmixer.com / cocktailfyi.com",
+    "_note": "ホームメイドのコーヒーリキュール仕込み。バニラは「120ml」ではなくバニラビーンズ1/2本が正しい。元データの単位を整合化。完成品を熟成して使う仕込みレシピ。"
+  },
+  {
+    "id": "12798",
+    "ingredients": [
+      {
+        "name_ja": "インスタントコーヒー",
+        "name_en": "Instant coffee",
+        "measure_ja": "10 大さじ",
+        "measure_en": "10 tblsp"
+      },
+      {
+        "name_ja": "バニラエッセンス",
+        "name_en": "Vanilla essence",
+        "measure_ja": "4 大さじ",
+        "measure_en": "4 tblsp"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "2 1/2 カップ",
+        "measure_en": "2 1/2 cups"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "946 ml",
+        "measure_en": "946 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "2 1/2 カップ",
+        "measure_en": "2 1/2 cups"
+      }
+    ],
+    "_source": "boulderlocavore.com / nordicfoodliving.com",
+    "_note": "自家製コーヒーリキュール(カルーア風)の仕込みレシピ。原典どおり大量調製。元データの量は正確で維持。"
+  },
+  {
+    "id": "17250",
+    "ingredients": [
+      {
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "カルヴァドス",
+        "name_en": "Calvados",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "diffordsguide.com / iba-world.com",
+    "_note": "元データはCorpse Reviver No.2の構成(Gin/Triple sec/Lillet/Lemon/Absinthe)になっていたが、本来 Corpse Reviver(無印=No.1)はSavoy/IBA 由来でCognac/Calvados/Sweet Vermouthが正しい。レシピを差し替え。"
+  },
+  {
+    "id": "31002",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "リレ・ブラン",
+        "name_en": "Lillet Blanc",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "_source": "IBA (iba-world.com) / diffordsguide.com",
+    "_note": "IBA 公式値: 各 30ml の等分で修正。元データの 23ml は古い 3/4oz 換算と思われるが現行 IBA は 30ml 統一。"
+  },
+  {
+    "id": "17830",
+    "ingredients": [
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "2 ダッシュ",
+        "measure_en": "2 dashes"
+      },
+      {
+        "name_ja": "アニェホラム",
+        "name_en": "Añejo rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ブラックストラップラム",
+        "name_en": "Blackstrap rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
+        "note": "フロート"
+      }
+    ],
+    "_source": "diffordsguide.com / punchdrink.com",
+    "_note": "ライムは果汁15mlが標準、元データの60mlは過剰。ファレルナム10ml→15mlに微調整。アメリカ式の2種ラム float スタイル。"
+  },
+  {
+    "id": "35801",
+    "ingredients": [
+      {
+        "name_ja": "コカレロ",
+        "name_en": "Cocalero",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "エナジードリンク",
+        "name_en": "Energy drink",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "ライム",
+        "name_en": "Lime",
+        "measure_ja": "1 ウェッジ",
+        "measure_en": "1 wedge",
+        "note": "ガーニッシュ"
+      }
+    ],
+    "_source": "cocktaillog.com / shopcocalero.com",
+    "_note": "ビルド系。Cocalero 30ml + Energy drink 120ml の比率が標準。元値そのまま維持、ライムはガーニッシュ明記。"
+  },
+  {
+    "id": "30302",
+    "ingredients": [
+      {
+        "name_ja": "ジャマイカラム",
+        "name_en": "Jamaican rum",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "デメララ151ラム",
+        "name_en": "Demerara 151 rum",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ファッショノーラシロップ",
+        "name_en": "Fassionola syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "_source": "moodymixologist.com / wikipedia (Cobra's fang)",
+    "_note": "Don the Beachcomber 古典 Tiki。ジャマイカン主役・デメララ151少量がオリジナル比率。ファッショノーラ7.5ml→15ml に修正。ビターズ表記をアンゴスチュラ+アブサン2種に分割明記。"
+  }
+]

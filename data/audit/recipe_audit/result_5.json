@@ -1,0 +1,256 @@
+[
+  {
+    "id": "30409",
+    "ingredients": [
+      { "name_ja": "ジン", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "レモンジュース", "measure_ja": "22.5 ml", "measure_en": "22.5 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "22.5 ml", "measure_en": "22.5 ml" },
+      { "name_ja": "バジル", "measure_ja": "10 枚", "measure_en": "10 leaves" }
+    ],
+    "_source": "IBA / Difford's Guide / Hayman's Gin",
+    "_note": "Jörg Meyer 2008 オリジナル。IBA 公認レシピと一致。変更なし。"
+  },
+  {
+    "id": "11410",
+    "ingredients": [
+      { "name_ja": "ジン", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "レモンジュース", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "10 ml", "measure_en": "10 ml" },
+      { "name_ja": "炭酸水", "measure_ja": "適量", "measure_en": "Top with" }
+    ],
+    "_source": "IBA Unforgettables",
+    "_note": "IBA 公式に合わせて修正。ジン60→45ml、レモン120ml(明らかに過剰)→30ml、粉砂糖→シュガーシロップ10mlに置換。"
+  },
+  {
+    "id": "17230",
+    "ingredients": [
+      { "name_ja": "ジン", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "炭酸水", "measure_ja": "適量", "measure_en": "Top up with" },
+      { "name_ja": "ライム", "measure_ja": "飾り", "measure_en": "Garnish", "optional": true }
+    ],
+    "_source": "Imbibe Magazine / Moody Mixologist",
+    "_note": "クラシックなジン・リッキーはジン+ライム+ソーダのみで甘味なし。元データのレモン120ml/グレナデンは誤りなので削除。ライム1/2個分(約15ml)へ修正。"
+  },
+  {
+    "id": "14888",
+    "ingredients": [
+      { "name_ja": "ピーチシュナップス", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "サージ", "measure_ja": "120 ml", "measure_en": "120 ml" }
+    ],
+    "_source": "drinksmixer / cocktailbuilder",
+    "_note": "ピーチシュナップス 4shot + Surge 4shot 比率を1人前ハイボール用に縮小(60ml + 120ml=180ml)。"
+  },
+  {
+    "id": "34407",
+    "ingredients": [
+      { "name_ja": "白ワイン", "measure_ja": "80 ml", "measure_en": "80 ml" },
+      { "name_ja": "ピーチリキュール", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "グレナデンシロップ", "measure_ja": "5 ml", "measure_en": "5 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "10 ml", "measure_en": "10 ml" }
+    ],
+    "_source": "cocktaillog.com / Difford's Guide",
+    "_note": "中村健三 作。5oz フルートグラス(150ml)に対し110mlは妥当。変更なし。"
+  },
+  {
+    "id": "31304",
+    "ingredients": [
+      { "name_ja": "ジン", "measure_ja": "45 ml", "measure_en": "1 1/2 oz" },
+      { "name_ja": "スイカ", "measure_ja": "60 ml", "measure_en": "2 oz" },
+      { "name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "1/2 oz" },
+      { "name_ja": "炭酸水", "measure_ja": "適量", "measure_en": "Top with", "note": "適量" },
+      { "name_ja": "ミントの葉", "measure_ja": "適量", "measure_en": "As needed", "note": "適量", "optional": true }
+    ],
+    "_source": "Velvet Belly (pekinthechef) / Instagram公式",
+    "_note": "Velvet Belly オリジナル。ml記載は公式に明示なし。標準的ハイボールサイズ配分を保持。"
+  },
+  {
+    "id": "34423",
+    "ingredients": [
+      { "name_ja": "アクアビット", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "水", "measure_ja": "130 ml", "measure_en": "130 ml", "note": "常温のものを使用" },
+      { "name_ja": "インスタントコーヒー", "measure_ja": "3 tsps.", "measure_en": "3 tsps." },
+      { "name_ja": "シュガーシロップ", "measure_ja": "2 tsps.", "measure_en": "2 tsps." },
+      { "name_ja": "生クリーム", "measure_ja": "15 ml", "measure_en": "15 ml", "note": "フロート" }
+    ],
+    "_source": "drinksmixer / cocktailbuilder",
+    "_note": "ホットドリンクで8ozグラス(220ml)対応、アクアビット30+水130+クリーム15=175ml は妥当。変更なし。"
+  },
+  {
+    "id": "31305",
+    "ingredients": [
+      { "name_ja": "ライトラム", "measure_ja": "60 ml", "measure_en": "2 oz" },
+      { "name_ja": "ブランデー", "measure_ja": "30 ml", "measure_en": "1 oz" },
+      { "name_ja": "オレンジジュース", "measure_ja": "60 ml", "measure_en": "2 oz" },
+      { "name_ja": "レモンジュース", "measure_ja": "45 ml", "measure_en": "1 1/2 oz" },
+      { "name_ja": "オルジェ・シロップ", "measure_ja": "15 ml", "measure_en": "1/2 oz" },
+      { "name_ja": "ミントの葉", "measure_ja": "適量", "measure_en": "As needed", "note": "適量", "optional": true }
+    ],
+    "_source": "Trader Vic's Bartender's Guide (1972) / Difford's Guide",
+    "_note": "Trader Vic 公式個人サイズに合わせ修正: ブランデー 15→30ml、レモン 30→45ml。"
+  },
+  {
+    "id": "30715",
+    "ingredients": [
+      { "name_ja": "ライトラム", "measure_ja": "180 ml", "measure_en": "6 oz" },
+      { "name_ja": "ブランデー", "measure_ja": "30 ml", "measure_en": "1 oz" },
+      { "name_ja": "オレンジジュース", "measure_ja": "180 ml", "measure_en": "6 oz" },
+      { "name_ja": "レモンジュース", "measure_ja": "120 ml", "measure_en": "4 oz" },
+      { "name_ja": "オルジェ・シロップ", "measure_ja": "45 ml", "measure_en": "1 1/2 oz" },
+      { "name_ja": "フルーツ", "measure_ja": "適量", "measure_en": "As needed", "note": "適量", "optional": true },
+      { "name_ja": "クチナシの花", "measure_ja": "1輪", "measure_en": "1 (garnish)", "optional": true }
+    ],
+    "_source": "Trader Vic / PUNCH",
+    "_note": "Scorpion Bowl は3〜4人前のシェアドリンク。元のレシピは Trader Vic 公式と一致。変更なし。"
+  },
+  {
+    "id": "12158",
+    "ingredients": [
+      { "name_ja": "スコッチ", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "レモンジュース", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "レモン", "measure_ja": "1/2 スライス", "measure_en": "1/2 slice", "optional": true },
+      { "name_ja": "チェリー", "measure_ja": "1", "measure_en": "1", "optional": true }
+    ],
+    "_source": "Difford's Guide / IBA Whiskey Sour 比率",
+    "_note": "標準サワー比率 6:3:2 に合わせ修正。元のライム60mlはレモン30mlに、粉砂糖はシュガーシロップ15mlへ置換。"
+  },
+  {
+    "id": "31201",
+    "ingredients": [
+      { "name_ja": "ホワイトラム", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "イチゴ", "measure_ja": "冷凍 1カップ", "measure_en": "1 cup frozen" },
+      { "name_ja": "クラッシュドアイス", "measure_ja": "適量", "measure_en": "As needed", "note": "適量" }
+    ],
+    "_source": "Havana Club / Little Sunny Kitchen",
+    "_note": "フローズン形式。アルコール合計105ml は妥当範囲。変更なし。"
+  },
+  {
+    "id": "35473",
+    "ingredients": [
+      { "name_ja": "テキーラローズ", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "テキーラ", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "オレンジリキュール", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "バナナ", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "イチゴ", "measure_ja": "3粒", "measure_en": "3" },
+      { "name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "砂糖", "measure_ja": "適量", "measure_en": "as needed", "note": "グラスの縁、スノースタイル用", "optional": true }
+    ],
+    "_source": "Tequila Rose 公式",
+    "_note": "Tequila Rose 公式レシピと一致。フローズン形式。変更なし。"
+  },
+  {
+    "id": "34447",
+    "ingredients": [
+      { "name_ja": "アマレット", "measure_ja": "40 ml", "measure_en": "40 ml" },
+      { "name_ja": "生クリーム", "measure_ja": "10 ml", "measure_en": "10 ml", "note": "フロート" }
+    ],
+    "_source": "Disaronno / Saronno カクテルレシピ",
+    "_note": "3ozリキュールグラス(95ml)に合計50mlで適量。明確な国際レシピ確認できず現状値保持。"
+  },
+  {
+    "id": "31108",
+    "ingredients": [
+      { "name_ja": "テキーラ", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "トリプルセック", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "アガベシロップ", "measure_ja": "7.5 ml", "measure_en": "7.5 ml" },
+      { "name_ja": "唐辛子", "measure_ja": "3〜4枚", "measure_en": "3-4 slices" },
+      { "name_ja": "塩", "measure_ja": "リム用", "measure_en": "For rim", "optional": true },
+      { "name_ja": "カットライム", "measure_ja": "ガーニッシュ", "measure_en": "Garnish", "optional": true }
+    ],
+    "_source": "VinePair / Chili Pepper Madness / Hornitos",
+    "_note": "アガベシロップ \"1/60 ml\" は明らかに表記エラーのため 7.5ml (1/4 oz) に修正。標準的スパイシーマルガリータ比率。"
+  },
+  {
+    "id": "178322",
+    "ingredients": [
+      { "name_ja": "スパイス入りシュガーシロップ", "measure_ja": "10 ml", "measure_en": "10 ml", "note": "オールスパイス入り" },
+      { "name_ja": "ラム", "measure_ja": "33 ml", "measure_en": "33 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "シャンパン", "measure_ja": "100 ml", "measure_en": "100 ml" },
+      { "name_ja": "オレンジピール", "measure_ja": "飾り", "measure_en": "Garnish", "optional": true }
+    ],
+    "_source": "TheCocktailDB / Rockfall Spice 75",
+    "_note": "公式は6人前バッチ(ラム200ml/ライム90ml/シャンパン600ml)。1人前に換算。砂糖+オールスパイスはスパイス入りシュガーシロップとして統合。"
+  },
+  {
+    "id": "30809",
+    "ingredients": [
+      { "name_ja": "ミラーハイライフ", "measure_ja": "300 ml", "measure_en": "300 ml" },
+      { "name_ja": "アペロール", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "レモンジュース", "measure_ja": "15 ml", "measure_en": "15 ml" }
+    ],
+    "_source": "Wet City Brewery (Reed Cahill) / The Kitchn / Bon Appétit",
+    "_note": "オリジナル製法はビール瓶にアペロール1oz(30ml)+レモン1/2oz(15ml)を注入。レモン \"1/60 ml\" は表記エラーで 15ml に修正。"
+  },
+  {
+    "id": "31307",
+    "ingredients": [
+      { "name_ja": "アニェホラム", "measure_ja": "45 ml", "measure_en": "1 1/2 oz" },
+      { "name_ja": "ラム", "measure_ja": "15 ml", "measure_en": "1/2 oz", "note": "Demerara rum 推奨" },
+      { "name_ja": "ファレルナム", "measure_ja": "15 ml", "measure_en": "1/2 oz" },
+      { "name_ja": "ハニーシロップ", "measure_ja": "15 ml", "measure_en": "1/2 oz" },
+      { "name_ja": "ライムジュース", "measure_ja": "22 ml", "measure_en": "3/4 oz" },
+      { "name_ja": "オレンジジュース", "measure_ja": "15 ml", "measure_en": "1/2 oz" },
+      { "name_ja": "オールスパイス", "measure_ja": "7.5 ml", "measure_en": "1/4 oz", "note": "Allspice Dram" },
+      { "name_ja": "アンゴスチュラビターズ", "measure_ja": "1 ダッシュ", "measure_en": "1 dash" }
+    ],
+    "_source": "Beachbum Berry's Sippin' Safari / Difford's Guide",
+    "_note": "Don the Beachcomber 由来。Beachbum Berry 公式: 元データに無かったオレンジジュース15mlを追加。ドライキュラソーは原典に無いため削除。"
+  },
+  {
+    "id": "35405",
+    "ingredients": [
+      { "name_ja": "サザンカンフォート", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "15 ml", "measure_en": "15 ml" }
+    ],
+    "_source": "Southern Comfort 公式 / drinklab",
+    "_note": "公式ショットレシピと一致。変更なし。"
+  },
+  {
+    "id": "17241",
+    "ingredients": [
+      { "name_ja": "ラム", "measure_ja": "45 ml", "measure_en": "45 ml", "note": "Puerto Rican gold rum" },
+      { "name_ja": "ゴールドラム", "measure_ja": "45 ml", "measure_en": "45 ml", "note": "Jamaican gold/dark rum" },
+      { "name_ja": "151プルーフラム", "measure_ja": "30 ml", "measure_en": "30 ml", "note": "Demerara overproof" },
+      { "name_ja": "ペルノー", "measure_ja": "1 小さじ", "measure_en": "1 tsp" },
+      { "name_ja": "グレナデンシロップ", "measure_ja": "1 小さじ", "measure_en": "1 tsp" },
+      { "name_ja": "ライムジュース", "measure_ja": "22 ml", "measure_en": "3/4 oz" },
+      { "name_ja": "アンゴスチュラビターズ", "measure_ja": "1 ダッシュ", "measure_en": "1 dash" }
+    ],
+    "_source": "Don the Beachcomber 1934 / Beachbum Berry",
+    "_note": "原典に合わせライムジュースを 1 tsp → 22ml(3/4 oz)へ修正。複数ラム比率は公式と一致。ファレルナム/Don's mixは元データに無いため追加せず。"
+  },
+  {
+    "id": "15006",
+    "ingredients": [
+      { "name_ja": "ワイルドターキー", "measure_ja": "30 ml", "measure_en": "1 oz" },
+      { "name_ja": "アマレット", "measure_ja": "22 ml", "measure_en": "3/4 oz" },
+      { "name_ja": "パイナップルジュース", "measure_ja": "適量", "measure_en": "Splash", "note": "スプラッシュ" }
+    ],
+    "_source": "drinksmixer / cocktailbuilder / barnonedrinks",
+    "_note": "Wild Turkey 1oz + Amaretto 3/4oz + パイナップル \"splash\" が標準。元データの 23ml→22ml(3/4oz)、パイナップル 8ml→splash(適量)に整理。"
+  },
+  {
+    "id": "11006",
+    "ingredients": [
+      { "name_ja": "ライトラム", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ライムジュース", "measure_ja": "20 ml", "measure_en": "20 ml" },
+      { "name_ja": "シュガーシロップ", "measure_ja": "10 ml", "measure_en": "10 ml" }
+    ],
+    "_source": "IBA Unforgettables",
+    "_note": "IBA 公式: White Cuban Ron 60ml / Fresh Lime Juice 20ml / Superfine Sugar 2 bar spoons (≒シュガーシロップ10ml)。元のライム60ml/ラム45mlは比率が誤りなので公式値へ修正。"
+  },
+  {
+    "id": "30217",
+    "ingredients": [
+      { "name_ja": "WKDブルー", "measure_ja": "275 ml", "measure_en": "275 ml" },
+      { "name_ja": "ポートワイン", "measure_ja": "50 ml", "measure_en": "50 ml", "note": "Ruby Port" }
+    ],
+    "_source": "VK Official / Difford's Guide / Smartblend",
+    "_note": "公式レシピ(Ruby Port 50ml + WKD Blue 1本 275ml)と一致。シェアドリンク前提のため合計325mlは正常。変更なし。"
+  }
+]

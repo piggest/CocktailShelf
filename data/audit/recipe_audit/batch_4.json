@@ -1,0 +1,839 @@
+[
+  {
+    "id": "17826",
+    "name_ja": "ザ・ジミー・コンウェイ",
+    "name_en": "The Jimmy Conway",
+    "glass_ja": "ウイスキーサワーグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "アイリッシュウイスキー",
+        "name_en": "Irish whiskey",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry juice",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      }
+    ],
+    "pureSum": 100,
+    "expected": 70
+  },
+  {
+    "id": "17247",
+    "name_ja": "ザ・ラスト・ワード",
+    "name_en": "The Last Word",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "グリーンシャルトリューズ",
+        "name_en": "Chartreuse Verte",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino liqueur",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "pureSum": 120,
+    "expected": 70
+  },
+  {
+    "id": "31404",
+    "name_ja": "サーファー・オン・アシッド",
+    "name_en": "Surfer on Acid",
+    "glass_ja": "ショットグラス",
+    "style": "ショット",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "イェーガーマイスター",
+        "name_en": "Jägermeister",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "マリブ",
+        "name_en": "Malibu",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "pureSum": 60,
+    "expected": 30
+  },
+  {
+    "id": "12196",
+    "name_ja": "サイドカー",
+    "name_en": "Sidecar",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": "Unforgettables",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "コアントロー",
+        "name_en": "Cointreau",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "pureSum": 105,
+    "expected": 70
+  },
+  {
+    "id": "30805",
+    "name_ja": "サウスサイド",
+    "name_en": "South Side",
+    "glass_ja": "",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ロンドンドライジン",
+        "name_en": "London Dry gin",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "5〜6枚",
+        "measure_en": "5–6 leaves"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "数滴(任意)",
+        "measure_en": "Few drops (optional)"
+      }
+    ],
+    "pureSum": 105,
+    "expected": 70
+  },
+  {
+    "id": "35441",
+    "name_ja": "サンタ・クリスマス・ショット",
+    "name_en": "Santa Christmas Shot",
+    "glass_ja": "ショットグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "グリーンミントリキュール",
+        "name_en": "Green crème de menthe",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ホワイトクレームドカカオ",
+        "name_en": "White crème de cacao",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "pureSum": 45,
+    "expected": 30
+  },
+  {
+    "id": "30207",
+    "name_ja": "シーザー",
+    "name_en": "Caesar",
+    "glass_ja": "",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "クラマトジュース",
+        "name_en": "Clamato juice",
+        "measure_ja": "180 ml",
+        "measure_en": "180 ml"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "1〜45 ml",
+        "measure_en": "1〜45 ml"
+      },
+      {
+        "name_ja": "ホットソース",
+        "name_en": "Hot sauce",
+        "measure_ja": "2ダッシュ",
+        "measure_en": "2 dashes"
+      },
+      {
+        "name_ja": "ウスターソース",
+        "name_en": "Worcestershire sauce",
+        "measure_ja": "4ダッシュ",
+        "measure_en": "4 dashes"
+      },
+      {
+        "name_ja": "セロリソルト",
+        "name_en": "Celery salt",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "胡椒",
+        "name_en": "Black pepper",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "カットライム",
+        "name_en": "Lime wedge",
+        "measure_ja": "1切れ",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "セロリスティック",
+        "name_en": "Celery stick",
+        "measure_ja": "1本",
+        "measure_en": "1"
+      }
+    ],
+    "pureSum": 180,
+    "expected": 70
+  },
+  {
+    "id": "17027",
+    "name_ja": "ジーマ・ブラスター",
+    "name_en": "Zima Blaster",
+    "glass_ja": "ハリケーングラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ジーマ",
+        "name_en": "Zima",
+        "measure_ja": "360 ml",
+        "measure_en": "360 ml"
+      },
+      {
+        "name_ja": "シャンボール",
+        "name_en": "Chambord",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      }
+    ],
+    "pureSum": 450,
+    "expected": 70
+  },
+  {
+    "id": "35572",
+    "name_ja": "シエスタ",
+    "name_en": "Siesta",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ブランコテキーラ",
+        "name_en": "Blanco tequila",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "pureSum": 95,
+    "expected": 70
+  },
+  {
+    "id": "31306",
+    "name_ja": "ジェット・パイロット",
+    "name_en": "Jet Pilot",
+    "glass_ja": "ロックグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "30 ml",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "ゴールドラム",
+        "name_en": "Gold rum",
+        "measure_ja": "22 ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "151プルーフラム",
+        "name_en": "151 proof rum",
+        "measure_ja": "22 ml",
+        "measure_en": "3/4 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "シナモンシロップ",
+        "name_en": "Cinnamon syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ペルノー",
+        "name_en": "Pernod",
+        "measure_ja": "6 ドロップ",
+        "measure_en": "6 drops"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "pureSum": 119,
+    "expected": 70
+  },
+  {
+    "id": "30801",
+    "name_ja": "シェリーコブラー",
+    "name_en": "Sherry cobbler",
+    "glass_ja": "",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "アモンティリャード",
+        "name_en": "Amontillado sherry",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "パロコルタードシェリー",
+        "name_en": "Palo Cortado sherry",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "小さじ1",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "オレンジスライス",
+        "name_en": "Orange slice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンスライス",
+        "name_en": "Lemon slice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "pureSum": 150,
+    "expected": 70
+  },
+  {
+    "id": "35083",
+    "name_ja": "ジェントル・ブル",
+    "name_en": "Gentle Bull",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "カルーア",
+        "name_en": "Kahlúa",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "pureSum": 95,
+    "expected": 70
+  },
+  {
+    "id": "11242",
+    "name_ja": "シカゴ・フィズ",
+    "name_en": "Chicago Fizz",
+    "glass_ja": "ハイボールグラス",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "name_en": "Light rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ポートワイン",
+        "name_en": "Port wine",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "粉砂糖",
+        "name_en": "Powdered sugar",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "1",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "pureSum": 180,
+    "expected": 90
+  },
+  {
+    "id": "14065",
+    "name_ja": "ジッピーズ・リベンジ",
+    "name_en": "Zippy's Revenge",
+    "glass_ja": "オールドファッションドグラス",
+    "style": "ロック",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "クールエイド",
+        "name_en": "Kool-Aid",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml",
+        "note": "グレープ"
+      }
+    ],
+    "pureSum": 240,
+    "expected": 75
+  },
+  {
+    "id": "15801",
+    "name_ja": "ジマドリ・ジンガー",
+    "name_en": "Zimadori Zinger",
+    "glass_ja": "コリンズグラス",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "メロンリキュール",
+        "name_en": "Melon liqueur",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ジーマ",
+        "name_en": "Zima",
+        "measure_ja": "360 ml",
+        "measure_en": "360 ml"
+      }
+    ],
+    "pureSum": 405,
+    "expected": 90
+  },
+  {
+    "id": "34354",
+    "name_ja": "ジャーマン・コーヒー",
+    "name_en": "German Coffee",
+    "glass_ja": "8oz ホット・グラス　(220ml)",
+    "style": "ホット",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "キルシュ",
+        "name_en": "Kirschwasser",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "130 ml",
+        "measure_en": "130 ml",
+        "note": "常温のものを使用"
+      },
+      {
+        "name_ja": "インスタントコーヒー",
+        "name_en": "Instant coffee",
+        "measure_ja": "3 tsps.",
+        "measure_en": "3 tsps."
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "2 tsps.",
+        "measure_en": "2 tsps."
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml",
+        "note": "フロート"
+      }
+    ],
+    "pureSum": 175,
+    "expected": 70
+  },
+  {
+    "id": "11542",
+    "name_ja": "ジャック・ローズ・カクテル",
+    "name_en": "Jack Rose Cocktail",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "アップルブランデー",
+        "name_en": "Apple brandy",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      }
+    ],
+    "pureSum": 105,
+    "expected": 70
+  },
+  {
+    "id": "11558",
+    "name_ja": "ジャパニーズ・フィズ",
+    "name_en": "Japanese Fizz",
+    "glass_ja": "ハイボールグラス",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ブレンデッドウイスキー",
+        "name_en": "Blended whiskey",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "粉砂糖",
+        "name_en": "Powdered sugar",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "ポートワイン",
+        "name_en": "Port wine",
+        "measure_ja": "1 大さじ",
+        "measure_en": "1 tblsp"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "1",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "",
+        "measure_en": ""
+      }
+    ],
+    "pureSum": 165,
+    "expected": 90
+  },
+  {
+    "id": "35057",
+    "name_ja": "ジャマイカ・クーラー",
+    "name_en": "Jamaica Cooler",
+    "glass_ja": "コリンズグラス",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ジャマイカラム",
+        "name_en": "Jamaican rum",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "コーヒー",
+        "name_en": "Coffee",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1 片",
+        "measure_en": "1 片"
+      }
+    ],
+    "pureSum": 170,
+    "expected": 90
+  },
+  {
+    "id": "30510",
+    "name_ja": "ジャングルバード",
+    "name_en": "Jungle Bird",
+    "glass_ja": "オールドファッションドグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ブラックストラップラム",
+        "name_en": "Blackstrap rum",
+        "measure_ja": "45 ml",
+        "measure_en": "45 mL"
+      },
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 mL"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "45 ml",
+        "measure_en": "45 mL"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 mL"
+      },
+      {
+        "name_ja": "デメララシロップ",
+        "name_en": "Demerara syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 mL"
+      }
+    ],
+    "pureSum": 97.5,
+    "expected": 70
+  },
+  {
+    "id": "178342",
+    "name_ja": "ジン・アンド・ソーダ",
+    "name_en": "Gin and Soda",
+    "glass_ja": "ハイボールグラス",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "150 ml",
+        "measure_en": "150 ml"
+      },
+      {
+        "name_ja": "ライム",
+        "name_en": "Lime",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      }
+    ],
+    "pureSum": 180,
+    "expected": 90
+  },
+  {
+    "id": "11415",
+    "name_ja": "ジン・スリング",
+    "name_en": "Gin Sling",
+    "glass_ja": "オールドファッションドグラス",
+    "style": "ロック",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "粉砂糖",
+        "name_en": "Powdered sugar",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "の捻り",
+        "measure_en": "Twist of"
+      }
+    ],
+    "pureSum": 120,
+    "expected": 75
+  }
+]

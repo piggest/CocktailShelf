@@ -1,0 +1,255 @@
+[
+  {
+    "id": "35416",
+    "ingredients": [
+      { "name_ja": "パッソア", "name_en": "Passoã", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ロゼワイン", "name_en": "Rosé wine", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "オレンジ", "name_en": "Orange", "measure_ja": "", "measure_en": "", "note": "適量" },
+      { "name_ja": "ミックスベリー", "name_en": "Mixed berries", "measure_ja": "", "measure_en": "", "note": "適量" }
+    ],
+    "_source": "Passoa公式 / cocktaillog.com",
+    "_note": "Passoa公式は1:2比率 (Passoa:rose wine)。グラス1杯分として60+120mlで一致。"
+  },
+  {
+    "id": "30414",
+    "ingredients": [
+      { "name_ja": "ロンドンドライジン", "name_en": "London Dry gin", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "スイートベルモット", "name_en": "Sweet vermouth", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "フェルネット・ブランカ", "name_en": "Fernet-Branca", "measure_ja": "7.5 ml", "measure_en": "7.5 ml" },
+      { "name_ja": "オレンジピール", "name_en": "Orange peel", "measure_ja": "", "measure_en": "", "note": "適量" }
+    ],
+    "_source": "IBA公式 / Difford's Guide",
+    "_note": "IBA Unforgettablesの公式比率 45/45/7.5ml と完全一致。"
+  },
+  {
+    "id": "35917",
+    "ingredients": [
+      { "name_ja": "スタウト", "name_en": "Stout", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "コーヒー", "name_en": "Coffee", "measure_ja": "60 ml", "measure_en": "60 ml" }
+    ],
+    "_source": "未確認",
+    "_note": "Beer Coffee Cocktailの単独公式レシピは見つからず。スタウトとコーヒーを等量で合わせるシンプルレシピとして現状値を保持。"
+  },
+  {
+    "id": "30020",
+    "ingredients": [
+      { "name_ja": "ジン", "name_en": "Gin", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ハニーシロップ", "name_en": "Honey syrup", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "オレンジジュース", "name_en": "Orange juice", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "レモンピール", "name_en": "Lemon peel", "measure_ja": "飾り", "measure_en": "garnish" }
+    ],
+    "_source": "Difford's Guide",
+    "_note": "Difford's版はジン60ml+レモン22.5ml+オレンジ10ml+ハニー大さじ4の比率。現状の4成分版はオレンジ強化バリアントで合計150mlと多めだが保持。"
+  },
+  {
+    "id": "35476",
+    "ingredients": [
+      { "name_ja": "テキーラローズ", "name_en": "Tequila Rose", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ハーブリキュール", "name_en": "Herbal liqueur", "measure_ja": "15 ml", "measure_en": "15 ml" }
+    ],
+    "_source": "Tequila Rose公式",
+    "_note": "公式30+15ml (Tequila Rose 1oz + Herbal liqueur 0.5oz) と一致。ショット合計45mlで標準範囲。"
+  },
+  {
+    "id": "34682",
+    "ingredients": [
+      { "name_ja": "赤ワイン", "name_en": "Red wine", "measure_ja": "130 ml", "measure_en": "130 ml" },
+      { "name_ja": "オレンジジュース", "name_en": "Orange juice", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "10 ml", "measure_en": "10 ml" },
+      { "name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "1 tsp. (5 ml)", "measure_en": "1 tsp. (5 ml)" }
+    ],
+    "_source": "未確認 (Bishop バリアント)",
+    "_note": "Bishopは出典で大きく異なる(ラム入りパンチ版・スパイスホット版等)。本レシピは赤ワインベースのホット版で、8ozグラス用として合計160ml規模、現状値保持。"
+  },
+  {
+    "id": "30620",
+    "ingredients": [
+      { "name_ja": "ピスコ", "name_en": "Pisco", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "パイナップル", "name_en": "Pineapple", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "砂糖", "name_en": "Sugar", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "アラビアガム", "name_en": "Gum arabic", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "水", "name_en": "Distilled water", "measure_ja": "5 ml", "measure_en": "5 ml" }
+    ],
+    "_source": "Cocktail Society / Wikipedia",
+    "_note": "現代版は Pisco 60 + Pineapple 22 + Lime 22 + Gum syrup 15 + Water 5 ml 程度。本レシピは砂糖とガムシロップを分けた構成で合計140ml、伝統スタイル寄りとして保持。"
+  },
+  {
+    "id": "30019",
+    "ingredients": [
+      { "name_ja": "ホワイトラム", "name_en": "White rum", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ブランデー", "name_en": "Brandy", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "トリプルセック", "name_en": "Triple sec", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "7.5 ml", "measure_en": "7.5 ml" }
+    ],
+    "_source": "IBA公式",
+    "_note": "IBA仕様は 30/30/30/7.5 ml。元データのレモン20mlは多め、IBA基準に合わせて 7.5ml に修正。合計97.5mlでショート想定。"
+  },
+  {
+    "id": "35740",
+    "ingredients": [
+      { "name_ja": "ホワイトラム", "name_en": "White rum", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ヒプノティック", "name_en": "Hpnotiq", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "15 ml", "measure_en": "15 ml" }
+    ],
+    "_source": "A Couple Cooks / Hpnotiq関連",
+    "_note": "Hpnotiq Daiquiri公式風レシピ 1oz+1oz+1oz+0.5oz と一致。合計105ml、シェイク&氷で希釈後ショート1杯分。"
+  },
+  {
+    "id": "35752",
+    "ingredients": [
+      { "name_ja": "ヒプノティック", "name_en": "Hpnotiq", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "ホワイトラム", "name_en": "White rum", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "30 ml", "measure_en": "30 ml" }
+    ],
+    "_source": "BarNoneDrinks (Hpnotiq Blue Fish)",
+    "_note": "公式仕様 Hpnotiq 0.5oz + White Rum 1oz + Lime 1oz と一致。ショット計75mlとやや多めだが、出典通り。"
+  },
+  {
+    "id": "35566",
+    "ingredients": [
+      { "name_ja": "ピムスNo.1", "name_en": "Pimm's No. 1", "measure_ja": "50 ml", "measure_en": "50 ml" },
+      { "name_ja": "ジン", "name_en": "Gin", "measure_ja": "25 ml", "measure_en": "25 ml" },
+      { "name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "10 ml", "measure_en": "10 ml" },
+      { "name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "10 ml", "measure_en": "10 ml" },
+      { "name_ja": "ミント", "name_en": "Mint", "measure_ja": "4枚", "measure_en": "4 leaves" }
+    ],
+    "_source": "The Bar (Pimm's公式) / Imbibe Magazine",
+    "_note": "Pimm's公式の Pimmlet レシピ 50/25/10/10 ml と完全一致。"
+  },
+  {
+    "id": "178338",
+    "ingredients": [
+      { "name_ja": "ラム", "name_en": "Rum", "measure_ja": "40 ml", "measure_en": "40 ml" },
+      { "name_ja": "パッソア", "name_en": "Passoã", "measure_ja": "20 ml", "measure_en": "20 ml" },
+      { "name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "パッションフルーツシロップ", "name_en": "Passion fruit syrup", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "ピーチビターズ", "name_en": "Peach bitters", "measure_ja": "ダッシュ", "measure_en": "Dash" },
+      { "name_ja": "ミント", "name_en": "Mint", "measure_ja": "飾りに", "measure_en": "Garnish with" }
+    ],
+    "_source": "puredrinkology.com",
+    "_note": "Pure Passion単独の確定数量公式は見つからず。出典の構成 (rum, Passoa, lime, passion fruit syrup, peach bitters, mint) と一致。現状量を保持。"
+  },
+  {
+    "id": "16992",
+    "ingredients": [
+      { "name_ja": "エバークリア", "name_en": "Everclear", "measure_ja": "750 ml", "measure_en": "750 ml" },
+      { "name_ja": "ウォッカ", "name_en": "Vodka", "measure_ja": "1750 ml", "measure_en": "1750 ml" },
+      { "name_ja": "ピーチシュナップス", "name_en": "Peach schnapps", "measure_ja": "1750 ml", "measure_en": "1750 ml" },
+      { "name_ja": "オレンジジュース", "name_en": "Orange juice", "measure_ja": "3.8 L", "measure_en": "3.8 L" },
+      { "name_ja": "クランベリージュース", "name_en": "Cranberry juice", "measure_ja": "3.8 L", "measure_en": "3.8 L" }
+    ],
+    "_source": "drinkspin.com / mixerdrink.com",
+    "_note": "パンチボウル用大量レシピで、出典 (Everclear 3/4L + Vodka 1.75L + Peach Schnapps 1.75L + OJ 1gal + Cranberry 1gal) と一致。1杯分ではなくバッチ量。"
+  },
+  {
+    "id": "178354",
+    "ingredients": [
+      { "name_ja": "ジン", "name_en": "Gin", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ココナッツリキュール", "name_en": "Coconut liqueur", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "エルダーフラワーコーディアル", "name_en": "Elderflower cordial", "measure_ja": "25 ml", "measure_en": "25 ml" },
+      { "name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ブラックベリー", "name_en": "Blackberry", "measure_ja": "飾りに", "measure_en": "Garnish with" }
+    ],
+    "_source": "Difford's Guide / puredrinkology.com",
+    "_note": "Pink Moonの構成 (gin, coconut liqueur, elderflower, lime) と一致。合計115mlでロックグラス1杯分として妥当。"
+  },
+  {
+    "id": "178328",
+    "ingredients": [
+      { "name_ja": "ラム", "name_en": "Rum", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "アプリコットネクター", "name_en": "Apricot nectar", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ザクロジュース", "name_en": "Pomegranate juice", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "炭酸水", "name_en": "Soda water", "measure_ja": "上まで", "measure_en": "Top" }
+    ],
+    "_source": "puredrinkology.com",
+    "_note": "Funk and Soulの確定数量公式は未確認。レモン120mlは酸味が強過ぎる印象だが代替出典なく現状値保持。"
+  },
+  {
+    "id": "30116",
+    "ingredients": [
+      { "name_ja": "バーボン", "name_en": "Bourbon", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "カンパリ", "name_en": "Campari", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "スイートベルモット", "name_en": "Sweet vermouth", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "オレンジピール", "name_en": "Orange peel", "measure_ja": "1 片", "measure_en": "1 片" }
+    ],
+    "_source": "IBA公式 / Difford's Guide",
+    "_note": "IBA Unforgettablesの公式比率 45/30/30 ml と完全一致 (Haigh 2007改訂版)。"
+  },
+  {
+    "id": "30404",
+    "ingredients": [
+      { "name_ja": "ライトラム", "name_en": "Light rum", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ブランデー", "name_en": "Brandy", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ジン", "name_en": "Gin", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "クリームシェリー", "name_en": "Cream sherry", "measure_ja": "15 ml", "measure_en": "15 ml", "note": "フロート" },
+      { "name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "オレンジジュース", "name_en": "Orange juice", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "オルジェ・シロップ", "name_en": "Orgeat syrup", "measure_ja": "15 ml", "measure_en": "15 ml" }
+    ],
+    "_source": "Trader Vic公式 (1946) / Difford's Guide",
+    "_note": "Trader Vic原典 (Rum 2oz, Brandy 1oz, Gin 0.5oz, Lemon 2oz, Orange 1oz, Orgeat 0.5oz, Sherry float 0.5oz) と一致。14ozマグ用ロング。"
+  },
+  {
+    "id": "30204",
+    "ingredients": [
+      { "name_ja": "ダークラム", "name_en": "Dark rum", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "カルーア", "name_en": "Kahlúa", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "クレームドカカオ", "name_en": "Crème de cacao", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "ココナッツクリーム", "name_en": "Coconut cream", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "牛乳", "name_en": "Milk", "measure_ja": "60 ml", "measure_en": "60 ml", "alternatives": [ { "name_ja": "ハーフ&ハーフ", "name_en": "Half-and-half" } ] },
+      { "name_ja": "氷", "name_en": "Ice", "measure_ja": "1カップ", "measure_en": "1 cup" }
+    ],
+    "_source": "Kahlúa公式 / acouplecooks.com",
+    "_note": "Kahlúa公式は各2oz (60ml)。本レシピは酒類3種を半量(30ml)とした弱め版で、ブレンダーで氷と撹拌するフローズンとして妥当。"
+  },
+  {
+    "id": "34734",
+    "ingredients": [
+      { "name_ja": "ブランデー", "name_en": "Brandy", "measure_ja": "45 ml", "measure_en": "45 ml" },
+      { "name_ja": "水", "name_en": "Water", "measure_ja": "75 ml", "measure_en": "75 ml", "note": "適量" }
+    ],
+    "_source": "未確認",
+    "_note": "Brandy Americanの単独公式レシピは見つからず。日本でのブランデー水割り(1:2程度)を想定した構成として現状値保持。10ozタンブラー(280ml)+氷で妥当。"
+  },
+  {
+    "id": "34746",
+    "ingredients": [
+      { "name_ja": "ブランデー", "name_en": "Brandy", "measure_ja": "750 ml", "measure_en": "750 ml", "note": "1本" },
+      { "name_ja": "オレンジキュラソー", "name_en": "Orange curaçao", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "300 ml", "measure_en": "300 ml" },
+      { "name_ja": "オレンジジュース", "name_en": "Orange juice", "measure_ja": "120 ml", "measure_en": "120 ml" },
+      { "name_ja": "シュガーシロップ", "name_en": "Sugar syrup", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "グレナデンシロップ", "name_en": "Grenadine syrup", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "炭酸水", "name_en": "Soda water", "measure_ja": "800 ml (4本)", "measure_en": "800 ml (4本)" }
+    ],
+    "_source": "Mr. Boston / Alcohol Infusions (1935版)",
+    "_note": "パーティ用大量レシピ。Mr. Boston系の比率 (ブランデー1本+柑橘+グレナデン+炭酸) と整合。1杯量ではなくバッチ量で約13杯分。"
+  },
+  {
+    "id": "17825",
+    "ingredients": [
+      { "name_ja": "ホットチョコレート", "name_en": "Hot chocolate", "measure_ja": "150 ml", "measure_en": "150 ml" },
+      { "name_ja": "グリーンシャルトリューズ", "name_en": "Chartreuse Verte", "measure_ja": "30 ml", "measure_en": "30 ml" },
+      { "name_ja": "チェリーヒーリング", "name_en": "Cherry Heering", "measure_ja": "30 ml", "measure_en": "30 ml" }
+    ],
+    "_source": "Cocktail Chronicles (Neyah White) / Imbibe Magazine",
+    "_note": "原典は Hot chocolate 5oz + Green Chartreuse 1oz + Cherry Heering 1oz。ホットチョコレートを 120→150ml に修正。"
+  },
+  {
+    "id": "11382",
+    "ingredients": [
+      { "name_ja": "ブレンデッドウイスキー", "name_en": "Blended whiskey", "measure_ja": "60 ml", "measure_en": "60 ml" },
+      { "name_ja": "ベネディクティン", "name_en": "Bénédictine", "measure_ja": "15 ml", "measure_en": "15 ml" },
+      { "name_ja": "レモンジュース", "name_en": "Lemon juice", "measure_ja": "20 ml", "measure_en": "20 ml" },
+      { "name_ja": "ライムジュース", "name_en": "Lime juice", "measure_ja": "40 ml", "measure_en": "40 ml" },
+      { "name_ja": "レモン", "name_en": "Lemon", "measure_ja": "1 スライス", "measure_en": "1 slice" },
+      { "name_ja": "ライム", "name_en": "Lime", "measure_ja": "1 スライス", "measure_en": "1 slice" }
+    ],
+    "_source": "Empire Wine / Difford's Guide",
+    "_note": "Difford's版は 37.5/22.5/15/7.5ml、Empire版は 45/15/15/15ml。本レシピのライム40mlは多めだがバリアントとして許容範囲。出典差大きく現状値保持。"
+  }
+]

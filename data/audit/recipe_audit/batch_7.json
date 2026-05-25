@@ -1,0 +1,872 @@
+[
+  {
+    "id": "35416",
+    "name_ja": "パッソア・サングリア",
+    "name_en": "Passoa Sangria",
+    "glass_ja": "ワイングラス",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "パッソア",
+        "name_en": "Passoã",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ロゼワイン",
+        "name_en": "Rosé wine",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "オレンジ",
+        "name_en": "Orange",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      },
+      {
+        "name_ja": "ミックスベリー",
+        "name_en": "Mixed berries",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      }
+    ],
+    "pureSum": 180,
+    "expected": 90
+  },
+  {
+    "id": "30414",
+    "name_ja": "ハンキー・パンキー",
+    "name_en": "Hanky Panky",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ロンドンドライジン",
+        "name_en": "London Dry gin",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "フェルネット・ブランカ",
+        "name_en": "Fernet-Branca",
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      }
+    ],
+    "pureSum": 97.5,
+    "expected": 70
+  },
+  {
+    "id": "35917",
+    "name_ja": "ビア・コーヒー・カクテル",
+    "name_en": "Beer Coffee Cocktail",
+    "glass_ja": "ピルスナーグラス",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "スタウト",
+        "name_en": "Stout",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "コーヒー",
+        "name_en": "Coffee",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      }
+    ],
+    "pureSum": 120,
+    "expected": 90
+  },
+  {
+    "id": "30020",
+    "name_ja": "ビーズ・ニーズ",
+    "name_en": "Bee's Knees",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ハニーシロップ",
+        "name_en": "Honey syrup",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      }
+    ],
+    "pureSum": 120,
+    "expected": 70
+  },
+  {
+    "id": "35476",
+    "name_ja": "ビーストリィ・ビューティ",
+    "name_en": "Beastly Beauty",
+    "glass_ja": "ショットグラス",
+    "style": "ショット",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "テキーラローズ",
+        "name_en": "Tequila Rose",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ハーブリキュール",
+        "name_en": "Herbal liqueur",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "pureSum": 45,
+    "expected": 30
+  },
+  {
+    "id": "34682",
+    "name_ja": "ビショップ",
+    "name_en": "Bishop",
+    "glass_ja": "8oz ホット・グラス　(220ml)",
+    "style": "ホット",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "Red wine",
+        "measure_ja": "130 ml",
+        "measure_en": "130 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
+      }
+    ],
+    "pureSum": 140,
+    "expected": 70
+  },
+  {
+    "id": "30620",
+    "name_ja": "ピスコ・パンチ",
+    "name_en": "Pisco Punch",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ピスコ",
+        "name_en": "Pisco",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "パイナップル",
+        "name_en": "Pineapple",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "アラビアガム",
+        "name_en": "Gum arabic",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Distilled water",
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
+      }
+    ],
+    "pureSum": 140,
+    "expected": 70
+  },
+  {
+    "id": "30019",
+    "name_ja": "ビトウィーン・ザ・シーツ",
+    "name_en": "Between the Sheets",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      }
+    ],
+    "pureSum": 110,
+    "expected": 70
+  },
+  {
+    "id": "35740",
+    "name_ja": "ヒプノ・ダイキリ",
+    "name_en": "Hpno Daiquiri",
+    "glass_ja": "カクテル・グラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ヒプノティック",
+        "name_en": "Hpnotiq",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "pureSum": 105,
+    "expected": 70
+  },
+  {
+    "id": "35752",
+    "name_ja": "ヒプノティック・ブルー・フィッシュ",
+    "name_en": "Hpnotiq Blue Fish",
+    "glass_ja": "ショットグラス",
+    "style": "ショット",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ヒプノティック",
+        "name_en": "Hpnotiq",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "pureSum": 75,
+    "expected": 30
+  },
+  {
+    "id": "35566",
+    "name_ja": "ピムレット",
+    "name_en": "Pimmlet",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ピムスNo.1",
+        "name_en": "Pimm's No. 1",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "25 ml",
+        "measure_en": "25 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ミント",
+        "name_en": "Mint",
+        "measure_ja": "4枚",
+        "measure_en": "4 leaves"
+      }
+    ],
+    "pureSum": 95,
+    "expected": 70
+  },
+  {
+    "id": "178338",
+    "name_ja": "ピュア・パッション",
+    "name_en": "Pure Passion",
+    "glass_ja": "ウイスキーサワーグラス",
+    "style": "フローズン",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "パッソア",
+        "name_en": "Passoã",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "パッションフルーツシロップ",
+        "name_en": "Passion fruit syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ピーチビターズ",
+        "name_en": "Peach bitters",
+        "measure_ja": "ダッシュ",
+        "measure_en": "Dash"
+      },
+      {
+        "name_ja": "ミント",
+        "name_en": "Mint",
+        "measure_ja": "飾りに",
+        "measure_en": "Garnish with"
+      }
+    ],
+    "pureSum": 105,
+    "expected": 70
+  },
+  {
+    "id": "16992",
+    "name_ja": "ピンク・ペノチャ",
+    "name_en": "Pink Penocha",
+    "glass_ja": "パンチボウル",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "エバークリア",
+        "name_en": "Everclear",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "1750 ml",
+        "measure_en": "1750 ml"
+      },
+      {
+        "name_ja": "ピーチシュナップス",
+        "name_en": "Peach schnapps",
+        "measure_ja": "1750 ml",
+        "measure_en": "1750 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "3.8 L",
+        "measure_en": "3.8 L"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry juice",
+        "measure_ja": "3.8 L",
+        "measure_en": "3.8 L"
+      }
+    ],
+    "pureSum": 4250,
+    "expected": 70
+  },
+  {
+    "id": "178354",
+    "name_ja": "ピンク・ムーン",
+    "name_en": "Pink Moon",
+    "glass_ja": "ウイスキーグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ココナッツリキュール",
+        "name_en": "Coconut liqueur",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "エルダーフラワーコーディアル",
+        "name_en": "Elderflower cordial",
+        "measure_ja": "25 ml",
+        "measure_en": "25 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ブラックベリー",
+        "name_en": "Blackberry",
+        "measure_ja": "飾りに",
+        "measure_en": "Garnish with"
+      }
+    ],
+    "pureSum": 115,
+    "expected": 70
+  },
+  {
+    "id": "178328",
+    "name_ja": "ファンク・アンド・ソウル",
+    "name_en": "Funk and Soul",
+    "glass_ja": "コリンズグラス",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "アプリコットネクター",
+        "name_en": "Apricot nectar",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ザクロジュース",
+        "name_en": "Pomegranate juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "上まで",
+        "measure_en": "Top"
+      }
+    ],
+    "pureSum": 240,
+    "expected": 90
+  },
+  {
+    "id": "30116",
+    "name_ja": "ブールヴァルディエ",
+    "name_en": "Boulevardier",
+    "glass_ja": "カクテルグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "バーボン",
+        "name_en": "Bourbon",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "1 片",
+        "measure_en": "1 片"
+      }
+    ],
+    "pureSum": 105,
+    "expected": 70
+  },
+  {
+    "id": "30404",
+    "name_ja": "フォグカッター",
+    "name_en": "Fog Cutter",
+    "glass_ja": "フォグカッターマグ",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "name_en": "Light rum",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "クリームシェリー",
+        "name_en": "Cream sherry",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml",
+        "note": "フロート"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "オルジェ・シロップ",
+        "name_en": "Orgeat syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "pureSum": 195,
+    "expected": 90
+  },
+  {
+    "id": "30204",
+    "name_ja": "ブッシュワッカー",
+    "name_en": "Bushwacker",
+    "glass_ja": "",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "カルーア",
+        "name_en": "Kahlúa",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "クレームドカカオ",
+        "name_en": "Crème de cacao",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ココナッツクリーム",
+        "name_en": "Coconut cream",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "牛乳",
+        "name_en": "Milk",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml",
+        "alternatives": [
+          {
+            "name_ja": "ハーフ&ハーフ",
+            "name_en": "Half-and-half"
+          }
+        ]
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "1カップ",
+        "measure_en": "1 cup"
+      }
+    ],
+    "pureSum": 150,
+    "expected": 70
+  },
+  {
+    "id": "34734",
+    "name_ja": "ブランデー・アメリカン",
+    "name_en": "Brandy American",
+    "glass_ja": "10oz タンブラー　(280ml)",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "75 ml",
+        "measure_en": "75 ml",
+        "note": "適量"
+      }
+    ],
+    "pureSum": 120,
+    "expected": 90
+  },
+  {
+    "id": "34746",
+    "name_ja": "ブランデー・パンチ",
+    "name_en": "Brandy Punch",
+    "glass_ja": "4oz カクテル・グラス　(130ml)　(丸)",
+    "style": "ロング",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml",
+        "note": "1本"
+      },
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "Orange curaçao",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "300 ml",
+        "measure_en": "300 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "800 ml (4本)",
+        "measure_en": "800 ml (4本)"
+      }
+    ],
+    "pureSum": 1290,
+    "expected": 90
+  },
+  {
+    "id": "17825",
+    "name_ja": "ブリガディア",
+    "name_en": "Brigadier",
+    "glass_ja": "クープグラス",
+    "style": "ホット",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ホットチョコレート",
+        "name_en": "Hot chocolate",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "グリーンシャルトリューズ",
+        "name_en": "Chartreuse Verte",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "チェリーヒーリング",
+        "name_en": "Cherry Heering",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "pureSum": 180,
+    "expected": 70
+  },
+  {
+    "id": "11382",
+    "name_ja": "フリスコ・サワー",
+    "name_en": "Frisco Sour",
+    "glass_ja": "ウイスキーサワーグラス",
+    "style": "ショート",
+    "iba": null,
+    "ingredients": [
+      {
+        "name_ja": "ブレンデッドウイスキー",
+        "name_en": "Blended whiskey",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ベネディクティン",
+        "name_en": "Bénédictine",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "1 スライス",
+        "measure_en": "1 slice"
+      },
+      {
+        "name_ja": "ライム",
+        "name_en": "Lime",
+        "measure_ja": "1 スライス",
+        "measure_en": "1 slice"
+      }
+    ],
+    "pureSum": 135,
+    "expected": 70
+  }
+]
