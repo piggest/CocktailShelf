@@ -3,6 +3,7 @@ const DATA_URL = "data/cocktails.json";
 const FAV_KEY  = "cocktailshelf:favs";
 const WISH_KEY = "cocktailshelf:wishlist";
 const OWN_KEY  = "cocktailshelf:owned-ingredients";
+const VIEWED_KEY = "cocktailshelf:viewed";
 
 // DOM
 const grid         = document.getElementById("grid");
@@ -17,6 +18,8 @@ const styleSel     = document.getElementById("styleSelect");
 const baseSel      = document.getElementById("baseSelect");
 const ownedOnlyChk    = document.getElementById("ownedOnly");
 const obtainableOkChk = document.getElementById("obtainableOk");
+const viewedOnlyChk   = document.getElementById("viewedOnly");
+const unviewedOnlyChk = document.getElementById("unviewedOnly");
 const randomBtn    = document.getElementById("randomBtn");
 const tabs         = document.querySelectorAll(".tab");
 const modal        = document.getElementById("modal");
@@ -79,6 +82,26 @@ function getWish() {
   return (raw && typeof raw === "object") ? raw : {};
 }
 function isWish(id) { return !!getWish()[String(id)]; }
+
+// --- 閲覧済み ---
+function getViewed() {
+  let raw;
+  try { raw = JSON.parse(localStorage.getItem(VIEWED_KEY)); }
+  catch { raw = null; }
+  return (raw && typeof raw === "object") ? raw : {};
+}
+function isViewed(id) { return !!getViewed()[String(id)]; }
+function markViewed(id) {
+  const v = getViewed();
+  v[String(id)] = Date.now();
+  localStorage.setItem(VIEWED_KEY, JSON.stringify(v));
+}
+function unmarkViewed(id) {
+  const v = getViewed();
+  delete v[String(id)];
+  localStorage.setItem(VIEWED_KEY, JSON.stringify(v));
+}
+
 function toggleWish(id) {
   const wish = getWish();
   const sid = String(id);
@@ -354,7 +377,7 @@ function renderCards(items, titleText) {
     wrap.className = "card-wrap";
 
     const card = document.createElement("article");
-    card.className = "card";
+    card.className = "card" + (isViewed(c.id) ? " is-viewed" : "");
     card.dataset.id = c.id;
 
     let img;
@@ -460,6 +483,9 @@ function renderWishBtn(btn, id) {
 let currentDetailId = null;
 function openDetail(id) {
   currentDetailId = id;
+  markViewed(id);
+  const card = grid.querySelector(`.card[data-id="${id}"]`);
+  if (card) card.classList.add("is-viewed");
   const data = DATA.find(x => String(x.id) === String(id));
   if (!data) return;
   const cnt = favCount(id);
@@ -498,6 +524,7 @@ function openDetail(id) {
         <div class="fav-row">
           <button class="fav-toggle ${cnt > 0 ? "is-fav" : ""}" id="favToggle"></button>
           <button class="wish-toggle ${isWish(id) ? "is-wish" : ""}" id="wishToggle"></button>
+          <button class="viewed-clear" id="viewedClear" title="閲覧履歴から外す">閲覧解除</button>
         </div>
       </div>
     </div>
@@ -608,6 +635,14 @@ function openDetail(id) {
     if (currentTab === "wishlist") loadWishlist();
   });
 
+  // 閲覧解除
+  modalBody.querySelector("#viewedClear")?.addEventListener("click", () => {
+    unmarkViewed(id);
+    const card = grid.querySelector(`.card[data-id="${id}"]`);
+    if (card) card.classList.remove("is-viewed");
+    closeDetail();
+  });
+
   modal.classList.remove("hidden");
 }
 function closeDetail() { modal.classList.add("hidden"); }
@@ -698,6 +733,15 @@ function applyFilters() {
   if (obtainableOkChk && obtainableOkChk.checked) {
     items = items.filter(c => cocktailMadeFromAvailable(c));
     labels.push("所持+調達可能で作れる");
+  }
+  // 閲覧済み/未読
+  if (viewedOnlyChk && viewedOnlyChk.checked) {
+    items = items.filter(c => isViewed(c.id));
+    labels.push("閲覧済み");
+  }
+  if (unviewedOnlyChk && unviewedOnlyChk.checked) {
+    items = items.filter(c => !isViewed(c.id));
+    labels.push("未読");
   }
 
   if (labels.length === 0) {
@@ -1046,6 +1090,14 @@ styleSel.addEventListener("change", applyFilters);
 baseSel.addEventListener("change", applyFilters);
 if (ownedOnlyChk) ownedOnlyChk.addEventListener("change", applyFilters);
 if (obtainableOkChk) obtainableOkChk.addEventListener("change", applyFilters);
+if (viewedOnlyChk) viewedOnlyChk.addEventListener("change", () => {
+  if (viewedOnlyChk.checked && unviewedOnlyChk) unviewedOnlyChk.checked = false;
+  applyFilters();
+});
+if (unviewedOnlyChk) unviewedOnlyChk.addEventListener("change", () => {
+  if (unviewedOnlyChk.checked && viewedOnlyChk) viewedOnlyChk.checked = false;
+  applyFilters();
+});
 randomBtn.addEventListener("click", loadRandom);
 tabs.forEach(t => t.addEventListener("click", () => switchTab(t.dataset.tab)));
 

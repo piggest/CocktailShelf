@@ -401,6 +401,20 @@ select:focus { border-color: var(--accent); }
   border-radius: 8px; cursor: pointer; font-size: 12px;
 }
 .fav-clear:hover { color: var(--danger); border-color: var(--danger); }
+.viewed-clear {
+  background: transparent; color: var(--muted);
+  border: 1px solid var(--line); padding: 8px 12px;
+  border-radius: 8px; cursor: pointer; font-size: 12px;
+  margin-left: auto;
+}
+.viewed-clear:hover { color: var(--text); border-color: var(--text); }
+.card.is-viewed { opacity: .55; }
+.card.is-viewed::before {
+  content: "閲覧済"; position: absolute; top: 8px; right: 8px;
+  background: rgba(0,0,0,.5); color: #fff; font-size: 10px;
+  padding: 2px 6px; border-radius: 4px; z-index: 2;
+}
+.card { position: relative; }
 .wish-toggle {
   background: var(--bg-2); color: var(--text);
   border: 1px solid var(--line); padding: 8px 14px;
