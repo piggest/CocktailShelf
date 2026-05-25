@@ -458,6 +458,19 @@ function renderCards(items, titleText) {
       });
       wrap.appendChild(clrBtn);
     }
+    // 閲覧済みタブ：閲覧履歴の解除ボタン
+    if (currentTab === "viewed") {
+      const clrBtn = document.createElement("button");
+      clrBtn.className = "card-clear";
+      clrBtn.title = "閲覧履歴から外す";
+      clrBtn.textContent = "×";
+      clrBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        unmarkViewed(c.id);
+        loadViewed();
+      });
+      wrap.appendChild(clrBtn);
+    }
 
     frag.appendChild(wrap);
   }
@@ -524,7 +537,6 @@ function openDetail(id) {
         <div class="fav-row">
           <button class="fav-toggle ${cnt > 0 ? "is-fav" : ""}" id="favToggle"></button>
           <button class="wish-toggle ${isWish(id) ? "is-wish" : ""}" id="wishToggle"></button>
-          <button class="viewed-clear" id="viewedClear" title="閲覧履歴から外す">閲覧解除</button>
         </div>
       </div>
     </div>
@@ -633,14 +645,6 @@ function openDetail(id) {
     const cardWish = grid.querySelector(`.card[data-id="${id}"]`)?.parentElement.querySelector(".card-wish");
     if (cardWish) renderWishBtn(cardWish, id);
     if (currentTab === "wishlist") loadWishlist();
-  });
-
-  // 閲覧解除
-  modalBody.querySelector("#viewedClear")?.addEventListener("click", () => {
-    unmarkViewed(id);
-    const card = grid.querySelector(`.card[data-id="${id}"]`);
-    if (card) card.classList.remove("is-viewed");
-    closeDetail();
   });
 
   modal.classList.remove("hidden");
@@ -836,6 +840,16 @@ function loadWishlist() {
   renderCards(items, "飲んでみたい");
 }
 
+function loadViewed() {
+  const viewed = getViewed();
+  // 閲覧が新しいものを上に
+  const entries = Object.entries(viewed).sort((a, b) => b[1] - a[1]);
+  const items = entries
+    .map(([id]) => DATA.find(c => String(c.id) === String(id)))
+    .filter(Boolean);
+  renderCards(items, "閲覧済み");
+}
+
 // --- 材料一覧（頻出順） ---
 function buildIngredientStats() {
   // key: name_ja, value: {ja, en, count}
@@ -1029,6 +1043,7 @@ function switchTab(name) {
   currentTab = name;
   if (name === "favorites") loadFavorites();
   else if (name === "wishlist") loadWishlist();
+  else if (name === "viewed") loadViewed();
   else if (name === "ingredients") renderIngredients();
   else loadInitial();
 }
