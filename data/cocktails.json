@@ -281,7 +281,7 @@
       },
       {
         "name_ja": "ベーコンソルト",
-        "name_en": "Bacon salt",
+        "name_en": "Bacon Salt",
         "measure_ja": "飾り",
         "measure_en": "garnish"
       }
@@ -436,14 +436,14 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ハバナクラブ プロフンド ラム",
-        "name_en": "Havana Club Profundo rum",
+        "name_ja": "ハバナクラブプロフンドラム",
+        "name_en": "Havana Club Profundo Rum",
         "measure_ja": "30 ml",
         "measure_en": "30 mL"
       },
       {
-        "name_ja": "ハバナクラブ スモーキー ラム",
-        "name_en": "Havana Club Smoky rum",
+        "name_ja": "ハバナクラブスモーキーラム",
+        "name_en": "Havana Club Smoky Rum",
         "measure_ja": "30 ml",
         "measure_en": "30 mL"
       },
@@ -460,14 +460,14 @@
         "measure_en": "5 mL"
       },
       {
-        "name_ja": "マラスキーノリキュール（ルクサルド）",
-        "name_en": "Luxardo maraschino",
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino liqueur",
         "measure_ja": "5滴",
         "measure_en": "5 drops"
       },
       {
         "name_ja": "パッションフルーツピューレ",
-        "name_en": "Passion fruit purée",
+        "name_en": "Passion Fruit Purée",
         "measure_ja": "30 ml",
         "measure_en": "30 mL"
       },
@@ -512,7 +512,7 @@
     "ingredients": [
       {
         "name_ja": "タンカレーナンバーテン",
-        "name_en": "タンカレーナンバーテン",
+        "name_en": "Tanqueray No. Ten",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -604,13 +604,13 @@
     "ingredients": [
       {
         "name_ja": "スナック菓子",
-        "name_en": "",
+        "name_en": "Snack",
         "measure_ja": "1個 (時期により変更)",
         "measure_en": "1個 (時期により変更)"
       },
       {
-        "name_ja": "アイス・クリーム",
-        "name_en": "",
+        "name_ja": "アイスクリーム",
+        "name_en": "Ice Cream",
         "measure_ja": "3tbsps.",
         "measure_en": "3tbsps."
       },
@@ -844,8 +844,8 @@
         "measure_en": "2dash"
       },
       {
-        "name_ja": "クレーム・ド・ノワヨー",
-        "name_en": "クレーム・ド・ノワヨー",
+        "name_ja": "クレームドノワイヨー",
+        "name_en": "Crème de Noyaux",
         "measure_ja": "2dash",
         "measure_en": "2dash"
       },
@@ -891,7 +891,7 @@
       },
       {
         "name_ja": "ウンダーベルグ",
-        "name_en": "",
+        "name_en": "Underberg",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -1039,8 +1039,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "コーヒー・シロップ",
-        "name_en": "",
+        "name_ja": "コーヒーシロップ",
+        "name_en": "Coffee Syrup",
         "measure_ja": "30ml (1/4)",
         "measure_en": "30ml (1/4)"
       },
@@ -1420,7 +1420,7 @@
     "ingredients": [
       {
         "name_ja": "ギネススタウト",
-        "name_en": "Guinness stout",
+        "name_en": "Guinness Stout",
         "measure_ja": "1パイント",
         "measure_en": "1 pint"
       },
@@ -1431,7 +1431,7 @@
         "measure_en": "1/2 shot"
       },
       {
-        "name_ja": "ジェムソン アイリッシュウイスキー",
+        "name_ja": "アイリッシュウイスキー",
         "name_en": "Jameson Irish Whiskey",
         "measure_ja": "1/2ショット",
         "measure_en": "1/2 shot"
@@ -1464,8 +1464,8 @@
         "measure_en": "1 cup"
       },
       {
-        "name_ja": "ハーフ&ハーフ",
-        "name_en": "Half-and-half",
+        "name_ja": "ハーフアンドハーフ",
+        "name_en": "Half-and-Half",
         "measure_ja": "1 1/4 カップ",
         "measure_en": "1 1/4 cup"
       },
@@ -1610,7 +1610,7 @@
       },
       {
         "name_ja": "ピーチブランデー",
-        "name_en": "Peach brandy",
+        "name_en": "Peach Brandy",
         "measure_ja": "1/2 オンス",
         "measure_en": "1/2 oz"
       },
@@ -1769,7 +1769,7 @@
       },
       {
         "name_ja": "ギネススタウト",
-        "name_en": "Guinness stout",
+        "name_en": "Guinness Stout",
         "measure_ja": "を満たすまで",
         "measure_en": "Fill with"
       }
@@ -1882,7 +1882,7 @@
         "measure_en": "3 parts"
       },
       {
-        "name_ja": "ピサン・アンボン",
+        "name_ja": "ピサンアンボン",
         "name_en": "Pisang Ambon",
         "measure_ja": "1 part",
         "measure_en": "1 part"
@@ -2182,8 +2182,8 @@
         "measure_en": "1tsp."
       },
       {
-        "name_ja": "オレンジ・ピール1片",
-        "name_en": "",
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
         "measure_ja": "(無ければ省略)",
         "measure_en": "(無ければ省略)"
       }
@@ -2572,8 +2572,8 @@
         "measure_en": "10ml (1/6)"
       },
       {
-        "name_ja": "クレナデン・シロップ",
-        "name_en": "",
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
         "measure_ja": "1tsp.",
         "measure_en": "1tsp."
       },
@@ -2779,8 +2779,8 @@
         "measure_en": "1dash (1ml) 合計 61ml"
       },
       {
-        "name_ja": "スタッフト・オリーブ",
-        "name_en": "",
+        "name_ja": "オリーブ",
+        "name_en": "Stuffed olive",
         "measure_ja": "1個",
         "measure_en": "1個"
       }
@@ -3347,7 +3347,7 @@
       },
       {
         "name_ja": "アップルリキュール",
-        "name_en": "Sour apple liqueur",
+        "name_en": "Apple liqueur",
         "measure_ja": "45ml",
         "measure_en": "1 1/2 oz"
       },
@@ -3359,7 +3359,7 @@
       },
       {
         "name_ja": "リンゴスライス",
-        "name_en": "Apple slice",
+        "name_en": "Apple Slice",
         "measure_ja": "1枚",
         "measure_en": "1 slice"
       }
@@ -3707,7 +3707,7 @@
       },
       {
         "name_ja": "リンゴスライス",
-        "name_en": "Apple slice",
+        "name_en": "Apple Slice",
         "measure_ja": "飾り",
         "measure_en": "garnish"
       },
@@ -4330,7 +4330,7 @@
       },
       {
         "name_ja": "杏露酒",
-        "name_en": "Apricot Wine",
+        "name_en": "Sinlu (Apricot Wine)",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -4673,8 +4673,8 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "レモン果汁",
-        "name_en": "レモン果汁",
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -5346,7 +5346,7 @@
         "measure_en": "1/3 part"
       },
       {
-        "name_ja": "クレーム・ド・ミント (グリーン)",
+        "name_ja": "グリーンミントリキュール",
         "name_en": "Green crème de menthe",
         "measure_ja": "1/3",
         "measure_en": "1/3 part"
@@ -7261,8 +7261,8 @@
         "measure_en": "1 oz"
       },
       {
-        "name_ja": "ホットティー",
-        "name_en": "Hot Tea",
+        "name_ja": "紅茶",
+        "name_en": "Hot tea",
         "measure_ja": "適量",
         "measure_en": "Top up"
       }
@@ -7444,7 +7444,7 @@
       },
       {
         "name_ja": "オレンジウェッジ",
-        "name_en": "Orange wedge",
+        "name_en": "Orange Wedge",
         "measure_ja": "飾り",
         "measure_en": "garnish"
       }
@@ -8045,8 +8045,8 @@
         "measure_en": "3tsp"
       },
       {
-        "name_ja": "ミネラル・ウォーター",
-        "name_en": "Mineral water",
+        "name_ja": "ミネラルウォーター",
+        "name_en": "Mineral Water",
         "measure_ja": "適量",
         "measure_en": "適量"
       }
@@ -8126,7 +8126,7 @@
       },
       {
         "name_ja": "ペパーミントリキュール",
-        "name_en": "ペパーミントリキュール",
+        "name_en": "Peppermint liqueur",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -8433,7 +8433,7 @@
         "measure_en": "20ml"
       },
       {
-        "name_ja": "フィンランディア・ウオッカ",
+        "name_ja": "ウォッカ",
         "name_en": "Finlandia Vodka",
         "measure_ja": "20ml",
         "measure_en": "20ml"
@@ -8960,8 +8960,8 @@
         "measure_en": "20ml"
       },
       {
-        "name_ja": "クレーム・ド・ミント・グリーン",
-        "name_en": "Crème de Menthe (green)",
+        "name_ja": "クレームドミントグリーン",
+        "name_en": "Crème de Menthe (Green)",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -9095,7 +9095,7 @@
       },
       {
         "name_ja": "ブラックベリーブランデー",
-        "name_en": "Blackberry brandy",
+        "name_en": "Blackberry Brandy",
         "measure_ja": "1 1/2 小さじ",
         "measure_en": "1 1/2 tsp"
       },
@@ -9337,8 +9337,8 @@
         "measure_en": "20ml (1/3)"
       },
       {
-        "name_ja": "巨峰紫",
-        "name_en": "",
+        "name_ja": "巨峰",
+        "name_en": "Kyoho grape",
         "measure_ja": "30ml (1/2)",
         "measure_en": "30ml (1/2)"
       },
@@ -9753,7 +9753,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "モーツァルト・チョコレート・クリーム",
+        "name_ja": "モーツァルトチョコレートクリーム",
         "name_en": "Mozart Chocolate Cream",
         "measure_ja": "30ml",
         "measure_en": "30ml"
@@ -10187,8 +10187,8 @@
         "measure_en": "1 shot"
       },
       {
-        "name_ja": "レッドブル（エナジードリンク）",
-        "name_en": "Red Bull (energy drink)",
+        "name_ja": "エナジードリンク",
+        "name_en": "Red Bull",
         "measure_ja": "1缶",
         "measure_en": "1 can"
       }
@@ -10888,8 +10888,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ミルク・リキュール",
-        "name_en": "Milk Liqueur",
+        "name_ja": "ミルクリキュール",
+        "name_en": "Milk liqueur",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -10906,14 +10906,14 @@
         "measure_en": "20ml"
       },
       {
-        "name_ja": "レモン・リキュール",
+        "name_ja": "レモンリキュール",
         "name_en": "Lemon Liqueur",
         "measure_ja": "1tsp",
         "measure_en": "1tsp"
       },
       {
-        "name_ja": "ベル・ローズ",
-        "name_en": "Bell Rose",
+        "name_ja": "ベルローズ",
+        "name_en": "Belle de Rose",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -11141,13 +11141,13 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "メスカル（エスパディン）",
-        "name_en": "Mezcal (espadín)",
+        "name_ja": "メスカル",
+        "name_en": "Mezcal",
         "measure_ja": "30 ml",
         "measure_en": "3 cl"
       },
       {
-        "name_ja": "ジャマイカ・オーバープルーフ・ホワイトラム",
+        "name_ja": "ホワイトラム",
         "name_en": "Jamaica overproof white rum",
         "measure_ja": "15 ml",
         "measure_en": "1.5 cl"
@@ -11159,8 +11159,8 @@
         "measure_en": "1.5 cl"
       },
       {
-        "name_ja": "マラスキーノリキュール（ルクサルド）",
-        "name_en": "Maraschino Luxardo",
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino liqueur",
         "measure_ja": "バースプーン1杯",
         "measure_en": "1 barspoon"
       },
@@ -11523,7 +11523,7 @@
       },
       {
         "name_ja": "メープルシロップ",
-        "name_en": "Maple syrup",
+        "name_en": "Maple Syrup",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       },
@@ -11917,8 +11917,8 @@
         "measure_en": "1dash 合計 71ml"
       },
       {
-        "name_ja": "螺旋剥きにしたレモンの皮",
-        "name_en": "",
+        "name_ja": "レモンピール",
+        "name_en": "Lemon Peel",
         "measure_ja": "1個分",
         "measure_en": "1個分"
       }
@@ -12618,7 +12618,7 @@
         "measure_en": "45ml"
       },
       {
-        "name_ja": "ミネラル・ウォーター",
+        "name_ja": "ミネラルウォーター",
         "name_en": "Mineral Water",
         "measure_ja": "適量",
         "measure_en": "適量"
@@ -13344,8 +13344,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "キプロス産ウーゾ",
-        "name_en": "Cyprus ouzo",
+        "name_ja": "ウーゾ",
+        "name_en": "Ouzo",
         "measure_ja": "2.5 cl（1 パート）",
         "measure_en": "2.5 cl (one part)"
       },
@@ -14038,7 +14038,7 @@
       },
       {
         "name_ja": "アニス酒",
-        "name_en": "",
+        "name_en": "Anisette",
         "measure_ja": "1dash (0.2tsps.) (ペルノ)",
         "measure_en": "1dash (0.2tsps.) (ペルノ)"
       }
@@ -14352,7 +14352,7 @@
       },
       {
         "name_ja": "オレンジスライス、チェリー",
-        "name_en": "",
+        "name_en": "Orange slice and cherry",
         "measure_ja": "装飾",
         "measure_en": "garnish"
       }
@@ -14713,8 +14713,8 @@
         "measure_en": "2 oz"
       },
       {
-        "name_ja": "ハーフ&ハーフ",
-        "name_en": "Half-and-half",
+        "name_ja": "ハーフアンドハーフ",
+        "name_en": "Half-and-Half",
         "measure_ja": "2 オンス",
         "measure_en": "2 oz"
       },
@@ -14845,7 +14845,7 @@
         "measure_en": "2 oz"
       },
       {
-        "name_ja": "シュウェップス・ラスチアン",
+        "name_ja": "シュウェップスラスチアン",
         "name_en": "Schweppes Russchian",
         "measure_ja": "",
         "measure_en": ""
@@ -15042,7 +15042,7 @@
     "ingredients": [
       {
         "name_ja": "ウンダーベルグ",
-        "name_en": "",
+        "name_en": "Underberg",
         "measure_ja": "20ml (1本)",
         "measure_en": "20ml (1本)"
       },
@@ -15520,7 +15520,7 @@
       },
       {
         "name_ja": "バニラシロップ",
-        "name_en": "Vanilla syrup",
+        "name_en": "Vanilla Syrup",
         "measure_ja": "1/2 ショット",
         "measure_en": "1/2 shot"
       },
@@ -16027,8 +16027,8 @@
         "measure_en": "15ml (1/4)"
       },
       {
-        "name_ja": "バナナ・リキュール(緑)",
-        "name_en": "",
+        "name_ja": "バナナリキュール(緑)",
+        "name_en": "Banana liqueur (green)",
         "measure_ja": "20ml (1/3)",
         "measure_en": "20ml (1/3)"
       },
@@ -16777,8 +16777,8 @@
         "measure_en": "1個分"
       },
       {
-        "name_ja": "カット・パイナップル1片",
-        "name_en": "",
+        "name_ja": "カットパイナップル",
+        "name_en": "Pineapple chunk",
         "measure_ja": "(無ければ省略)",
         "measure_en": "(無ければ省略)"
       }
@@ -16830,7 +16830,7 @@
       },
       {
         "name_ja": "グレープフルーツピール",
-        "name_en": "Grapefruit twist",
+        "name_en": "Grapefruit Peel",
         "measure_ja": "1片",
         "measure_en": "1 piece"
       }
@@ -17383,7 +17383,7 @@
     "ingredients": [
       {
         "name_ja": "ズブロッカ",
-        "name_en": "",
+        "name_en": "Żubrówka",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -17418,8 +17418,8 @@
         "measure_en": "15ml (ミドリ) (沈める)"
       },
       {
-        "name_ja": "ミントの葉1本(5～6枚)",
-        "name_en": "",
+        "name_ja": "ミント",
+        "name_en": "Mint leaves",
         "measure_ja": "(飾る)",
         "measure_en": "(飾る)"
       }
@@ -17865,8 +17865,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "ヴェルヴェーヌ・ヴェレ",
-        "name_en": "",
+        "name_ja": "ヴェルヴェーヌヴェレ",
+        "name_en": "Verveine du Velay",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -18229,8 +18229,8 @@
         "measure_en": "1.5 oz"
       },
       {
-        "name_ja": "キナ・リレ",
-        "name_en": "Kina Lillet or Cocchi Americano",
+        "name_ja": "キナリレ",
+        "name_en": "Kina Lillet",
         "measure_ja": "1.5 オンス",
         "measure_en": "1.5 oz",
         "alternatives": [
@@ -18247,7 +18247,7 @@
         "measure_en": "2 dashes"
       },
       {
-        "name_ja": "クレーム・ド・ノワイヨー",
+        "name_ja": "クレームドノワイヨー",
         "name_en": "Crème de Noyaux",
         "measure_ja": "2 ダッシュ",
         "measure_en": "2 dashes"
@@ -19458,7 +19458,7 @@
     "ingredients": [
       {
         "name_ja": "スパイスドラム",
-        "name_en": "Spiced rum",
+        "name_en": "Spiced Rum",
         "measure_ja": "1.5 オンス",
         "measure_en": "1.5 oz"
       },
@@ -19791,38 +19791,38 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ウイスキー『カクテル大全1000』",
-        "name_en": "",
+        "name_ja": "ウイスキー",
+        "name_en": "Whisky",
         "measure_ja": "30ml",
         "measure_en": ""
       },
       {
-        "name_ja": "22頁。",
+        "name_ja": "__INVALID__",
         "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       },
       {
-        "name_ja": "[[キュラソー (酒)",
-        "name_en": "",
+        "name_ja": "キュラソー",
+        "name_en": "Curaçao",
         "measure_ja": "10ml",
         "measure_en": ""
       },
       {
-        "name_ja": "ホワイト・キュラソー]]",
-        "name_en": "",
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "White curaçao",
         "measure_ja": "",
         "measure_en": ""
       },
       {
-        "name_ja": "[[オレンジジュース",
-        "name_en": "",
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
         "measure_ja": "20ml",
         "measure_en": ""
       },
       {
-        "name_ja": "オレンジ・ジュース]]",
-        "name_en": "",
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -20018,7 +20018,7 @@
         "measure_ja": "ティースプーン1杯"
       },
       {
-        "name_en": "Raw or turbinado sugar",
+        "name_en": "Raw sugar",
         "name_ja": "粗糖",
         "measure_en": "1 teaspoon",
         "measure_ja": "ティースプーン1杯",
@@ -20097,8 +20097,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "カカオ・リキュール",
-        "name_en": "Cacao Liqueur",
+        "name_ja": "カカオリキュール",
+        "name_en": "Cacao liqueur",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -20614,7 +20614,7 @@
       },
       {
         "name_ja": "ジャスミン茶",
-        "name_en": "Jasmine tea",
+        "name_en": "Jasmine Tea",
         "measure_ja": "120ml",
         "measure_en": "120ml"
       }
@@ -20700,8 +20700,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "スライス・レモン",
-        "name_en": "",
+        "name_ja": "スライスレモン",
+        "name_en": "Lemon slice",
         "measure_ja": "装飾",
         "measure_en": "garnish",
         "optional": true
@@ -21141,7 +21141,7 @@
       },
       {
         "name_ja": "ストレガ",
-        "name_en": "",
+        "name_en": "Strega",
         "measure_ja": "10ml (1/6) (サンブーカ)",
         "measure_en": "10ml (1/6) (サンブーカ)"
       },
@@ -21581,7 +21581,7 @@
         "measure_en": "1 L"
       },
       {
-        "name_ja": "パネラ(未精製黒糖)",
+        "name_ja": "パネラ",
         "name_en": "Panela",
         "measure_ja": "100 g",
         "measure_en": "100 g"
@@ -21691,7 +21691,7 @@
       },
       {
         "name_ja": "アイスコーヒー",
-        "name_en": "Iced coffee",
+        "name_en": "Iced Coffee",
         "measure_ja": "100ml",
         "measure_en": "100ml"
       },
@@ -21882,7 +21882,7 @@
         "measure_en": "45 ml"
       },
       {
-        "name_ja": "エスプレッソコーヒー",
+        "name_ja": "エスプレッソ",
         "name_en": "Espresso",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -22004,7 +22004,7 @@
     "ingredients": [
       {
         "name_ja": "ピーチウォッカ",
-        "name_en": "Peach Vodka",
+        "name_en": "Peach vodka",
         "measure_ja": "5 parts",
         "measure_en": "5 parts"
       },
@@ -22022,7 +22022,7 @@
       },
       {
         "name_ja": "ローズシロップ",
-        "name_en": "Sirup of roses",
+        "name_en": "Rose syrup",
         "measure_ja": "1 part",
         "measure_en": "1 part"
       }
@@ -22061,7 +22061,7 @@
       },
       {
         "name_ja": "オレンジウェッジ",
-        "name_en": "Orange wedge",
+        "name_en": "Orange Wedge",
         "measure_ja": "1 個",
         "measure_en": "1 piece"
       }
@@ -22417,8 +22417,8 @@
         "measure_en": "One part"
       },
       {
-        "name_ja": "コーラ（",
-        "name_en": "Cola (or another carbonated soft drink)",
+        "name_ja": "コーラ",
+        "name_en": "Cola",
         "measure_ja": "1パート",
         "measure_en": "One part",
         "alternatives": [
@@ -22518,8 +22518,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "アイス・クリーム",
-        "name_en": "",
+        "name_ja": "アイスクリーム",
+        "name_en": "Ice Cream",
         "measure_ja": "4tbsps.",
         "measure_en": "4tbsps."
       },
@@ -23038,8 +23038,8 @@
         "measure_en": "90ml 合計 120ml"
       },
       {
-        "name_ja": "シナモン・パウダー",
-        "name_en": "",
+        "name_ja": "シナモンパウダー",
+        "name_en": "Cinnamon Powder",
         "measure_ja": "少々",
         "measure_en": "少々"
       }
@@ -23811,7 +23811,7 @@
         "measure_ja": "22.5ml"
       },
       {
-        "name_en": "Grapefruit Soda",
+        "name_en": "Grapefruit soda",
         "name_ja": "グレープフルーツソーダ",
         "measure_en": "Dash",
         "measure_ja": "ダッシュ"
@@ -23844,8 +23844,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_en": "Cuban aguardiente",
-        "name_ja": "アグアルディエンテ(キューバ産)",
+        "name_en": "Aguardiente",
+        "name_ja": "アグアルディエンテ",
         "measure_en": "60 ml",
         "measure_ja": "60ml"
       },
@@ -23856,8 +23856,8 @@
         "measure_ja": "15ml"
       },
       {
-        "name_en": "Raw honey",
-        "name_ja": "ハチミツ",
+        "name_en": "Honey",
+        "name_ja": "はちみつ",
         "measure_en": "15 ml",
         "measure_ja": "15ml"
       },
@@ -24341,8 +24341,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "スライス・オレンジ或いはスライス・レモン",
-        "name_en": "",
+        "name_ja": "スライスオレンジまたはスライスレモン",
+        "name_en": "Orange or lemon slice",
         "measure_ja": "装飾",
         "measure_en": "garnish"
       }
@@ -24650,8 +24650,8 @@
         "measure_en": "葉で30枚程度(大きい時は15枚程度)"
       },
       {
-        "name_ja": "ミントの葉1本",
-        "name_en": "",
+        "name_ja": "ミントの葉",
+        "name_en": "Mint Leaf",
         "measure_ja": "(飾る)",
         "measure_en": "(飾る)"
       }
@@ -24992,7 +24992,7 @@
     "ingredients": [
       {
         "name_ja": "キウイリキュール",
-        "name_en": "Kiwi liqueur",
+        "name_en": "Kiwi Liqueur",
         "measure_ja": "1 part",
         "measure_en": "1 part"
       },
@@ -25280,7 +25280,7 @@
         "measure_en": "2 cl"
       },
       {
-        "name_ja": "シュウェップス・ラスチアン",
+        "name_ja": "シュウェップスラスチアン",
         "name_en": "Schweppes Russchian",
         "measure_ja": "70ml",
         "measure_en": "7 cl"
@@ -25626,8 +25626,8 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "クレーム・ド・カカオ ブラウン",
-        "name_en": "Creme de Cacao Brown",
+        "name_ja": "クレームドカカオ ブラウン",
+        "name_en": "Creme de cacao brown",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -25831,8 +25831,8 @@
         "measure_en": "1/8個"
       },
       {
-        "name_ja": "スライス・キュウリ",
-        "name_en": "",
+        "name_ja": "キュウリ",
+        "name_en": "Cucumber",
         "measure_ja": "1/4本分",
         "measure_en": "1/4本分"
       }
@@ -25993,8 +25993,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ラム (ホワイトラム推奨)",
-        "name_en": "Rum (preferably white rum)",
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
         "measure_ja": "45ml (3パート)",
         "measure_en": "4.5 cl (3 parts)"
       },
@@ -26136,8 +26136,8 @@
         "measure_en": "1tsp. (クレーム・ド・フランボアーズ)"
       },
       {
-        "name_ja": "塩抜きした桜の花の塩漬け",
-        "name_en": "",
+        "name_ja": "桜の花の塩漬け",
+        "name_en": "Salted Cherry Blossom",
         "measure_ja": "適量",
         "measure_en": "適量"
       }
@@ -26171,7 +26171,7 @@
       },
       {
         "name_ja": "グレープフルーツ",
-        "name_en": "Fresh grapefruit",
+        "name_en": "Grapefruit",
         "measure_ja": "2 スライス",
         "measure_en": "2 slices"
       },
@@ -26254,7 +26254,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "キルシュ・リキュール",
+        "name_ja": "キルシュリキュール",
         "name_en": "Kirsch liqueur",
         "measure_ja": "30ml",
         "measure_en": "30ml"
@@ -26601,7 +26601,7 @@
     "ingredients": [
       {
         "name_ja": "コーヒーブランデー",
-        "name_en": "Coffee brandy",
+        "name_en": "Coffee Brandy",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       },
@@ -26773,7 +26773,7 @@
       },
       {
         "name_ja": "ホワイトカカオリキュール",
-        "name_en": "White creme de cacao",
+        "name_en": "White Creme de Cacao",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -27101,7 +27101,7 @@
     "ingredients": [
       {
         "name_ja": "ちゅらディア",
-        "name_en": "",
+        "name_en": "Chura Dior",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -27714,7 +27714,7 @@
       },
       {
         "name_ja": "ココナッツラム",
-        "name_en": "Coconut rum",
+        "name_en": "Coconut Rum",
         "measure_ja": "15ml",
         "measure_en": "1/2 oz"
       },
@@ -27808,7 +27808,7 @@
     "image": "data/images-public/17200.jpg",
     "ingredients": [
       {
-        "name_ja": "グリーン・クレーム・ド・マント",
+        "name_ja": "グリーンクレームドマント",
         "name_en": "Green Creme de Menthe",
         "measure_ja": "3/4 オンス",
         "measure_en": "3/4 oz"
@@ -27863,8 +27863,8 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "ジャマイカ・ラム",
-        "name_en": "Jamaican Rums",
+        "name_ja": "ジャマイカラム",
+        "name_en": "Jamaican Rum",
         "measure_ja": "10ml",
         "measure_en": "10ml"
       },
@@ -27882,7 +27882,7 @@
       },
       {
         "name_ja": "コーヒー豆",
-        "name_en": "Coffee bean",
+        "name_en": "Coffee Beans",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -27953,8 +27953,8 @@
         "measure_en": "40ml"
       },
       {
-        "name_ja": "フルーツ・グラノーラ",
-        "name_en": "",
+        "name_ja": "フルーツグラノーラ",
+        "name_en": "Fruit granola",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -27971,8 +27971,8 @@
         "measure_en": "5ml"
       },
       {
-        "name_ja": "ブルーベリー・ジャム",
-        "name_en": "",
+        "name_ja": "ブルーベリージャム",
+        "name_en": "Blueberry jam",
         "measure_ja": "適量",
         "measure_en": "適量"
       }
@@ -28228,7 +28228,7 @@
       },
       {
         "name_ja": "果物",
-        "name_en": "",
+        "name_en": "Fruit",
         "measure_ja": "適量",
         "measure_en": "適量"
       }
@@ -28298,7 +28298,7 @@
     "ingredients": [
       {
         "name_ja": "マリブラム",
-        "name_en": "Malibu rum",
+        "name_en": "Malibu Rum",
         "measure_ja": "1 1/2 cl",
         "measure_en": "1 1/2 cl"
       },
@@ -28604,8 +28604,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "スエディッシュ・パンチ",
-        "name_en": "",
+        "name_ja": "スウェディッシュパンチ",
+        "name_en": "Swedish Punsch",
         "measure_ja": "30ml (1/2)",
         "measure_en": "30ml (1/2)"
       },
@@ -28744,7 +28744,7 @@
       },
       {
         "name_ja": "アーモンドエッセンス",
-        "name_en": "Almond flavoring",
+        "name_en": "Almond essence",
         "measure_ja": "1 大さじ",
         "measure_en": "1 tblsp"
       },
@@ -28828,7 +28828,7 @@
     "ingredients": [
       {
         "name_ja": "スパイスドラム",
-        "name_en": "Spiced rum",
+        "name_en": "Spiced Rum",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       },
@@ -28963,7 +28963,7 @@
         "measure_en": "20ml"
       },
       {
-        "name_ja": "コーディアル・ライム・ジュース",
+        "name_ja": "コーディアルライムジュース",
         "name_en": "Lime Cordial",
         "measure_ja": "20ml",
         "measure_en": "20ml"
@@ -28976,7 +28976,7 @@
       },
       {
         "name_ja": "バニラシロップ",
-        "name_en": "vanilla syrup",
+        "name_en": "Vanilla Syrup",
         "measure_ja": "1tsp",
         "measure_en": "1tsp"
       }
@@ -29417,7 +29417,7 @@
         "measure_en": "30ml"
       },
       {
-        "name_ja": "ペパーミントリキュール（グリーン）",
+        "name_ja": "クレームドミントグリーン",
         "name_en": "Green Peppermint Liqueur",
         "measure_ja": "15ml",
         "measure_en": "15ml"
@@ -29461,8 +29461,8 @@
         "measure_en": "1/3"
       },
       {
-        "name_ja": "グリーンペパーミントリキュール",
-        "name_en": "Green Peppermint Liqueur",
+        "name_ja": "ペパーミントリキュール",
+        "name_en": "Green peppermint liqueur",
         "measure_ja": "1/3",
         "measure_en": "1/3"
       },
@@ -30094,7 +30094,7 @@
       },
       {
         "name_ja": "ピンクグレープフルーツリキュール",
-        "name_en": "Pink Grapefruit Liqueur",
+        "name_en": "Pink grapefruit liqueur",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -30151,8 +30151,9 @@
         "name_en": "Light Rum"
       },
       {
-        "name_ja": "クレーム・ド・モカ",
-        "measure_ja": "等量"
+        "name_ja": "クレームドモカ",
+        "measure_ja": "等量",
+        "name_en": "Creme de Mocha"
       },
       {
         "name_ja": "生クリーム",
@@ -30350,8 +30351,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "レモンの皮",
-        "name_en": "Lemon peel",
+        "name_ja": "レモンピール",
+        "name_en": "Lemon Peel",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -30363,7 +30364,7 @@
       },
       {
         "name_ja": "コーヒー豆",
-        "name_en": "Coffee beans",
+        "name_en": "Coffee Beans",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -31012,7 +31013,7 @@
       },
       {
         "name_ja": "アニス酒",
-        "name_en": "",
+        "name_en": "Anisette",
         "measure_ja": "15ml (1/4) (ペルノ)",
         "measure_en": "15ml (1/4) (ペルノ)"
       }
@@ -31051,8 +31052,8 @@
         "measure_en": "12ml (1/5)"
       },
       {
-        "name_ja": "ハラぺーニョ・ソース4drops",
-        "name_en": "",
+        "name_ja": "ハラペーニョソース",
+        "name_en": "Jalapeno sauce",
         "measure_ja": "(0.8ml)",
         "measure_en": "(0.8ml)"
       },
@@ -31770,7 +31771,7 @@
       },
       {
         "name_ja": "グレープフルーツ",
-        "name_en": "Grapefruit slice",
+        "name_en": "Grapefruit",
         "measure_ja": "飾り用",
         "measure_en": "Garnish"
       }
@@ -31937,8 +31938,8 @@
         "measure_en": "50ml"
       },
       {
-        "name_ja": "アモンテイリャード",
-        "name_en": "Almirante",
+        "name_ja": "アモンティリャード",
+        "name_en": "Amontillado",
         "measure_ja": "10ml",
         "measure_en": "10ml"
       },
@@ -32248,8 +32249,8 @@
         "measure_en": "20ml (1/3) (コニャック)"
       },
       {
-        "name_ja": "フェルネット・ブランカ",
-        "name_en": "",
+        "name_ja": "フェルネットブランカ",
+        "name_en": "Fernet-Branca",
         "measure_ja": "20ml (1/3)",
         "measure_en": "20ml (1/3)"
       },
@@ -32491,8 +32492,8 @@
         "measure_en": "20ml (1/3)"
       },
       {
-        "name_ja": "ポワール・シロップ",
-        "name_en": "",
+        "name_ja": "ポワールシロップ",
+        "name_en": "Poire syrup",
         "measure_ja": "10ml (1/6)",
         "measure_en": "10ml (1/6)"
       },
@@ -32623,7 +32624,8 @@
       },
       {
         "name_ja": "ゴールドワッサー",
-        "measure_ja": "1/2"
+        "measure_ja": "1/2",
+        "name_en": "Goldwasser"
       },
       {
         "name_ja": "卵黄",
@@ -33134,13 +33136,13 @@
       },
       {
         "name_ja": "アニェホラム",
-        "name_en": "Añejo rum",
+        "name_en": "Añejo Rum",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       },
       {
         "name_ja": "ブラックストラップラム",
-        "name_en": "blackstrap rum",
+        "name_en": "Blackstrap Rum",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       }
@@ -33833,7 +33835,7 @@
       },
       {
         "name_ja": "プエルトリカンラム",
-        "name_en": "Puerto Rican Rum",
+        "name_en": "Puerto Rican rum",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -34535,8 +34537,8 @@
         "measure_en": "1個"
       },
       {
-        "name_ja": "ミントの葉1本",
-        "name_en": "",
+        "name_ja": "ミントの葉",
+        "name_en": "Mint Leaf",
         "measure_ja": "(2～3枚)",
         "measure_en": "(2～3枚)"
       }
@@ -34620,7 +34622,7 @@
         "measure_en": "1 1/2 oz"
       },
       {
-        "name_ja": "ジャマイカン・ダークラム",
+        "name_ja": "ジャマイカンダークラム",
         "name_en": "Jamaican dark rum",
         "measure_ja": "15ml",
         "measure_en": "1/2 oz"
@@ -34689,8 +34691,8 @@
         "measure_en": "30ml (1/2)"
       },
       {
-        "name_ja": "マンダリン・リキュール",
-        "name_en": "",
+        "name_ja": "マンダリンリキュール",
+        "name_en": "Mandarin Liqueur",
         "measure_ja": "15ml (1/4)",
         "measure_en": "15ml (1/4)"
       },
@@ -35774,8 +35776,8 @@
         "measure_en": "25ml (1/2) (サウザ ゴールド)"
       },
       {
-        "name_ja": "トニック・ウォータ",
-        "name_en": "",
+        "name_ja": "トニックウォーター",
+        "name_en": "Tonic water",
         "measure_ja": "適量 (1/2) (25ml)",
         "measure_en": "適量 (1/2) (25ml)"
       }
@@ -35803,7 +35805,7 @@
     "ingredients": [
       {
         "name_ja": "ロンドンドライジン",
-        "name_en": "London Dry gin",
+        "name_en": "London Dry Gin",
         "measure_ja": "60 ml",
         "measure_en": "60 ml"
       },
@@ -36738,8 +36740,8 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "マンゴー・シャーベット",
-        "name_en": "",
+        "name_ja": "マンゴーシャーベット",
+        "name_en": "Mango sorbet",
         "measure_ja": "適量",
         "measure_en": "適量"
       }
@@ -37230,7 +37232,7 @@
     "ingredients": [
       {
         "name_ja": "コニャック",
-        "name_en": "Cognac/brandy or Bourbon",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml",
         "alternatives": [
@@ -37375,7 +37377,7 @@
     "ingredients": [
       {
         "name_ja": "ジャパニーズウイスキー",
-        "name_en": "Japanese whisky",
+        "name_en": "Japanese Whisky",
         "measure_ja": "45 ml",
         "measure_en": "1 1/2 oz"
       },
@@ -37387,7 +37389,7 @@
       },
       {
         "name_ja": "柚子ジュース",
-        "name_en": "Yuzu juice",
+        "name_en": "Yuzu Juice",
         "measure_ja": "15 ml",
         "measure_en": "1/2 oz"
       },
@@ -38196,7 +38198,7 @@
       },
       {
         "name_ja": "烏龍茶",
-        "name_en": "Oolong",
+        "name_en": "Oolong Tea",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -38237,7 +38239,7 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "ペパーミントリキュール（グリーン）",
+        "name_ja": "クレームドミントグリーン",
         "name_en": "Green Peppermint Liqueur",
         "measure_ja": "15ml",
         "measure_en": "15ml"
@@ -38321,7 +38323,7 @@
     "ingredients": [
       {
         "name_ja": "シトラスウォッカ",
-        "name_en": "Citrus Vodka",
+        "name_en": "Citrus vodka",
         "measure_ja": "30ml",
         "measure_en": "1 oz"
       },
@@ -38432,7 +38434,7 @@
       },
       {
         "name_ja": "ルートビア",
-        "name_en": "Root beer",
+        "name_en": "Root Beer",
         "measure_ja": "10 オンス加える",
         "measure_en": "Add 10 oz"
       },
@@ -38471,7 +38473,7 @@
       },
       {
         "name_ja": "コーヒー豆",
-        "name_en": "",
+        "name_en": "Coffee Beans",
         "measure_ja": "3粒",
         "measure_en": "3粒"
       }
@@ -38511,7 +38513,7 @@
       },
       {
         "name_ja": "エルダーフラワーリキュール",
-        "name_en": "Elderflower liquor",
+        "name_en": "Elderflower Liqueur",
         "measure_ja": "3/4",
         "measure_en": "3/4"
       },
@@ -38670,13 +38672,13 @@
         "measure_ja": "1〜1 1/2オンス"
       },
       {
-        "name_en": "Hot sauce",
+        "name_en": "Hot Sauce",
         "name_ja": "ホットソース",
         "measure_en": "2 dashes",
         "measure_ja": "2ダッシュ"
       },
       {
-        "name_en": "Worcestershire sauce",
+        "name_en": "Worcestershire Sauce",
         "name_ja": "ウスターソース",
         "measure_en": "4 dashes",
         "measure_ja": "4ダッシュ"
@@ -38700,7 +38702,7 @@
         "measure_ja": "1切れ"
       },
       {
-        "name_en": "Crisp celery stalk",
+        "name_en": "Celery stalk",
         "name_ja": "セロリスティック",
         "measure_en": "1",
         "measure_ja": "1本"
@@ -39183,14 +39185,14 @@
         "measure_en": "1tsp."
       },
       {
-        "name_ja": "シナモン・パウダー",
-        "name_en": "",
+        "name_ja": "シナモンパウダー",
+        "name_en": "Cinnamon Powder",
         "measure_ja": "少々",
         "measure_en": "少々"
       },
       {
-        "name_ja": "レモン・ツイスト",
-        "name_en": "",
+        "name_ja": "レモンツイスト",
+        "name_en": "Lemon twist",
         "measure_ja": "1片",
         "measure_en": "1片"
       }
@@ -39364,13 +39366,13 @@
     "ingredients": [
       {
         "name_ja": "ブラックベリーブランデー",
-        "name_en": "Blackberry brandy",
+        "name_en": "Blackberry Brandy",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       },
       {
         "name_ja": "アニス",
-        "name_en": "Anis",
+        "name_en": "Anise",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       }
@@ -40007,7 +40009,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "バカルディ・リモン",
+        "name_ja": "バカルディリモン",
         "name_en": "Bacardi Limon",
         "measure_ja": "1 part",
         "measure_en": "1 part"
@@ -40615,7 +40617,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ジャックダニエル テネシーハニー",
+        "name_ja": "ジャックダニエルテネシーハニー",
         "name_en": "Jack Daniel's Tennessee Honey",
         "measure_ja": "50ml",
         "measure_en": "50ml"
@@ -40942,8 +40944,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ジャマイカ・ラム",
-        "name_en": "Jamaican rum",
+        "name_ja": "ジャマイカラム",
+        "name_en": "Jamaican Rum",
         "measure_ja": "20ml",
         "measure_en": "20 ml"
       },
@@ -41579,7 +41581,7 @@
     "ingredients": [
       {
         "name_ja": "ブラックストラップラム",
-        "name_en": "Blackstrap rum",
+        "name_en": "Blackstrap Rum",
         "measure_ja": "45 ml",
         "measure_en": "45 mL"
       },
@@ -41708,8 +41710,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ジャマイカ・ラム",
-        "name_en": "Jamaican Rums",
+        "name_ja": "ジャマイカラム",
+        "name_en": "Jamaican Rum",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -41979,8 +41981,8 @@
         "measure_en": "1tsp."
       },
       {
-        "name_ja": "ミントの葉適量(約5枚+1本)",
-        "name_en": "",
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
         "measure_ja": "(1本は飾る)",
         "measure_en": "(1本は飾る)"
       }
@@ -42185,8 +42187,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "シャンボール・リキュール",
-        "name_en": "",
+        "name_ja": "シャンボールリキュール",
+        "name_en": "Chambord",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -42225,8 +42227,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "シャンボール・リキュール",
-        "name_en": "",
+        "name_ja": "シャンボールリキュール",
+        "name_en": "Chambord",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -42271,8 +42273,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "シャンボール・リキュール",
-        "name_en": "",
+        "name_ja": "シャンボールリキュール",
+        "name_en": "Chambord",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -42507,8 +42509,8 @@
         "measure_en": "1tsp. (5ml) 合計 65ml"
       },
       {
-        "name_ja": "塩抜きした桜の花の塩漬け",
-        "name_en": "",
+        "name_ja": "桜の花の塩漬け",
+        "name_en": "Salted Cherry Blossom",
         "measure_ja": "1片",
         "measure_en": "1片"
       }
@@ -43795,8 +43797,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "オレンジの皮(らせん)",
-        "name_en": "Orange spiral",
+        "name_ja": "オレンジの皮",
+        "name_en": "Orange peel",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -43852,8 +43854,8 @@
         "measure_en": "1dash 合計 71ml"
       },
       {
-        "name_ja": "螺旋剥きにしたレモンの皮",
-        "name_en": "",
+        "name_ja": "レモンピール",
+        "name_en": "Lemon Peel",
         "measure_ja": "1個分",
         "measure_en": "1個分"
       }
@@ -44003,8 +44005,8 @@
         "measure_en": "2tsps. (砂糖) 合計 90ml"
       },
       {
-        "name_ja": "ミントの葉適量(約5枚+1本)",
-        "name_en": "",
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
         "measure_ja": "(1本は飾る)",
         "measure_en": "(1本は飾る)"
       }
@@ -44548,7 +44550,7 @@
       },
       {
         "name_ja": "柑橘類",
-        "name_en": "Fresh squeezed citrus fruit",
+        "name_en": "Citrus fruit",
         "measure_ja": "適量",
         "measure_en": ""
       }
@@ -44594,7 +44596,7 @@
       },
       {
         "name_ja": "バジル",
-        "name_en": "Genovese basil leaves",
+        "name_en": "Basil",
         "measure_ja": "10 枚",
         "measure_en": "10 leaves"
       }
@@ -45437,7 +45439,7 @@
       },
       {
         "name_ja": "スイカ",
-        "name_en": "Watermelon juice",
+        "name_en": "Watermelon",
         "measure_ja": "60 ml",
         "measure_en": "2 oz"
       },
@@ -45663,7 +45665,7 @@
     "ingredients": [
       {
         "name_ja": "杏露酒",
-        "name_en": "Apricot Wine",
+        "name_en": "Sinlu (Apricot Wine)",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -46002,8 +46004,8 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "マンダリン・リキュール",
-        "name_en": "Mandrin Liqueur",
+        "name_ja": "マンダリンリキュール",
+        "name_en": "Mandarin Liqueur",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -46103,8 +46105,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "フレーバード・ウオッカ",
-        "name_en": "",
+        "name_ja": "フレーバードウォッカ",
+        "name_en": "Flavored vodka",
         "measure_ja": "45ml (スカイ インフュージョン・シトラス)",
         "measure_en": "45ml (スカイ インフュージョン・シトラス)"
       },
@@ -46276,7 +46278,7 @@
     "ingredients": [
       {
         "name_ja": "麦焼酎",
-        "name_en": "Mugi Shochu",
+        "name_en": "Barley shochu",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -46537,13 +46539,13 @@
       },
       {
         "name_ja": "オルジェーシロップ",
-        "name_en": "Orgeat syrup",
+        "name_en": "Orgeat Syrup",
         "measure_ja": "45 ml",
         "measure_en": "1 1/2 oz"
       },
       {
         "name_ja": "フルーツ",
-        "name_en": "Mixed fruits",
+        "name_en": "Fruit",
         "measure_ja": "適量",
         "measure_en": "garnish"
       },
@@ -47052,7 +47054,7 @@
       },
       {
         "name_ja": "すだち",
-        "name_en": "",
+        "name_en": "Sudachi",
         "measure_ja": "1/2×2個",
         "measure_en": "1/2×2個"
       }
@@ -47092,7 +47094,7 @@
       },
       {
         "name_ja": "すだち",
-        "name_en": "",
+        "name_en": "Sudachi",
         "measure_ja": "1/2×2個",
         "measure_en": "1/2×2個"
       }
@@ -47205,7 +47207,7 @@
         "measure_en": "1 1/2 oz"
       },
       {
-        "name_ja": "ホワイトクレーム・ド・マント",
+        "name_ja": "ホワイトクレームドマント",
         "name_en": "White Creme de Menthe",
         "measure_ja": "1/2 オンス",
         "measure_en": "1/2 oz"
@@ -48519,8 +48521,8 @@
         "measure_en": "10 ml"
       },
       {
-        "name_ja": "赤唐辛子(薄切り)",
-        "name_en": "Red Chili Pepper (thin slices)",
+        "name_ja": "唐辛子",
+        "name_en": "Red Chili Pepper",
         "measure_ja": "2枚",
         "measure_en": "2 slices"
       }
@@ -48571,7 +48573,7 @@
       },
       {
         "name_ja": "唐辛子",
-        "name_en": "Jalapeno slices",
+        "name_en": "Chili Pepper",
         "measure_ja": "3〜4枚",
         "measure_en": "3-4 slices"
       },
@@ -48643,8 +48645,8 @@
         "measure_en": "6 cl"
       },
       {
-        "name_ja": "オレンジの皮(らせん)",
-        "name_en": "Orange spiral",
+        "name_ja": "オレンジの皮",
+        "name_en": "Orange peel",
         "measure_ja": "Garnish with",
         "measure_en": "Garnish with"
       }
@@ -48714,7 +48716,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ミラー・ハイライフ",
+        "name_ja": "ミラーハイライフ",
         "name_en": "Miller High Life",
         "measure_ja": "10 oz",
         "measure_en": "10 oz"
@@ -49043,8 +49045,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "青リンゴ・シロップ",
-        "name_en": "Green apple syrup",
+        "name_ja": "青リンゴシロップ",
+        "name_en": "Green Apple Syrup",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -49055,7 +49057,7 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "メロン・シロップ",
+        "name_ja": "メロンシロップ",
         "name_en": "Melon Syrup",
         "measure_ja": "1tsp",
         "measure_en": "1tsp"
@@ -49097,8 +49099,8 @@
         "measure_en": "1cl (1 part)"
       },
       {
-        "name_ja": "クレーム・ド・マント",
-        "name_en": "Crème de menthe",
+        "name_ja": "クレームドマント",
+        "name_en": "Crème de Menthe",
         "measure_ja": "3cl(3パート)",
         "measure_en": "3cl (3 parts)"
       }
@@ -49131,7 +49133,7 @@
       },
       {
         "name_ja": "マリブラム",
-        "name_en": "Malibu rum",
+        "name_en": "Malibu Rum",
         "measure_ja": "1 ショット",
         "measure_en": "1 shot"
       },
@@ -49364,7 +49366,7 @@
     "ingredients": [
       {
         "name_ja": "アニェホラム",
-        "name_en": "Aged rum",
+        "name_en": "Añejo Rum",
         "measure_ja": "45 ml",
         "measure_en": "1 1/2 oz"
       },
@@ -49376,7 +49378,7 @@
       },
       {
         "name_ja": "ドライキュラソー",
-        "name_en": "Dry curaçao",
+        "name_en": "Dry Curaçao",
         "measure_ja": "15 ml",
         "measure_en": "1/2 oz"
       },
@@ -49388,7 +49390,7 @@
       },
       {
         "name_ja": "オールスパイス",
-        "name_en": "Allspice dram",
+        "name_en": "Allspice",
         "measure_ja": "1 ティースプーン",
         "measure_en": "1 tsp"
       },
@@ -49743,7 +49745,7 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "スティック・キュウリ",
+        "name_ja": "キュウリ",
         "name_en": "Cucumber Stick",
         "measure_ja": "",
         "measure_en": ""
@@ -50178,8 +50180,8 @@
     "image": "data/images-wiki/30005.jpg",
     "ingredients": [
       {
-        "name_ja": "シーグラム・セブンクラウン",
-        "name_en": "Seagram's Seven Crown whiskey",
+        "name_ja": "シーグラムセブンクラウン",
+        "name_en": "Seagram's Seven Crown",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
       },
@@ -50424,7 +50426,7 @@
     "ingredients": [
       {
         "name_ja": "メキシカンビール",
-        "name_en": "Mexican beer",
+        "name_en": "Mexican Beer",
         "measure_ja": "1本",
         "measure_en": "1 bottle"
       },
@@ -50442,7 +50444,7 @@
       },
       {
         "name_ja": "ホットソース",
-        "name_en": "Hot sauce",
+        "name_en": "Hot Sauce",
         "measure_ja": "適量",
         "measure_en": "dash"
       },
@@ -50479,7 +50481,7 @@
     "ingredients": [
       {
         "name_ja": "パパイヤジュース",
-        "name_en": "Papaya juice",
+        "name_en": "Papaya Juice",
         "measure_ja": "3 parts",
         "measure_en": "3 parts"
       },
@@ -50617,7 +50619,7 @@
       },
       {
         "name_ja": "ルートビア",
-        "name_en": "Root beer",
+        "name_en": "Root Beer",
         "measure_ja": "適量",
         "measure_en": "to top"
       },
@@ -50706,7 +50708,7 @@
       },
       {
         "name_ja": "ルートビア",
-        "name_en": "Root beer",
+        "name_en": "Root Beer",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -51302,7 +51304,7 @@
     "ingredients": [
       {
         "name_ja": "白桃とコエンザイムQ10のお酒",
-        "name_en": "",
+        "name_en": "White Peach and Coenzyme Q10 Liqueur",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -51314,7 +51316,7 @@
       },
       {
         "name_ja": "マカディア",
-        "name_en": "",
+        "name_en": "Macadia",
         "measure_ja": "10ml",
         "measure_en": "10ml"
       },
@@ -51652,7 +51654,7 @@
         "measure_en": "2 cl"
       },
       {
-        "name_ja": "ホワイトクレーム・ド・マント",
+        "name_ja": "ホワイトクレームドマント",
         "name_en": "White Creme de Menthe",
         "measure_ja": "2 cl",
         "measure_en": "2 cl"
@@ -51863,8 +51865,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ゴスリングス・ラム",
-        "name_en": "Goslings Rum",
+        "name_ja": "ゴスリングスラム",
+        "name_en": "Gosling's Rum",
         "measure_ja": "60ml",
         "measure_en": "60 ml"
       },
@@ -51897,7 +51899,7 @@
     "ingredients": [
       {
         "name_ja": "デメララシュガー",
-        "name_en": "demerara Sugar",
+        "name_en": "Demerara Sugar",
         "measure_ja": "2 小さじ",
         "measure_en": "2 tsp"
       },
@@ -52363,7 +52365,7 @@
       },
       {
         "name_ja": "アニス",
-        "name_en": "Anis",
+        "name_en": "Anise",
         "measure_ja": "1/4 小さじ",
         "measure_en": "1/4 tsp"
       },
@@ -52527,8 +52529,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "ホイップ用クリーム",
-        "name_en": "Whipping cream",
+        "name_ja": "生クリーム",
+        "name_en": "Whipping Cream",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -52760,7 +52762,7 @@
     "ingredients": [
       {
         "name_ja": "フルーツパンチ",
-        "name_en": "Fruit punch",
+        "name_en": "Fruit Punch",
         "measure_ja": "2 part",
         "measure_en": "2 part"
       },
@@ -52823,7 +52825,7 @@
       },
       {
         "name_ja": "アニス",
-        "name_en": "Anis",
+        "name_en": "Anise",
         "measure_ja": "1/4 小さじ",
         "measure_en": "1/4 tsp"
       },
@@ -53119,20 +53121,20 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "インスタント・コーヒー大さじ1",
-        "name_en": "",
+        "name_ja": "インスタントコーヒー",
+        "name_en": "Instant Coffee",
         "measure_ja": "(15ml)",
         "measure_en": "(15ml)"
       },
       {
-        "name_ja": "牛乳大さじ1",
-        "name_en": "",
+        "name_ja": "牛乳",
+        "name_en": "Milk",
         "measure_ja": "(15ml)",
         "measure_en": "(15ml)"
       },
       {
-        "name_ja": "シュガー・シロップ大さじ1",
-        "name_en": "",
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar Syrup",
         "measure_ja": "(15ml)",
         "measure_en": "(15ml)"
       },
@@ -53442,7 +53444,7 @@
     "ingredients": [
       {
         "name_ja": "WKDブルー",
-        "name_en": "Blue WKD",
+        "name_en": "WKD Blue",
         "measure_ja": "275ml",
         "measure_en": "275 ml"
       },
@@ -53929,7 +53931,7 @@
       },
       {
         "name_ja": "ランの花",
-        "name_en": "Phalaenopsis",
+        "name_en": "Orchid Flower",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -54221,8 +54223,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クリーム・リキュール",
-        "name_en": "Cream liqueur",
+        "name_ja": "クリームリキュール",
+        "name_en": "Cream Liqueur",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -54245,8 +54247,8 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "ベル・ローズ",
-        "name_en": "Bell Rose",
+        "name_ja": "ベルローズ",
+        "name_en": "Belle de Rose",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -54491,8 +54493,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "レモン汁",
-        "name_en": "Lemon juice",
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
         "measure_ja": "1+1/2カップ",
         "measure_en": "1 1/2 cups"
       },
@@ -55067,8 +55069,8 @@
         "measure_en": "15ml (モーツァルト ブラック)"
       },
       {
-        "name_ja": "シューガー・シロップ",
-        "name_en": "",
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar Syrup",
         "measure_ja": "1tsp.",
         "measure_en": "1tsp."
       },
@@ -55518,7 +55520,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "チンザノ・ロッソ",
+        "name_ja": "チンザノロッソ",
         "name_en": "Cinzano Rosso",
         "measure_ja": "60ml",
         "measure_en": "2 oz"
@@ -56378,7 +56380,7 @@
       },
       {
         "name_ja": "カシスコーディアル",
-        "name_en": "Blackcurrant cordial",
+        "name_en": "Blackcurrant Cordial",
         "measure_ja": "1 ダッシュ",
         "measure_en": "1 dash"
       }
@@ -56429,7 +56431,7 @@
       },
       {
         "name_ja": "グレープフルーツの皮",
-        "name_en": "Grapefruit twist",
+        "name_en": "Grapefruit Twist",
         "measure_ja": "ガーニッシュ",
         "measure_en": "Garnish"
       }
@@ -56539,7 +56541,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ディサローノ アマレット",
+        "name_ja": "アマレット",
         "name_en": "Disaronno Amaretto",
         "measure_ja": "30ml",
         "measure_en": "30 ml"
@@ -56577,7 +56579,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ディサローノ アマレット",
+        "name_ja": "アマレット",
         "name_en": "Disaronno Amaretto",
         "measure_ja": "45ml",
         "measure_en": "45 ml"
@@ -57033,7 +57035,7 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "ペパーミントリキュール（グリーン）",
+        "name_ja": "クレームドミントグリーン",
         "name_en": "Green Peppermint Liqueur",
         "measure_ja": "10ml",
         "measure_en": "10ml"
@@ -58569,7 +58571,7 @@
       },
       {
         "name_ja": "アイリッシュクリーム",
-        "name_en": "Irish cream",
+        "name_en": "Irish Cream Liqueur",
         "measure_ja": "1/2 オンス",
         "measure_en": "1/2 oz"
       },
@@ -59190,8 +59192,8 @@
         "measure_en": "40ml"
       },
       {
-        "name_ja": "クレーム・ド・ミント・グリーン",
-        "name_en": "Crème de Menthe (green)",
+        "name_ja": "クレームドミントグリーン",
+        "name_en": "Crème de Menthe (Green)",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       }
@@ -59328,13 +59330,13 @@
         "measure_en": ""
       },
       {
-        "name_ja": "カシュー・ナッツ",
-        "name_en": "Cashew nuts",
+        "name_ja": "カシューナッツ",
+        "name_en": "Cashew Nuts",
         "measure_ja": "",
         "measure_en": ""
       },
       {
-        "name_ja": "スタッフド・オリーブ",
+        "name_ja": "スタッフドオリーブ",
         "name_en": "Stuffed Olive",
         "measure_ja": "",
         "measure_en": ""
@@ -59515,7 +59517,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "デュボネ・ルージュ",
+        "name_ja": "デュボネルージュ",
         "name_en": "Dubonnet Rouge",
         "measure_ja": "1 1/2 オンス",
         "measure_en": "1 1/2 oz"
@@ -59741,13 +59743,13 @@
     "ingredients": [
       {
         "name_ja": "ピペーニョ白ワイン",
-        "name_en": "Pipeño wine",
+        "name_en": "Pipeño White Wine",
         "measure_ja": "適量",
         "measure_en": "as needed"
       },
       {
         "name_ja": "パイナップルアイスクリーム",
-        "name_en": "Pineapple ice cream",
+        "name_en": "Pineapple Ice Cream",
         "measure_ja": "適量",
         "measure_en": "as needed"
       },
@@ -59797,14 +59799,14 @@
         "measure_en": "4.5 cl"
       },
       {
-        "name_ja": "キナ・リレ",
+        "name_ja": "キナリレ",
         "name_en": "Kina Lillet",
         "measure_ja": "2 cl",
         "measure_en": "2 cl"
       },
       {
-        "name_ja": "ホワイト クレーム・ド・カカオ",
-        "name_en": "Light crème de cacao",
+        "name_ja": "ホワイトクレームドカカオ",
+        "name_en": "White Crème de Cacao",
         "measure_ja": "1.5 cl",
         "measure_en": "1.5 cl"
       },
@@ -59867,8 +59869,8 @@
         "measure_en": "3/4 oz"
       },
       {
-        "name_ja": "レモンの皮",
-        "name_en": "Lemon twist",
+        "name_ja": "レモンピール",
+        "name_en": "Lemon Peel",
         "measure_ja": "ガーニッシュ",
         "measure_en": "Garnish"
       }
@@ -60037,7 +60039,7 @@
     "ingredients": [
       {
         "name_ja": "ジャパニーズウイスキー",
-        "name_en": "Suntory Whisky Toki",
+        "name_en": "Japanese Whisky",
         "measure_ja": "45 ml",
         "measure_en": "1 1/2 oz"
       },
@@ -60175,8 +60177,8 @@
         "measure_en": "20ml"
       },
       {
-        "name_ja": "ブラッド・オレンジ・ジュース",
-        "name_en": "",
+        "name_ja": "ブラッドオレンジジュース",
+        "name_en": "Blood Orange Juice",
         "measure_ja": "適量 (80ml) 合計 140ml",
         "measure_en": "適量 (80ml) 合計 140ml"
       }
@@ -60310,7 +60312,7 @@
         "measure_en": "1tsp"
       },
       {
-        "name_ja": "ハチミツ",
+        "name_ja": "はちみつ",
         "name_en": "Honey",
         "measure_ja": "1tsp",
         "measure_en": "1tsp"
@@ -60347,8 +60349,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "テキーラ(100%アガベ)",
-        "name_en": "Tequila 100% agave",
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
         "measure_ja": "60 ml",
         "measure_en": "60 ml"
       },
@@ -60359,8 +60361,8 @@
         "measure_en": "30 ml"
       },
       {
-        "name_ja": "アガベシロップ(水1",
-        "name_en": "Agave syrup (1/2 water + 1/2 agave nectar)",
+        "name_ja": "アガベシロップ",
+        "name_en": "Agave Syrup",
         "measure_ja": "30 ml",
         "measure_en": "30 ml",
         "alternatives": [
@@ -60396,8 +60398,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "卵(",
-        "name_en": "Eggs or egg whites",
+        "name_ja": "卵",
+        "name_en": "Egg",
         "measure_ja": "適量",
         "measure_en": "as needed",
         "alternatives": [
@@ -60427,7 +60429,7 @@
       },
       {
         "name_ja": "ホットミルク",
-        "name_en": "Hot milk",
+        "name_en": "Hot Milk",
         "measure_ja": "適量",
         "measure_en": "as needed"
       },
@@ -60590,7 +60592,7 @@
         "measure_en": "1dash"
       },
       {
-        "name_ja": "スタッフド・オリーブ",
+        "name_ja": "スタッフドオリーブ",
         "name_en": "Stuffed Olive",
         "measure_ja": "",
         "measure_en": ""
@@ -60933,7 +60935,7 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "チョコレート・パウダー",
+        "name_ja": "チョコレートパウダー",
         "name_en": "Chocolate Powder",
         "measure_ja": "適量",
         "measure_en": "適量"
@@ -61162,7 +61164,7 @@
       },
       {
         "name_ja": "ピンクグレープフルーツジュース",
-        "name_en": "Pink grapefruit juice",
+        "name_en": "Pink Grapefruit Juice",
         "measure_ja": "50ml",
         "measure_en": "50 ml"
       },
@@ -61199,7 +61201,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "バカルディ・リモン",
+        "name_ja": "バカルディリモン",
         "name_en": "Bacardi Limon",
         "measure_ja": "1 1/4 オンス",
         "measure_en": "1 1/4 oz"
@@ -61293,7 +61295,7 @@
       },
       {
         "name_ja": "オルジェーシロップ",
-        "name_en": "Orgeat syrup",
+        "name_en": "Orgeat Syrup",
         "measure_ja": "3 cl",
         "measure_en": "3 cl"
       },
@@ -61531,7 +61533,7 @@
     "ingredients": [
       {
         "name_ja": "スタウト",
-        "name_en": "",
+        "name_en": "Stout",
         "measure_ja": "適量",
         "measure_en": ""
       },
@@ -61752,7 +61754,7 @@
         "measure_en": "2 oz"
       },
       {
-        "name_ja": "フェルネット・ブランカ",
+        "name_ja": "フェルネットブランカ",
         "name_en": "Fernet-Branca",
         "measure_ja": "1/4 オンス",
         "measure_en": "1/4 oz"
@@ -63234,7 +63236,7 @@
       },
       {
         "name_ja": "ティーリキュール",
-        "name_en": "Tea liqueur",
+        "name_en": "Tea Liqueur",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -63336,8 +63338,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "ホワイトクレーム・ド・マント",
-        "name_en": "",
+        "name_ja": "ホワイトクレームドマント",
+        "name_en": "White Creme de Menthe",
         "measure_ja": "1tsp",
         "measure_en": ""
       }
@@ -63411,7 +63413,7 @@
     "ingredients": [
       {
         "name_ja": "アマレットシロップ",
-        "name_en": "Amaretto syrup",
+        "name_en": "Amaretto Syrup",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -63502,7 +63504,7 @@
       },
       {
         "name_ja": "ジャスミン茶",
-        "name_en": "Jasmine tea",
+        "name_en": "Jasmine Tea",
         "measure_ja": "120ml",
         "measure_en": "120ml"
       }
@@ -63818,8 +63820,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "コーヒー・シロップ",
-        "name_en": "",
+        "name_ja": "コーヒーシロップ",
+        "name_en": "Coffee Syrup",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -63948,8 +63950,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ノンアルコール・ビール",
-        "name_en": "",
+        "name_ja": "ノンアルコールビール",
+        "name_en": "Non-alcoholic beer",
         "measure_ja": "1/2",
         "measure_en": "1/2"
       },
@@ -64043,7 +64045,7 @@
       },
       {
         "name_ja": "スチームミルク",
-        "name_en": "Steamed milk",
+        "name_en": "Steamed Milk",
         "measure_ja": "120ml",
         "measure_en": "120ml"
       }
@@ -64213,8 +64215,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ノンアルコール・ビール",
-        "name_en": "",
+        "name_ja": "ノンアルコールビール",
+        "name_en": "Non-alcoholic beer",
         "measure_ja": "1/2",
         "measure_en": "1/2"
       },
@@ -64592,8 +64594,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "メロン・シロップ",
-        "name_en": "",
+        "name_ja": "メロンシロップ",
+        "name_en": "Melon Syrup",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -64811,8 +64813,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ノンアルコール・ビール",
-        "name_en": "",
+        "name_ja": "ノンアルコールビール",
+        "name_en": "Non-alcoholic beer",
         "measure_ja": "1/2",
         "measure_en": "1/2"
       },
@@ -64846,7 +64848,7 @@
     "ingredients": [
       {
         "name_ja": "青りんごシロップ",
-        "name_en": "",
+        "name_en": "Green Apple Syrup",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -64886,7 +64888,7 @@
     "ingredients": [
       {
         "name_ja": "巨峰シロップ",
-        "name_en": "",
+        "name_en": "Kyoho Grape Syrup",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -65165,7 +65167,7 @@
     "ingredients": [
       {
         "name_ja": "ライチシロップ",
-        "name_en": "Lychee Syrup",
+        "name_en": "Lychee syrup",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -65952,7 +65954,7 @@
         "measure_en": "2 drops"
       },
       {
-        "name_ja": "オレンジの皮",
+        "name_ja": "オレンジピール",
         "name_en": "Orange Peel",
         "measure_ja": "飾り",
         "measure_en": "garnish"
@@ -66000,8 +66002,8 @@
         "measure_en": "15ml (1/4)"
       },
       {
-        "name_ja": "グレナディン・シロップ",
-        "name_en": "",
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine Syrup",
         "measure_ja": "1dash (0.2tsps.)",
         "measure_en": "1dash (0.2tsps.)"
       }
@@ -66946,7 +66948,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "バカルディ・スペリオール・ホワイト",
+        "name_ja": "バカルディスペリオールホワイト",
         "name_en": "Bacardi Superior White",
         "measure_ja": "40ml",
         "measure_en": "40ml"
@@ -67194,8 +67196,8 @@
         "measure_en": "30ml (バカルディ)"
       },
       {
-        "name_ja": "パイナップル・ジュール",
-        "name_en": "",
+        "name_ja": "パイナップルジュール",
+        "name_en": "Pineapple wedge",
         "measure_ja": "適量 (90ml) 合計 120ml",
         "measure_en": "適量 (90ml) 合計 120ml"
       }
@@ -67277,7 +67279,7 @@
         "measure_en": "30ml"
       },
       {
-        "name_ja": "ミネラル・ウォーター",
+        "name_ja": "ミネラルウォーター",
         "name_en": "Mineral Water",
         "measure_ja": "適量",
         "measure_en": "適量"
@@ -67798,12 +67800,12 @@
     "ingredients": [
       {
         "name_ja": "コロナビール",
-        "name_en": "Corona",
+        "name_en": "Corona Beer",
         "measure_ja": "1",
         "measure_en": "1"
       },
       {
-        "name_ja": "バカルディ・リモン",
+        "name_ja": "バカルディリモン",
         "name_en": "Bacardi Limon",
         "measure_ja": "1 ショット",
         "measure_en": "1 shot"
@@ -67893,7 +67895,7 @@
         "measure_en": "10 cl"
       },
       {
-        "name_ja": "オレンジの捻り",
+        "name_ja": "オレンジツイスト",
         "name_en": "Orange twist",
         "measure_ja": "1片",
         "measure_en": "1"
@@ -68521,7 +68523,7 @@
         "measure_en": "as needed"
       },
       {
-        "name_ja": "ベリー",
+        "name_ja": "ミックスベリー",
         "name_en": "Mixed berries",
         "measure_ja": "適量",
         "measure_en": "as needed"
@@ -68779,7 +68781,7 @@
     "ingredients": [
       {
         "name_ja": "スパイスドラム",
-        "name_en": "Spiced rum",
+        "name_en": "Spiced Rum",
         "measure_ja": "1 1/2 cl",
         "measure_en": "1 1/2 cl"
       },
@@ -68860,7 +68862,7 @@
       },
       {
         "name_ja": "パッションフルーツシロップ",
-        "name_en": "",
+        "name_en": "Passion fruit syrup",
         "measure_ja": "10ml (パッソアで代用可) 合計 225ml",
         "measure_en": "10ml (パッソアで代用可) 合計 225ml"
       }
@@ -69420,13 +69422,13 @@
       },
       {
         "name_ja": "ラズベリーリキュール",
-        "name_en": "Raspberry liqueur (Chambord)",
+        "name_en": "Raspberry liqueur",
         "measure_ja": "1/2 オンス",
         "measure_en": "1/2 oz"
       },
       {
         "name_ja": "メロン",
-        "name_en": "Honeydew melon balls",
+        "name_en": "Melon",
         "measure_ja": "適量",
         "measure_en": ""
       }
@@ -70179,7 +70181,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "モーツァルト・チョコレート・クリーム",
+        "name_ja": "モーツァルトチョコレートクリーム",
         "name_en": "Mozart Chocolate Cream",
         "measure_ja": "30ml",
         "measure_en": "30ml"
@@ -70886,8 +70888,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ルビーポートワイン",
-        "name_en": "Ruby Port Wine",
+        "name_ja": "ルビーポート",
+        "name_en": "Ruby Port",
         "measure_ja": "60ml",
         "measure_en": "60 ml"
       },
@@ -71601,7 +71603,7 @@
     "ingredients": [
       {
         "name_ja": "チェリージュース",
-        "name_en": "Cherry Juice",
+        "name_en": "Cherry juice",
         "measure_ja": "1 本",
         "measure_en": "1 bottle"
       },
@@ -71613,7 +71615,7 @@
       },
       {
         "name_ja": "赤唐辛子フレーク",
-        "name_en": "Red Chili Flakes",
+        "name_en": "Red chili flakes",
         "measure_ja": "1",
         "measure_en": "1"
       },
@@ -71705,7 +71707,7 @@
     "ingredients": [
       {
         "name_ja": "グレープソーダ",
-        "name_en": "Grape Soda",
+        "name_en": "Grape soda",
         "measure_ja": "3 オンス",
         "measure_en": "3 oz"
       },
@@ -71883,7 +71885,7 @@
     "ingredients": [
       {
         "name_ja": "ロンドンドライジン",
-        "name_en": "London dry gin",
+        "name_en": "London Dry Gin",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
       },
@@ -71894,14 +71896,14 @@
         "measure_en": "45 ml"
       },
       {
-        "name_ja": "フェルネット・ブランカ",
+        "name_ja": "フェルネットブランカ",
         "name_en": "Fernet-Branca",
         "measure_ja": "7.5 ml",
         "measure_en": "7.5 ml"
       },
       {
         "name_ja": "オレンジゼスト",
-        "name_en": "Orange zest",
+        "name_en": "Orange Zest",
         "measure_ja": "適量",
         "measure_en": ""
       }
@@ -71941,7 +71943,7 @@
       },
       {
         "name_ja": "ホワイトカカオリキュール",
-        "name_en": "White creme de cacao",
+        "name_en": "White Creme de Cacao",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -72044,7 +72046,7 @@
       },
       {
         "name_ja": "ブラックベリー",
-        "name_en": "Blackberries",
+        "name_en": "Blackberry",
         "measure_ja": "2",
         "measure_en": "2"
       }
@@ -72141,7 +72143,7 @@
       },
       {
         "name_ja": "スピリタス",
-        "name_en": "Rectified spirit",
+        "name_en": "Spirytus",
         "measure_ja": "3 cl (1 パート)",
         "measure_en": "3 cl (1 part)"
       },
@@ -72544,8 +72546,8 @@
         "measure_en": "30 ml"
       },
       {
-        "name_ja": "ピルスナービール",
-        "name_en": "Pilsner Beer",
+        "name_ja": "ピルスナー",
+        "name_en": "Pilsner",
         "measure_ja": "適量",
         "measure_en": "Top"
       },
@@ -72582,7 +72584,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "黒ビール",
+        "name_ja": "スタウト",
         "name_en": "Stout",
         "measure_ja": "1/2",
         "measure_en": "1/2"
@@ -72958,7 +72960,7 @@
       },
       {
         "name_ja": "ハーブリキュール",
-        "name_en": "Herbal Liqueur",
+        "name_en": "Herbal liqueur",
         "measure_ja": "15ml",
         "measure_en": "0.5oz"
       }
@@ -74276,8 +74278,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ピスコ・ブランデー",
-        "name_en": "Pisco brandy",
+        "name_ja": "ピスコ",
+        "name_en": "Pisco",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -74334,7 +74336,7 @@
     "ingredients": [
       {
         "name_ja": "ビスコタ",
-        "name_en": "",
+        "name_en": "Biscotti",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -74368,7 +74370,7 @@
     "ingredients": [
       {
         "name_ja": "ビスコタ",
-        "name_en": "",
+        "name_en": "Biscotti",
         "measure_ja": "40ml (フロート)",
         "measure_en": "40ml (フロート)"
       },
@@ -74420,7 +74422,7 @@
     "ingredients": [
       {
         "name_ja": "ビスコタ",
-        "name_en": "",
+        "name_en": "Biscotti",
         "measure_ja": "30ml (1/3)",
         "measure_en": "30ml (1/3)"
       },
@@ -74654,7 +74656,7 @@
     "ingredients": [
       {
         "name_ja": "アイリッシュクリーム",
-        "name_en": "Irish cream",
+        "name_en": "Irish Cream Liqueur",
         "measure_ja": "1/2 オンス",
         "measure_en": "1/2 oz"
       },
@@ -75446,7 +75448,7 @@
       },
       {
         "name_ja": "ココナッツラム",
-        "name_en": "Coconut rum",
+        "name_en": "Coconut Rum",
         "measure_ja": "30ml",
         "measure_en": "1 oz"
       },
@@ -75552,8 +75554,8 @@
         "measure_en": "1tsp."
       },
       {
-        "name_ja": "レモン・ピール1片",
-        "name_en": "",
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
         "measure_ja": "(飾る)",
         "measure_en": "(飾る)"
       }
@@ -75982,7 +75984,7 @@
     "ingredients": [
       {
         "name_ja": "ピムス",
-        "name_en": "",
+        "name_en": "Pimm's",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -75999,8 +76001,8 @@
         "measure_en": "1/8個 (5ml) 合計 115ml"
       },
       {
-        "name_ja": "キュウリ・スティック",
-        "name_en": "",
+        "name_ja": "キュウリスティック",
+        "name_en": "Cucumber stick",
         "measure_ja": "1本",
         "measure_en": "1本"
       }
@@ -76028,7 +76030,7 @@
     "ingredients": [
       {
         "name_ja": "ピムス",
-        "name_en": "",
+        "name_en": "Pimm's",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -76045,8 +76047,8 @@
         "measure_en": "1/8個"
       },
       {
-        "name_ja": "スライス・キュウリ",
-        "name_en": "",
+        "name_ja": "キュウリ",
+        "name_en": "Cucumber",
         "measure_ja": "1/4本分",
         "measure_en": "1/4本分"
       }
@@ -76304,8 +76306,8 @@
         "measure_en": "30ml"
       },
       {
-        "name_ja": "木いちごのリキュール",
-        "name_en": "",
+        "name_ja": "ラズベリーリキュール",
+        "name_en": "Raspberry liqueur",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -76403,7 +76405,7 @@
       },
       {
         "name_ja": "エルダーフラワーリキュール",
-        "name_en": "Elderflower liqueur",
+        "name_en": "Elderflower Liqueur",
         "measure_ja": "1オンス",
         "measure_en": "1 oz"
       },
@@ -76739,8 +76741,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ヘーゼルナッツ・リキュール",
-        "name_en": "",
+        "name_ja": "ヘーゼルナッツリキュール",
+        "name_en": "Hazelnut liqueur",
         "measure_ja": "30ml (1/2) (ノワヨー・リキュール)",
         "measure_en": "30ml (1/2) (ノワヨー・リキュール)"
       },
@@ -77054,7 +77056,7 @@
       },
       {
         "name_ja": "ブラックベリー",
-        "name_en": "Blackberries",
+        "name_en": "Blackberry",
         "measure_ja": "飾りに",
         "measure_en": "Garnish with"
       }
@@ -77091,8 +77093,8 @@
         "measure_en": "30ml (1/2)"
       },
       {
-        "name_ja": "バニラ・リキュール",
-        "name_en": "",
+        "name_ja": "バニラリキュール",
+        "name_en": "Vanilla Liqueur",
         "measure_ja": "10ml (1/6) (マリーブリザール)",
         "measure_en": "10ml (1/6) (マリーブリザール)"
       },
@@ -77104,7 +77106,7 @@
       },
       {
         "name_ja": "アマレットシロップ",
-        "name_en": "",
+        "name_en": "Amaretto Syrup",
         "measure_ja": "1tsp. (5ml) 合計 65ml",
         "measure_en": "1tsp. (5ml) 合計 65ml"
       }
@@ -77228,7 +77230,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ボルス ピンクグレープフルーツ",
+        "name_ja": "ボルスピンクグレープフルーツ",
         "name_en": "Bols Pink Grapefruit",
         "measure_ja": "60ml",
         "measure_en": "60ml"
@@ -77722,7 +77724,7 @@
       },
       {
         "name_ja": "ザクロジュース",
-        "name_en": "Pomegranate juice",
+        "name_en": "Pomegranate Juice",
         "measure_ja": "1 ショット",
         "measure_en": "1 shot"
       },
@@ -77900,7 +77902,7 @@
       },
       {
         "name_ja": "いちじく",
-        "name_en": "Figs",
+        "name_en": "Fig",
         "measure_ja": "3",
         "measure_en": "3"
       },
@@ -77947,14 +77949,14 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ジン、ウイスキー、ラムなどのベーススピリッツ",
-        "name_en": "Gin, Whiskey, or Rum",
+        "name_ja": "ベーススピリッツ",
+        "name_en": "Base Spirit",
         "measure_ja": "",
         "measure_en": ""
       },
       {
         "name_ja": "柑橘ジュース",
-        "name_en": "Citrus juice",
+        "name_en": "Citrus Juice",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -78252,7 +78254,7 @@
       },
       {
         "name_ja": "オレンジゼスト",
-        "name_en": "Orange zest",
+        "name_en": "Orange Zest",
         "measure_ja": "1片",
         "measure_en": "1"
       }
@@ -78457,7 +78459,7 @@
     "image": "data/images-wiki/30402.jpg",
     "ingredients": [
       {
-        "name_ja": "フェルネット・ブランカ",
+        "name_ja": "フェルネットブランカ",
         "name_en": "Fernet-Branca",
         "measure_ja": "5 cl",
         "measure_en": "5 cl"
@@ -78498,7 +78500,7 @@
     "ingredients": [
       {
         "name_ja": "ズブロッカ",
-        "name_en": "",
+        "name_en": "Żubrówka",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -78528,7 +78530,7 @@
       },
       {
         "name_ja": "キウイフルーツ",
-        "name_en": "",
+        "name_en": "Kiwi Fruit",
         "measure_ja": "1/2個 (45ml) 合計 90ml",
         "measure_en": "1/2個 (45ml) 合計 90ml"
       }
@@ -78622,7 +78624,7 @@
       },
       {
         "name_ja": "クリームシェリー",
-        "name_en": "Cream sherry",
+        "name_en": "Cream Sherry",
         "measure_ja": "1/2 オンス (フロート)",
         "measure_en": "1/2 oz (float)"
       },
@@ -79277,14 +79279,14 @@
     "image": "",
     "ingredients": [
       {
-        "name_en": "Peanut liqueur",
+        "name_en": "Peanut Liqueur",
         "name_ja": "ピーナッツリキュール",
         "measure_en": "1/2 oz",
         "measure_ja": "1/2オンス"
       },
       {
-        "name_en": "White crème de cacao",
-        "name_ja": "ホワイト クレーム・ド・カカオ",
+        "name_en": "White Crème de Cacao",
+        "name_ja": "ホワイトクレームドカカオ",
         "measure_en": "1/2 oz",
         "measure_ja": "1/2オンス"
       },
@@ -79461,7 +79463,7 @@
       },
       {
         "name_ja": "エルダーフラワーリキュール",
-        "name_en": "Elderflower liqueur",
+        "name_en": "Elderflower Liqueur",
         "measure_ja": "15 ml",
         "measure_en": "1/2 oz"
       },
@@ -79514,7 +79516,7 @@
     "ingredients": [
       {
         "name_ja": "ペールエール",
-        "name_en": "Pale ale",
+        "name_en": "Pale Ale",
         "measure_ja": "1/2パイント",
         "measure_en": "1/2 pint"
       },
@@ -79657,7 +79659,7 @@
         "measure_en": "20ml"
       },
       {
-        "name_ja": "ブラック・オリーブ",
+        "name_ja": "ブラックオリーブ",
         "name_en": "Black Olive",
         "measure_ja": "",
         "measure_en": ""
@@ -79706,7 +79708,7 @@
       },
       {
         "name_ja": "ブラックチェリー",
-        "name_en": "Black cherry",
+        "name_en": "Black Cherry",
         "measure_ja": "1個",
         "measure_en": "1 piece"
       }
@@ -80099,8 +80101,8 @@
         "measure_en": "1tsp. (5ml)"
       },
       {
-        "name_ja": "ビーフ・ブイヨン",
-        "name_en": "",
+        "name_ja": "ビーフブイヨン",
+        "name_en": "Beef Bouillon",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -80152,7 +80154,7 @@
       },
       {
         "name_ja": "ウスターソース",
-        "name_en": "Worcestershire sauce",
+        "name_en": "Worcestershire Sauce",
         "measure_ja": "2ダッシュ",
         "measure_en": "2 dashes"
       },
@@ -80170,7 +80172,7 @@
       },
       {
         "name_ja": "ブラックペッパー",
-        "name_en": "Black pepper",
+        "name_en": "Black Pepper",
         "measure_ja": "適量",
         "measure_en": "to taste"
       }
@@ -80210,7 +80212,7 @@
       },
       {
         "name_ja": "クラマトジュース",
-        "name_en": "Kuramato juice",
+        "name_en": "Clamato Juice",
         "measure_ja": "適量",
         "measure_en": "適量"
       },
@@ -80221,7 +80223,7 @@
         "measure_en": ""
       },
       {
-        "name_ja": "スティック・セロリ",
+        "name_ja": "セロリスティック",
         "name_en": "Celery Stick",
         "measure_ja": "",
         "measure_en": ""
@@ -80257,8 +80259,8 @@
         "measure_en": "3/4 oz"
       },
       {
-        "name_ja": "ブラッド・オレンジ・ジュース",
-        "name_en": "Blood orange juice",
+        "name_ja": "ブラッドオレンジジュース",
+        "name_en": "Blood Orange Juice",
         "measure_ja": "3/4オンス",
         "measure_en": "3/4 oz"
       },
@@ -80321,8 +80323,8 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "イチゴ(果実)",
-        "name_en": "",
+        "name_ja": "イチゴ",
+        "name_en": "Strawberry",
         "measure_ja": "2個分",
         "measure_en": "2個分"
       },
@@ -81435,7 +81437,7 @@
       },
       {
         "name_ja": "レモンスカッシュ",
-        "name_en": "Lemon squash",
+        "name_en": "Lemon Squash",
         "measure_ja": "2.5cl",
         "measure_en": "2.5 cl"
       },
@@ -81795,8 +81797,8 @@
         "measure_en": "1/8個"
       },
       {
-        "name_ja": "ミントの葉1本(約3枚)",
-        "name_en": "",
+        "name_ja": "ミントの葉",
+        "name_en": "Mint Leaves",
         "measure_ja": "(飾る)",
         "measure_en": "(飾る)"
       }
@@ -82534,8 +82536,8 @@
         "measure_en": "1 cl"
       },
       {
-        "name_ja": "クレーム・ド・ミュール",
-        "name_en": "Creme de Mure",
+        "name_ja": "クレームドミュール",
+        "name_en": "Crème de Mûre",
         "measure_ja": "1.5 cl",
         "measure_en": "1.5 cl"
       }
@@ -83028,8 +83030,8 @@
     "image": "data/images-wiki/30403.jpg",
     "ingredients": [
       {
-        "name_ja": "ウイスキー、ブランデー、ラムのいずれか",
-        "name_en": "Whiskey, Brandy, or Rum",
+        "name_ja": "ジン、ウイスキー、ラムなどのベーススピリッツ",
+        "name_en": "Base Spirit",
         "measure_ja": "適量",
         "measure_en": ""
       },
@@ -83260,8 +83262,8 @@
         "measure_en": "30ml"
       },
       {
-        "name_ja": "ビーフ・ブイヨン",
-        "name_en": "beef bouillon",
+        "name_ja": "ビーフブイヨン",
+        "name_en": "Beef Bouillon",
         "measure_ja": "60ml",
         "measure_en": "60ml"
       }
@@ -84179,7 +84181,7 @@
     "ingredients": [
       {
         "name_ja": "ホワイトカカオリキュール",
-        "name_en": "White crème de cacao",
+        "name_en": "White Creme de Cacao",
         "measure_ja": "20ml",
         "measure_en": "20 ml"
       },
@@ -84343,8 +84345,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブルーベリー・リキュール",
-        "name_en": "",
+        "name_ja": "ブルーベリーリキュール",
+        "name_en": "Blueberry Liqueur",
         "measure_ja": "30ml (クレーム・ド・ブルーベリー)",
         "measure_en": "30ml (クレーム・ド・ブルーベリー)"
       },
@@ -84390,7 +84392,7 @@
       },
       {
         "name_ja": "チンザノビアンコ",
-        "name_en": "",
+        "name_en": "Cinzano Bianco",
         "measure_ja": "10ml",
         "measure_en": "10ml"
       },
@@ -84659,8 +84661,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "プラム・リキュール",
-        "name_en": "",
+        "name_ja": "プラムリキュール",
+        "name_en": "Plum Liqueur",
         "measure_ja": "45ml (プルシア)",
         "measure_en": "45ml (プルシア)"
       },
@@ -84888,8 +84890,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "プラム・リキュール",
-        "name_en": "",
+        "name_ja": "プラムリキュール",
+        "name_en": "Plum Liqueur",
         "measure_ja": "45ml (プルシア)",
         "measure_en": "45ml (プルシア)"
       },
@@ -85066,8 +85068,8 @@
         "measure_en": "15ml (1/4)"
       },
       {
-        "name_ja": "カロリック・パンチ",
-        "name_en": "",
+        "name_ja": "カロリックパンチ",
+        "name_en": "Caloric Punch",
         "measure_ja": "15ml (1/4)",
         "measure_en": "15ml (1/4)"
       }
@@ -85186,8 +85188,8 @@
         "measure_en": "45ml"
       },
       {
-        "name_ja": "ベイリーズ・オリジナル・アイリッシュ・クリーム",
-        "name_en": "Baileys Original Irish Cream",
+        "name_ja": "ベイリーズアイリッシュクリーム",
+        "name_en": "Baileys Irish Cream",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -85390,8 +85392,8 @@
         "measure_en": "3 parts"
       },
       {
-        "name_ja": "ハイプルーフ・リキュール",
-        "name_en": "High-proof liquor",
+        "name_ja": "ハイプルーフリキュール",
+        "name_en": "High-Proof Liqueur",
         "measure_ja": "1パート",
         "measure_en": "1 part"
       }
@@ -85430,7 +85432,7 @@
       },
       {
         "name_ja": "オーバープルーフラム",
-        "name_en": "Overproof rum",
+        "name_en": "Overproof Rum",
         "measure_ja": "30ml",
         "measure_en": "1 oz"
       },
@@ -85441,8 +85443,8 @@
         "measure_en": "4 oz"
       },
       {
-        "name_ja": "レモンジュース (無糖)",
-        "name_en": "Lemon juice (unsweetened)",
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
         "measure_ja": "60ml",
         "measure_en": "2 oz"
       },
@@ -85532,25 +85534,25 @@
       },
       {
         "name_ja": "ウスターソース",
-        "name_en": "",
+        "name_en": "Worcestershire Sauce",
         "measure_ja": "小さじ1",
         "measure_en": ""
       },
       {
         "name_ja": "トマトケチャップ",
-        "name_en": "",
+        "name_en": "Tomato Ketchup",
         "measure_ja": "小さじ1",
         "measure_en": ""
       },
       {
         "name_ja": "ビネガー",
-        "name_en": "",
+        "name_en": "Vinegar",
         "measure_ja": "2ふり",
         "measure_en": ""
       },
       {
         "name_ja": "コショウ",
-        "name_en": "",
+        "name_en": "Pepper",
         "measure_ja": "1ふり",
         "measure_en": ""
       }
@@ -85791,7 +85793,7 @@
         "measure_ja": "3/4ショット"
       },
       {
-        "name_en": "Orange marmalade",
+        "name_en": "Orange Marmalade",
         "name_ja": "オレンジマーマレード",
         "measure_en": "1 spoon",
         "measure_ja": "スプーン1杯"
@@ -86039,7 +86041,7 @@
       },
       {
         "name_ja": "ラズベリーリキュール",
-        "name_en": "Raspberry Liqueur",
+        "name_en": "Raspberry liqueur",
         "measure_ja": "1.5 cl",
         "measure_en": "1.5 cl"
       },
@@ -86396,7 +86398,7 @@
       },
       {
         "name_ja": "ポーター",
-        "name_en": "Porter or ale",
+        "name_en": "Porter",
         "measure_ja": "1パイント",
         "measure_en": "1 pint"
       },
@@ -86408,7 +86410,7 @@
       },
       {
         "name_ja": "熱湯",
-        "name_en": "Boiling water",
+        "name_en": "Boiling Water",
         "measure_ja": "2パイント",
         "measure_en": "2 pints"
       },
@@ -86447,7 +86449,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_en": "White port",
+        "name_en": "White Port",
         "name_ja": "ホワイトポート",
         "measure_en": "2/3",
         "measure_ja": "2/3"
@@ -86741,8 +86743,8 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "シュガー・ロップ",
-        "name_en": "",
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar Syrup",
         "measure_ja": "1tsp.",
         "measure_en": "1tsp."
       },
@@ -87021,8 +87023,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "バナナ・シロップ",
-        "name_en": "",
+        "name_ja": "バナナシロップ",
+        "name_en": "Banana Syrup",
         "measure_ja": "150ml",
         "measure_en": "150ml"
       },
@@ -87079,8 +87081,8 @@
         "measure_en": "1tsp."
       },
       {
-        "name_ja": "バナナ(果実)",
-        "name_en": "",
+        "name_ja": "バナナ",
+        "name_en": "Banana",
         "measure_ja": "1/4本",
         "measure_en": "1/4本"
       },
@@ -87113,8 +87115,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "バナナ・シロップ",
-        "name_en": "",
+        "name_ja": "バナナシロップ",
+        "name_en": "Banana Syrup",
         "measure_ja": "90ml",
         "measure_en": "90ml"
       },
@@ -87425,8 +87427,8 @@
         "measure_en": "1tsp."
       },
       {
-        "name_ja": "イチゴ(果実)",
-        "name_en": "",
+        "name_ja": "イチゴ",
+        "name_en": "Strawberry",
         "measure_ja": "1個",
         "measure_en": "1個"
       },
@@ -87682,7 +87684,7 @@
       },
       {
         "name_ja": "粉末緑茶",
-        "name_en": "",
+        "name_en": "Powdered Green Tea",
         "measure_ja": "1tsp. (5ml)",
         "measure_en": "1tsp. (5ml)"
       },
@@ -87995,8 +87997,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "ベル・ローズ",
-        "name_en": "Bell Rose",
+        "name_ja": "ベルローズ",
+        "name_en": "Belle de Rose",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -88520,7 +88522,7 @@
       },
       {
         "name_ja": "アイリッシュクリーム",
-        "name_en": "Irish cream",
+        "name_en": "Irish Cream Liqueur",
         "measure_ja": "1/4 ショット",
         "measure_en": "1/4 shot"
       }
@@ -89220,8 +89222,8 @@
         "measure_en": "2 tsp"
       },
       {
-        "name_ja": "アイラ・シングルモルトスコッチ",
-        "name_en": "Islay single malt Scotch",
+        "name_ja": "アイラシングルモルトスコッチ",
+        "name_en": "Islay Single Malt Scotch",
         "measure_ja": "1/4 オンス",
         "measure_en": "1/4 oz"
       }
@@ -89666,8 +89668,8 @@
         "measure_en": "45ml"
       },
       {
-        "name_ja": "イチゴ(果実)",
-        "name_en": "",
+        "name_ja": "イチゴ",
+        "name_en": "Strawberry",
         "measure_ja": "2個",
         "measure_en": "2個"
       },
@@ -89970,13 +89972,13 @@
         "measure_en": "30ml"
       },
       {
-        "name_ja": "プラム・リキュール（ミラベル）",
+        "name_ja": "ミラベルプラムリキュール",
         "name_en": "Mirabelle Plum Liqueur",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
       {
-        "name_ja": "コーディアル・ライム・ジュース",
+        "name_ja": "コーディアルライムジュース",
         "name_en": "Lime Cordial",
         "measure_ja": "10ml",
         "measure_en": "10ml"
@@ -90671,7 +90673,7 @@
         "measure_en": "1 tblsp"
       },
       {
-        "name_ja": "グリーン・クレーム・ド・マント",
+        "name_ja": "グリーンクレームドマント",
         "name_en": "Green Creme de Menthe",
         "measure_ja": "1/2 オンス",
         "measure_en": "1/2 oz"
@@ -90754,8 +90756,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ホワイトポートワイン",
-        "name_en": "White Port Wine",
+        "name_ja": "ホワイトポート",
+        "name_en": "White Port",
         "measure_ja": "90ml",
         "measure_en": "90 ml"
       },
@@ -91133,7 +91135,7 @@
       },
       {
         "name_ja": "コーンシロップ",
-        "name_en": "Corn syrup",
+        "name_en": "Corn Syrup",
         "measure_ja": "1 カップ",
         "measure_en": "1 cup"
       },
@@ -91427,8 +91429,8 @@
         "measure_en": "1 oz"
       },
       {
-        "name_ja": "クレーム・ド・バナナ",
-        "name_en": "Creme de banana",
+        "name_ja": "クレームドバナナ",
+        "name_en": "Creme de banane",
         "measure_ja": "15ml",
         "measure_en": "1/2 oz"
       },
@@ -91528,8 +91530,8 @@
         "measure_en": "30ml"
       },
       {
-        "name_ja": "マデイラ・ワイン",
-        "name_en": "",
+        "name_ja": "マデイラワイン",
+        "name_en": "Madeira wine",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -91659,8 +91661,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "アップル・ワイン",
-        "name_en": "",
+        "name_ja": "アップルワイン",
+        "name_en": "Apple Wine",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -91840,8 +91842,8 @@
         "measure_en": "一個"
       },
       {
-        "name_ja": "お湯",
-        "name_en": "Hot water",
+        "name_ja": "熱湯",
+        "name_en": "Hot Water",
         "measure_ja": "適量",
         "measure_en": "適量"
       },
@@ -92146,8 +92148,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "タレアアマレット・クリーム",
-        "name_en": "",
+        "name_ja": "タレアアマレットクリーム",
+        "name_en": "Tarea Amaretto Cream",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -92295,7 +92297,7 @@
       },
       {
         "name_ja": "熱湯",
-        "name_en": "Hot water",
+        "name_en": "Boiling Water",
         "measure_ja": "120 ml",
         "measure_en": "120 ml"
       },
@@ -92786,14 +92788,14 @@
         "measure_en": "45ml"
       },
       {
-        "name_ja": "ハチミツ",
+        "name_ja": "はちみつ",
         "name_en": "Honey",
         "measure_ja": "1tsp",
         "measure_en": "1 tsp"
       },
       {
         "name_ja": "熱湯",
-        "name_en": "Hot water",
+        "name_en": "Boiling Water",
         "measure_ja": "適量",
         "measure_en": "Top up"
       },
@@ -92892,14 +92894,14 @@
         "measure_en": "1/2 tsp"
       },
       {
-        "name_ja": "ハーフ&ハーフ",
-        "name_en": "Half-and-half",
+        "name_ja": "ハーフアンドハーフ",
+        "name_en": "Half-and-Half",
         "measure_ja": "1 カップ",
         "measure_en": "1 cup"
       },
       {
         "name_ja": "マシュマロ",
-        "name_en": "Marshmallows",
+        "name_en": "Marshmallow",
         "measure_ja": "mini",
         "measure_en": "mini"
       }
@@ -93462,8 +93464,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "オランダ・ジン",
-        "name_en": "",
+        "name_ja": "ジュネバ",
+        "name_en": "Genever",
         "measure_ja": "40ml (2/3)",
         "measure_en": "40ml (2/3)"
       },
@@ -93652,8 +93654,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "マデイラ・ワイン",
-        "name_en": "",
+        "name_ja": "マデイラワイン",
+        "name_en": "Madeira wine",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -94163,7 +94165,7 @@
       },
       {
         "name_ja": "グレープフルーツの皮",
-        "name_en": "Grapefruit twist",
+        "name_en": "Grapefruit Twist",
         "measure_ja": "ガーニッシュ",
         "measure_en": "Garnish"
       }
@@ -94586,7 +94588,7 @@
         "measure_en": "1 shot"
       },
       {
-        "name_ja": "ホワイナッテ・ラテ",
+        "name_ja": "ホワイナッテラテ",
         "name_en": "Whynatte Latte",
         "measure_ja": "1 パブグラス",
         "measure_en": "1 pub glass"
@@ -94770,7 +94772,7 @@
       },
       {
         "name_ja": "アニス酒",
-        "name_en": "",
+        "name_en": "Anisette",
         "measure_ja": "1dash (0.2tsps.) (ペルノで代用)",
         "measure_en": "1dash (0.2tsps.) (ペルノで代用)"
       }
@@ -94892,13 +94894,13 @@
       },
       {
         "name_ja": "ピニャコラーダミックス",
-        "name_en": "Pina colada mix",
+        "name_en": "Pina Colada Mix",
         "measure_ja": "冷凍",
         "measure_en": "frozen"
       },
       {
         "name_ja": "ダイキリミックス",
-        "name_en": "Daiquiri mix",
+        "name_en": "Daiquiri Mix",
         "measure_ja": "冷凍",
         "measure_en": "frozen"
       }
@@ -95270,14 +95272,14 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ホワイトラム（フロール・デ・カーニャ推奨）",
-        "name_en": "White rum (preferably Flor de Caña)",
+        "name_ja": "ホワイトラム",
+        "name_en": "White Rum",
         "measure_ja": "2パート",
         "measure_en": "2 parts"
       },
       {
         "name_ja": "グアバジュース",
-        "name_en": "Guava juice",
+        "name_en": "Guava Juice",
         "measure_ja": "2パート",
         "measure_en": "2 parts"
       },
@@ -95413,7 +95415,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ストロベリー・クリーム・リキュール",
+        "name_ja": "ストロベリークリームリキュール",
         "name_en": "Strawberry Cream Liqueur",
         "measure_ja": "30ml",
         "measure_en": "30ml"
@@ -95425,7 +95427,7 @@
         "measure_en": "20ml"
       },
       {
-        "name_ja": "クレーム・ド・カフェ",
+        "name_ja": "コーヒーリキュール",
         "name_en": "Creme de Cafe",
         "measure_ja": "10ml",
         "measure_en": "10ml"
@@ -95437,8 +95439,8 @@
         "measure_en": "少量"
       },
       {
-        "name_ja": "お湯",
-        "name_en": "Hot water",
+        "name_ja": "熱湯",
+        "name_en": "Hot Water",
         "measure_ja": "適量",
         "measure_en": "適量"
       },
@@ -95492,7 +95494,7 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "キャラメル・シロップ",
+        "name_ja": "キャラメルシロップ",
         "name_en": "Caramel Syrup",
         "measure_ja": "20ml",
         "measure_en": "20ml"
@@ -95572,7 +95574,7 @@
       },
       {
         "name_ja": "ブラックペッパー",
-        "name_en": "Black pepper",
+        "name_en": "Black Pepper",
         "measure_ja": "1-2 丸ごと",
         "measure_en": "1-2 whole"
       },
@@ -95610,8 +95612,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "テキーラ（シルバー",
-        "name_en": "Silver or blanco tequila",
+        "name_ja": "ホワイトテキーラ",
+        "name_en": "Silver Tequila",
         "measure_ja": "1〜1.5パート",
         "measure_en": "1 to 1.5 parts",
         "alternatives": [
@@ -95808,20 +95810,20 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "熱湯（70〜80°C）",
-        "name_en": "Hot water (70–80°C)",
+        "name_ja": "熱湯",
+        "name_en": "Hot Water",
         "measure_ja": "",
         "measure_en": ""
       },
       {
-        "name_ja": "ブドウのアグアルディエンテ",
-        "name_en": "Grape aguardiente",
+        "name_ja": "グレープアグアルディエンテ",
+        "name_en": "Grape Aguardiente",
         "measure_ja": "",
         "measure_en": ""
       },
       {
-        "name_ja": "イェルバ・マテ",
-        "name_en": "Yerba mate",
+        "name_ja": "イェルバマテ",
+        "name_en": "Yerba Mate",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -95938,8 +95940,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "マデイラ・ワイン",
-        "name_en": "",
+        "name_ja": "マデイラワイン",
+        "name_en": "Madeira wine",
         "measure_ja": "90ml",
         "measure_en": "90ml"
       },
@@ -98066,26 +98068,26 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ダークジャマイカンラム",
-        "name_en": "Dark Jamaican rum",
+        "name_ja": "ダークラム",
+        "name_en": "Dark Jamaican Rum",
         "measure_ja": "1 1/2 オンス",
         "measure_en": "1 1/2 oz"
       },
       {
-        "name_ja": "ライトプエルトリカンラム",
-        "name_en": "Light Puerto Rican rum",
+        "name_ja": "ホワイトラム",
+        "name_en": "Light Puerto Rican Rum",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       },
       {
         "name_ja": "コーヒーブランデー",
-        "name_en": "Coffee flavored brandy",
+        "name_en": "Coffee Brandy",
         "measure_ja": "3/4 オンス",
         "measure_en": "3/4 oz"
       },
       {
-        "name_ja": "パイナップルジュース（無糖）",
-        "name_en": "Pineapple juice (unsweetened)",
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple Juice",
         "measure_ja": "1 1/2 オンス",
         "measure_en": "1 1/2 oz"
       },
@@ -98752,8 +98754,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "バカルディラム",
-        "name_en": "Bacardi rum",
+        "name_ja": "ホワイトラム",
+        "name_en": "Bacardi Rum",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -98996,7 +98998,7 @@
         "measure_en": "1 oz"
       },
       {
-        "name_ja": "ホワイトクレーム・ド・マント",
+        "name_ja": "ホワイトクレームドマント",
         "name_en": "White Creme de Menthe",
         "measure_ja": "3/4 オンス",
         "measure_en": "3/4 oz"
@@ -100276,8 +100278,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー、ウイスキー、",
-        "name_en": "Brandy, whiskey, or bourbon",
+        "name_ja": "ブランデーまたはウイスキー",
+        "name_en": "Brandy or Whiskey",
         "measure_ja": "",
         "measure_en": "",
         "alternatives": [
@@ -100421,8 +100423,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレーム・ド・ミント・グリーン",
-        "name_en": "Crème de Menthe (green)",
+        "name_ja": "クレームドミントグリーン",
+        "name_en": "Crème de Menthe (Green)",
         "measure_ja": "30～45ml",
         "measure_en": "30～45ml"
       },
@@ -100458,7 +100460,7 @@
     "ingredients": [
       {
         "name_ja": "ペパーミントグリーン",
-        "name_en": "Peppermint Green",
+        "name_en": "Green Peppermint",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -100554,7 +100556,7 @@
       },
       {
         "name_ja": "ペパーミントグリーン",
-        "name_en": "Green peppermint",
+        "name_en": "Green Peppermint",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
       }
@@ -100583,7 +100585,7 @@
     "ingredients": [
       {
         "name_ja": "ビスコタ",
-        "name_en": "",
+        "name_en": "Biscotti",
         "measure_ja": "30ml (ベイリーズで代用)",
         "measure_en": "30ml (ベイリーズで代用)"
       },
@@ -100864,7 +100866,7 @@
     "ingredients": [
       {
         "name_ja": "麦焼酎",
-        "name_en": "",
+        "name_en": "Barley shochu",
         "measure_ja": "45ml (3/4)",
         "measure_en": "45ml (3/4)"
       },
@@ -100903,8 +100905,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ダークビール（ポーター",
-        "name_en": "Dark beer (porter or stout)",
+        "name_ja": "ダークビール",
+        "name_en": "Dark Beer",
         "measure_ja": "",
         "measure_en": "",
         "alternatives": [
@@ -100915,14 +100917,14 @@
         ]
       },
       {
-        "name_ja": "ライトラガー",
-        "name_en": "Light lager",
+        "name_ja": "ラガービール",
+        "name_en": "Light Lager",
         "measure_ja": "",
         "measure_en": ""
       },
       {
-        "name_ja": "甘い炭酸飲料（ソッケルドリッカ",
-        "name_en": "Sweet carbonated drink (sockerdricka or Julmust)",
+        "name_ja": "ソッケルドリッカ",
+        "name_en": "Sockerdricka",
         "measure_ja": "",
         "measure_en": "",
         "alternatives": [
@@ -100933,14 +100935,14 @@
         ]
       },
       {
-        "name_ja": "酒精強化ワイン（ポート、シェリー、マデイラなど）",
-        "name_en": "Fortified wine (port, sherry, or Madeira)",
+        "name_ja": "酒精強化ワイン",
+        "name_en": "Fortified Wine",
         "measure_ja": "お好みで",
         "measure_en": "optional"
       },
       {
-        "name_ja": "蒸留酒（ジン",
-        "name_en": "Spirits (gin or brännvin)",
+        "name_ja": "蒸留酒",
+        "name_en": "Spirits",
         "measure_ja": "お好みで",
         "measure_en": "optional",
         "alternatives": [
@@ -101138,8 +101140,8 @@
         "measure_en": "1 1/2 oz"
       },
       {
-        "name_ja": "クレーム・ド・バナナ",
-        "name_en": "Creme de banana",
+        "name_ja": "クレームドバナナ",
+        "name_en": "Creme de banane",
         "measure_ja": "22ml",
         "measure_en": "3/4 oz"
       }
@@ -101507,8 +101509,8 @@
         "measure_en": "適量"
       },
       {
-        "name_ja": "アイス・クリーム",
-        "name_en": "",
+        "name_ja": "アイスクリーム",
+        "name_en": "Ice Cream",
         "measure_ja": "適量",
         "measure_en": "適量"
       }
@@ -101621,14 +101623,14 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "モーツァルト チョコレートリキュール",
+        "name_ja": "モーツァルトチョコレートリキュール",
         "name_en": "Mozart Chocolate Liqueur",
         "measure_ja": "45ml",
         "measure_en": "45 ml"
       },
       {
         "name_ja": "アイスコーヒー",
-        "name_en": "Iced coffee",
+        "name_en": "Iced Coffee",
         "measure_ja": "適量",
         "measure_en": "Top up"
       }
@@ -101663,7 +101665,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "モーツァルト チョコレートリキュール",
+        "name_ja": "モーツァルトチョコレートリキュール",
         "name_en": "Mozart Chocolate Liqueur",
         "measure_ja": "45ml",
         "measure_en": "45 ml"
@@ -101704,7 +101706,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "モーツァルト・チョコレート・クリーム",
+        "name_ja": "モーツァルトチョコレートクリーム",
         "name_en": "Mozart Chocolate Cream",
         "measure_ja": "30ml",
         "measure_en": "30ml"
@@ -101842,7 +101844,7 @@
       },
       {
         "name_ja": "シロップ",
-        "name_en": "",
+        "name_en": "Syrup",
         "measure_ja": "3dashes (0.6tsp.)",
         "measure_en": "3dashes (0.6tsp.)"
       },
@@ -102091,7 +102093,7 @@
       },
       {
         "name_ja": "ペパーミントグリーン",
-        "name_en": "Green peppermint",
+        "name_en": "Green Peppermint",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
       },
@@ -103188,7 +103190,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ライ・ウィスキー",
+        "name_ja": "ライウイスキー",
         "name_en": "Rye whiskey",
         "measure_ja": "45ml",
         "measure_en": "45 ml"
@@ -103383,13 +103385,13 @@
     "ingredients": [
       {
         "name_ja": "ジャパニーズウイスキー",
-        "name_en": "Japanese whisky",
+        "name_en": "Japanese Whisky",
         "measure_ja": "60 ml",
         "measure_en": "2 oz"
       },
       {
         "name_ja": "柚子ジュース",
-        "name_en": "Yuzu juice",
+        "name_en": "Yuzu Juice",
         "measure_ja": "22 ml",
         "measure_en": "3/4 oz"
       },
@@ -103493,7 +103495,7 @@
       },
       {
         "name_ja": "ゆずの皮",
-        "name_en": "Yuzu zest",
+        "name_en": "Yuzu peel",
         "measure_ja": "適量",
         "measure_en": "For garnish"
       }
@@ -103582,7 +103584,7 @@
       },
       {
         "name_ja": "ゆず皮",
-        "name_en": "Yuzu peel",
+        "name_en": "Yuzu Peel",
         "measure_ja": "1片",
         "measure_en": "1 twist"
       }
@@ -103775,7 +103777,7 @@
       },
       {
         "name_ja": "ゆず皮",
-        "name_en": "Yuzu peel",
+        "name_en": "Yuzu Peel",
         "measure_ja": "1片",
         "measure_en": "1 twist"
       }
@@ -103822,7 +103824,7 @@
       },
       {
         "name_ja": "ゆず皮",
-        "name_en": "Yuzu peel",
+        "name_en": "Yuzu Peel",
         "measure_ja": "1片",
         "measure_en": "1 twist"
       }
@@ -103875,7 +103877,7 @@
       },
       {
         "name_ja": "ゆずの皮",
-        "name_en": "Yuzu Peel",
+        "name_en": "Yuzu peel",
         "measure_ja": "1片",
         "measure_en": "1 piece"
       }
@@ -104063,7 +104065,7 @@
       },
       {
         "name_ja": "ゆずの皮",
-        "name_en": "Yuzu Peel",
+        "name_en": "Yuzu peel",
         "measure_ja": "少々",
         "measure_en": "A little"
       }
@@ -104112,7 +104114,7 @@
       },
       {
         "name_ja": "ゆず皮",
-        "name_en": "Yuzu peel",
+        "name_en": "Yuzu Peel",
         "measure_ja": "1片",
         "measure_en": "1 twist"
       }
@@ -104235,7 +104237,7 @@
     "ingredients": [
       {
         "name_ja": "桂花陳酒",
-        "name_en": "",
+        "name_en": "Kweichow Osmanthus Wine",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -104472,8 +104474,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ヨーグリート・ストロベリー",
-        "name_en": "",
+        "name_ja": "ヨーグリートストロベリー",
+        "name_en": "Yoghurt Liqueur Strawberry",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -104506,8 +104508,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ヨーグリート・ストロベリー",
-        "name_en": "",
+        "name_ja": "ヨーグリートストロベリー",
+        "name_en": "Yoghurt Liqueur Strawberry",
         "measure_ja": "45ml",
         "measure_en": "45ml"
       },
@@ -105046,8 +105048,8 @@
         "measure_en": "1tsp."
       },
       {
-        "name_ja": "塩抜きした桜の花の塩漬け",
-        "name_en": "",
+        "name_ja": "桜の花の塩漬け",
+        "name_en": "Salted Cherry Blossom",
         "measure_ja": "適量",
         "measure_en": "適量"
       }
@@ -105074,8 +105076,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "マンゴスチン・リキュール",
-        "name_en": "Mangosteen Liqueur",
+        "name_ja": "マンゴスチンリキュール",
+        "name_en": "Mangosteen liqueur",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -105086,8 +105088,8 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "ブルーベリー・リキュール",
-        "name_en": "Blueberry liqueur",
+        "name_ja": "ブルーベリーリキュール",
+        "name_en": "Blueberry Liqueur",
         "measure_ja": "10ml",
         "measure_en": "10ml"
       },
@@ -105104,8 +105106,8 @@
         "measure_en": "1tsp"
       },
       {
-        "name_ja": "レインボー・シュガー",
-        "name_en": "Rainbow Sugar",
+        "name_ja": "レインボーシュガー",
+        "name_en": "Rainbow sugar",
         "measure_ja": "適量",
         "measure_en": "適量"
       },
@@ -105116,8 +105118,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "ライム・ピール",
-        "name_en": "lime Peel",
+        "name_ja": "ライムピール",
+        "name_en": "Lime Peel",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -105159,7 +105161,7 @@
         "measure_en": "25ml"
       },
       {
-        "name_ja": "レモン・リキュール",
+        "name_ja": "レモンリキュール",
         "name_en": "Lemon Liqueur",
         "measure_ja": "15ml",
         "measure_en": "15ml"
@@ -105177,13 +105179,13 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "スタッフド・オリーブ",
+        "name_ja": "スタッフドオリーブ",
         "name_en": "Stuffed Olive",
         "measure_ja": "",
         "measure_en": ""
       },
       {
-        "name_ja": "ブラック・オリーブ",
+        "name_ja": "ブラックオリーブ",
         "name_en": "Black Olive",
         "measure_ja": "",
         "measure_en": ""
@@ -105317,8 +105319,8 @@
         "measure_en": "20 ml"
       },
       {
-        "name_ja": "コーディアル・ライム・ジュース",
-        "name_en": "Cordial lime juice",
+        "name_ja": "コーディアルライムジュース",
+        "name_en": "Lime Cordial",
         "measure_ja": "10ml",
         "measure_en": "10 ml"
       },
@@ -105944,8 +105946,8 @@
         "measure_en": "(seltzer water)"
       },
       {
-        "name_ja": "ライム・ピール",
-        "name_en": "Lime peel",
+        "name_ja": "ライムピール",
+        "name_en": "Lime Peel",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -106170,7 +106172,7 @@
       },
       {
         "name_ja": "マリブラム",
-        "name_en": "Malibu rum",
+        "name_en": "Malibu Rum",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       }
@@ -106287,7 +106289,7 @@
     "ingredients": [
       {
         "name_ja": "米焼酎",
-        "name_en": "Rice shōchū",
+        "name_en": "Rice shochu",
         "measure_ja": "30ml",
         "measure_en": "30ml"
       },
@@ -106310,8 +106312,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "ライム・ピール",
-        "name_en": "lime Peel",
+        "name_ja": "ライムピール",
+        "name_en": "Lime Peel",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -106575,7 +106577,7 @@
       },
       {
         "name_ja": "ラズベリービール",
-        "name_en": "Raspberry Beer",
+        "name_en": "Raspberry beer",
         "measure_ja": "250ml",
         "measure_en": "250ml"
       }
@@ -106609,7 +106611,7 @@
     "ingredients": [
       {
         "name_ja": "ラズベリーリキュール",
-        "name_en": "Raspberry Liqueur",
+        "name_en": "Raspberry liqueur",
         "measure_ja": "30ml",
         "measure_en": "30 ml"
       },
@@ -106865,8 +106867,8 @@
         "measure_en": "1tsp."
       },
       {
-        "name_ja": "ベネディクディンDOM",
-        "name_en": "",
+        "name_ja": "ベネディクティン",
+        "name_en": "Benedictine DOM",
         "measure_ja": "1tsp.",
         "measure_en": "1tsp."
       },
@@ -107099,8 +107101,8 @@
         "measure_en": "1 tsp"
       },
       {
-        "name_ja": "ライム・ピール",
-        "name_en": "Lime peel",
+        "name_ja": "ライムピール",
+        "name_en": "Lime Peel",
         "measure_ja": "の捻り",
         "measure_en": "Twist of"
       }
@@ -107241,8 +107243,8 @@
         "measure_en": "1dash"
       },
       {
-        "name_ja": "螺旋剥きにしたレモンの皮",
-        "name_en": "",
+        "name_ja": "レモンピール",
+        "name_en": "Lemon Peel",
         "measure_ja": "1個分",
         "measure_en": "1個分"
       }
@@ -107544,8 +107546,8 @@
         "measure_en": "2tsps. (砂糖) 合計 90ml"
       },
       {
-        "name_ja": "ミントの葉適量(約5枚+1本)",
-        "name_en": "",
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
         "measure_ja": "(1本は飾る)",
         "measure_en": "(1本は飾る)"
       }
@@ -107629,8 +107631,8 @@
         "measure_en": "1/8個"
       },
       {
-        "name_ja": "ミントの葉1本(約3枚)",
-        "name_en": "",
+        "name_ja": "ミントの葉",
+        "name_en": "Mint Leaves",
         "measure_ja": "(飾る)",
         "measure_en": "(飾る)"
       }
@@ -107779,7 +107781,7 @@
       },
       {
         "name_ja": "熱湯",
-        "name_en": "Hot water",
+        "name_en": "Boiling Water",
         "measure_ja": "適量",
         "measure_en": "fill"
       },
@@ -107909,7 +107911,7 @@
       },
       {
         "name_ja": "フルーツパンチ",
-        "name_en": "Fruit punch",
+        "name_en": "Fruit Punch",
         "measure_ja": "355 ml 冷凍",
         "measure_en": "355 ml frozen"
       },
@@ -108091,13 +108093,13 @@
     "ingredients": [
       {
         "name_ja": "マリブラム",
-        "name_en": "Malibu rum",
+        "name_en": "Malibu Rum",
         "measure_ja": "1 1/2 オンス",
         "measure_en": "1 1/2 oz"
       },
       {
         "name_ja": "ブラックベリーブランデー",
-        "name_en": "Blackberry brandy",
+        "name_en": "Blackberry Brandy",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
       },
@@ -108141,7 +108143,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブラックラム",
+        "name_ja": "ダークラム",
         "name_en": "Black rum",
         "measure_ja": "120 ml",
         "measure_en": "4 oz"
@@ -108386,7 +108388,7 @@
       },
       {
         "name_ja": "キウイフルーツ",
-        "name_en": "",
+        "name_en": "Kiwi Fruit",
         "measure_ja": "1/2個",
         "measure_en": "1/2個"
       }
@@ -108413,8 +108415,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ビーフィーター24",
-        "name_en": "",
+        "name_ja": "ビーフィータージン",
+        "name_en": "Beefeater 24",
         "measure_ja": "50ml",
         "measure_en": "50ml"
       },
@@ -108426,7 +108428,7 @@
       },
       {
         "name_ja": "チンザノオランチョ",
-        "name_en": "",
+        "name_en": "Cinzano Orancio",
         "measure_ja": "6.25ml",
         "measure_en": "6.25ml"
       },
@@ -108496,7 +108498,7 @@
       },
       {
         "name_ja": "ペパーミントシュナップス",
-        "name_en": "Peppermint schnapps",
+        "name_en": "Peppermint Schnapps",
         "measure_ja": "1/2オンス",
         "measure_en": "1/2 oz"
       }
@@ -108766,7 +108768,7 @@
         "measure_en": "22.5 ml"
       },
       {
-        "name_ja": "ルクサルド チェリーブランデー",
+        "name_ja": "チェリーブランデー",
         "name_en": "Luxardo cherry brandy",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -108861,12 +108863,12 @@
     "ingredients": [
       {
         "name_ja": "コロナビール",
-        "name_en": "Corona",
+        "name_en": "Corona Beer",
         "measure_ja": "1 本",
         "measure_en": "1 bottle"
       },
       {
-        "name_ja": "バカルディ・リモン",
+        "name_ja": "バカルディリモン",
         "name_en": "Bacardi Limon",
         "measure_ja": "1 オンス",
         "measure_en": "1 oz"
@@ -109487,7 +109489,7 @@
     "ingredients": [
       {
         "name_ja": "ブラックコーヒー",
-        "name_en": "Hot black coffee",
+        "name_en": "Black Coffee",
         "measure_ja": "125 ml",
         "measure_en": "125 ml"
       },
@@ -109498,8 +109500,8 @@
         "measure_en": "3 cubes"
       },
       {
-        "name_ja": "アスバッハ ウーラルト",
-        "name_en": "Asbach Uralt brandy",
+        "name_ja": "アスバッハウーラルト",
+        "name_en": "Asbach Uralt",
         "measure_ja": "40 ml",
         "measure_en": "4 cl"
       },
@@ -109511,7 +109513,7 @@
       },
       {
         "name_ja": "チョコレートシェイビング",
-        "name_en": "Dark chocolate shavings",
+        "name_en": "Chocolate shavings",
         "measure_ja": "適量",
         "measure_en": "garnish"
       }
@@ -110218,7 +110220,7 @@
       },
       {
         "name_ja": "ジンジャーシロップ",
-        "name_en": "Ginger syrup",
+        "name_en": "Ginger Syrup",
         "measure_ja": "15 ml",
         "measure_en": "1/2 oz"
       },
@@ -110402,7 +110404,7 @@
       },
       {
         "name_ja": "烏龍茶",
-        "name_en": "Oolong tea",
+        "name_en": "Oolong Tea",
         "measure_ja": "適量",
         "measure_en": "fill"
       },
@@ -111013,8 +111015,8 @@
         "measure_en": "30ml"
       },
       {
-        "name_ja": "クレーム・ド・バナナ",
-        "name_en": "Creme de banana",
+        "name_ja": "クレームドバナナ",
+        "name_en": "Creme de banane",
         "measure_ja": "15ml",
         "measure_en": "15ml"
       },
@@ -111165,7 +111167,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "レモン・リキュール",
+        "name_ja": "レモンリキュール",
         "name_en": "Lemon Liqueur",
         "measure_ja": "15ml",
         "measure_en": "15ml"
@@ -111231,8 +111233,8 @@
         "measure_en": "1 1/2 oz"
       },
       {
-        "name_ja": "アーモンドシロップ",
-        "name_en": "Almond Syrup",
+        "name_ja": "オルジェーシロップ",
+        "name_en": "Almond syrup",
         "measure_ja": "7ml",
         "measure_en": "1/4 oz"
       }
@@ -111594,14 +111596,14 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "レモネード（クリアレモネード）",
-        "name_en": "Lemonade (clear)",
+        "name_ja": "レモネード",
+        "name_en": "Clear lemonade",
         "measure_ja": "適量",
         "measure_en": "to top"
       },
       {
         "name_ja": "ライムコーディアル",
-        "name_en": "Lime juice cordial",
+        "name_en": "Lime cordial",
         "measure_ja": "15〜30 ml",
         "measure_en": "15-30 mL"
       },
@@ -111710,7 +111712,7 @@
         "measure_en": "3/4 oz"
       },
       {
-        "name_ja": "細目グラニュー糖",
+        "name_ja": "グラニュー糖",
         "name_en": "Superfine sugar",
         "measure_ja": "リム用",
         "measure_en": "for rim"
@@ -111925,14 +111927,14 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ルジェ・クレーム・ド・カルテット",
-        "name_en": "Rouge creme de quartet",
+        "name_ja": "ルジェクレームドカルテット",
+        "name_en": "Lejay Creme de Quartet",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
       {
-        "name_ja": "クルボアジェV.S.O.P.ルージュ",
-        "name_en": "Courvoisier V.S.O.P. Rouge",
+        "name_ja": "クルボアジェVSOPルージュ",
+        "name_en": "Courvoisier VSOP Rouge",
         "measure_ja": "10ml",
         "measure_en": "10ml"
       },
@@ -111943,7 +111945,7 @@
         "measure_en": "1tsp"
       },
       {
-        "name_ja": "ランソン・シャンパン・ブラックラベル・ブリュット",
+        "name_ja": "ランソンブラックラベルブリュット",
         "name_en": "Lanson Black Label Brut",
         "measure_ja": "15ml",
         "measure_en": "15ml"
@@ -112599,7 +112601,7 @@
       },
       {
         "name_ja": "ティアマリア",
-        "name_en": "Tia maria",
+        "name_en": "Tia Maria",
         "measure_ja": "1/2 オンス",
         "measure_en": "1/2 oz"
       }
@@ -112846,8 +112848,8 @@
         "measure_en": ""
       },
       {
-        "name_ja": "オレンジの皮(らせん)",
-        "name_en": "Orange spiral",
+        "name_ja": "オレンジの皮",
+        "name_en": "Orange peel",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -113272,7 +113274,7 @@
       },
       {
         "name_ja": "イチゴピュレ",
-        "name_en": "Strawberry puree",
+        "name_en": "Strawberry Puree",
         "measure_ja": "30ml",
         "measure_en": "30 ml"
       }
@@ -113303,7 +113305,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "チンザノ・ロッソ",
+        "name_ja": "チンザノロッソ",
         "name_en": "Cinzano Rosso",
         "measure_ja": "60ml",
         "measure_en": "2 oz"
@@ -113940,7 +113942,7 @@
       },
       {
         "name_ja": "ジュース",
-        "name_en": "",
+        "name_en": "Juice",
         "measure_ja": "1",
         "measure_en": ""
       },
@@ -114310,7 +114312,7 @@
       },
       {
         "name_ja": "わさびペースト",
-        "name_en": "Wasabi paste",
+        "name_en": "Wasabi Paste",
         "measure_ja": "小さじ1/4",
         "measure_en": "1/4 tsp"
       },
@@ -114433,13 +114435,13 @@
       },
       {
         "name_ja": "ダークカカオリキュール",
-        "name_en": "Dark Creme de Cacao",
+        "name_en": "Dark Crème de Cacao",
         "measure_ja": "1/3",
         "measure_en": "1/3 part"
       },
       {
         "name_ja": "アマルーラ",
-        "name_en": "Amarula Cream",
+        "name_en": "Amarula",
         "measure_ja": "1/3",
         "measure_en": "1/3 part"
       }
@@ -114522,7 +114524,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "タンカレー・ジン",
+        "name_ja": "タンカレージン",
         "name_en": "Tanqueray Gin",
         "measure_ja": "40ml",
         "measure_en": "40ml"
@@ -114546,7 +114548,7 @@
         "measure_en": "10ml"
       },
       {
-        "name_ja": "モナン・ローズ・シロップ",
+        "name_ja": "モナンローズシロップ",
         "name_en": "Monin Rose Syrup",
         "measure_ja": "5ml",
         "measure_en": "5ml"
@@ -114840,7 +114842,7 @@
       },
       {
         "name_ja": "桜の塩漬け",
-        "name_en": "Salted cherry blossom",
+        "name_en": "Salted Cherry Blossom",
         "measure_ja": "1個",
         "measure_en": "1 piece"
       }
@@ -114931,7 +114933,7 @@
       },
       {
         "name_ja": "山椒",
-        "name_en": "Japanese Pepper (Sansho)",
+        "name_en": "Sansho Pepper",
         "measure_ja": "ひと振り",
         "measure_en": "A pinch"
       }
@@ -115295,7 +115297,7 @@
       },
       {
         "name_ja": "青紫蘇",
-        "name_en": "Shiso leaves",
+        "name_en": "Shiso Leaves",
         "measure_ja": "3〜4枚",
         "measure_en": "3-4 leaves"
       },
@@ -115395,7 +115397,7 @@
         "measure_en": "15ml"
       },
       {
-        "name_ja": "コーディアルライム",
+        "name_ja": "ライムコーディアル",
         "name_en": "Lime Cordial",
         "measure_ja": "2tsp",
         "measure_en": "2tsp"
@@ -115445,7 +115447,7 @@
       },
       {
         "name_ja": "ペパーミントグリーン",
-        "name_en": "Green peppermint",
+        "name_en": "Green Peppermint",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
       },
@@ -115517,7 +115519,7 @@
       },
       {
         "name_ja": "グレープフルーツピール",
-        "name_en": "Grapefruit peel",
+        "name_en": "Grapefruit Peel",
         "measure_ja": "1片",
         "measure_en": "1 piece"
       }
@@ -115613,7 +115615,7 @@
       },
       {
         "name_ja": "グリーンチェリー",
-        "name_en": "Green cherry",
+        "name_en": "Green Cherry",
         "measure_ja": "1個",
         "measure_en": "1"
       },
@@ -115758,7 +115760,7 @@
         "measure_en": "1dash"
       },
       {
-        "name_ja": "スタッフド・オリーブ",
+        "name_ja": "スタッフドオリーブ",
         "name_en": "Stuffed Olive",
         "measure_ja": "",
         "measure_en": ""
@@ -115963,8 +115965,8 @@
         "measure_en": "50ml"
       },
       {
-        "name_ja": "梅",
-        "name_en": "Pickled plum",
+        "name_ja": "梅干し",
+        "name_en": "Pickled Plum",
         "measure_ja": "1個",
         "measure_en": "1 piece"
       }
@@ -116361,7 +116363,7 @@
       },
       {
         "name_ja": "コアップガラナ",
-        "name_en": "",
+        "name_en": "Kooup Guarana",
         "measure_ja": "4/10",
         "measure_en": ""
       }
@@ -116443,7 +116445,7 @@
     "ingredients": [
       {
         "name_ja": "紅乙女",
-        "name_en": "Kouotome",
+        "name_en": "Beniotome",
         "measure_ja": "20ml",
         "measure_en": "20ml"
       },
@@ -116509,7 +116511,7 @@
         "measure_en": "90ml"
       },
       {
-        "name_ja": "ハチミツ",
+        "name_ja": "はちみつ",
         "name_en": "Honey",
         "measure_ja": "2tsp",
         "measure_en": "2 tsp"
@@ -116597,8 +116599,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "生卵黄",
-        "name_en": "Raw egg yolk",
+        "name_ja": "卵黄",
+        "name_en": "Egg Yolk",
         "measure_ja": "1個分",
         "measure_en": "1"
       },
