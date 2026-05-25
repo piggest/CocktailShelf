@@ -764,8 +764,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "10 ml (1/6) 合計 60 ml",
-        "measure_en": "10 ml (1/6) 合計 60 ml"
+        "measure_ja": "10 ml (1/6)",
+        "measure_en": "10 ml (1/6)"
       }
     ],
     "instructions_ja": "1.ウイスキー・ドライシェリー・レモンジュース・グレナデンシロップをシェイクしてカクテル・グラスに注ぐ。",
@@ -2386,8 +2386,8 @@
       {
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
-        "measure_ja": "100 ml 合計 1,100 ml",
-        "measure_en": "100 ml 合計 1,100 ml"
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
       },
       {
         "name_ja": "粉砂糖",
@@ -2681,7 +2681,7 @@
         "measure_en": "40 ml"
       },
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
@@ -2795,8 +2795,8 @@
       {
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
-        "measure_ja": "1 dash (1 ml) 合計 61 ml",
-        "measure_en": "1 dash (1 ml) 合計 61 ml"
+        "measure_ja": "1 dash (1 ml)",
+        "measure_en": "1 dash (1 ml)"
       },
       {
         "name_ja": "オリーブ",
@@ -2935,8 +2935,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "4 dashes (4 ml、0.8 tsp) 合計 64 ml",
-        "measure_en": "4 dashes (4 ml、0.8 tsp) 合計 64 ml"
+        "measure_ja": "4 dashes (4 ml、0.8 tsp)",
+        "measure_en": "4 dashes (4 ml、0.8 tsp)"
       }
     ],
     "instructions_ja": "1.ジン・ドライベルモット・グレナデンシロップをシェイクしてカクテル・グラスに注ぐ。",
@@ -3111,7 +3111,7 @@
         "measure_en": "40 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
@@ -4626,8 +4626,8 @@
       {
         "name_ja": "アブサン",
         "name_en": "Absinthe",
-        "measure_ja": "1 dash (1 ml、0.2 tsp) 合計 61 ml",
-        "measure_en": "1 dash (1 ml、0.2 tsp) 合計 61 ml"
+        "measure_ja": "1 dash (1 ml、0.2 tsp)",
+        "measure_en": "1 dash (1 ml、0.2 tsp)"
       }
     ],
     "instructions_ja": "1.ジン・デュボネ・アブサンをシェイクしてカクテル・グラスに注ぐ。",
@@ -5448,8 +5448,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "4 dashes (4 ml、0.8 tsp) 合計 64 ml",
-        "measure_en": "4 dashes (4 ml、0.8 tsp) 合計 64 ml"
+        "measure_ja": "4 dashes (4 ml、0.8 tsp)",
+        "measure_en": "4 dashes (4 ml、0.8 tsp)"
       }
     ],
     "instructions_ja": "1.アプリコットブランデー・オレンジキュラソー・レモンジュースをシェイクしてカクテル・グラスに注ぐ。",
@@ -5964,8 +5964,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "45 ml 合計 145 ml",
-        "measure_en": "45 ml 合計 145 ml"
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       }
     ],
     "instructions_ja": "1.ココナッツリキュール・アプリコットブランデー・パイナップルジュース・牛乳を良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -6004,8 +6004,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. (砂糖) 合計 70 ml",
-        "measure_en": "1 tsp. (砂糖) 合計 70 ml"
+        "measure_ja": "1 tsp. (砂糖)",
+        "measure_en": "1 tsp. (砂糖)"
       },
       {
         "name_ja": "カットレモン",
@@ -6244,8 +6244,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "2 dashes (2 ml) 合計 64 ml",
-        "measure_en": "2 dashes (2 ml) 合計 64 ml"
+        "measure_ja": "2 dashes (2 ml)",
+        "measure_en": "2 dashes (2 ml)"
       },
       {
         "name_ja": "レモンピール",
@@ -7567,8 +7567,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.カットレモンを絞りグラスに落とす \n2.氷を入れる \n3.アマレットを量り入れステア \n4.ジンジャーエールで満たし軽くステア",
@@ -8445,8 +8445,8 @@
       {
         "name_ja": "スコッチ",
         "name_en": "Scotch whisky",
-        "measure_ja": "2 dashes (2 ml、0.4 tsp) 合計 62 ml",
-        "measure_en": "2 dashes (2 ml、0.4 tsp) 合計 62 ml"
+        "measure_ja": "2 dashes (2 ml、0.4 tsp)",
+        "measure_en": "2 dashes (2 ml、0.4 tsp)"
       }
     ],
     "instructions_ja": "1.キュンメル・スイートベルモット・スコッチをシェイクしてカクテル・グラスに注ぐ。",
@@ -8689,8 +8689,8 @@
       {
         "name_ja": "マラスキーノリキュール",
         "name_en": "Maraschino liqueur",
-        "measure_ja": "15 ml (1/4) 合計 60 ml",
-        "measure_en": "15 ml (1/4) 合計 60 ml"
+        "measure_ja": "15 ml (1/4)",
+        "measure_en": "15 ml (1/4)"
       }
     ],
     "instructions_ja": "1.キルシュ・イエローシャルトリューズ・ホワイトキュラソー・マラスキーノリキュールをシェイクしてカクテル・グラスに注ぐ。",
@@ -8874,8 +8874,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "4 dashes (4 ml、0.8 tsp) 合計 68 ml",
-        "measure_en": "4 dashes (4 ml、0.8 tsp) 合計 68 ml"
+        "measure_ja": "4 dashes (4 ml、0.8 tsp)",
+        "measure_en": "4 dashes (4 ml、0.8 tsp)"
       }
     ],
     "instructions_ja": "1.ジン・オレンジキュラソー・ドライベルモット・スイートベルモット・アンゴスチュラビターズをシェイクしてカクテル・グラスに注ぐ。",
@@ -9243,8 +9243,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.ジン・マラスキーノリキュール・レモンジュースをシェイクしてカクテル・グラスに注ぐ。",
@@ -9533,8 +9533,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "1 dash (1 ml) 合計 61 ml",
-        "measure_en": "1 dash (1 ml) 合計 61 ml"
+        "measure_ja": "1 dash (1 ml)",
+        "measure_en": "1 dash (1 ml)"
       }
     ],
     "instructions_ja": "1.アップルブランデー・ホワイトキュラソー・デュボネ・アンゴスチュラビターズをシェイクしてカクテル・グラスに注ぐ。",
@@ -10445,7 +10445,7 @@
         "measure_en": "20 ml"
       },
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
@@ -11226,8 +11226,8 @@
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "1 tsp. 合計 60 ml",
-        "measure_en": "1 tsp. 合計 60 ml"
+        "measure_ja": "1 tsp.",
+        "measure_en": "1 tsp."
       }
     ],
     "instructions_ja": "1.ホワイトラム・ピーチリキュール・パイナップルジュース・レモンジュース・ブルーキュラソーをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -12032,8 +12032,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "1 dash 合計 71 ml",
-        "measure_en": "1 dash 合計 71 ml"
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "レモンピール",
@@ -12382,8 +12382,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "1 dash (1 ml) 合計 71 ml",
-        "measure_en": "1 dash (1 ml) 合計 71 ml"
+        "measure_ja": "1 dash (1 ml)",
+        "measure_en": "1 dash (1 ml)"
       },
       {
         "name_ja": "カットライム",
@@ -12476,8 +12476,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "2 tsp. (10 ml) 合計 75 ml",
-        "measure_en": "2 tsp. (10 ml) 合計 75 ml"
+        "measure_ja": "2 tsp. (10 ml)",
+        "measure_en": "2 tsp. (10 ml)"
       },
       {
         "name_ja": "カットレモン",
@@ -12705,8 +12705,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "オレンジピール",
@@ -13840,8 +13840,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "10 ml (1/6) 合計 60 ml",
-        "measure_en": "10 ml (1/6) 合計 60 ml"
+        "measure_ja": "10 ml (1/6)",
+        "measure_en": "10 ml (1/6)"
       }
     ],
     "instructions_ja": "1.ジン・デュボネ・チェリーリキュール・オレンジジュースをシェイクしてグラスに注ぐ",
@@ -14063,7 +14063,7 @@
         "measure_en": "15 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -14150,7 +14150,7 @@
         "measure_en": "45 ml"
       },
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "1 dash",
         "measure_en": "1 dash"
@@ -14188,7 +14188,7 @@
         "measure_en": "60 ml"
       },
       {
-        "name_ja": "アニス酒",
+        "name_ja": "アニゼット",
         "name_en": "Anise liquor",
         "measure_ja": "1 dash",
         "measure_en": "1 dash",
@@ -15305,7 +15305,7 @@
         "measure_en": "20 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
@@ -15793,8 +15793,8 @@
       {
         "name_ja": "卵",
         "name_en": "Egg",
-        "measure_ja": "1 個 (60 ml) 合計 135 ml",
-        "measure_en": "1 個 (60 ml) 合計 135 ml"
+        "measure_ja": "1 個 (60 ml)",
+        "measure_en": "1 個 (60 ml)"
       }
     ],
     "instructions_ja": "1.ブランデー・オレンジキュラソー・レモンジュース・シュガーシロップ・卵を良くシェイクしてグラスに注ぐ →氷は入れない 全卵を使う。",
@@ -16216,8 +16216,8 @@
       {
         "name_ja": "生クリーム",
         "name_en": "Fresh cream",
-        "measure_ja": "15 ml (1/4) 合計 60 ml",
-        "measure_en": "15 ml (1/4) 合計 60 ml"
+        "measure_ja": "15 ml (1/4)",
+        "measure_en": "15 ml (1/4)"
       }
     ],
     "instructions_ja": "1.ウォッカ・グリーンバナナリキュール・グリーンミントリキュール・生クリームをシェイクしてグラスに注ぐ",
@@ -16798,7 +16798,7 @@
         "measure_en": ""
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "",
         "measure_en": ""
@@ -17698,8 +17698,8 @@
       {
         "name_ja": "バイオレットリキュール",
         "name_en": "Crème de violette",
-        "measure_ja": "20 ml (1/3) (紫) 合計 60 ml",
-        "measure_en": "20 ml (1/3) (紫) 合計 60 ml"
+        "measure_ja": "20 ml (1/3) (紫)",
+        "measure_en": "20 ml (1/3) (紫)"
       }
     ],
     "instructions_ja": "1.フランボワーズリキュール・マラスキーノリキュール・バイオレットリキュールの順にフロートする",
@@ -17890,7 +17890,7 @@
         "measure_en": "1/4"
       },
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "1/4",
         "measure_en": "1/4"
@@ -18033,8 +18033,8 @@
       {
         "name_ja": "ジンジャーエール",
         "name_en": "Ginger ale",
-        "measure_ja": "20 ml (1/3) 合計 60 ml",
-        "measure_en": "20 ml (1/3) 合計 60 ml"
+        "measure_ja": "20 ml (1/3)",
+        "measure_en": "20 ml (1/3)"
       }
     ],
     "instructions_ja": "1.バーボン・ベネディクティン・ジンジャーエールをステアしてグラスに注ぐ",
@@ -18785,7 +18785,7 @@
         "measure_en": "30 ml (1/2)"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml (1/6)",
         "measure_en": "10 ml (1/6)"
@@ -19530,8 +19530,8 @@
       {
         "name_ja": "カットライム",
         "name_en": "Lime wedge",
-        "measure_ja": "1/8 個 合計 130 ml",
-        "measure_en": "1/8 個 合計 130 ml"
+        "measure_ja": "1/8 個",
+        "measure_en": "1/8 個"
       }
     ],
     "instructions_ja": "1.カットライムを絞りグラスに入れ、氷を入れる \n2.オレンジジュースを量り入れステア \n3.トニックウォーターで満たし軽くステア",
@@ -19977,7 +19977,7 @@
         "measure_en": "120 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -20508,7 +20508,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -20543,7 +20543,7 @@
     "image": "data/images-wiki-ja/32111.jpg",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -20587,7 +20587,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -20621,7 +20621,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -20640,7 +20640,7 @@
         "note": "適量"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -20675,7 +20675,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -20714,7 +20714,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -20749,7 +20749,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -20790,7 +20790,7 @@
         "note": "マリブ"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
@@ -20804,8 +20804,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "45 ml 合計 145 ml",
-        "measure_en": "45 ml 合計 145 ml"
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       }
     ],
     "instructions_ja": "1.ココナッツリキュール・クレームドカシス・パイナップルジュース・牛乳を良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -20830,7 +20830,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -20877,7 +20877,7 @@
         "measure_en": "25 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
@@ -20912,7 +20912,7 @@
     "image": "data/images-wiki-ja/32114.jpg",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "",
         "measure_en": ""
@@ -20966,7 +20966,7 @@
         "note": "ティフィン"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
@@ -21001,7 +21001,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -21039,7 +21039,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -21078,7 +21078,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -21113,7 +21113,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -21166,7 +21166,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -21210,7 +21210,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -21879,7 +21879,7 @@
         "measure_en": "45 ml"
       },
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "1 tsp",
         "measure_en": "1 tsp"
@@ -22984,8 +22984,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "45 ml 合計 145 ml",
-        "measure_en": "45 ml 合計 145 ml"
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       }
     ],
     "instructions_ja": "1.ココナッツリキュール・コーヒーリキュール・パイナップルジュース・牛乳を良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -23272,8 +23272,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.コーヒーリキュール・牛乳を良くシェイクしグラスに注ぐ \n2.氷を入れる",
@@ -23307,8 +23307,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       },
       {
         "name_ja": "シナモンパウダー",
@@ -23355,8 +23355,8 @@
       {
         "name_ja": "カットライム",
         "name_en": "Lime wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.カットライムを絞りグラスに入れる \n2.グラスに氷を入れる \n3.グラスにコーヒーリキュールを量り入れステア \n4.炭酸水で満たし軽くステア",
@@ -24318,8 +24318,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.カンパリ・オレンジジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -24423,8 +24423,8 @@
       {
         "name_ja": "グレープフルーツジュース",
         "name_en": "Grapefruit juice",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.カンパリ・グレープフルーツジュースをシェイクしグラスに注ぐ \n2.氷を入れる",
@@ -24870,7 +24870,7 @@
         "measure_en": "20 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
@@ -25054,7 +25054,7 @@
     "image": "data/images-public/17203.jpg",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "1 part",
         "measure_en": "1 part"
@@ -25131,7 +25131,7 @@
     "image": "data/images-openverse/13837.jpg",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "1 part",
         "measure_en": "1 part"
@@ -25177,7 +25177,7 @@
         "note": "9パート"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml",
         "measure_en": "10 ml",
@@ -26575,7 +26575,7 @@
         "measure_en": "30 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -27026,8 +27026,8 @@
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "2 tsps. 合計 70 ml",
-        "measure_en": "2 tsps. 合計 70 ml"
+        "measure_ja": "2 tsps.",
+        "measure_en": "2 tsps."
       }
     ],
     "instructions_ja": "1.ジン・ドライベルモット・スイートベルモット・パイナップルジュースをシェイクしてグラスに注ぐ",
@@ -28246,7 +28246,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "40 ml",
         "measure_en": "40 ml"
@@ -28410,8 +28410,8 @@
       {
         "name_ja": "炭酸水",
         "name_en": "Soda water",
-        "measure_ja": "400 ml (2本) 合計 1,310 ml",
-        "measure_en": "400 ml (2本) 合計 1,310 ml"
+        "measure_ja": "400 ml (2本)",
+        "measure_en": "400 ml (2本)"
       }
     ],
     "instructions_ja": "1.氷を入れたピッチャーに赤ワイン・ブランデー・ホワイトキュラソー・シュガーシロップを量り入れ混ぜる \n2.炭酸水を入れ軽く混ぜる \n3.グラスに取り分けて提供する",
@@ -28452,8 +28452,8 @@
       {
         "name_ja": "マラスキーノリキュール",
         "name_en": "Maraschino liqueur",
-        "measure_ja": "1 tsp. (5 ml) 合計 100 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 100 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "クラッシュドアイス",
@@ -28566,8 +28566,8 @@
       {
         "name_ja": "炭酸水",
         "name_en": "Soda water",
-        "measure_ja": "400 ml (2本) 合計 1,540 ml",
-        "measure_en": "400 ml (2本) 合計 1,540 ml"
+        "measure_ja": "400 ml (2本)",
+        "measure_en": "400 ml (2本)"
       },
       {
         "name_ja": "フルーツ",
@@ -31004,8 +31004,8 @@
       {
         "name_ja": "卵白",
         "name_en": "Egg white",
-        "measure_ja": "1 個分 (40 ml) 合計 90 ml",
-        "measure_en": "1 個分 (40 ml) 合計 90 ml"
+        "measure_ja": "1 個分 (40 ml)",
+        "measure_en": "1 個分 (40 ml)"
       },
       {
         "name_ja": "ミントの葉",
@@ -31137,8 +31137,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "110 ml (120 ml) 合計 185 ml",
-        "measure_en": "110 ml (120 ml) 合計 185 ml"
+        "measure_ja": "110 ml (120 ml)",
+        "measure_en": "110 ml (120 ml)"
       },
       {
         "name_ja": "シナモンスティック",
@@ -31417,7 +31417,7 @@
         "measure_en": "15 ml (1/4)"
       },
       {
-        "name_ja": "アニス酒",
+        "name_ja": "アニゼット",
         "name_en": "Anise liquor",
         "measure_ja": "15 ml (1/4)",
         "measure_en": "15 ml (1/4)",
@@ -32484,8 +32484,8 @@
       {
         "name_ja": "卵黄",
         "name_en": "Egg yolk",
-        "measure_ja": "1 個分 (20 ml) 合計 87 ml",
-        "measure_en": "1 個分 (20 ml) 合計 87 ml"
+        "measure_ja": "1 個分 (20 ml)",
+        "measure_en": "1 個分 (20 ml)"
       }
     ],
     "instructions_ja": "1.ポートワイン・ブランデー・オレンジキュラソー・シュガーシロップ・卵黄をシェイクしてグラスに注ぐ",
@@ -32887,8 +32887,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "5 ml (少々) 合計 90 ml",
-        "measure_en": "5 ml (少々) 合計 90 ml"
+        "measure_ja": "5 ml (少々)",
+        "measure_en": "5 ml (少々)"
       }
     ],
     "instructions_ja": "1.アップルブランデー・オレンジキュラソー・アップルジュース・レモンジュースをシェイクしてグラスに注ぐ",
@@ -33157,8 +33157,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計65 ml",
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)",
         "note": "沈める"
       }
     ],
@@ -33254,8 +33254,8 @@
       {
         "name_ja": "生クリーム",
         "name_en": "Fresh cream",
-        "measure_ja": "20 ml (1/3) 合計 60 ml",
-        "measure_en": "20 ml (1/3) 合計 60 ml"
+        "measure_ja": "20 ml (1/3)",
+        "measure_en": "20 ml (1/3)"
       }
     ],
     "instructions_ja": "1.ガリアーノ・アマレット・生クリームを良くシェイクしてグラスに注ぐ",
@@ -34362,8 +34362,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "45 ml 合計 125 ml",
-        "measure_en": "45 ml 合計 125 ml"
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       }
     ],
     "instructions_ja": "1.カシャーサ・ココナッツリキュール・シュガーシロップ・牛乳を良くシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -36521,7 +36521,7 @@
         "measure_en": "60 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "1 tsp",
         "measure_en": "1 tsp"
@@ -39286,7 +39286,7 @@
         "measure_en": "360 ml"
       },
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "90 ml",
         "measure_en": "90 ml"
@@ -39444,7 +39444,7 @@
         "measure_en": "1/2 oz"
       },
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "6 ドロップ",
         "measure_en": "6 drops"
@@ -40356,7 +40356,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "1 ショット",
         "measure_en": "1 shot"
@@ -41671,7 +41671,7 @@
         "measure_en": "20 ml"
       },
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
@@ -42311,8 +42311,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "90 ml (1/2) 合計 180 ml",
-        "measure_en": "90 ml (1/2) 合計 180 ml"
+        "measure_ja": "90 ml (1/2)",
+        "measure_en": "90 ml (1/2)"
       }
     ],
     "instructions_ja": "1.グラスにオレンジジュースを量り入れる →氷は入れない \n2.スパークリングワインをグラスの3/4まで注ぎ軽くステア",
@@ -42493,8 +42493,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. 合計 180 ml",
-        "measure_en": "1 tsp. 合計 180 ml"
+        "measure_ja": "1 tsp.",
+        "measure_en": "1 tsp."
       }
     ],
     "instructions_ja": "1.オレンジジュース・レモンジュース・シュガーシロップをシェイクしてグラスに注ぐ →氷は入れない \n2.スパークリングワインをグラスの3/4まで注ぎ軽くステア",
@@ -42581,8 +42581,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. 合計 120 ml",
-        "measure_en": "1 tsp. 合計 120 ml"
+        "measure_ja": "1 tsp.",
+        "measure_en": "1 tsp."
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにオレンジキュラソー・レモンジュース・シュガーシロップを量り入れステア －氷は4個 \n2.スパークリングワインで満たし軽くステア",
@@ -42743,7 +42743,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -42784,7 +42784,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
@@ -42832,7 +42832,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
@@ -42882,8 +42882,8 @@
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "20 ml (1/3) 合計 60 ml",
-        "measure_en": "20 ml (1/3) 合計 60 ml"
+        "measure_ja": "20 ml (1/3)",
+        "measure_en": "20 ml (1/3)"
       }
     ],
     "instructions_ja": "1.メロンリキュール・ココナッツリキュール・パイナップルジュースをシェイクしてグラスに注ぐ",
@@ -43012,7 +43012,7 @@
         "measure_en": "40 ml"
       },
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
@@ -43068,8 +43068,8 @@
       {
         "name_ja": "グリーンティーリキュール",
         "name_en": "Green tea liqueur",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "桜の花の塩漬け",
@@ -43210,8 +43210,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "2 tsps. 合計 90 ml",
-        "measure_en": "2 tsps. 合計 90 ml"
+        "measure_ja": "2 tsps.",
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "ミントの葉",
@@ -43585,8 +43585,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "マラスキーノチェリー",
@@ -43909,8 +43909,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "15 ml 合計 145 ml",
-        "measure_en": "15 ml 合計 145 ml"
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスに白ワイン・ホワイトキュラソー・オレンジジュース・グレナデンシロップを量り入れステア",
@@ -44431,8 +44431,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "1 dash 合計 71 ml",
-        "measure_en": "1 dash 合計 71 ml"
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "レモンピール",
@@ -44583,8 +44583,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "2 tsps. (砂糖) 合計 90 ml",
-        "measure_en": "2 tsps. (砂糖) 合計 90 ml"
+        "measure_ja": "2 tsps. (砂糖)",
+        "measure_en": "2 tsps. (砂糖)"
       },
       {
         "name_ja": "ミントの葉",
@@ -45804,7 +45804,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -46323,8 +46323,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.氷を入れる \n3.ホワイトラムを量り入れる →ホワイトラムは冷凍しているのでステアは不要 \n4.ジンジャーエールで満たし軽くステア",
@@ -46735,8 +46735,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにフレーバーウォッカ・ライムジュースを量り入れステア \n2.ジンジャーエールで満たし軽くステア \n3.カットレモンを軽く絞りグラスに落とす",
@@ -47437,8 +47437,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.氷を入れる \n3.スコッチを量り入れステア \n4.ジンジャーエールで満たし軽くステア",
@@ -47590,7 +47590,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml (1/3)",
         "measure_en": "15 ml (1/3)",
@@ -47641,8 +47641,8 @@
       {
         "name_ja": "ジン",
         "name_en": "Gin",
-        "measure_ja": "30 ml (1/2) 合計 60 ml",
-        "measure_en": "30 ml (1/2) 合計 60 ml"
+        "measure_ja": "30 ml (1/2)",
+        "measure_en": "30 ml (1/2)"
       }
     ],
     "instructions_ja": "1.ブランデー・ジンをステアしてグラスに注ぐ",
@@ -48128,8 +48128,8 @@
       {
         "name_ja": "イチゴ",
         "name_en": "Strawberry",
-        "measure_ja": "2 個 (10 ml) 合計 70 ml",
-        "measure_en": "2 個 (10 ml) 合計 70 ml"
+        "measure_ja": "2 個 (10 ml)",
+        "measure_en": "2 個 (10 ml)"
       }
     ],
     "instructions_ja": "1.イチゴをシェイカーに入れペストルで潰す \n2.ウォッカ・ストロベリーリキュール・イチゴを良くシェイクしてグラスに注ぐ",
@@ -48303,8 +48303,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "45 ml 合計 145 ml",
-        "measure_en": "45 ml 合計 145 ml"
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       }
     ],
     "instructions_ja": "1.ココナッツリキュール・ストロベリーリキュール・パイナップルジュース・牛乳を良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -49099,7 +49099,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -49633,8 +49633,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "2 tsps. (黄) 合計 75 ml",
-        "measure_en": "2 tsps. (黄) 合計 75 ml"
+        "measure_ja": "2 tsps. (黄)",
+        "measure_en": "2 tsps. (黄)"
       },
       {
         "name_ja": "ミントチェリー",
@@ -50684,8 +50684,8 @@
       {
         "name_ja": "ウォッカ",
         "name_en": "Vodka",
-        "measure_ja": "20 ml (1/3) 合計 60 ml",
-        "measure_en": "20 ml (1/3) 合計 60 ml"
+        "measure_ja": "20 ml (1/3)",
+        "measure_en": "20 ml (1/3)"
       },
       {
         "name_ja": "レモンピール",
@@ -50831,8 +50831,8 @@
       {
         "name_ja": "卵白",
         "name_en": "Egg white",
-        "measure_ja": "1 個分 (40 ml） 合計 105 ml",
-        "measure_en": "1 個分 (40 ml） 合計 105 ml"
+        "measure_ja": "1 個分 (40 ml）",
+        "measure_en": "1 個分 (40 ml）"
       }
     ],
     "instructions_ja": "1.ホワイトラム・ライムジュース・グレナデンシロップ・卵白を良くシェイクしてグラスに注ぐ",
@@ -51415,7 +51415,7 @@
         "measure_en": ""
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "",
         "measure_en": ""
@@ -52403,7 +52403,7 @@
         "measure_en": "30 ml"
       },
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "1 小さじ",
         "measure_en": "1 tsp"
@@ -52929,8 +52929,8 @@
       {
         "name_ja": "コーヒーリキュール",
         "name_en": "Coffee liqueur",
-        "measure_ja": "20 ml (1/3) (カルーア) 合計 60 ml",
-        "measure_en": "20 ml (1/3) (カルーア) 合計 60 ml"
+        "measure_ja": "20 ml (1/3) (カルーア)",
+        "measure_en": "20 ml (1/3) (カルーア)"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにブランデー・コーヒーリキュールを量り入れステア →コーヒーリキュールが溶けにくいので、ポンピングをしっかりする",
@@ -53589,7 +53589,7 @@
         "measure_en": "15 ml"
       },
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "4 ml",
         "measure_en": "4 ml"
@@ -53657,7 +53657,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -55341,7 +55341,7 @@
         "note": "モーツァルト ブラック"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -55398,8 +55398,8 @@
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "90 ml 合計 150 ml",
-        "measure_en": "90 ml 合計 150 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.ホワイトラム・チョコレートリキュール・ココナッツリキュール・パイナップルジュースを良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -55532,8 +55532,8 @@
       {
         "name_ja": "ライムジュース",
         "name_en": "Lime juice",
-        "measure_ja": "15 ml 合計 70 ml",
-        "measure_en": "15 ml 合計 70 ml"
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "カットライム",
@@ -55626,8 +55626,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "30 ml 合計 90 ml",
-        "measure_en": "30 ml 合計 90 ml"
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "1.チョコレートリキュール・レモンジュース・シュガーシロップ・オレンジジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -55734,8 +55734,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "10 ml 合計 70 ml",
-        "measure_en": "10 ml 合計 70 ml"
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
       },
       {
         "name_ja": "クラッシュドアイス",
@@ -55901,8 +55901,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "15 ml 合計 225 ml",
-        "measure_en": "15 ml 合計 225 ml"
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "1.ダークラム・チョコレートリキュール・オレンジジュース・パイナップルジュース・レモンジュース・グレナデンシロップをシェイクしてグラスに注ぐ \n2.氷を入れる →氷の数で全体の量を調整する(2個くらいか？) →氷を含めグラスの2/3程度になるようにする",
@@ -56003,8 +56003,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "10 ml 合計 70 ml",
-        "measure_en": "10 ml 合計 70 ml"
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
       }
     ],
     "instructions_ja": "1.グラスをスノー・スタイルして冷凍庫で冷やす \n2.テキーラ・チョコレートリキュール・オレンジキュラソー・レモンジュースをシェイクしてグラスに注ぐ",
@@ -56240,7 +56240,7 @@
         "note": "チンザノ"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -56443,8 +56443,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "60 ml 合計 125 ml",
-        "measure_en": "60 ml 合計 125 ml"
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       }
     ],
     "instructions_ja": "1.ジン・グリーンティーリキュール・紅茶リキュール・牛乳をシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -56578,7 +56578,7 @@
         "measure_en": "45 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -57936,8 +57936,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "1 dash (0.2 tsps.) 合計 181 ml",
-        "measure_en": "1 dash (0.2 tsps.) 合計 181 ml"
+        "measure_ja": "1 dash (0.2 tsps.)",
+        "measure_en": "1 dash (0.2 tsps.)"
       }
     ],
     "instructions_ja": "1.グラスにグレープフルーツジュース・グレナデンシロップを量り入れる →氷は入れない \n2.スパークリングワインをグラスの3/4まで注ぐ →ステアはしない",
@@ -58143,7 +58143,7 @@
         "note": "ティフィン"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
@@ -58373,7 +58373,7 @@
         "measure_en": "12 ml"
       },
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "12 ml",
         "measure_en": "12 ml"
@@ -58911,8 +58911,8 @@
       {
         "name_ja": "カットライム",
         "name_en": "Lime wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットライムを絞り入れ皮もグラスに入れる \n2.氷を入れる \n3.テキーラを量り入れステア \n4.トニックウォーターで満たし軽くステア",
@@ -58995,8 +58995,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.氷を入れる \n3.テキーラを量り入れる →テキーラは冷凍しているのでステアは不要 \n4.ジンジャーエールで満たし軽くステア",
@@ -59559,8 +59559,8 @@
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "30 ml 合計 150 ml",
-        "measure_en": "30 ml 合計 150 ml"
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "1.ホワイトラム・バナナリキュール・オレンジジュース・パイナップルジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -62114,7 +62114,7 @@
         "measure_en": "15 ml"
       },
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "1 dash",
         "measure_en": "1 dash"
@@ -62671,7 +62671,7 @@
         "measure_en": "1 tsp."
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "0.5 tsp.",
         "measure_en": "0.5 tsp."
@@ -66267,8 +66267,8 @@
       {
         "name_ja": "卵黄",
         "name_en": "Egg yolk",
-        "measure_ja": "1 個分 (20 ml) 合計 84 ml",
-        "measure_en": "1 個分 (20 ml) 合計 84 ml"
+        "measure_ja": "1 個分 (20 ml)",
+        "measure_en": "1 個分 (20 ml)"
       }
     ],
     "instructions_ja": "1.オレンジジュース・グレナデンシロップ・卵黄を良くシェイクしてグラスに注ぐ",
@@ -66672,8 +66672,8 @@
       {
         "name_ja": "卵白",
         "name_en": "Egg white",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.ジン・ピーチリキュール・レモンジュース・卵白を良くシェイクしてグラスに注ぐ",
@@ -67080,8 +67080,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.氷を入れる \n3.バーボンを量り入れステア \n4.ジンジャーエールで満たし軽くステア",
@@ -67290,8 +67290,8 @@
       {
         "name_ja": "卵白",
         "name_en": "Egg white",
-        "measure_ja": "1 個分 (40 ml) 合計 100 ml",
-        "measure_en": "1 個分 (40 ml) 合計 100 ml"
+        "measure_ja": "1 個分 (40 ml)",
+        "measure_en": "1 個分 (40 ml)"
       }
     ],
     "instructions_ja": "1.ウォッカ・ホワイトキュラソー・パイナップルジュース・卵白を良くシェイクしてグラスに注ぐ",
@@ -68045,8 +68045,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "0.4 tsp. (2 ml) 合計 62 ml",
-        "measure_en": "0.4 tsp. (2 ml) 合計 62 ml"
+        "measure_ja": "0.4 tsp. (2 ml)",
+        "measure_en": "0.4 tsp. (2 ml)"
       }
     ],
     "instructions_ja": "1.ホワイトラム・ジン・ライムジュース・グレナデンシロップをシェイクしてグラスに注ぐ。",
@@ -69834,8 +69834,8 @@
       {
         "name_ja": "パッションフルーツシロップ",
         "name_en": "Passion fruit syrup",
-        "measure_ja": "10 ml (パッソアで代用可) 合計 225 ml",
-        "measure_en": "10 ml (パッソアで代用可) 合計 225 ml"
+        "measure_ja": "10 ml (パッソアで代用可)",
+        "measure_en": "10 ml (パッソアで代用可)"
       }
     ],
     "instructions_ja": "1.カシャーサ・チョコレートリキュール・レモンジュース・マンゴージュース・オレンジジュース・パイナップルジュースをミキサーにかけグラスに注ぐ \n2.氷を入れ軽くステア \n3.ストローを添える",
@@ -71434,8 +71434,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計 66 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 66 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.アプリコットブランデー・生クリーム・ジン・シュガーシロップをよくシェークしてカクテル・グラスに注ぐ。",
@@ -72051,7 +72051,7 @@
         "measure_en": "20 ml (1/3)"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml (1/6)",
         "measure_en": "10 ml (1/6)"
@@ -72147,8 +72147,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "2 tsp. (10 ml) 合計 110 ml",
-        "measure_en": "2 tsp. (10 ml) 合計 110 ml"
+        "measure_ja": "2 tsp. (10 ml)",
+        "measure_en": "2 tsp. (10 ml)"
       }
     ],
     "instructions_ja": "1.ウォッカ・ストロベリーリキュール・グレープフルーツジュース・グレナデンシロップ・レモンジュースをシェイクしてグラスに注ぐ",
@@ -72181,8 +72181,8 @@
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
-        "measure_ja": "45 ml (1/2) (コニャック) (フロート) 合計 90 ml",
-        "measure_en": "45 ml (1/2) (コニャック) (フロート) 合計 90 ml"
+        "measure_ja": "45 ml (1/2) (コニャック) (フロート)",
+        "measure_en": "45 ml (1/2) (コニャック) (フロート)"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにヒプノティックを量り入れる \n2.ブランデーを静かにフロートする \n3.マドラーを添える",
@@ -72774,8 +72774,8 @@
       {
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
-        "measure_ja": "1 tsp. (5 ml) 合計 67 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 67 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "レモンピール",
@@ -74575,8 +74575,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.ピーチリキュール・牛乳・グレナデンシロップをよくシェイクしてグラスに注ぐ \n2.氷を入れる →お好みにより、ストローを添える",
@@ -74710,8 +74710,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "80 ml (フロート) 合計 120 ml",
-        "measure_en": "80 ml (フロート) 合計 120 ml"
+        "measure_ja": "80 ml (フロート)",
+        "measure_en": "80 ml (フロート)"
       }
     ],
     "instructions_ja": "1.氷の入ったグラスにピーチリキュール・ブルーキュラソーを量り入れステア \n2.牛乳をフロートしながら満たす →混ぜないで、そのまま飲むので、マドラーは提供しない",
@@ -74840,8 +74840,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "30 ml (1/6) 合計 180 ml",
-        "measure_en": "30 ml (1/6) 合計 180 ml"
+        "measure_ja": "30 ml (1/6)",
+        "measure_en": "30 ml (1/6)"
       }
     ],
     "instructions_ja": "1.白ワイン・ピーチリキュール・ストロベリーリキュール・牛乳をシェイクしてグラスに注ぐ →氷は入れない",
@@ -74872,7 +74872,7 @@
         "measure_en": "20 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
@@ -75243,8 +75243,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計 160 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 160 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに赤ワイン・オレンジジュース・レモンジュース・シュガーシロップを量り入れる \n2.電子レンジで温める \n3.グラスに注ぐ",
@@ -75969,8 +75969,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "15 ml (1/4) 合計 60 ml",
-        "measure_en": "15 ml (1/4) 合計 60 ml"
+        "measure_ja": "15 ml (1/4)",
+        "measure_en": "15 ml (1/4)"
       }
     ],
     "instructions_ja": "1.ジン・サザンカンフォート・レモンジュースをシェイクしてグラスに注ぐ",
@@ -76092,8 +76092,8 @@
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "90 ml 合計 150 ml",
-        "measure_en": "90 ml 合計 150 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.ヒプノティック・ココナッツリキュール・パイナップルジュースを良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -76372,8 +76372,8 @@
       {
         "name_ja": "グレープフルーツジュース",
         "name_en": "Grapefruit juice",
-        "measure_ja": "90 ml (フロート) 合計 120 ml",
-        "measure_en": "90 ml (フロート) 合計 120 ml"
+        "measure_ja": "90 ml (フロート)",
+        "measure_en": "90 ml (フロート)"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにヒプノティックを量り入れる \n2.グレープフルーツジュースで静かに満たす(フロート) →氷にかける \n3.マドラーを提供する",
@@ -77075,8 +77075,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 115 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 115 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       },
       {
         "name_ja": "キュウリ",
@@ -77558,8 +77558,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "1 tsp. 合計 65 ml",
-        "measure_en": "1 tsp. 合計 65 ml"
+        "measure_ja": "1 tsp.",
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "グレナデンシロップ",
@@ -77764,8 +77764,8 @@
       {
         "name_ja": "生クリーム",
         "name_en": "Fresh cream",
-        "measure_ja": "1 tsp. (5 ml) 合計 75 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 75 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.ホワイトラム・ライムジュース・グレナデンシロップ・生クリームを良くシェイクしてグラスに注ぐ",
@@ -78199,8 +78199,8 @@
       {
         "name_ja": "アマレットシロップ",
         "name_en": "Amaretto syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.クランベリーリキュール・バニラリキュール・生クリーム・アマレットシロップをシェイクしてグラスに注ぐ",
@@ -78365,7 +78365,7 @@
         "measure_en": "30 ml"
       },
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -78878,8 +78878,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "1 tsp. (5 ml) 合計 80 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 80 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "マラスキーノチェリー",
@@ -79468,8 +79468,8 @@
       {
         "name_ja": "卵白",
         "name_en": "Egg white",
-        "measure_ja": "1/2 個分 (20 ml) 合計 65 ml",
-        "measure_en": "1/2 個分 (20 ml) 合計 65 ml"
+        "measure_ja": "1/2 個分 (20 ml)",
+        "measure_en": "1/2 個分 (20 ml)"
       }
     ],
     "instructions_ja": "1.ジン・アプリコットブランデー・グレナデンシロップ・卵白を良くシェイクしてグラスに注ぐ",
@@ -79521,8 +79521,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "2 tsps. 合計 60 ml",
-        "measure_en": "2 tsps. 合計 60 ml"
+        "measure_ja": "2 tsps.",
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "クラッシュドアイス",
@@ -79630,8 +79630,8 @@
       {
         "name_ja": "キウイ",
         "name_en": "Kiwi",
-        "measure_ja": "1/2 個 (45 ml) 合計 90 ml",
-        "measure_en": "1/2 個 (45 ml) 合計 90 ml"
+        "measure_ja": "1/2 個 (45 ml)",
+        "measure_en": "1/2 個 (45 ml)"
       }
     ],
     "instructions_ja": "1.シェイカーにシュガーシロップ・キウイを入れつぶす \n2.ズブロッカ・日本酒・メロンリキュール・レモンジュースを量り入れる \n3.シェイクしてグラスに注ぐ",
@@ -79829,8 +79829,8 @@
       {
         "name_ja": "卵黄",
         "name_en": "Egg yolk",
-        "measure_ja": "1 個分 (20 ml) 合計 85 ml",
-        "measure_en": "1 個分 (20 ml) 合計 85 ml"
+        "measure_ja": "1 個分 (20 ml)",
+        "measure_en": "1 個分 (20 ml)"
       }
     ],
     "instructions_ja": "1.ブランデー・オレンジキュラソー・グレナデンシロップ・卵黄を良くシェイクしてグラスに注ぐ",
@@ -80074,8 +80074,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.カットレモンをしぼりグラスに落とす \n2.グラスに氷を入れる \n3.アップルブランデーを量り入れステア \n4.ジンジャーエールで満たし軽くステア",
@@ -82321,8 +82321,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "1 dash (0.2 tsps.) (1 ml) 合計 63 ml",
-        "measure_en": "1 dash (0.2 tsps.) (1 ml) 合計 63 ml"
+        "measure_ja": "1 dash (0.2 tsps.) (1 ml)",
+        "measure_en": "1 dash (0.2 tsps.) (1 ml)"
       },
       {
         "name_ja": "レモンピール",
@@ -82738,8 +82738,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "1 dash (1 ml) 合計 71 ml",
-        "measure_en": "1 dash (1 ml) 合計 71 ml"
+        "measure_ja": "1 dash (1 ml)",
+        "measure_en": "1 dash (1 ml)"
       },
       {
         "name_ja": "カットライム",
@@ -83208,8 +83208,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.氷を入れる \n3.ブランデーを量り入れる →ブランデーは冷凍しているのでステアは不要 \n4.ジンジャーエールで満たし軽くステア",
@@ -83273,8 +83273,8 @@
       {
         "name_ja": "炭酸水",
         "name_en": "Soda water",
-        "measure_ja": "800 ml (4本) 合計 2,210 ml",
-        "measure_en": "800 ml (4本) 合計 2,210 ml"
+        "measure_ja": "800 ml (4本)",
+        "measure_en": "800 ml (4本)"
       }
     ],
     "instructions_ja": "1.大き目のボウルにブランデー・オレンジキュラソー・レモンジュース・オレンジジュース・シュガーシロップ・グレナデンシロップを量り入れる \n2.氷を入れる \n3.炭酸水を注ぐ \n4.氷を入れたグラスに分けて提供する",
@@ -83416,8 +83416,8 @@
       {
         "name_ja": "卵黄",
         "name_en": "Egg yolk",
-        "measure_ja": "1 個分 (20 ml) 合計 70 ml",
-        "measure_en": "1 個分 (20 ml) 合計 70 ml"
+        "measure_ja": "1 個分 (20 ml)",
+        "measure_en": "1 個分 (20 ml)"
       },
       {
         "name_ja": "ナツメグ",
@@ -83456,8 +83456,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "オレンジピール",
@@ -83502,8 +83502,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 50 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 50 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       },
       {
         "name_ja": "クラッシュドアイス",
@@ -83548,8 +83548,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. (5 ml) (砂糖) 合計 165 ml",
-        "measure_en": "1 tsp. (5 ml) (砂糖) 合計 165 ml"
+        "measure_ja": "1 tsp. (5 ml) (砂糖)",
+        "measure_en": "1 tsp. (5 ml) (砂糖)"
       },
       {
         "name_ja": "ナツメグ",
@@ -83607,8 +83607,8 @@
       {
         "name_ja": "カットライム",
         "name_en": "Lime wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットライムを絞り皮をグラスに入れる \n2.氷を入れる \n3.ブランデー・ホワイトキュラソー・クランベリージュースを量り入れステア \n4.炭酸水で満たし軽くステア",
@@ -83782,8 +83782,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにフランボワーズリキュールを量り入れステア \n2.炭酸水で満たし、軽くステア \n3.カットレモンを軽く絞りグラスに落とす",
@@ -84049,8 +84049,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "5 ml 合計 90 ml",
-        "measure_en": "5 ml 合計 90 ml"
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
       },
       {
         "name_ja": "マラスキーノチェリー",
@@ -84521,8 +84521,8 @@
       {
         "name_ja": "カットライム",
         "name_en": "Lime wedge",
-        "measure_ja": "1/8 個×3 (15 ml) 合計 65 ml",
-        "measure_en": "1/8 個×3 (15 ml) 合計 65 ml"
+        "measure_ja": "1/8 個×3 (15 ml)",
+        "measure_en": "1/8 個×3 (15 ml)"
       }
     ],
     "instructions_ja": "1.グラスにブルーキュラソー・シュガーシロップ・カットライムを入れペストルで磨り潰す \n2.氷を入れる \n3.カシャーサを量り入れ良くステア",
@@ -84568,8 +84568,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "55 ml 合計 155 ml",
-        "measure_en": "55 ml 合計 155 ml"
+        "measure_ja": "55 ml",
+        "measure_en": "55 ml"
       }
     ],
     "instructions_ja": "1.ココナッツリキュール・ブルーキュラソー・パイナップルジュース・牛乳を良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -84643,8 +84643,8 @@
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "1 tsp. 合計 180 ml",
-        "measure_en": "1 tsp. 合計 180 ml"
+        "measure_ja": "1 tsp.",
+        "measure_en": "1 tsp."
       }
     ],
     "instructions_ja": "1.ブルーキュラソーをグラスに量り入れる →氷は入れない \n2.スパークリングワインをグラスの3/4まで注ぎ軽くステア",
@@ -84783,8 +84783,8 @@
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.ジン・ホワイトキュラソー・レモンジュース・ブルーキュラソーをシェイクしてグラスに注ぐ",
@@ -84879,8 +84879,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "15 ml 合計 100 ml",
-        "measure_en": "15 ml 合計 100 ml"
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "クラッシュドアイス",
@@ -85582,8 +85582,8 @@
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "2 tsps. (10 ml) 合計 70 ml",
-        "measure_en": "2 tsps. (10 ml) 合計 70 ml"
+        "measure_ja": "2 tsps. (10 ml)",
+        "measure_en": "2 tsps. (10 ml)"
       },
       {
         "name_ja": "パールオニオン",
@@ -86312,8 +86312,8 @@
       {
         "name_ja": "ライチリキュール",
         "name_en": "Lychee liqueur",
-        "measure_ja": "1 tsp. (SOHO) (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (SOHO) (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (SOHO) (5 ml)",
+        "measure_en": "1 tsp. (SOHO) (5 ml)"
       }
     ],
     "instructions_ja": "1.ピーチリキュール・クレームドカルテット・アマレット・パイナップルジュース・ライチリキュールをシェイクしてグラスに注ぐ",
@@ -86346,8 +86346,8 @@
       {
         "name_ja": "コーヒーリキュール",
         "name_en": "Coffee liqueur",
-        "measure_ja": "20 ml (1/3) (カルーア) 合計 60 ml",
-        "measure_en": "20 ml (1/3) (カルーア) 合計 60 ml"
+        "measure_ja": "20 ml (1/3) (カルーア)",
+        "measure_en": "20 ml (1/3) (カルーア)"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにテキーラ・コーヒーリキュールを量り入れステア",
@@ -90518,8 +90518,8 @@
       {
         "name_ja": "クランベリージュース",
         "name_en": "Cranberry juice",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       },
       {
         "name_ja": "カットライム",
@@ -90942,8 +90942,8 @@
       {
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
-        "measure_ja": "4 dashes (0.8 tsp、4 ml) 合計 64 ml",
-        "measure_en": "4 dashes (0.8 tsp、4 ml) 合計 64 ml"
+        "measure_ja": "4 dashes (0.8 tsp、4 ml)",
+        "measure_en": "4 dashes (0.8 tsp、4 ml)"
       },
       {
         "name_ja": "レモンピール",
@@ -91247,7 +91247,7 @@
         "measure_en": "60 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -91322,7 +91322,7 @@
         "measure_en": "45 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "23 ml",
         "measure_en": "23 ml"
@@ -91542,8 +91542,8 @@
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
-        "measure_ja": "2 dashes 合計 152 ml",
-        "measure_en": "2 dashes 合計 152 ml"
+        "measure_ja": "2 dashes",
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.白ワイン・ドライベルモット・ジン・オレンジキュラソー・アンゴスチュラビターズをステアしてグラスに注ぐ →氷は入れない",
@@ -91664,8 +91664,8 @@
       {
         "name_ja": "デュボネ",
         "name_en": "Dubonnet",
-        "measure_ja": "30 ml (1/2) 合計 60 ml",
-        "measure_en": "30 ml (1/2) 合計 60 ml"
+        "measure_ja": "30 ml (1/2)",
+        "measure_en": "30 ml (1/2)"
       }
     ],
     "instructions_ja": "1.アップルブランデー・デュボネをシェイクしてグラスに注ぐ",
@@ -92540,8 +92540,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.グラスに氷を入れる \n3.サザンカンフォート・テネシーウイスキーを量り入れいれステア \n4.炭酸水で満たし軽くステア",
@@ -92792,8 +92792,8 @@
       {
         "name_ja": "卵黄",
         "name_en": "Egg yolk",
-        "measure_ja": "1 個分 (約20 ml) 合計 85 ml",
-        "measure_en": "1 個分 (約20 ml) 合計 85 ml"
+        "measure_ja": "1 個分 (約20 ml)",
+        "measure_en": "1 個分 (約20 ml)"
       },
       {
         "name_ja": "ナツメグ",
@@ -92917,8 +92917,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "135 ml (常温のものを使用) 合計 180 ml",
-        "measure_en": "135 ml (常温のものを使用) 合計 180 ml"
+        "measure_ja": "135 ml (常温のものを使用)",
+        "measure_en": "135 ml (常温のものを使用)"
       },
       {
         "name_ja": "カットレモン",
@@ -92976,8 +92976,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "15 ml 合計 180 ml",
-        "measure_en": "15 ml 合計 180 ml"
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに水・レモンジュース・シュガーシロップを量り入れ電子レンジで温める \n2.グラスに赤ワインを量り入れる \n3.グラスに水・レモンジュース・シュガーシロップを注ぎ軽くステア",
@@ -93053,8 +93053,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "135 ml (常温のものを使用) 合計 180 ml",
-        "measure_en": "135 ml (常温のものを使用) 合計 180 ml"
+        "measure_ja": "135 ml (常温のものを使用)",
+        "measure_en": "135 ml (常温のものを使用)"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに水を量り入れ電子レンジで温める \n2.グラスにウイスキーを量り入れる \n3.グラスに水を注ぎ軽くステア",
@@ -93162,8 +93162,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "100 ml 合計 175 ml",
-        "measure_en": "100 ml 合計 175 ml"
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
       },
       {
         "name_ja": "ナツメグ",
@@ -93203,8 +93203,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "135 ml (3/4) 合計 180 ml",
-        "measure_en": "135 ml (3/4) 合計 180 ml"
+        "measure_ja": "135 ml (3/4)",
+        "measure_en": "135 ml (3/4)"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに牛乳を量り入れ電子レンジで温める \n2.グラスにコーヒーリキュールを量り入れる \n3.グラスに牛乳を注ぎステア →ホットだがカルーアがやや溶けにくいので、念のため普通のステア",
@@ -93251,8 +93251,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "130 ml (常温のものを使用) 合計 180 ml",
-        "measure_en": "130 ml (常温のものを使用) 合計 180 ml"
+        "measure_ja": "130 ml (常温のものを使用)",
+        "measure_en": "130 ml (常温のものを使用)"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに水を量り入れ電子レンジで温める \n2.グラスにカンパリ・レモンジュース・シュガーシロップを量り入れる \n3.グラスに水を注ぎ軽くステア →ホットで良く溶けるので軽くでOK",
@@ -93372,8 +93372,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "130 ml (常温のものを使用する) 合計 180 ml",
-        "measure_en": "130 ml (常温のものを使用する) 合計 180 ml"
+        "measure_ja": "130 ml (常温のものを使用する)",
+        "measure_en": "130 ml (常温のものを使用する)"
       },
       {
         "name_ja": "ナツメグ",
@@ -93419,8 +93419,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "130 ml 合計 170 ml",
-        "measure_en": "130 ml 合計 170 ml"
+        "measure_ja": "130 ml",
+        "measure_en": "130 ml"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに牛乳を量り入れ電子レンジで温める \n2.グラスにタレアアマレットクリーム・コーヒーリキュールを量り入れいる \n3.温めた牛乳をグラスに注ぎ軽くステア",
@@ -93616,8 +93616,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "130 ml 合計 182 ml",
-        "measure_en": "130 ml 合計 182 ml"
+        "measure_ja": "130 ml",
+        "measure_en": "130 ml"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに牛乳を量り入れ電子レンジで温める \n2.グラスにダークラム・シュガーシロップを量り入れる \n3.バターを落とす \n4.グラスに牛乳を注ぐ →ステアは不要",
@@ -93699,8 +93699,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "135 ml (3/4) 合計 180 ml",
-        "measure_en": "135 ml (3/4) 合計 180 ml"
+        "measure_ja": "135 ml (3/4)",
+        "measure_en": "135 ml (3/4)"
       },
       {
         "name_ja": "インスタントコーヒー",
@@ -93758,8 +93758,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "60 ml 合計 175 ml",
-        "measure_en": "60 ml 合計 175 ml"
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "ナツメグ",
@@ -93879,8 +93879,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "135 ml (常温のものを使用) 合計 180 ml",
-        "measure_en": "135 ml (常温のものを使用) 合計 180 ml"
+        "measure_ja": "135 ml (常温のものを使用)",
+        "measure_en": "135 ml (常温のものを使用)"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに水を量り入れ電子レンジで温める \n2.グラスにダークラムを量り入れる \n3.グラスに水を注ぎ軽くステア",
@@ -93959,8 +93959,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "105 ml (常温のものを使用) 合計 180 ml",
-        "measure_en": "105 ml (常温のものを使用) 合計 180 ml"
+        "measure_ja": "105 ml (常温のものを使用)",
+        "measure_en": "105 ml (常温のものを使用)"
       },
       {
         "name_ja": "ダークラム",
@@ -93971,8 +93971,8 @@
       {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
-        "measure_ja": "135 ml 合計 180 ml",
-        "measure_en": "135 ml 合計 180 ml"
+        "measure_ja": "135 ml",
+        "measure_en": "135 ml"
       }
     ],
     "instructions_ja": "(原液) 1.耐熱計量カップにカルピス・水を量り入れ電子レンジで温める \n2.グラスにダークラムを量り入れる \n3.グラスにカルピス・水を注ぎ軽くステア (ウオーター) \n1.耐熱計量カップにカルピスを量り入れ電子レンジで温める \n2.グラスにダークラムを量り入れる \n3.グラスにカルピスを注ぎ軽くステア",
@@ -94113,8 +94113,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "15 ml 合計 180 ml",
-        "measure_en": "15 ml 合計 180 ml"
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに赤ワイン・オレンジジュース・シュガーシロップを量り入れ電子レンジで温める \n2.グラスに注ぐ →お好みでシナモン・スティックを添える",
@@ -94211,8 +94211,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "120 ml 合計 185 ml",
-        "measure_en": "120 ml 合計 185 ml"
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
       }
     ],
     "instructions_ja": "1.耐熱計量カップに牛乳を量り入れ電子レンジで温める \n2.グラスにジン・グリーンティーリキュール・紅茶リキュールを量り入れる \n3.グラスに牛乳を注ぎ軽くステア",
@@ -95997,7 +95997,7 @@
         "measure_en": "60 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -96057,7 +96057,7 @@
         "note": "0.4 tsps."
       },
       {
-        "name_ja": "アニス酒",
+        "name_ja": "アニゼット",
         "name_en": "Anise liquor",
         "measure_ja": "1 dash",
         "measure_en": "1 dash",
@@ -96390,8 +96390,8 @@
       {
         "name_ja": "卵白",
         "name_en": "Egg white",
-        "measure_ja": "1 個分 (40 ml) 合計 115 ml",
-        "measure_en": "1 個分 (40 ml) 合計 115 ml"
+        "measure_ja": "1 個分 (40 ml)",
+        "measure_en": "1 個分 (40 ml)"
       }
     ],
     "instructions_ja": "1.ライウイスキー・ドライベルモット・スイートベルモット・レモンジュース・卵白を良くシェイクしてグラスに注ぐ →グラスに対して分量が多いので注ぐときは要注意",
@@ -96683,8 +96683,8 @@
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "1 tsp. (沈める) 合計 185 ml",
-        "measure_en": "1 tsp. (沈める) 合計 185 ml"
+        "measure_ja": "1 tsp. (沈める)",
+        "measure_en": "1 tsp. (沈める)"
       }
     ],
     "instructions_ja": "1.グラスにウォッカ・マンゴーリキュール・ライムジュースを量り入れる →氷は入れない \n2.スパークリングワインをグラスの3/4まで注ぎ軽くステア \n3.ブルーキュラソーを沈める",
@@ -97383,8 +97383,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.氷を入れる \n3.バーボンを量り入れステア \n4.ジンジャーエールで満たし軽くステア",
@@ -97424,8 +97424,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.氷を入れる \n3.ジンを量り入れる →ジンは冷凍しているのでステアは不要 \n4.ジンジャーエールで満たし軽くステア",
@@ -98084,8 +98084,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "45 ml 合計 135 ml",
-        "measure_en": "45 ml 合計 135 ml"
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       }
     ],
     "instructions_ja": "1.ココナッツリキュール・パイナップルジュース・牛乳を良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -98468,8 +98468,8 @@
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "20 ml 合計 80 ml",
-        "measure_en": "20 ml 合計 80 ml"
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       }
     ],
     "instructions_ja": "1.ウォッカ・ブルーキュラソー・グレープフルーツジュース・パイナップルジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -99038,8 +99038,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.マンゴーリキュール・オレンジジュースをシェイクしグラスに注ぐ \n2.氷を入れる",
@@ -99080,8 +99080,8 @@
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにマンゴーリキュール・ココナッツリキュールを量り入れステア \n2.パイナップルジュースを量り入れステア",
@@ -99115,8 +99115,8 @@
       {
         "name_ja": "マンゴージュース",
         "name_en": "Mango juice",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.マンゴーリキュール・マンゴージュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -99515,8 +99515,8 @@
       {
         "name_ja": "アイリッシュミスト",
         "name_en": "Irish Mist",
-        "measure_ja": "20 ml (1/3) 合計 60 ml",
-        "measure_en": "20 ml (1/3) 合計 60 ml"
+        "measure_ja": "20 ml (1/3)",
+        "measure_en": "20 ml (1/3)"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにアイリッシュウイスキー・アイリッシュミストを量り入れステア",
@@ -100552,8 +100552,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "30 ml 合計 180 ml",
-        "measure_en": "30 ml 合計 180 ml"
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "1.メロンリキュール・ウォッカ・ホワイトキュラソー・パイナップルジュース・レモンジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -100587,8 +100587,8 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "90 ml 合計 120 ml",
-        "measure_en": "90 ml 合計 120 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "1.メロンリキュール・オレンジジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -100628,8 +100628,8 @@
       {
         "name_ja": "カットライム",
         "name_en": "Lime wedge",
-        "measure_ja": "1/8×2 個 (10 ml) 合計75 ml",
-        "measure_en": "1/8×2 個 (10 ml) 合計75 ml"
+        "measure_ja": "1/8×2 個 (10 ml)",
+        "measure_en": "1/8×2 個 (10 ml)"
       },
       {
         "name_ja": "クラッシュドアイス",
@@ -100683,8 +100683,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "45 ml 合計 145 ml",
-        "measure_en": "45 ml 合計 145 ml"
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       }
     ],
     "instructions_ja": "1.ココナッツリキュール・メロンリキュール・パイナップルジュース・牛乳を良くシェイクしてグラスに注ぐ →角氷を4個 \n2.氷を入れる",
@@ -100735,8 +100735,8 @@
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "30 ml 合計 150 ml",
-        "measure_en": "30 ml 合計 150 ml"
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "1.メロンリキュール・ココナッツリキュール・バナナリキュール・パイナップルジュース・レモンジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -100911,8 +100911,8 @@
       {
         "name_ja": "生クリーム",
         "name_en": "Fresh cream",
-        "measure_ja": "30 ml (フロート) 合計 180 ml",
-        "measure_en": "30 ml (フロート) 合計 180 ml"
+        "measure_ja": "30 ml (フロート)",
+        "measure_en": "30 ml (フロート)"
       }
     ],
     "instructions_ja": "1.メロンリキュール・ココナッツリキュール・パイナップルジュースシェークしてグラスに注ぐ \n2.氷を入れる \n3.生クリームを静かに浮かべる",
@@ -102102,8 +102102,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 dash (0.2 tsps., 1 ml) 合計 63 ml",
-        "measure_en": "1 dash (0.2 tsps., 1 ml) 合計 63 ml"
+        "measure_ja": "1 dash (0.2 tsps., 1 ml)",
+        "measure_en": "1 dash (0.2 tsps., 1 ml)"
       }
     ],
     "instructions_ja": "1.ブランデー・スイートベルモット・アンゴスチュラビターズ・シュガーシロップをステアしてグラスに注ぐ",
@@ -102167,7 +102167,7 @@
         "measure_en": "35 ml"
       },
       {
-        "name_ja": "パルフェタムール",
+        "name_ja": "パルフェ・タムール",
         "name_en": "Parfait d'Amour",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
@@ -102450,8 +102450,8 @@
       {
         "name_ja": "グレープフルーツジュース",
         "name_en": "Grapefruit juice",
-        "measure_ja": "10 ml (1/5) 合計 50 ml",
-        "measure_en": "10 ml (1/5) 合計 50 ml"
+        "measure_ja": "10 ml (1/5)",
+        "measure_en": "10 ml (1/5)"
       }
     ],
     "instructions_ja": "1.梅酒・カンパリ・グレープフルーツリキュール・グレープフルーツジュースをシェイクしてグラスに注ぐ",
@@ -102947,8 +102947,8 @@
       {
         "name_ja": "牛乳",
         "name_en": "Milk",
-        "measure_ja": "15 ml 合計 70 ml",
-        "measure_en": "15 ml 合計 70 ml"
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "1.バナナリキュール・メロンリキュール・パイナップルジュース・牛乳をシェイクしてグラスに注ぐ",
@@ -103290,7 +103290,7 @@
         "measure_en": "45 ml"
       },
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "2 dash",
         "measure_en": "2 dash"
@@ -103345,7 +103345,7 @@
         "measure_en": "180 ml"
       },
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "60 ml",
         "measure_en": "60 ml"
@@ -105689,8 +105689,8 @@
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "1 tsp. (5 ml) 合計 65 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 65 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       }
     ],
     "instructions_ja": "1.桂花陳酒・ライチリキュール・グレープフルーツジュース・ブルーキュラソーをシェイクしてグラスに注ぐ",
@@ -107353,7 +107353,7 @@
         "measure_en": "45 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -107555,7 +107555,7 @@
         "measure_en": "15 ml"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -107569,8 +107569,8 @@
       {
         "name_ja": "ライムジュース",
         "name_en": "Lime juice",
-        "measure_ja": "1 tsp. 合計 95 ml",
-        "measure_en": "1 tsp. 合計 95 ml"
+        "measure_ja": "1 tsp.",
+        "measure_en": "1 tsp."
       }
     ],
     "instructions_ja": "1.赤ワイン・ピーチリキュール・クレームドカシス・グレープジュース・ライムジュースをシェイクしてグラスに注ぐ",
@@ -107625,7 +107625,7 @@
         "measure_en": "30 ml"
       },
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -107826,7 +107826,7 @@
         "measure_en": "15 ml (1/4)"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "1 tsp.",
         "measure_en": "1 tsp."
@@ -108038,7 +108038,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
@@ -109019,8 +109019,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "2 tsps. (砂糖) 合計 90 ml",
-        "measure_en": "2 tsps. (砂糖) 合計 90 ml"
+        "measure_ja": "2 tsps. (砂糖)",
+        "measure_en": "2 tsps. (砂糖)"
       },
       {
         "name_ja": "ミントの葉",
@@ -109151,8 +109151,8 @@
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "2 tsp. (10 ml) 合計 75 ml",
-        "measure_en": "2 tsp. (10 ml) 合計 75 ml"
+        "measure_ja": "2 tsp. (10 ml)",
+        "measure_en": "2 tsp. (10 ml)"
       },
       {
         "name_ja": "カットレモン",
@@ -109354,8 +109354,8 @@
       {
         "name_ja": "カットレモン",
         "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個 (5 ml) 合計 125 ml",
-        "measure_en": "1/8 個 (5 ml) 合計 125 ml"
+        "measure_ja": "1/8 個 (5 ml)",
+        "measure_en": "1/8 個 (5 ml)"
       }
     ],
     "instructions_ja": "1.グラスにカットレモンを絞り入れ皮も入れる \n2.氷を入れる \n3.ホワイトラムを量り入れる →ホワイトラムは冷凍しているのでステアは不要 \n4.ジンジャーエールで満たし軽くステア",
@@ -111142,7 +111142,7 @@
         "note": "ビーフィーター"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "15 ml",
         "measure_en": "15 ml",
@@ -111286,7 +111286,7 @@
         "measure_en": "2.5 cl"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "1.5 cl",
         "measure_en": "1.5 cl"
@@ -111372,7 +111372,7 @@
         "measure_en": "40 ml (2/3)"
       },
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "10 ml (1/6)",
         "measure_en": "10 ml (1/6)"
@@ -111446,7 +111446,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "クレームドカシス",
+        "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
@@ -111819,8 +111819,8 @@
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
-        "measure_ja": "10 ml (茶) 合計 70 ml",
-        "measure_en": "10 ml (茶) 合計 70 ml"
+        "measure_ja": "10 ml (茶)",
+        "measure_en": "10 ml (茶)"
       }
     ],
     "instructions_ja": "1.バイオレットリキュールから順番に層になるように重ねる",
@@ -112241,8 +112241,8 @@
       {
         "name_ja": "ライムジュース",
         "name_en": "Lime juice",
-        "measure_ja": "30 ml (コーディアル) 合計 90 ml",
-        "measure_en": "30 ml (コーディアル) 合計 90 ml"
+        "measure_ja": "30 ml (コーディアル)",
+        "measure_en": "30 ml (コーディアル)"
       }
     ],
     "instructions_ja": "1.アクアビット・マラスキーノリキュール・ライムジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -112510,8 +112510,8 @@
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "30 ml 合計 120 ml",
-        "measure_en": "30 ml 合計 120 ml"
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "1.ジン・アプリコットブランデー・ホワイトキュラソー・パッションフルーツリキュール・パイナップルジュースをシェイクしてグラスに注ぐ \n2.氷を入れる",
@@ -113549,8 +113549,8 @@
       {
         "name_ja": "卵黄",
         "name_en": "Egg yolk",
-        "measure_ja": "1 個分 (20 ml) 合計 80 ml",
-        "measure_en": "1 個分 (20 ml) 合計 80 ml"
+        "measure_ja": "1 個分 (20 ml)",
+        "measure_en": "1 個分 (20 ml)"
       }
     ],
     "instructions_ja": "1.ジン・グレナデンシロップ・ライムジュース・卵黄をシェイクしてグラスに注ぐ",
@@ -113865,7 +113865,7 @@
         "measure_en": "30 ml"
       },
       {
-        "name_ja": "シャンボール・ラズベリーリキュール",
+        "name_ja": "シャンボール",
         "name_en": "Chambord",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
@@ -114447,8 +114447,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "2 tsps. (10 ml) (砂糖) 合計 80 ml",
-        "measure_en": "2 tsps. (10 ml) (砂糖) 合計 80 ml"
+        "measure_ja": "2 tsps. (10 ml) (砂糖)",
+        "measure_en": "2 tsps. (10 ml) (砂糖)"
       },
       {
         "name_ja": "卵",
@@ -115672,8 +115672,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "60 ml 合計 150 ml",
-        "measure_en": "60 ml 合計 150 ml"
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "赤ワイン",
@@ -115684,8 +115684,8 @@
       {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
-        "measure_ja": "90 ml 合計 150 ml",
-        "measure_en": "90 ml 合計 150 ml"
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "(原液) 1.氷を入れたグラスにカルピス・水を量り入れステア \n2.赤ワインを静かに浮かべる －きっちりフロートするより、ある程度グラデーションがあった方がきれい (ウオーター) \n1.氷を入れたグラスにカルピスを量り入れステア \n2.赤ワインを静かに浮かべる －きっちりフロートするより、ある程度グラデーションがあった方がきれい",
@@ -115765,8 +115765,8 @@
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "1 tsp. (5 ml) 合計 100 ml",
-        "measure_en": "1 tsp. (5 ml) 合計 100 ml"
+        "measure_ja": "1 tsp. (5 ml)",
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "クラッシュドアイス",
@@ -116296,7 +116296,7 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ペルノ",
+        "name_ja": "ペルノー",
         "name_en": "Pernod",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
