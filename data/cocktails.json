@@ -902,8 +902,7 @@
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "2 ml"
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "炭酸水",
@@ -1730,14 +1729,13 @@
         "name_en": "Absinthe",
         "measure_ja": "3 dashes",
         "measure_en": "3 dashes",
-        "note": "ペルノで代用 / 0.6 tsp."
+        "note": "ペルノで代用"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
         "measure_ja": "3 dashes",
-        "measure_en": "3 dashes",
-        "note": "0.6 tsp."
+        "measure_en": "3 dashes"
       }
     ],
     "instructions_ja": "1.アイリッシュウイスキー・ドライベルモット・アブサンをステアしてグラスに注ぐ",
@@ -2082,8 +2080,7 @@
         "name_ja": "キルシュ",
         "name_en": "Kirschwasser",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ジン・ベネディクティン・キルシュをシェイクしてグラスに注ぐ",
@@ -2428,8 +2425,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "3 tsps.",
-        "measure_en": "3 tsps.",
-        "note": "砂糖"
+        "measure_en": "3 tsps."
       },
       {
         "name_ja": "オレンジスライス",
@@ -3795,14 +3791,13 @@
         "name_en": "Absinthe",
         "measure_ja": "3 dashes",
         "measure_en": "3 dashes",
-        "note": "ペルノで代用 / 0.6 tsp."
+        "note": "ペルノで代用"
       },
       {
         "name_ja": "バイオレットリキュール",
         "name_en": "Crème de violette",
         "measure_ja": "3 dashes",
-        "measure_en": "3 dashes",
-        "note": "0.6 tsp."
+        "measure_en": "3 dashes"
       }
     ],
     "instructions_ja": "1.ジン・ドライベルモット・アブサン・バイオレットリキュールをシェイクしてグラスに注ぐ",
@@ -6096,8 +6091,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "炭酸水",
@@ -6232,8 +6226,7 @@
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "2 ml、0.4 tsp"
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
@@ -8167,8 +8160,7 @@
         "name_ja": "キュンメル",
         "name_en": "Kümmel",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ジン・ドライベルモット・スイートベルモット・キュンメルをシェイクしてグラスに注ぐ",
@@ -8335,8 +8327,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "砂糖"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "炭酸水",
@@ -8856,8 +8847,7 @@
         "name_ja": "スイートベルモット",
         "name_en": "Sweet vermouth",
         "measure_ja": "4 dashes",
-        "measure_en": "4 dashes",
-        "note": "4 ml、0.8 tsp"
+        "measure_en": "4 dashes"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
@@ -11861,15 +11851,13 @@
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "1.(4)をピンに刺してグラスに入れ冷凍庫で冷やす \n2.ウイスキー・アンゴスチュラビターズ・シュガーシロップをステアしてグラスに注ぐ",
@@ -12154,8 +12142,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "オレンジスライス",
@@ -12201,8 +12188,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "砂糖"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "炭酸水",
@@ -12363,8 +12349,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp. (5 ml)",
-        "measure_en": "1 tsp. (5 ml)",
-        "note": "砂糖"
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
@@ -14179,7 +14164,7 @@
         "name_en": "Anise liquor",
         "measure_ja": "1 dash",
         "measure_en": "1 dash",
-        "note": "ペルノ / 0.2 tsps."
+        "note": "ペルノ"
       }
     ],
     "instructions_ja": "1.氷を入れたグラスにウォッカを量り入れステア \n2.上からアニス酒を落とし軽くステア",
@@ -14394,8 +14379,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       }
     ],
     "instructions_ja": "1.ウォッカ・ライムジュース・シュガーシロップをシェイクしてグラスに注ぐ",
@@ -14527,8 +14511,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "砂糖"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "炭酸水",
@@ -14666,8 +14649,7 @@
         "name_ja": "ダークシロップ",
         "name_en": "Dark syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "炭酸水",
@@ -15015,8 +14997,7 @@
         "name_ja": "ウォッカ",
         "name_en": "Vodka",
         "measure_ja": "60 ml",
-        "measure_en": "60 ml",
-        "note": "60 ml"
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "レッドブル",
@@ -15389,8 +15370,7 @@
         "name_ja": "ドライベルモット",
         "name_en": "Dry vermouth",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "オリーブ",
@@ -15762,8 +15742,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "卵",
@@ -15871,8 +15850,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       }
     ],
     "instructions_ja": "1.グラスに卵黄・シュガーシロップを入れ良く混ぜる →氷は入れない \n2.ビールで満たしゆっくり混ぜる",
@@ -16292,15 +16270,13 @@
         "name_ja": "グリーンシャルトリューズ",
         "name_en": "Chartreuse Verte",
         "measure_ja": "6 dashes",
-        "measure_en": "6 dashes",
-        "note": "1.2 tsps."
+        "measure_en": "6 dashes"
       },
       {
         "name_ja": "グリーンミントリキュール",
         "name_en": "Green crème de menthe",
         "measure_ja": "3 dashes",
-        "measure_en": "3 dashes",
-        "note": "0.6 tsp."
+        "measure_en": "3 dashes"
       },
       {
         "name_ja": "オリーブ",
@@ -16923,8 +16899,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "卵白",
@@ -18811,8 +18786,7 @@
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "ジンジャーエール",
@@ -19903,8 +19877,7 @@
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
         "measure_ja": "5 ml",
-        "measure_en": "5 ml",
-        "note": "1 tsp."
+        "measure_en": "5 ml"
       },
       {
         "name_ja": "グレープフルーツジュース",
@@ -20249,8 +20222,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "牛乳",
@@ -22264,15 +22236,13 @@
         "name_ja": "カンパリ",
         "name_en": "Campari",
         "measure_ja": "45 ml",
-        "measure_en": "45 ml",
-        "note": "45 ml"
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
         "measure_ja": "120 ml",
-        "measure_en": "120 ml",
-        "note": "120 ml"
+        "measure_en": "120 ml"
       },
       {
         "name_ja": "オレンジウェッジ",
@@ -28407,8 +28377,7 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "マラスキーノリキュール",
@@ -29842,8 +29811,7 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "1.ブランデー・ドライベルモット・オレンジキュラソーをステアしてグラスに注ぐ",
@@ -30051,8 +30019,7 @@
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "5 ml",
-        "measure_en": "5 ml",
-        "note": "1 tsp."
+        "measure_en": "5 ml"
       },
       {
         "name_ja": "シュガーシロップ",
@@ -30262,8 +30229,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ホワイトキュラソー・オレンジキュラソー・レモンジュース・グレナデンシロップをシェイクしてグラスに注ぐ",
@@ -31484,8 +31450,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "ジンジャーエール",
@@ -32408,15 +32373,13 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "卵黄",
@@ -32665,8 +32628,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "スパークリングワイン",
@@ -35245,15 +35207,13 @@
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "マラスキーノリキュール",
         "name_en": "Maraschino liqueur",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "1.ドライシェリー・ドライベルモット・オレンジビターズ・マラスキーノリキュールをステアしてグラスに注ぐ",
@@ -41671,14 +41631,13 @@
         "name_en": "Chartreuse Verte",
         "measure_ja": "3 dashes",
         "measure_en": "3 dashes",
-        "note": "緑 / 0.6 tsp."
+        "note": "緑"
       },
       {
         "name_ja": "グリーンミントリキュール",
         "name_en": "Green crème de menthe",
         "measure_ja": "3 dashes",
-        "measure_en": "3 dashes",
-        "note": "0.6 tsp."
+        "measure_en": "3 dashes"
       }
     ],
     "instructions_ja": "1.アイリッシュウイスキー・ドライベルモット・グリーンシャルトリューズ・グリーンミントリキュールをシェイクしてグラスに注ぐ",
@@ -42744,8 +42703,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "炭酸水",
@@ -44165,8 +44123,7 @@
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "レモンピール",
@@ -44418,8 +44375,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "オレンジスライス",
@@ -47466,8 +47422,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ライウイスキー・レモンジュース・オレンジジュース・グレナデンシロップをシェイクしてグラスに注ぐ",
@@ -47835,7 +47790,7 @@
         "name_en": "Pastis",
         "measure_ja": "2 dashes",
         "measure_en": "2 dashes",
-        "note": "ペルノ / 0.4 tsps."
+        "note": "ペルノ"
       }
     ],
     "instructions_ja": "1.ブランデー・ホワイトミントリキュール・パスティスをシェイクしてグラスに注ぐ",
@@ -49366,8 +49321,7 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "ナツメグ",
@@ -50555,8 +50509,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ブランデー・アップルブランデー・オレンジジュース・グレナデンシロップをステアしてグラスに注ぐ",
@@ -51404,8 +51357,7 @@
         "name_ja": "サザンカンフォート",
         "name_en": "Southern Comfort",
         "measure_ja": "45 ml",
-        "measure_en": "45 ml",
-        "note": "30 ml"
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "オレンジジュース",
@@ -51611,8 +51563,7 @@
         "name_ja": "サザンカンフォート",
         "name_en": "Southern Comfort",
         "measure_ja": "45 ml",
-        "measure_en": "45 ml",
-        "note": "30 ml"
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "トニックウォーター",
@@ -53598,8 +53549,7 @@
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "10 ml"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "グレナデンシロップ",
@@ -55040,29 +54990,25 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "マラスキーノリキュール",
         "name_en": "Maraschino liqueur",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "レモンピール",
@@ -55114,22 +55060,19 @@
         "name_ja": "バーボン",
         "name_en": "Bourbon",
         "measure_ja": "1本",
-        "measure_en": "1本",
-        "note": "750 ml"
+        "measure_en": "1本"
       },
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
         "measure_ja": "1本",
-        "measure_en": "1本",
-        "note": "750 ml"
+        "measure_en": "1本"
       },
       {
         "name_ja": "ダークラム",
         "name_en": "Dark rum",
         "measure_ja": "1本",
-        "measure_en": "1本",
-        "note": "750 ml"
+        "measure_en": "1本"
       },
       {
         "name_ja": "シャンパン",
@@ -56688,7 +56631,7 @@
         "name_en": "Pastis",
         "measure_ja": "1 dash",
         "measure_en": "1 dash",
-        "note": "ペルノ / 0.2 tsps."
+        "note": "ペルノ"
       }
     ],
     "instructions_ja": "1.ブランデー・ホワイトキュラソー・アンゴスチュラビターズ・パスティスをステアしてグラスに注ぐ",
@@ -58358,8 +58301,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ドライベルモット・ホワイトラム・レモンジュース・グレナデンシロップをシェイクしてグラスに注ぐ",
@@ -59989,8 +59931,7 @@
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "1.ブランデー・アップルブランデー・グレナデンシロップ・レモンジュースをシェイクしてグラスに注ぐ",
@@ -61394,8 +61335,7 @@
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "オレンジジュース",
@@ -62780,8 +62720,7 @@
         "name_ja": "ブランデー",
         "name_en": "Brandy",
         "measure_ja": "5 ml",
-        "measure_en": "5 ml",
-        "note": "1 tsp."
+        "measure_en": "5 ml"
       },
       {
         "name_ja": "ベイリーズ",
@@ -63247,8 +63186,7 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "レモンジュース",
@@ -63313,8 +63251,7 @@
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "1.ドライベルモット・ジン・ドライシェリー・ホワイトキュラソーをステアしてグラスに注ぐ",
@@ -63652,22 +63589,19 @@
         "name_ja": "アプリコットブランデー",
         "name_en": "Apricot brandy",
         "measure_ja": "4 dashes",
-        "measure_en": "4 dashes",
-        "note": "0.8 tsp."
+        "measure_en": "4 dashes"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "4 dashes",
-        "measure_en": "4 dashes",
-        "note": "0.8 tsp."
+        "measure_en": "4 dashes"
       },
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ライトラム・スイートベルモット・アプリコットブランデー・レモンジュース・グレナデンシロップをステアしてグラスに注ぐ",
@@ -63951,8 +63885,7 @@
         "name_ja": "ダークシロップ",
         "name_en": "Dark syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "砂糖"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "炭酸水",
@@ -66142,8 +66075,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "4 dashes",
-        "measure_en": "4 dashes",
-        "note": "0.8 tsp."
+        "measure_en": "4 dashes"
       },
       {
         "name_ja": "卵黄",
@@ -66798,8 +66730,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "1.バーボン・ドライベルモット・オレンジキュラソー・グレナデンシロップをステアしてグラスに注ぐ",
@@ -67254,8 +67185,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "10 ml"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "炭酸水",
@@ -67494,8 +67424,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "炭酸水",
@@ -71256,8 +71185,7 @@
         "name_ja": "ジン",
         "name_en": "Gin",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "1 ml、0.2 tsp"
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "シュガーシロップ",
@@ -71463,8 +71391,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ジン・アプリコットブランデー・グレナデンシロップをシェイクしてグラスに注ぐ",
@@ -71974,8 +71901,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 tsp.",
-        "measure_en": "2 tsp.",
-        "note": "10 ml"
+        "measure_en": "2 tsp."
       },
       {
         "name_ja": "レモンジュース",
@@ -72043,15 +71969,13 @@
         "name_ja": "ビール",
         "name_en": "Beer",
         "measure_ja": "1/2",
-        "measure_en": "1/2",
-        "note": "90 ml"
+        "measure_en": "1/2"
       },
       {
         "name_ja": "スパークリングワイン",
         "name_en": "Sparkling wine",
         "measure_ja": "1/2",
-        "measure_en": "1/2",
-        "note": "90 ml"
+        "measure_en": "1/2"
       }
     ],
     "instructions_ja": "1.ビールをグラスの3/8まで注ぐ(半分弱) →氷は入れない \n2.スパークリングワインをグラスの3/4まで注ぐ →泡は立てなくてよい ＊ビールが瓶の場合も、サーバーの場合も同様",
@@ -72288,8 +72212,7 @@
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
         "measure_ja": "4 dashes",
-        "measure_en": "4 dashes",
-        "note": "0.8 tsps."
+        "measure_en": "4 dashes"
       }
     ],
     "instructions_ja": "1.アプリコットブランデー・オレンジジュース・オレンジビターズをシェイクしてグラスに注ぐ",
@@ -72329,8 +72252,7 @@
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
         "measure_ja": "4 dashes",
-        "measure_en": "4 dashes",
-        "note": "4 ml / 0.8 tsps."
+        "measure_en": "4 dashes"
       },
       {
         "name_ja": "スパークリングワイン",
@@ -72416,8 +72338,7 @@
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "2 ml / 0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "炭酸水",
@@ -72595,8 +72516,7 @@
         "name_ja": "スイートベルモット",
         "name_en": "Sweet vermouth",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "2 ml / 0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "オレンジキュラソー",
@@ -73530,8 +73450,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "10 ml"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "ビール",
@@ -74443,8 +74362,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "炭酸水",
@@ -75504,15 +75422,13 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "炭酸水",
@@ -77572,15 +77488,13 @@
         "name_ja": "ライムジュース",
         "name_en": "Lime juice",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "生クリーム",
@@ -78342,8 +78256,7 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "3 dashes",
-        "measure_en": "3 dashes",
-        "note": "0.6 tsp."
+        "measure_en": "3 dashes"
       }
     ],
     "instructions_ja": "1.アップルブランデー・ベネディクティン・レモンジュース・オレンジキュラソーをシェイクしてグラスに注ぐ",
@@ -79285,8 +79198,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "卵白",
@@ -79433,22 +79345,19 @@
         "name_ja": "メロンリキュール",
         "name_en": "Melon liqueur",
         "measure_ja": "1.5 tsps.",
-        "measure_en": "1.5 tsps.",
-        "note": "7.5 ml"
+        "measure_en": "1.5 tsps."
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "0.5 tsps.",
-        "measure_en": "0.5 tsps.",
-        "note": "2.5 ml"
+        "measure_en": "0.5 tsps."
       },
       {
         "name_ja": "キウイ",
@@ -79646,8 +79555,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "卵黄",
@@ -81032,8 +80940,7 @@
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "ビーフブイヨン",
@@ -82134,8 +82041,7 @@
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "2 ml / 0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
@@ -82344,8 +82250,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "オレンジスライス",
@@ -82545,8 +82450,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp. (5 ml)",
-        "measure_en": "1 tsp. (5 ml)",
-        "note": "砂糖"
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
@@ -82796,8 +82700,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp. (5 ml)",
-        "measure_en": "1 tsp. (5 ml)",
-        "note": "砂糖"
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "水",
@@ -83127,8 +83030,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "砂糖 / 10 ml"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "炭酸水",
@@ -83223,8 +83125,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp. (5 ml)",
-        "measure_en": "1 tsp. (5 ml)",
-        "note": "砂糖"
+        "measure_en": "1 tsp. (5 ml)"
       },
       {
         "name_ja": "卵黄",
@@ -84328,8 +84229,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "カットライム",
@@ -86613,8 +86513,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ライトラム・オレンジジュース・グレナデンシロップをシェイクしてグラスに注ぐ",
@@ -86802,8 +86701,7 @@
             "name_ja": "トリプルセック",
             "name_en": "Triple sec"
           }
-        ],
-        "note": "18.75 ml"
+        ]
       },
       {
         "name_en": "Lemon juice",
@@ -88726,8 +88624,7 @@
         "name_ja": "粉末緑茶",
         "name_en": "Matcha powder",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "クラッシュドアイス",
@@ -91400,8 +91297,7 @@
         "name_ja": "グリーンミントリキュール",
         "name_en": "Green crème de menthe",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "水",
@@ -92608,8 +92504,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "卵黄",
@@ -92972,8 +92867,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "10 ml"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "卵黄",
@@ -93060,15 +92954,13 @@
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "水",
@@ -93188,8 +93080,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "水",
@@ -93426,8 +93317,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "バター",
@@ -93568,8 +93458,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "10 ml"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "卵",
@@ -94297,8 +94186,7 @@
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
         "measure_ja": "3 dashes",
-        "measure_en": "3 dashes",
-        "note": "0.6 tsp."
+        "measure_en": "3 dashes"
       },
       {
         "name_ja": "オリーブ",
@@ -94344,8 +94232,7 @@
         "name_ja": "マラスキーノリキュール",
         "name_en": "Maraschino liqueur",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "シュガーシロップ",
@@ -94410,15 +94297,13 @@
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "炭酸水",
@@ -94629,8 +94514,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.グレナデンシロップをグラスに量り入れ冷凍庫で冷やす \n2.ウォッカ・ライムジュース・オレンジジュース・オレンジビターズをシェイクしてグラスに注ぐ",
@@ -94771,8 +94655,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "10 ml"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "牛乳",
@@ -95356,7 +95239,7 @@
         "name_en": "Absinthe",
         "measure_ja": "1 dash",
         "measure_en": "1 dash",
-        "note": "ペルノで代用 / 0.2 tsps."
+        "note": "ペルノで代用"
       }
     ],
     "instructions_ja": "1.ジン・ホワイトラム・ホワイトキュラソー・アブサンをシェイクしてグラスに注ぐ",
@@ -95873,15 +95756,14 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "アニゼット",
         "name_en": "Anise liquor",
         "measure_ja": "1 dash",
         "measure_en": "1 dash",
-        "note": "ペルノで代用 / 0.2 tsps."
+        "note": "ペルノで代用"
       }
     ],
     "instructions_ja": "1.ブランデー・ドライベルモット・スイートベルモット・オレンジキュラソー・アニス酒をステアしてグラスに注ぐ",
@@ -96452,8 +96334,7 @@
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "1.ジン・レモンジュース・生クリーム・グレナデンシロップを良くシェイクしてグラスに注ぐ",
@@ -101548,8 +101429,7 @@
         "name_ja": "ホワイトミントリキュール",
         "name_en": "White crème de menthe",
         "measure_ja": "3 dashes",
-        "measure_en": "3 dashes",
-        "note": "0.6 tsp."
+        "measure_en": "3 dashes"
       },
       {
         "name_ja": "炭酸水",
@@ -101924,8 +101804,7 @@
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps., 2 ml"
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "シュガーシロップ",
@@ -102975,21 +102854,19 @@
         "name_en": "Pastis",
         "measure_ja": "2 dashes",
         "measure_en": "2 dashes",
-        "note": "ペルノ / 0.4 tsps."
+        "note": "ペルノ"
       },
       {
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "マラスキーノリキュール",
         "name_en": "Maraschino liqueur",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "オレンジビターズ",
@@ -103048,14 +102925,13 @@
         "name_en": "Pastis",
         "measure_ja": "1 dashes",
         "measure_en": "1 dashes",
-        "note": "ペルノ / 0.2 tsps."
+        "note": "ペルノ"
       },
       {
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "オレンジビターズ",
@@ -103067,8 +102943,7 @@
         "name_ja": "シロップ",
         "name_en": "Syrup",
         "measure_ja": "3 dashes",
-        "measure_en": "3 dashes",
-        "note": "0.6 tsp."
+        "measure_en": "3 dashes"
       },
       {
         "name_ja": "炭酸水",
@@ -104492,15 +104367,13 @@
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsp, 1 ml"
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "アロマティックビターズ",
         "name_en": "Aromatic bitters",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsp, 1 ml"
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "スパークリングワイン",
@@ -104594,15 +104467,13 @@
         "name_ja": "オレンジキュラソー",
         "name_en": "Orange curaçao",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "マラスキーノチェリー",
@@ -106496,8 +106367,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 tsps.",
-        "measure_en": "2 tsps.",
-        "note": "砂糖"
+        "measure_en": "2 tsps."
       },
       {
         "name_ja": "炭酸水",
@@ -108156,8 +108026,7 @@
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
         "measure_ja": "1 dash",
-        "measure_en": "1 dash",
-        "note": "0.2 tsps."
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "ライムジュース",
@@ -109305,8 +109174,7 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "砂糖"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "卵黄",
@@ -110908,15 +110776,13 @@
         "name_ja": "トリプルセック",
         "name_en": "Triple sec",
         "measure_ja": "22 ml",
-        "measure_en": "22 ml",
-        "note": "23 ml"
+        "measure_en": "22 ml"
       },
       {
         "name_ja": "サワーミックス",
         "name_en": "Sour mix",
         "measure_ja": "60 ml",
-        "measure_en": "60 ml",
-        "note": "60 ml"
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "レモンライムソーダ",
@@ -114253,8 +114119,7 @@
         "name_ja": "スイートベルモット",
         "name_en": "Sweet vermouth",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "シュガーシロップ",
@@ -114730,7 +114595,7 @@
         "name_en": "Absinthe",
         "measure_ja": "1 dash",
         "measure_en": "1 dash",
-        "note": "ペルノで代用 / 0.2 tsps."
+        "note": "ペルノで代用"
       }
     ],
     "instructions_ja": "1.スコッチ・スイートベルモット・オレンジビターズ・アブサンをステアしてグラスに注ぐ",
@@ -115565,8 +115430,7 @@
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
         "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp.",
-        "note": "5 ml"
+        "measure_en": "1 tsp."
       },
       {
         "name_ja": "シュガーシロップ",
@@ -115719,15 +115583,13 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
         "name_en": "Angostura bitters",
         "measure_ja": "2 dashes",
-        "measure_en": "2 dashes",
-        "note": "0.4 tsps."
+        "measure_en": "2 dashes"
       }
     ],
     "instructions_ja": "1.ブランデー・ドライベルモット・シュガーシロップ・アンゴスチュラビターズをシェイクしてグラスに注ぐ",
