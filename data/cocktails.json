@@ -560,20 +560,20 @@
       {
         "name_ja": "ラム",
         "name_en": "Rum",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "ホワイトキュラソー",
         "name_en": "White curaçao",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       }
     ],
     "instructions_ja": "ラム、コアントロー、レモンジュースをシェークし、カクテル・グラス（容量75〜90ml程度）に注げば完成である。なお、レモン・ジュースは、その場でレモンを絞ったものを使用するのがベストであるが、市販のジュースを用いても良い。",
@@ -1304,14 +1304,14 @@
       {
         "name_ja": "テキーラ",
         "name_en": "Tequila",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
       },
       {
         "name_ja": "グレープフルーツジュース",
         "name_en": "Grapefruit juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
       }
     ],
     "instructions_ja": "テキーラ、ホワイト・キュラソー、グレープフルーツ・ジュース、グレナデン・シロップをシェークして、氷を入れたオールド・ファッションド・グラス（容量180〜300ml程度）かタンブラー（容量240～300ml程度）に注ぐ。",
@@ -2462,32 +2462,32 @@
       {
         "name_ja": "ウォッカ",
         "name_en": "Vodka",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "ジン",
         "name_en": "Gin",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "レモンライムソーダ",
         "name_en": "Lemon-lime soda",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "ウォッカ、ジン、レモンライムソーダ、パイナップルジュース、ブルーキュラソーを合わせる。キュラソーがアフターシェーブローション「Ice Blue Aqua Velva」のような青色を与える。",
@@ -2829,26 +2829,26 @@
       {
         "name_ja": "ウォッカ",
         "name_en": "Vodka",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "サワーミックス",
         "name_en": "Sour mix",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "材料を層になるよう順に注いで作る。同名のキャンディ「アストロ・ポップ」に色合いが似ていることから名付けられた、層状のカクテルまたはショット。",
@@ -3236,32 +3236,32 @@
       {
         "name_ja": "ラム",
         "name_en": "Rum",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "スイートベルモット",
         "name_en": "Sweet vermouth",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "アプリコットブランデー",
         "name_en": "Apricot brandy",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
       },
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
       }
     ],
     "instructions_ja": "ラム、スイート・ヴェルモット、アプリコット・ブランデー、レモンジュース、グレナデン・シロップをシェークして、カクテル・グラス（容量75〜90ml程度）に注げば完成である。",
@@ -5841,12 +5841,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "アプリコットブランデー",
-        "name_en": "Apricot brandy",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -7382,12 +7376,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "アマレット",
-        "name_en": "Amaretto",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -9134,20 +9122,20 @@
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "クレームドカカオ",
         "name_en": "Crème de cacao",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "生クリーム",
         "name_en": "Fresh cream",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。",
@@ -9759,20 +9747,20 @@
       {
         "name_ja": "テキーラ",
         "name_en": "Tequila",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
       },
       {
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "タンブラーに氷をいれる。 テキーラ、オレンジ・ジュースをグラスに注ぎ、軽くステアする。 グラスの縁から静かにシュガー・シロップを注ぎ、底に沈める。",
@@ -11925,12 +11913,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "ウイスキー",
-        "name_en": "Whiskey",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "75 ml",
@@ -11977,12 +11959,6 @@
         "measure_ja": "65 ml",
         "measure_en": "65 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "ウイスキー",
-        "name_en": "Whiskey",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
       },
       {
         "name_ja": "カルピスソーダ",
@@ -12434,14 +12410,14 @@
       {
         "name_ja": "ウイスキー",
         "name_en": "Whiskey",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "炭酸水",
         "name_en": "Soda water",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
       }
     ],
     "instructions_ja": "タンブラーに多めの氷を入れ、ウイスキーを注ぐ。 グラスを炭酸水で満たし、軽くステアする。",
@@ -14277,12 +14253,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "75 ml",
@@ -14329,12 +14299,6 @@
         "measure_ja": "65 ml",
         "measure_en": "65 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
       },
       {
         "name_ja": "カルピスソーダ",
@@ -15568,20 +15532,20 @@
       {
         "name_ja": "テキーラ",
         "name_en": "Tequila",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "材料をシェイカーでシェイクする。 カクテル・グラスに注ぐ。",
@@ -15608,14 +15572,14 @@
       {
         "name_ja": "エスプレッソ",
         "name_en": "Espresso",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "トニックウォーター",
         "name_en": "Tonic water",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
       }
     ],
     "instructions_ja": "氷を入れたグラスにトニックウォーターを注ぎ、その上にエスプレッソを静かに注ぐ。",
@@ -15928,14 +15892,14 @@
       {
         "name_ja": "ビール",
         "name_en": "Beer",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "350 ml",
+        "measure_en": "350 ml"
       },
       {
         "name_ja": "卵黄",
         "name_en": "Egg yolk",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "1 個",
+        "measure_en": "1 個"
       }
     ],
     "instructions_ja": "ゴブレット（容量300ml程度）に卵黄を入れて潰し、よく冷やしたビールを注いで軽くステアすれば完成である。",
@@ -16051,12 +16015,6 @@
         "name_en": "Egg white",
         "measure_ja": "6",
         "measure_en": "6"
-      },
-      {
-        "name_ja": "砂糖",
-        "name_en": "Sugar",
-        "measure_ja": "1/4 カップ",
-        "measure_en": "1/4 cup"
       },
       {
         "name_ja": "ナツメグ",
@@ -16798,26 +16756,26 @@
       {
         "name_ja": "テキーラ",
         "name_en": "Tequila",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "クレーム・ド・カシス",
         "name_en": "Crème de cassis",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "ライムジュース",
         "name_en": "Lime juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
       },
       {
         "name_ja": "ジンジャービア",
         "name_en": "Ginger beer",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
       }
     ],
     "instructions_ja": "材料をシェイカーでシェイクし、グラスに注ぐ。カットライムを飾る。",
@@ -17858,14 +17816,14 @@
       {
         "name_ja": "クレームドカカオ",
         "name_en": "Crème de cacao",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "生クリーム",
         "name_en": "Fresh cream",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "クレーム・ド・カカオをリキュールグラスに入れる。 生クリームを上に浮かべる（フロートする）。 マラスキーノ・チェリーをカクテルピンに通し、グラスの口にさし渡す。",
@@ -20644,12 +20602,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "クレーム・ド・カシス",
-        "name_en": "Crème de cassis",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -23592,12 +23544,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "クレームドカルテット",
-        "name_en": "Crème de quatre",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -24391,14 +24337,14 @@
       {
         "name_ja": "カンパリ",
         "name_en": "Campari",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "グレープフルーツジュース",
         "name_en": "Grapefruit juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "75 ml",
+        "measure_en": "75 ml"
       }
     ],
     "instructions_ja": "氷を入れたタンブラー（容量240〜300ml程度）に、カンパリとグレープフルーツ・ジュースを注ぎ、軽くステアする。",
@@ -28752,12 +28698,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "オレンジリキュール",
-        "name_en": "Orange liqueur",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "75 ml",
@@ -30443,12 +30383,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "グレープフルーツリキュール",
-        "name_en": "Grapefruit liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -30659,12 +30593,6 @@
         "measure_ja": "110 ml",
         "measure_en": "110 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
-        "measure_ja": "1 tsp.",
-        "measure_en": "1 tsp."
       }
     ],
     "instructions_ja": "(原液) 1.氷3個を入れたグラスにカルピス・水を量り入れステア \n2.グレナデンシロップを静かに沈める \n3.バー・スプーンで底をかいてグラデーションを作る (ウオーター) \n1.氷3個を入れたグラスにカルピスをグラスの2/3まｄ注ぐ \n2.水を静かに沈める \n3.バー・スプーンで底をかいてグラデーションを作る",
@@ -30738,32 +30666,32 @@
       {
         "name_ja": "ダークラム",
         "name_en": "Dark rum",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "125 ml",
+        "measure_en": "125 ml"
       },
       {
         "name_ja": "砂糖",
         "name_en": "Sugar",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "6 g",
+        "measure_en": "6 g"
       },
       {
         "name_ja": "レモンピール",
         "name_en": "Lemon peel",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "1 片",
+        "measure_en": "1 片"
       },
       {
         "name_ja": "シナモン",
         "name_en": "Cinnamon",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "1 本",
+        "measure_en": "1 本"
       },
       {
         "name_ja": "コーヒー豆",
         "name_en": "Coffee bean",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "適量",
+        "measure_en": "適量"
       }
     ],
     "instructions_ja": "全材料を鍋に入れて熱し、火をつける。3分の1ほど燃えたら火を消し、コーヒーマグまたはグラスで熱いまま提供する。",
@@ -31502,14 +31430,14 @@
       {
         "name_en": "Vodka",
         "name_ja": "ウォッカ",
-        "measure_en": "",
-        "measure_ja": ""
+        "measure_en": "30 ml",
+        "measure_ja": "30 ml"
       },
       {
         "name_en": "Cranberry juice",
         "name_ja": "クランベリージュース",
-        "measure_en": "",
-        "measure_ja": ""
+        "measure_en": "90 ml",
+        "measure_ja": "90 ml"
       }
     ],
     "instructions_ja": "氷を入れたハイボールグラスに材料を直接注ぎ入れる。ライムウェッジを飾る。",
@@ -32249,12 +32177,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "紅茶リキュール",
-        "name_en": "Tea liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -32535,12 +32457,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "コーヒーリキュール",
-        "name_en": "Coffee liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -44286,12 +44202,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "75 ml",
@@ -44338,12 +44248,6 @@
         "measure_ja": "65 ml",
         "measure_en": "65 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
       },
       {
         "name_ja": "カルピスソーダ",
@@ -46383,12 +46287,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "スーズ",
-        "name_en": "Suze",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -47766,14 +47664,14 @@
       {
         "name_ja": "マリブ",
         "name_en": "Malibu",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
       }
     ],
     "instructions_ja": "スタテンアイランド・フェリーは、氷を入れたグラスに、マリブとパイナップル・ジュースを等量ずつ注いだカクテルである。",
@@ -48260,12 +48158,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "ストロベリーリキュール",
-        "name_en": "Strawberry liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -51773,12 +51665,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "サザンカンフォート",
-        "name_en": "Southern Comfort",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスソーダ",
         "name_en": "Calpis soda",
         "measure_ja": "",
@@ -51833,18 +51719,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "サザンカンフォート",
-        "name_en": "Southern Comfort",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスソーダ",
         "name_en": "Calpis soda",
         "measure_ja": "",
@@ -51897,18 +51771,6 @@
         "measure_ja": "",
         "measure_en": "",
         "note": "適量"
-      },
-      {
-        "name_ja": "サザンカンフォート",
-        "name_en": "Southern Comfort",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "Pineapple juice",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスソーダ",
@@ -52008,52 +51870,6 @@
     "tags": [],
     "style": "ショート",
     "is_public": false
-  },
-  {
-    "id": "34472",
-    "name_ja": "ソラーレ",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "白桃とコエンザイムQ10のお酒",
-        "name_en": "White peach and Coenzyme Q10 liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "アマレット",
-        "name_en": "Amaretto",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "マカディア",
-        "name_en": "Macadia",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      }
-    ],
-    "instructions_ja": "1.白桃とコエンザイムQ10のお酒・アマレット・マカディア・オレンジジュースをシェイクしてグラスに注ぐ \n2.大根とラズベリーをグラスの縁に飾る",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": false,
-    "_source": "https://ahoudori.cool.coocan.jp/dic/カクテル/辞典　カクテル　ソラーレ.html"
   },
   {
     "id": "12256",
@@ -54287,12 +54103,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "チェリーリキュール",
-        "name_en": "Cherry liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -58440,14 +58250,14 @@
       {
         "name_ja": "赤ワイン",
         "name_en": "Red wine",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
       },
       {
         "name_ja": "レモンライムソーダ",
         "name_en": "Lemon-lime soda",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
       }
     ],
     "instructions_ja": "赤ワインと任意の炭酸飲料を１対１～２で割り、ロックアイスを入れたタンブラーに注いでよく冷やして供する。",
@@ -58623,12 +58433,6 @@
         "measure_ja": "55 ml",
         "measure_en": "55 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "テキーラ",
-        "name_en": "Tequila",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -60937,14 +60741,14 @@
       {
         "name_ja": "ビール",
         "name_en": "Beer",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "360 ml",
+        "measure_en": "360 ml"
       },
       {
         "name_ja": "ジン",
         "name_en": "Gin",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       }
     ],
     "instructions_ja": "タンブラーやコリンズグラス等、冷やした大型グラスにジンを入れる。 ビールで満たす。 軽くステアする。",
@@ -68315,12 +68119,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "マンゴーリキュール",
-        "name_en": "Mango liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -68367,12 +68165,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "グリーンティーリキュール",
-        "name_en": "Green tea liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -68423,12 +68215,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "バイオレットリキュール",
-        "name_en": "Crème de violette",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -68475,12 +68261,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "サクラリキュール",
-        "name_en": "Cherry blossom liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -68531,12 +68311,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "ブラウンクレームドカカオ",
-        "name_en": "Brown crème de cacao",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -68585,12 +68359,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "ヒプノティック",
-        "name_en": "Hpnotiq",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -68637,12 +68405,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "カンパリ",
-        "name_en": "Campari",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -69374,13 +69136,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "パッションフルーツリキュール",
-        "name_en": "Passion fruit liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml",
-        "note": "パッソア"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -70067,12 +69822,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "バナナリキュール",
-        "name_en": "Banana liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -72705,12 +72454,6 @@
       {
         "name_ja": "グレープジュース",
         "name_en": "Grape juice",
-        "measure_ja": "",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "シャーベット",
-        "name_en": "Sherbet",
         "measure_ja": "",
         "measure_en": ""
       },
@@ -75359,38 +75102,38 @@
       {
         "name_ja": "ピスコ",
         "name_en": "Pisco",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "パイナップル",
         "name_en": "Pineapple",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "ライムジュース",
         "name_en": "Lime juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "砂糖",
         "name_en": "Sugar",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "アラビアガム",
         "name_en": "Gum arabic",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "水",
         "name_en": "Distilled water",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
       }
     ],
     "instructions_ja": "氷を入れたグラスに注ぎ、チェリーとパイナップルを飾る。 蒸留水を使う。",
@@ -76355,12 +76098,6 @@
         "measure_ja": "80 ml",
         "measure_en": "80 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "ヒプノティック",
-        "name_en": "Hpnotiq",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスソーダ",
@@ -79078,14 +78815,14 @@
       {
         "name_ja": "柑橘ジュース",
         "name_en": "Citrus juice",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "砂糖",
         "name_en": "Sugar",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
       },
       {
         "name_ja": "炭酸水",
@@ -80753,13 +80490,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "チョコレートリキュール",
-        "name_en": "Chocolate liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml",
-        "note": "モーツァルト ブラック"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -82405,12 +82135,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "75 ml",
@@ -82819,20 +82543,20 @@
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "蜂蜜",
         "name_en": "Honey",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "生クリーム",
         "name_en": "Fresh cream",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "氷とともに全ての材料をシェイクし、カクテルグラスに注ぐ。",
@@ -89942,12 +89666,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "ベイリーズ",
-        "name_en": "Baileys Irish Cream",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -90786,12 +90504,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "グリーンミントリキュール",
-        "name_en": "Green crème de menthe",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -94001,12 +93713,6 @@
         "name_en": "Water",
         "measure_ja": "105 ml (常温のものを使用)",
         "measure_en": "105 ml (常温のものを使用)"
-      },
-      {
-        "name_ja": "ダークラム",
-        "name_en": "Dark rum",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -97549,12 +97255,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "マラスキーノリキュール",
-        "name_en": "Maraschino liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -100151,8 +99851,8 @@
       {
         "name_ja": "ホワイトラム",
         "name_en": "White rum",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "炭酸水",
@@ -102891,12 +102591,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "メロンリキュール",
-        "name_en": "Melon liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -106281,12 +105975,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "ヨーグルトリキュール",
-        "name_en": "Yogurt liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -106950,12 +106638,6 @@
         "measure_ja": "70 ml",
         "measure_en": "70 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "ライチリキュール",
-        "name_en": "Lychee liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -107969,12 +107651,6 @@
         "note": "適量"
       },
       {
-        "name_ja": "フランボワーズリキュール",
-        "name_en": "Framboise liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
         "name_ja": "カルピスウォーター",
         "name_en": "Calpis Water",
         "measure_ja": "90 ml",
@@ -108660,12 +108336,6 @@
         "measure_ja": "55 ml",
         "measure_en": "55 ml",
         "note": "適量"
-      },
-      {
-        "name_ja": "ホワイトラム",
-        "name_en": "White rum",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
       },
       {
         "name_ja": "カルピスウォーター",
@@ -114421,14 +114091,14 @@
       {
         "name_ja": "ジン",
         "name_en": "Gin",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
       },
       {
         "name_ja": "ドライベルモット",
         "name_en": "Dry vermouth",
-        "measure_ja": "",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "粉砂糖",
@@ -115716,12 +115386,6 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "赤ワイン",
-        "name_en": "Red wine",
         "measure_ja": "60 ml",
         "measure_en": "60 ml"
       },

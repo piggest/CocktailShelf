@@ -506,15 +506,18 @@ function openDetail(id) {
       <ul class="ingredients">
         ${items.map(it => {
           const n = it.name_ja || it.name_en || "";
-          const alts = (it.alternatives || []).map(a => {
+          const altList = (it.alternatives || []);
+          const hasAlt = altList.length > 0;
+          const alts = altList.map(a => {
             const an = a.name_ja || a.name_en || "";
             return ` <span class="ing-or">または</span> <span class="ing-link" data-name="${escapeHTML(an)}" title="この材料で検索">${escapeHTML(an)}</span>`;
           }).join("");
           const optTag = it.optional ? ' <span class="ing-opt">(任意)</span>' : "";
+          const noteTag = it.note ? ` <span class="ing-note">${escapeHTML(it.note)}</span>` : "";
           return `
-          <li>
-            <span class="ing-link" data-name="${escapeHTML(n)}" title="この材料で検索">${escapeHTML(n)}</span>${alts}${optTag}
-            <span class="measure">${escapeHTML(it.measure_ja || it.measure_en || "")}</span>
+          <li class="${hasAlt ? 'has-alt' : ''}">
+            <span class="ing-names"><span class="ing-link" data-name="${escapeHTML(n)}" title="この材料で検索">${escapeHTML(n)}</span>${alts}${optTag}</span>
+            <span class="measure">${escapeHTML(it.measure_ja || it.measure_en || "")}${noteTag}</span>
           </li>`;
         }).join("")}
       </ul>

@@ -418,15 +418,18 @@ select:focus { border-color: var(--accent); }
 }
 .ingredients {
   list-style: none; padding: 0; margin: 0 0 22px;
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 8px 16px;
 }
 .ingredients li {
-  display: flex; justify-content: space-between;
+  display: flex; justify-content: space-between; gap: 12px; align-items: flex-start;
   padding: 6px 0; border-bottom: 1px dashed var(--line);
   font-size: 13px;
 }
-.ingredients li .measure { color: var(--muted); font-size: 12px; }
+.ingredients li.has-alt { grid-column: 1 / -1; }
+.ingredients li .ing-names { flex: 1; min-width: 0; line-height: 1.6; }
+.ingredients li .measure { color: var(--muted); font-size: 12px; white-space: nowrap; padding-top: 2px; }
+.ing-note { color: var(--muted); font-size: 10px; display: block; }
 .ing-link {
   cursor: pointer; transition: color .15s ease;
   border-bottom: 1px dotted transparent;
