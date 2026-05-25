@@ -457,7 +457,9 @@ function renderWishBtn(btn, id) {
 }
 
 // --- 詳細モーダル ---
+let currentDetailId = null;
 function openDetail(id) {
+  currentDetailId = id;
   const data = DATA.find(x => String(x.id) === String(id));
   if (!data) return;
   const cnt = favCount(id);
@@ -495,7 +497,6 @@ function openDetail(id) {
         </div>
         <div class="fav-row">
           <button class="fav-toggle ${cnt > 0 ? "is-fav" : ""}" id="favToggle"></button>
-          ${cnt > 0 ? '<button class="fav-clear" id="favClear" title="お気に入りから外す">解除</button>' : ""}
           <button class="wish-toggle ${isWish(id) ? "is-wish" : ""}" id="wishToggle"></button>
         </div>
       </div>
@@ -607,7 +608,19 @@ modal.addEventListener("click", (e) => {
   if (e.target.dataset.close !== undefined) closeDetail();
 });
 document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape") closeDetail();
+  if (modal.classList.contains("hidden")) return;
+  if (e.key === "Escape") { closeDetail(); return; }
+  if (e.key === "ArrowLeft" || e.key === "ArrowRight") {
+    if (!currentDetailId) return;
+    const ids = [...grid.querySelectorAll(".card")].map(el => el.dataset.id);
+    if (ids.length === 0) return;
+    const idx = ids.indexOf(currentDetailId);
+    if (idx < 0) return;
+    const step = e.key === "ArrowRight" ? 1 : -1;
+    const next = ids[(idx + step + ids.length) % ids.length];
+    if (next) openDetail(next);
+    e.preventDefault();
+  }
 });
 
 // --- 検索／フィルタ ---
