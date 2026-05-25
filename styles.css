@@ -432,6 +432,8 @@ select:focus { border-color: var(--accent); }
   border-bottom: 1px dotted transparent;
 }
 .ing-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.ing-or { color: var(--muted); font-size: 11px; margin: 0 2px; }
+.ing-opt { color: var(--muted); font-size: 11px; }
 .instructions { white-space: pre-wrap; line-height: 1.75; color: var(--text); font-size: 14px; }
 .image-credit {
   margin-top: 22px; padding-top: 14px;

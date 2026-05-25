@@ -506,9 +506,14 @@ function openDetail(id) {
       <ul class="ingredients">
         ${items.map(it => {
           const n = it.name_ja || it.name_en || "";
+          const alts = (it.alternatives || []).map(a => {
+            const an = a.name_ja || a.name_en || "";
+            return ` <span class="ing-or">または</span> <span class="ing-link" data-name="${escapeHTML(an)}" title="この材料で検索">${escapeHTML(an)}</span>`;
+          }).join("");
+          const optTag = it.optional ? ' <span class="ing-opt">(任意)</span>' : "";
           return `
           <li>
-            <span class="ing-link" data-name="${escapeHTML(n)}" title="この材料で検索">${escapeHTML(n)}</span>
+            <span class="ing-link" data-name="${escapeHTML(n)}" title="この材料で検索">${escapeHTML(n)}</span>${alts}${optTag}
             <span class="measure">${escapeHTML(it.measure_ja || it.measure_en || "")}</span>
           </li>`;
         }).join("")}
@@ -699,20 +704,28 @@ function applyFilters() {
   renderCards(items, labels.join(" × "));
 }
 
-// 所持材料だけで全材料を満たせるか
+// 材料アイテムの候補名（本体 + alternatives）
+function ingredientCandidates(it) {
+  const out = [it.name_ja || it.name_en || ""];
+  for (const a of it.alternatives || []) out.push(a.name_ja || a.name_en || "");
+  return out.filter(Boolean);
+}
+// 所持材料だけで全材料を満たせるか（任意材料はスキップ、OR は片方所持で OK）
 function cocktailMadeFromOwned(c) {
   const ings = c.ingredients || [];
   if (ings.length === 0) return false;
-  return ings.every(it => isOwned(it.name_ja || it.name_en || ""));
+  return ings.every(it => it.optional || ingredientCandidates(it).some(isOwned));
 }
 // 所持 + 調達可能 で全材料を満たせるか
 function cocktailMadeFromAvailable(c) {
   const ings = c.ingredients || [];
   if (ings.length === 0) return false;
   return ings.every(it => {
-    const n = it.name_ja || it.name_en || "";
-    const s = getStatus(n);
-    return s === "owned" || s === "obtainable";
+    if (it.optional) return true;
+    return ingredientCandidates(it).some(n => {
+      const s = getStatus(n);
+      return s === "owned" || s === "obtainable";
+    });
   });
 }
 
