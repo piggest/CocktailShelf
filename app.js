@@ -364,6 +364,8 @@ function classifyStyle(c) {
 function renderCards(items, titleText) {
   if (titleText !== undefined) setTitle(titleText);
   grid.innerHTML = "";
+  // 並び順を保存（←/→ 移動の対象、ループ用）
+  currentList = (items || []).map(c => String(c.id));
   if (!items || items.length === 0) {
     emptyMsg.classList.remove("hidden");
     setTitle(resultsTitle.textContent, 0);
@@ -494,6 +496,7 @@ function renderWishBtn(btn, id) {
 
 // --- 詳細モーダル ---
 let currentDetailId = null;
+let currentList = []; // 現在 grid に表示中のカクテル ID 配列（←/→ 移動の対象）
 function openDetail(id) {
   currentDetailId = id;
   markViewed(id);
@@ -659,9 +662,12 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") { closeDetail(); return; }
   if (e.key === "ArrowLeft" || e.key === "ArrowRight") {
     if (!currentDetailId) return;
-    const ids = [...grid.querySelectorAll(".card")].map(el => el.dataset.id);
-    if (ids.length === 0) return;
-    const idx = ids.indexOf(currentDetailId);
+    // 現在表示中のリスト（タブ/検索/並び順を反映）
+    const ids = currentList && currentList.length
+      ? currentList.map(String)
+      : [...grid.querySelectorAll(".card")].map(el => el.dataset.id);
+    if (ids.length <= 1) return;
+    const idx = ids.indexOf(String(currentDetailId));
     if (idx < 0) return;
     const step = e.key === "ArrowRight" ? 1 : -1;
     const next = ids[(idx + step + ids.length) % ids.length];
