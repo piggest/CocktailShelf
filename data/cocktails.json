@@ -11506,14 +11506,16 @@
       {
         "name_ja": "ヒプノティック",
         "name_en": "Hpnotiq",
-        "measure_ja": "1パート",
-        "measure_en": "One part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
-        "measure_ja": "1パート",
-        "measure_en": "One part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "材料を混ぜ合わせ、氷の上に注いで提供する。",
@@ -12114,14 +12116,16 @@
       {
         "name_ja": "ウイスキー",
         "name_en": "Whiskey",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "コーラ",
         "name_en": "Cola",
-        "measure_ja": "3〜5 パート",
-        "measure_en": "3-5 parts"
+        "measure_ja": "3〜5 部",
+        "measure_en": "3〜5 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "氷",
@@ -16840,14 +16844,16 @@
       {
         "name_ja": "ホワイトラム",
         "name_en": "White rum",
-        "measure_ja": "1パート",
-        "measure_en": "One part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ブランベルモット",
         "name_en": "Blanc vermouth",
-        "measure_ja": "1パート",
-        "measure_en": "One part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "キュラソー",
@@ -22666,20 +22672,22 @@
       {
         "name_ja": "赤ワイン",
         "name_en": "Red wine",
-        "measure_ja": "1パート",
-        "measure_en": "One part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "コーラ",
         "name_en": "Cola",
-        "measure_ja": "1パート",
-        "measure_en": "One part",
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
         "alternatives": [
           {
-            "name_ja": "炭酸ソフトドリンク）",
+            "name_ja": "炭酸ソフトドリンク",
             "name_en": ""
           }
-        ]
+        ],
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "たっぷりの氷の上で混ぜ合わせる。",
@@ -32962,14 +32970,16 @@
       {
         "name_ja": "イェーガーマイスター",
         "name_en": "Jägermeister",
-        "measure_ja": "2 パート",
-        "measure_en": "2 parts"
+        "measure_ja": "2 部",
+        "measure_en": "2 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ゴールドシュレーガー",
         "name_en": "Goldschläger",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "ショットグラスにイェーガーマイスターを注ぎ、その上にゴールドシュレーガーを重ねる。",
@@ -35391,38 +35401,43 @@
       {
         "name_ja": "ウォッカ",
         "name_en": "Vodka",
-        "measure_ja": "2パート",
+        "measure_ja": "2 部",
         "measure_en": "2 parts",
         "alternatives": [
           {
             "name_ja": "ブランデー",
             "name_en": "Brandy"
           }
-        ]
+        ],
+        "note": "等量比率"
       },
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "Blue curaçao",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "Grenadine syrup",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "6パート",
-        "measure_en": "6 parts"
+        "measure_ja": "6 部",
+        "measure_en": "6 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "ウォッカと柑橘ジュースをシェイカーで混ぜ、グラスに漉し入れる。グラスの片側からグレナデンを滑らせて沈め、反対側からキュラソーを滑らせてウォッカとグレナデンの間に層を作り、混ざる前に提供する。",
@@ -48921,14 +48936,16 @@
       {
         "name_ja": "ラガー",
         "name_en": "Lager beer",
-        "measure_ja": "1パート",
-        "measure_en": "One part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "シードル",
         "name_en": "Cider",
-        "measure_ja": "1パート",
-        "measure_en": "One part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "標準的なパイントグラスに同量のラガーとシードルを混ぜる。",
@@ -50148,14 +50165,16 @@
       {
         "name_ja": "サンブーカ",
         "name_en": "Sambuca",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ベイリーズ",
         "name_en": "Baileys Irish Cream",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "サンブーカをショットグラスに注ぎ、その上にアイリッシュクリームを2層が混ざらないように静かに注ぐ。",
@@ -51971,14 +51990,16 @@
       {
         "name_ja": "ビール",
         "name_en": "Beer",
-        "measure_ja": "7パート",
-        "measure_en": "7 parts"
+        "measure_ja": "7 部",
+        "measure_en": "7 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "焼酎",
         "name_en": "Shochu",
-        "measure_ja": "3パート",
-        "measure_en": "3 parts"
+        "measure_ja": "3 部",
+        "measure_en": "3 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "ビールと焼酎を混ぜる。理想比はビール7に対し焼酎3とされる。",
@@ -60601,7 +60622,7 @@
         "measure_en": "optional",
         "alternatives": [
           {
-            "name_ja": "7up(ノンアル版)",
+            "name_ja": "7up(ノンアル版",
             "name_en": ""
           }
         ]
@@ -61210,7 +61231,7 @@
             "name_en": ""
           },
           {
-            "name_ja": "2)",
+            "name_ja": "2",
             "name_en": ""
           }
         ]
@@ -61243,7 +61264,7 @@
         "measure_en": "",
         "alternatives": [
           {
-            "name_ja": "卵白)",
+            "name_ja": "卵白",
             "name_en": ""
           }
         ],
@@ -67142,14 +67163,16 @@
       {
         "name_ja": "バーボン",
         "name_en": "Bourbon",
-        "measure_ja": "9パート",
-        "measure_en": "9 parts"
+        "measure_ja": "9 部",
+        "measure_en": "9 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "シャンパン",
         "name_en": "Champagne",
-        "measure_ja": "16パート",
-        "measure_en": "16 parts"
+        "measure_ja": "16 部",
+        "measure_en": "16 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "アンゴスチュラビターズ",
@@ -71507,14 +71530,16 @@
       {
         "name_ja": "ライトラム",
         "name_en": "Light rum",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "カルーア",
         "name_en": "Kahlúa",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "氷",
@@ -71981,20 +72006,23 @@
       {
         "name_ja": "ダークラム",
         "name_en": "Dark rum",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ホワイトラム",
         "name_en": "White rum",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "151プルーフラム",
         "name_en": "151 proof rum",
-        "measure_ja": "1/2 パート",
-        "measure_en": "1/2 part"
+        "measure_ja": "1/2 部",
+        "measure_en": "1/2 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "パッションフルーツシロップ",
@@ -78447,14 +78475,16 @@
       {
         "name_ja": "テネシーウイスキー",
         "name_en": "Tennessee whiskey",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "レモネード",
         "name_en": "Lemonade",
-        "measure_ja": "3 パート",
-        "measure_en": "3 parts"
+        "measure_ja": "3 部",
+        "measure_en": "3 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "氷",
@@ -80517,20 +80547,23 @@
       {
         "name_ja": "ダークラム",
         "name_en": "Dark rum",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ウォッカ",
         "name_en": "Vodka",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "2パート",
-        "measure_en": "2 parts"
+        "measure_ja": "2 部",
+        "measure_en": "2 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "全ての材料を氷とともにシェイクし、オレンジスライスを飾って供する。",
@@ -86572,20 +86605,23 @@
       {
         "name_ja": "ビール",
         "name_en": "Beer",
-        "measure_ja": "1パイント (約13パート)",
-        "measure_en": "1 pint (~13 parts)"
+        "measure_ja": "473 ml",
+        "measure_en": "473 ml",
+        "note": "1 パイント"
       },
       {
         "name_ja": "アマレット",
         "name_en": "Amaretto",
-        "measure_ja": "3パート",
-        "measure_en": "3 parts"
+        "measure_ja": "3 部",
+        "measure_en": "3 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ハイプルーフリキュール",
         "name_en": "High-proof liqueur",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "ショットグラスに二種類のスピリッツを層にし、ハイプルーフ・リキュールを上にする。火をつけて燃やし、ビールグラスに落として消火する。即座に飲む。",
@@ -90058,26 +90094,30 @@
       {
         "name_ja": "ラム",
         "name_en": "Rum",
-        "measure_ja": "2〜4 パート",
-        "measure_en": "2–4 parts"
+        "measure_ja": "2〜4 部",
+        "measure_en": "2〜4 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "4 パート",
-        "measure_en": "4 parts"
+        "measure_ja": "4 部",
+        "measure_en": "4 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ココナッツクリーム",
         "name_en": "Coconut cream",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ナツメグ",
@@ -95237,14 +95277,16 @@
       {
         "name_ja": "ジン",
         "name_en": "Gin",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "バニラアイスクリーム",
         "name_en": "Vanilla ice cream",
-        "measure_ja": "1 パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "シェイカーに氷と材料を入れ、よくシェイクして氷を入れたカクテルグラスに漉し入れる。",
@@ -95953,14 +95995,16 @@
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "アドヴォカート",
         "name_en": "Advocaat",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       }
     ],
     "instructions_ja": "ブランデーとアドヴォカートを温めて等量で混ぜ、アイリッシュコーヒー用のマグに注ぐ。お好みでホイップクリームを乗せる。",
@@ -96564,20 +96608,23 @@
       {
         "name_ja": "ホワイトラム",
         "name_en": "White rum",
-        "measure_ja": "2パート",
-        "measure_en": "2 parts"
+        "measure_ja": "2 部",
+        "measure_en": "2 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "グアバジュース",
         "name_en": "Guava juice",
-        "measure_ja": "2パート",
-        "measure_en": "2 parts"
+        "measure_ja": "2 部",
+        "measure_en": "2 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "1パート",
-        "measure_en": "1 part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "砂糖",
@@ -96913,20 +96960,16 @@
       {
         "name_ja": "ブランコテキーラ",
         "name_en": "Blanco tequila",
-        "measure_ja": "1〜1.5パート",
-        "measure_en": "1 to 1.5 parts",
-        "alternatives": [
-          {
-            "name_ja": "ブランコ）",
-            "name_en": ""
-          }
-        ]
+        "measure_ja": "1〜1.5 部",
+        "measure_en": "1〜1.5 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "パイナップルジュース",
         "name_en": "Pineapple juice",
-        "measure_ja": "2〜3パート",
-        "measure_en": "2 to 3 parts"
+        "measure_ja": "2〜3 部",
+        "measure_en": "2〜3 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "ライムジュース",
@@ -100208,8 +100251,9 @@
       {
         "name_ja": "ジン",
         "name_en": "Gin",
-        "measure_ja": "1 パート",
-        "measure_en": "One part"
+        "measure_ja": "1 部",
+        "measure_en": "1 parts",
+        "note": "等量比率"
       },
       {
         "name_ja": "DDT",
@@ -102304,7 +102348,7 @@
         "measure_en": "",
         "alternatives": [
           {
-            "name_ja": "スタウト）",
+            "name_ja": "スタウト",
             "name_en": ""
           }
         ]
@@ -102322,7 +102366,7 @@
         "measure_en": "",
         "alternatives": [
           {
-            "name_ja": "ユールムスト）",
+            "name_ja": "ユールムスト",
             "name_en": ""
           }
         ]
