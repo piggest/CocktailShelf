@@ -1,0 +1,329 @@
+[
+  {
+    "id": "30302",
+    "ingredients": [
+      {
+        "name_ja": "ジャマイカラム",
+        "name_en": "Jamaican rum",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "デメララ151ラム",
+        "name_en": "Demerara 151 rum",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "ファッショノーラシロップ",
+        "name_en": "Fassionola syrup",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "_source": "Don the Beachcomber 1937 オリジナル (cocktail-society / Wikipedia / curiada): 1.5oz/0.5oz/0.5oz×4。元レシピ約105mlを比率維持で約62mlに縮小。",
+    "_note": "原典レシピはジャマイカラム45ml + 各種15mlで合計約105ml (tikiカクテルとして本来大きめ)。カクテルグラス向けに比率維持で縮小。"
+  },
+  {
+    "id": "30805",
+    "ingredients": [
+      {
+        "name_ja": "ロンドンドライジン",
+        "name_en": "London Dry gin",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "5〜6枚",
+        "measure_en": "5–6 leaves"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "数滴(任意)",
+        "measure_en": "Few drops (optional)",
+        "optional": true
+      }
+    ],
+    "_source": "IBA New Era Drinks 公式 (iba-world / cocktail-society): Gin 60ml / Lemon 30ml / Syrup 15ml。",
+    "_note": "IBA公式は60/30/15ml(計105ml)だがカクテルグラス向けに比率4:2:1を維持して計70mlに縮小。"
+  },
+  {
+    "id": "30207",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "クラマトジュース",
+        "name_en": "Clamato juice",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      },
+      {
+        "name_ja": "ホットソース",
+        "name_en": "Hot sauce",
+        "measure_ja": "2ダッシュ",
+        "measure_en": "2 dashes"
+      },
+      {
+        "name_ja": "ウスターソース",
+        "name_en": "Worcestershire sauce",
+        "measure_ja": "4ダッシュ",
+        "measure_en": "4 dashes"
+      },
+      {
+        "name_ja": "セロリソルト",
+        "name_en": "Celery salt",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "胡椒",
+        "name_en": "Black pepper",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "カットライム",
+        "name_en": "Lime wedge",
+        "measure_ja": "1切れ",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "セロリスティック",
+        "name_en": "Celery stick",
+        "measure_ja": "1本",
+        "measure_en": "1"
+      }
+    ],
+    "_source": "Mott's Clamato 公式 / Wikipedia (Caesar): Vodka 1-2oz + Clamato 4-5oz をハイボール/ジョッキで提供。",
+    "_note": "Caesarは本来ロング(ハイボール/パイントグラス)。Bloody Maryと同様のlong drinkのためショートカクテルとして60mlに圧縮するのは不適切。レシピは公式値のまま保持し、スタイル分類自体を要再検討。"
+  },
+  {
+    "id": "17027",
+    "ingredients": [
+      {
+        "name_ja": "ジーマ",
+        "name_en": "Zima",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "シャンボール",
+        "name_en": "Chambord",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "TheCocktailDB / drinksmixer / cocktailbuilder: Zima 12oz + Chambord 3oz の 4:1 比率。",
+    "_note": "原典は360ml級のロング(ハリケーングラス想定)。ショート分類に合わせ4:1比率を維持して計75mlに縮小。"
+  },
+  {
+    "id": "35572",
+    "ingredients": [
+      {
+        "name_ja": "ブランコテキーラ",
+        "name_en": "Blanco tequila",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      }
+    ],
+    "_source": "Katie Stipe オリジナル (Difford's Guide / Punch / MasterClass): Tequila 1.5oz / Campari 0.5oz / GF 0.5oz / Lime 0.75oz / Syrup 0.5oz。",
+    "_note": "原典は計約97ml。3:1:1:1.5:1比率を維持して計75mlに縮小。"
+  },
+  {
+    "id": "31306",
+    "ingredients": [
+      {
+        "name_ja": "ジャマイカンラム",
+        "name_en": "Jamaican rum",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ゴールドラム",
+        "name_en": "Gold rum",
+        "measure_ja": "11 ml",
+        "measure_en": "11 ml"
+      },
+      {
+        "name_ja": "151プルーフラム",
+        "name_en": "151 proof rum",
+        "measure_ja": "11 ml",
+        "measure_en": "11 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "グレープフルーツジュース",
+        "name_en": "Grapefruit juice",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "シナモンシロップ",
+        "name_en": "Cinnamon syrup",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "ペルノー",
+        "name_en": "Pernod",
+        "measure_ja": "6 ドロップ",
+        "measure_en": "6 drops"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "_source": "Beachbum Berry / Steve Crane Luau (distiller / Food Republic / Wikipedia Test Pilot): Jamaican 1oz / Gold 0.75oz / 151 0.75oz / Lime 0.5oz / GF 0.5oz / Cinnamon 0.5oz / Falernum 0.5oz。",
+    "_note": "原典は計約120ml。1:0.75:0.75:0.5:0.5:0.5:0.5の比率を維持して計69mlに縮小。"
+  },
+  {
+    "id": "35083",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "カルーア",
+        "name_en": "Kahlúa",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      }
+    ],
+    "_source": "bartender.com / drinksmixer: Tequila 1.5oz / Kahlúa 0.75oz / Cream 1oz の 3:1.5:2 比率。",
+    "_note": "原典は計約97ml。比率3:1.5:2を維持して計65mlに縮小。"
+  },
+  {
+    "id": "30510",
+    "ingredients": [
+      {
+        "name_ja": "ブラックストラップラム",
+        "name_en": "Blackstrap rum",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "11 ml",
+        "measure_en": "11 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "デメララシロップ",
+        "name_en": "Demerara syrup",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      }
+    ],
+    "_source": "IBA 公式 (iba-world / Difford's): Blackstrap rum 45ml / Campari 22.5ml / Pineapple 45ml / Lime 15ml / Demerara syrup 15ml。",
+    "_note": "IBA公式は計142.5ml(本来ロックグラス提供)。ショート分類に合わせ比率3:1.5:3:1:1を維持して計71mlに縮小。"
+  }
+]

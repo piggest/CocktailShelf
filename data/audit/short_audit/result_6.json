@@ -1,0 +1,296 @@
+[
+  {
+    "id": "11844",
+    "ingredients": [
+      {
+        "name_ja": "ブレンデッドウイスキー",
+        "name_en": "Blended whiskey",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "赤ワイン",
+        "name_en": "Red wine",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml",
+        "note": "クラレット等の辛口赤ワインをフロート"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      },
+      {
+        "name_ja": "チェリー",
+        "name_en": "Cherry",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      }
+    ],
+    "_source": "IBA Official / Wikipedia",
+    "_note": "IBA公式レシピに基づきレモン60ml→30ml、赤ワイン15mlフロートに調整。合計約106ml(砂糖込み)。クラシックなウイスキーサワー+赤ワインフロート構成。"
+  },
+  {
+    "id": "30414",
+    "ingredients": [
+      {
+        "name_ja": "ロンドンドライジン",
+        "name_en": "London Dry gin",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "フェルネット・ブランカ",
+        "name_en": "Fernet-Branca",
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      }
+    ],
+    "_source": "IBA Official (Unforgettables)",
+    "_note": "IBA公式レシピそのままの分量(45/45/7.5ml)。Savoy由来クラシックでステア完成後ベルモットがアルコール総量に寄与するが、現状値を維持。"
+  },
+  {
+    "id": "30020",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ハニーシロップ",
+        "name_en": "Honey syrup",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml",
+        "optional": true,
+        "note": "David Embury系レシピでは少量加える"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
+      }
+    ],
+    "_source": "Difford's Guide / Moody Mixologist",
+    "_note": "Difford系の標準比率に縮小。ジン60→45、ハニー/レモン各30→22.5、オレンジ30→10mlに調整。合計100ml。"
+  },
+  {
+    "id": "30620",
+    "ingredients": [
+      {
+        "name_ja": "ピスコ",
+        "name_en": "Pisco",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "パイナップル",
+        "name_en": "Pineapple",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
+      },
+      {
+        "name_ja": "アラビアガム",
+        "name_en": "Gum arabic",
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Distilled water",
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
+      }
+    ],
+    "_source": "Difford's Guide / VinePair (1890s classic)",
+    "_note": "Difford系/標準モダンの比率に圧縮。ピスコ60→45、副材を半分前後に縮小。砂糖+ガム両方残す構成を維持しつつ合計95mlに調整。"
+  },
+  {
+    "id": "30019",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
+      }
+    ],
+    "_source": "IBA Official",
+    "_note": "IBA公式レシピそのまま(30/30/30/7.5ml)。3スピリッツ等量+レモン少量のクラシック構成。"
+  },
+  {
+    "id": "35740",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ヒプノティック",
+        "name_en": "Hpnotiq",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "LoveToKnow / A Couple Cooks (Hpnotiq公式参考)",
+    "_note": "公式系で広く採用される1oz/1oz/1oz/0.5oz比率。現状値が公式どおりのため維持。"
+  },
+  {
+    "id": "35566",
+    "ingredients": [
+      {
+        "name_ja": "ピムスNo.1",
+        "name_en": "Pimm's No. 1",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "25 ml",
+        "measure_en": "25 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ミント",
+        "name_en": "Mint",
+        "measure_ja": "4枚",
+        "measure_en": "4 leaves"
+      }
+    ],
+    "_source": "The Bar (Pimm's公式) / cocktailsandshots",
+    "_note": "Pimm's公式レシピ(50/25/10/10ml)そのまま。現代Pimm's Gimlet系のため現状値を維持。"
+  },
+  {
+    "id": "16992",
+    "ingredients": [
+      {
+        "name_ja": "エバークリア",
+        "name_en": "Everclear",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "1750 ml",
+        "measure_en": "1750 ml"
+      },
+      {
+        "name_ja": "ピーチシュナップス",
+        "name_en": "Peach schnapps",
+        "measure_ja": "1750 ml",
+        "measure_en": "1750 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "3.8 L",
+        "measure_en": "3.8 L"
+      },
+      {
+        "name_ja": "クランベリージュース",
+        "name_en": "Cranberry juice",
+        "measure_ja": "3.8 L",
+        "measure_en": "3.8 L"
+      }
+    ],
+    "_source": "Webtender / haveacocktail / Empire Wine",
+    "_note": "本来はパンチボウル仕様の大量レシピ(Everclear 750ml + Vodka/Schnapps各1.75L + OJ/Cranberry各1ガロン)。1杯あたりではなくバッチ全量。styleがショート分類されているが実態はパンチで、公開レシピもこの大量分量で統一されているため原値を維持。"
+  }
+]

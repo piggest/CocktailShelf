@@ -1,0 +1,317 @@
+[
+  {
+    "id": "31402",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "5枚",
+        "measure_en": "5 leaves"
+      }
+    ],
+    "_source": "Difford's Guide / PUNCH / James Beard Foundation (Audrey Saunders @ Pegu Club, 2006)",
+    "_note": "原典は gin 60ml / pastis 7.5ml / lime 22ml / syrup 15ml だが、ショートカクテル合計60ml前後に揃えるため比率を保ったまま縮小。"
+  },
+  {
+    "id": "30616",
+    "ingredients": [
+      {
+        "name_ja": "バーボン",
+        "name_en": "Bourbon",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "アマーロ・ノニーノ",
+        "name_en": "Amaro Nonino",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml",
+        "alternatives": [
+          {
+            "name_ja": "アマーロ",
+            "name_en": "Amaro"
+          }
+        ]
+      },
+      {
+        "name_ja": "アペロール",
+        "name_en": "Aperol",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "Difford's Guide / A Bar Above / PUNCH (Sam Ross, 2008)",
+    "_note": "原典は全て 3/4 oz (22ml) の等量4種で計88ml。等量比率を保持してショート向けに縮小。"
+  },
+  {
+    "id": "17249",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "Orange curaçao",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "オレンジビターズ",
+        "name_en": "Orange bitters",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "_source": "Difford's Guide / Sipsmith / PUNCH (Harry Craddock 1930 / Pegu Club Burma 1920s)",
+    "_note": "原典は 2 oz gin / 0.75 oz curaçao / 0.75 oz lime (計104ml) 系の 2:1:1 比率。ショート向けに比率維持で縮小。"
+  },
+  {
+    "id": "11129",
+    "ingredients": [
+      {
+        "name_ja": "ブレンデッドウイスキー",
+        "name_en": "Blended whiskey",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "1 個",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "1 スライス",
+        "measure_en": "1 slice"
+      },
+      {
+        "name_ja": "チェリー",
+        "name_en": "Cherry",
+        "measure_ja": "1 個",
+        "measure_en": "1"
+      }
+    ],
+    "_source": "Difford's Guide / Fine Dining Lovers / A Couple Cooks",
+    "_note": "原典は 2 oz whiskey / 1 oz lemon / 0.5 oz syrup (計105ml) のウイスキーサワー+卵白。比率維持で縮小。"
+  },
+  {
+    "id": "178326",
+    "ingredients": [
+      {
+        "name_ja": "ライム",
+        "name_en": "Lime",
+        "measure_ja": "1",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "1",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "白ワイン",
+        "name_en": "White wine",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml"
+      },
+      {
+        "name_ja": "イチゴ",
+        "name_en": "Strawberry",
+        "measure_ja": "1 カップ",
+        "measure_en": "1 cup"
+      },
+      {
+        "name_ja": "リンゴ",
+        "name_en": "Apple",
+        "measure_ja": "1 カップ",
+        "measure_en": "1 cup"
+      },
+      {
+        "name_ja": "アップルブランデー",
+        "name_en": "Apple brandy",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "上まで",
+        "measure_en": "Top",
+        "optional": true
+      }
+    ],
+    "_source": "Minimalist Baker / The Kitchn / Isabel Eats (Traditional White Sangria)",
+    "_note": "ピッチャー提供のサングリア（バッチドリンク）。1本ワインベース・りんごブランデー60mlは公式レシピ通りで分量妥当のため現状値を保持。"
+  },
+  {
+    "id": "16041",
+    "ingredients": [
+      {
+        "name_ja": "サザンカンフォート",
+        "name_en": "Southern Comfort",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "1 L",
+        "measure_en": "1 L"
+      },
+      {
+        "name_ja": "ペプシコーラ",
+        "name_en": "Pepsi Cola",
+        "measure_ja": "750 ml",
+        "measure_en": "750 ml"
+      }
+    ],
+    "_source": "Drinky-Drink / Puredrinkology / Cocktail UK",
+    "_note": "パンチボウル提供のパーティードリンク（バッチ）。SoCo 750ml / OJ 1L / Cola 750ml は公式レシピ通り。バッチのため現状値保持。"
+  },
+  {
+    "id": "30609",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "コーヒーブランデー",
+        "name_en": "Coffee brandy",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "Difford's Guide / Wikipedia / Steve the Bartender / Kitchen Riffs (1970s Bali Hai 公式版)",
+    "_note": "Tikiドリンクで専用の「ミスター・バリ・ハイ・マグ」（クラッシュドアイス満杯）提供。原典 1.5oz dark rum / 1oz light rum / 0.75oz coffee brandy / 1.5oz pineapple / 1oz lemon / 0.5oz syrup そのもののため現状値保持。"
+  },
+  {
+    "id": "31103",
+    "ingredients": [
+      {
+        "name_ja": "メスカル",
+        "name_en": "Mezcal",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "アガベシロップ",
+        "name_en": "Agave syrup",
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
+      },
+      {
+        "name_ja": "塩",
+        "name_en": "Salt",
+        "measure_ja": "リム用",
+        "measure_en": "For rim"
+      },
+      {
+        "name_ja": "カットライム",
+        "name_en": "Lime wedge",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish"
+      }
+    ],
+    "_source": "Difford's Guide / VinePair / Feasting At Home",
+    "_note": "原典は 2 oz mezcal / 1 oz triple sec / 1 oz lime / 0.25 oz agave (計127.5ml) の 2:1:1 比率。ショート向けに比率維持で縮小。"
+  }
+]

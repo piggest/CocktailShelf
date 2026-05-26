@@ -1,0 +1,188 @@
+[
+  {
+    "id": "11009",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ジンジャービア",
+        "measure_ja": "120 ml",
+        "measure_en": "120 ml"
+      }
+    ],
+    "_source": "IBA公式 / Difford's Guide / Wikipedia",
+    "_note": "銅マグで提供されるロング寄りビルドカクテル。IBA公式比率 (vodka 45ml / lime 15ml / ginger beer 120ml) は世界標準。グラスがカクテルグラスではないため現状値を保持。"
+  },
+  {
+    "id": "31309",
+    "ingredients": [
+      {
+        "name_ja": "ジャパニーズウイスキー",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ゆず果汁",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "卵白",
+        "measure_ja": "1 個分",
+        "measure_en": "1"
+      }
+    ],
+    "_source": "Difford's Guide / DrinksWorld / Setamono",
+    "_note": "Whisky Sour系。Difford's準拠で whisky 45ml (1.5oz) ベースに縮小、柑橘・シロップを比率維持で調整。合計85ml (液体)。"
+  },
+  {
+    "id": "30912",
+    "ingredients": [
+      {
+        "name_ja": "ペールラガー",
+        "measure_ja": "135 ml",
+        "measure_en": "135 ml"
+      },
+      {
+        "name_ja": "ウォッカ",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      }
+    ],
+    "_source": "Wikipedia / Cocktails Wiki / TasteAtlas",
+    "_note": "ロシアのビアカクテル。パイントグラスで提供されるロング系ビルドのため現状値を保持。vodka 45ml + lager 135ml (1:3比率) は標準的なレシピ。"
+  },
+  {
+    "id": "30515",
+    "ingredients": [
+      {
+        "name_ja": "テネシーウイスキー",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
+        "note": "1+8 ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "サワーミックス",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンライムソーダ",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      }
+    ],
+    "_source": "Jack Daniel's公式 / barschool.net / Feast+West",
+    "_note": "コリンズグラスのロング系ビルドカクテル。Jack Daniel's公式比率に近い (whisky 1oz / triple sec 1oz / sour mix 1oz / lemon-lime soda top)。グラスがカクテルグラスではないため現状値を保持。"
+  },
+  {
+    "id": "31205",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "グラニュー糖",
+        "measure_ja": "リム用",
+        "measure_en": "for rim"
+      },
+      {
+        "name_ja": "レモンピール",
+        "measure_ja": "1 個",
+        "measure_en": "1 個"
+      }
+    ],
+    "_source": "Absolut Drinks / Smirnoff公式 / inspiredtaste.net",
+    "_note": "Absolut/Smirnoff公式の vodka 45ml ベース版 (lemon 30 / triple sec 15 / syrup 15) からショート総量目安に合わせ縮小。合計85ml。"
+  },
+  {
+    "id": "35867",
+    "ingredients": [
+      {
+        "name_ja": "ロゼワイン",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "テキーラ",
+        "measure_ja": "25 ml",
+        "measure_en": "25 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "塩",
+        "measure_ja": "ひとつまみ",
+        "measure_en": "Pinch"
+      }
+    ],
+    "_source": "Wood & Spoon / allaboutmargaritas / thelilypadcottage",
+    "_note": "ロゼワインベースのマルガリータ変種。複数レシピがあるが、ロゼ:テキーラ ≒ 3:2 の比率を維持しつつカクテルグラス収容の総量に縮小。"
+  },
+  {
+    "id": "30605",
+    "ingredients": [
+      {
+        "name_ja": "ウイスキー",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "水",
+        "measure_ja": "75 ml",
+        "measure_en": "75 ml"
+      }
+    ],
+    "_source": "サントリー公式 / Whisky水割りの標準比率",
+    "_note": "ハイボールグラスで提供されるロング系ビルド。サントリー推奨はウイスキー1:水2〜2.5で、30ml:75ml (1:2.5) は標準的。グラスがカクテルグラスではないため現状値を保持。"
+  }
+]

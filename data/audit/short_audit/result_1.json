@@ -1,0 +1,322 @@
+[
+  {
+    "id": "30504",
+    "ingredients": [
+      {
+        "name_ja": "ハバナクラブプロフンドラム",
+        "name_en": "Havana Club Profundo Rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ハバナクラブスモーキーラム",
+        "name_en": "Havana Club Smoky Rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アマレット",
+        "name_en": "Amaretto",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "フランジェリコ",
+        "name_en": "Frangelico",
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino liqueur",
+        "measure_ja": "5 滴",
+        "measure_en": "5 drops"
+      },
+      {
+        "name_ja": "パッションフルーツピューレ",
+        "name_en": "Passion fruit purée",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "生姜",
+        "name_en": "Ginger",
+        "measure_ja": "1 スライス",
+        "measure_en": "1 slice"
+      }
+    ],
+    "_source": "IBA World (iba-world.com/iba-cocktail/iba-tiki/), Wikipedia",
+    "_note": "公式IBA Tiki分量と完全一致。Tikiグラス前提のため総量が多いが、実レシピ通り維持。スタイル分類がショートになっているのは元データの誤り（本来はティキ/ロング）"
+  },
+  {
+    "id": "32014",
+    "ingredients": [
+      {
+        "name_ja": "スコッチ",
+        "name_en": "Scotch whisky",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "ドランブイ",
+        "name_en": "Drambuie",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "蜂蜜",
+        "name_en": "Honey",
+        "measure_ja": "1 tbsp",
+        "measure_en": "1 tbsp"
+      }
+    ],
+    "_source": "Make Me a Cocktail, Cocktailbuilder, Drinklab",
+    "_note": "Aberdeen Angusはコーヒーマグやオールドファッションドグラスで供されるホット系スコッチカクテル。公式分量(60/30/30+1tbsp)と完全一致のため維持。ショートカクテル扱いではない"
+  },
+  {
+    "id": "17840",
+    "ingredients": [
+      {
+        "name_ja": "スコッチ",
+        "name_en": "Scotch whisky",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "オレンジビターズ",
+        "name_en": "Orange bitters",
+        "measure_ja": "2 ダッシュ",
+        "measure_en": "2 dashes"
+      }
+    ],
+    "_source": "Diffords Guide (diffordsguide.com/cocktails/recipe/19/affinity), Imbibe Magazine",
+    "_note": "Diffords Guide準拠の45/22.5/22.5に縮小。古典の1:1:1(30/30/30)版もあるが、カクテルグラス収容範囲を優先しDiffords標準を採用。総量90ml"
+  },
+  {
+    "id": "30502",
+    "ingredients": [
+      {
+        "name_ja": "メスカル",
+        "name_en": "Mezcal",
+        "measure_ja": "30 ml",
+        "measure_en": "3 cl"
+      },
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "15 ml",
+        "measure_en": "1.5 cl"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "15 ml",
+        "measure_en": "1.5 cl"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino liqueur",
+        "measure_ja": "バースプーン1 杯",
+        "measure_en": "1 bar spoon"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "22.5 ml",
+        "measure_en": "2.25 cl"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "1.5 cl"
+      },
+      {
+        "name_ja": "卵白",
+        "name_en": "Egg white",
+        "measure_ja": "数滴",
+        "measure_en": "Few drops",
+        "optional": true
+      }
+    ],
+    "_source": "IBA World (iba-world.com/iba-cocktail/illegal/), Cocktail Society",
+    "_note": "IBA公式New Era Drinks分量と完全一致(97.5ml)。氷を含めてカクテルグラスで提供される公式仕様のため維持。卵白は数滴のオプション扱いも公式通り"
+  },
+  {
+    "id": "11339",
+    "ingredients": [
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot brandy",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "1 小さじ",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "1/4 小さじ",
+        "measure_en": "1/4 tsp"
+      },
+      {
+        "name_ja": "チェリー",
+        "name_en": "Cherry",
+        "measure_ja": "1",
+        "measure_en": "1"
+      }
+    ],
+    "_source": "Mix That Drink, Diffords Guide (Rose English), Tipsy Bartender",
+    "_note": "公式English Rose分量(45/22.5/22.5 + splash)とほぼ一致。元データの23mlを公式値22.5mlに正規化。総量90ml前後でカクテルグラス適合"
+  },
+  {
+    "id": "34124",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "カルピス",
+        "name_en": "Calpis",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "水",
+        "name_en": "Water",
+        "measure_ja": "55 ml",
+        "measure_en": "55 ml",
+        "note": "適量"
+      },
+      {
+        "name_ja": "カルピスウォーター",
+        "name_en": "Calpis Water",
+        "measure_ja": "75 ml",
+        "measure_en": "75 ml",
+        "note": "適量",
+        "alternatives": ["水＋カルピス原液で代用可"]
+      }
+    ],
+    "_source": "calpis21.com, asahibeer.co.jp cocktailguide, cocktaillog.com",
+    "_note": "元データはグラスが10ozタンブラー(280ml)で実態はロングドリンク。スタイルがショートと記録されているのは元データの誤り。ウォッカ・カルピス系の公式定型レシピ(ベース1:カルピス3比率)に倣い、ベース45ml据え置きで維持。水とカルピスウォーターは『どちらか適量』で割る運用のため両方残しnoteで明示"
+  },
+  {
+    "id": "32016",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "クレーム・ド・カシス",
+        "name_en": "Crème de cassis",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "ジンジャービア",
+        "name_en": "Ginger beer",
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
+      }
+    ],
+    "_source": "Diffords Guide, A Bar Above, Cancun Tequila Tasting",
+    "_note": "El Diabloはコリンズグラス使用のロング系。元データの分量(60/15/22.5/100=197.5ml)は公式Diffords/A Bar Aboveと一致のため維持。スタイル分類がショートになっているのは元データの誤り(本来ロング)"
+  },
+  {
+    "id": "178371",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml",
+        "note": "本来はBacardi 8等のエイジドラム"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "2 ダッシュ",
+        "measure_en": "2 dashes"
+      },
+      {
+        "name_ja": "プロセッコ",
+        "name_en": "Prosecco",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml",
+        "alternatives": ["シャンパン (brut)"]
+      }
+    ],
+    "_source": "Audrey Saunders original spec (Imbibe, Robb Report, Diffords Guide)",
+    "_note": "2004年Audrey Saunders原典スペック(1.5oz rum / 0.75oz lime / 0.75oz syrup / 2oz champagne)に修正。元データ60/30/30/60=180mlはほぼ倍量だったため、原典比率を維持しつつ45/22.5/22.5/60=150mlへ縮小。ミントは元データに無いため割愛(garnish扱い)"
+  }
+]

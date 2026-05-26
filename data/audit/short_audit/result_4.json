@@ -1,0 +1,301 @@
+[
+  {
+    "id": "30409",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "22.5 ml",
+        "measure_en": "22.5 ml"
+      },
+      {
+        "name_ja": "バジル",
+        "name_en": "Basil",
+        "measure_ja": "10 枚",
+        "measure_en": "10 leaves"
+      }
+    ],
+    "_source": "IBA公式 (iba-world.com), Difford's Guide",
+    "_note": "IBA公式レシピそのもの (60/22.5/22.5 ml + バジル10枚)。シェイク後カクテルグラスに注ぐスタイルで、IBA公式分量を保持。氷で薄まり最終ボリュームが90mlを超えるのは公式仕様。"
+  },
+  {
+    "id": "34407",
+    "ingredients": [
+      {
+        "name_ja": "白ワイン",
+        "name_en": "White wine",
+        "measure_ja": "80 ml",
+        "measure_en": "80 ml"
+      },
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "5 ml",
+        "measure_en": "5 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      }
+    ],
+    "_source": "ワインショップソムリエ, hakaru-kk.com, cocktaillog.com",
+    "_note": "中村圭三氏考案の公式レシピ (白ワイン80ml / ピーチリキュール15ml / グレナデン Tsp / シュガー適量)。5oz(150ml)フルートシャンパングラス使用で総量110mlは公式仕様。グラス容量に対し妥当。"
+  },
+  {
+    "id": "31304",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "45 ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "スイカ",
+        "name_en": "Watermelon",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Top with",
+        "note": "適量"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "適量",
+        "measure_en": "As needed",
+        "note": "適量",
+        "optional": true
+      }
+    ],
+    "_source": "saketobi.com, korekara-noto.com",
+    "_note": "ハイボールグラスで炭酸水Top withするロングスタイル。style分類は『ショート』だが実態はハイボール系のロング。一般的なスイカハイボールのジン45ml / スイカ60ml / ライム15ml + ソーダTopを保持。"
+  },
+  {
+    "id": "31305",
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "name_en": "Light rum",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "30 ml",
+        "measure_en": "1 oz"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "45 ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "オルジェ・シロップ",
+        "name_en": "Orgeat syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "適量",
+        "measure_en": "As needed",
+        "note": "適量",
+        "optional": true
+      }
+    ],
+    "_source": "Trader Vic's Bartender's Guide (1972), Difford's Guide, Wine Dharma",
+    "_note": "Trader Vic公式の個人用レシピそのまま (2/1/2/1.5/0.5 oz)。ハイボールグラスで提供されるティキ系の大容量ドリンクで、style『ショート』表記だが実態はロング寄り。公式分量を保持。"
+  },
+  {
+    "id": "31108",
+    "ingredients": [
+      {
+        "name_ja": "テキーラ",
+        "name_en": "Tequila",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "トリプルセック",
+        "name_en": "Triple sec",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "アガベシロップ",
+        "name_en": "Agave syrup",
+        "measure_ja": "7.5 ml",
+        "measure_en": "7.5 ml"
+      },
+      {
+        "name_ja": "唐辛子",
+        "name_en": "Chili pepper",
+        "measure_ja": "3〜4枚",
+        "measure_en": "3-4 slices"
+      },
+      {
+        "name_ja": "塩",
+        "name_en": "Salt",
+        "measure_ja": "リム用",
+        "measure_en": "For rim",
+        "optional": true
+      },
+      {
+        "name_ja": "カットライム",
+        "name_en": "Lime wedge",
+        "measure_ja": "ガーニッシュ",
+        "measure_en": "Garnish",
+        "optional": true
+      }
+    ],
+    "_source": "IBA Margarita base recipe, Chili Pepper Madness, Love and Lemons",
+    "_note": "IBAマルガリータ公式(50/20/15)に準じた比率に縮小。元の60/30/30(=120ml)からテキーラ45 / トリプルセック20 / ライム20に圧縮し、アガベ7.5は維持。総量92.5mlでロックグラスに適切。"
+  },
+  {
+    "id": "30809",
+    "ingredients": [
+      {
+        "name_ja": "ミラーハイライフ",
+        "name_en": "Miller High Life",
+        "measure_ja": "300 ml",
+        "measure_en": "300 ml"
+      },
+      {
+        "name_ja": "アペロール",
+        "name_en": "Aperol",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "playswellwithbutter.com, A Beautiful Mess, The Kitchn",
+    "_note": "Wet City Brewing発祥のビールカクテル。ビール瓶ベースで提供される飲み物のため、style『ショート』表記でも実際はビアカクテル。ビール300ml + Aperol約30ml + レモン15mlで公式手順そのまま。"
+  },
+  {
+    "id": "31307",
+    "ingredients": [
+      {
+        "name_ja": "アニェホラム",
+        "name_en": "Añejo rum",
+        "measure_ja": "45 ml",
+        "measure_en": "1 1/2 oz"
+      },
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz",
+        "note": "Demerara rum 推奨"
+      },
+      {
+        "name_ja": "ファレルナム",
+        "name_en": "Falernum",
+        "measure_ja": "7.5 ml",
+        "measure_en": "1/4 oz"
+      },
+      {
+        "name_ja": "ハニーシロップ",
+        "name_en": "Honey syrup",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "15 ml",
+        "measure_en": "1/2 oz"
+      },
+      {
+        "name_ja": "オールスパイス",
+        "name_en": "Allspice",
+        "measure_ja": "7.5 ml",
+        "measure_en": "1/4 oz",
+        "note": "Allspice Dram"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 ダッシュ",
+        "measure_en": "1 dash"
+      }
+    ],
+    "_source": "Don the Beachcomber原典, Difford's Guide, Food Network Kitchen, Summit Sips",
+    "_note": "Don Beach原典のティキカクテル。ティキマグ(大容量)で提供される。Tuxedo No.2/Difford's版に合わせファレルナム22mlを公式の0.25oz(7.5ml)に補正し、ライム0.5oz(15ml)に統一。総量120mlでティキマグに適切。"
+  },
+  {
+    "id": "30312",
+    "ingredients": [
+      {
+        "name_ja": "ゴスリングスラム",
+        "name_en": "Gosling's rum",
+        "measure_ja": "60 ml",
+        "measure_en": "2 oz"
+      },
+      {
+        "name_ja": "ジンジャービア",
+        "name_en": "Ginger beer",
+        "measure_ja": "180 ml",
+        "measure_en": "6 oz"
+      }
+    ],
+    "_source": "Gosling's公式 (goslings.com)",
+    "_note": "Gosling's公式レシピ準拠 (2oz ラム / 6oz ジンジャービア)。tallグラスで提供されるハイボール系で、style『ショート』表記だが実態はロング。元の100mlから公式の180mlに補正。"
+  }
+]

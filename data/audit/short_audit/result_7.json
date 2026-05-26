@@ -1,0 +1,317 @@
+[
+  {
+    "id": "178354",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ココナッツリキュール",
+        "name_en": "Coconut liqueur",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "エルダーフラワーコーディアル",
+        "name_en": "Elderflower cordial",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ブラックベリー",
+        "name_en": "Blackberry",
+        "measure_ja": "飾りに",
+        "measure_en": "Garnish with"
+      }
+    ],
+    "_source": "Difford's Guide / Pure Drinkology / CocktailWave (Pink Moon)",
+    "_note": "公式の固定 ml は確認できず。元レシピの比率 (ジン:ココナッツ:エルダーフラワー:ライム ≒ 6:6:5:6) を保ちつつ、ショート総量約 70ml に縮小。"
+  },
+  {
+    "id": "30116",
+    "ingredients": [
+      {
+        "name_ja": "バーボン",
+        "name_en": "Bourbon",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "カンパリ",
+        "name_en": "Campari",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "オレンジピール",
+        "name_en": "Orange peel",
+        "measure_ja": "1 片",
+        "measure_en": "1 piece"
+      }
+    ],
+    "_source": "IBA Official (Boulevardier, 3:2:2) / Wikipedia / Difford's Guide",
+    "_note": "IBA 公式比率 3:2:2 (45/30/30 = 105ml) は合計超過のため、同比率を維持しつつ 30/20/20 = 70ml に縮小。"
+  },
+  {
+    "id": "30204",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "カルーア",
+        "name_en": "Kahlúa",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "クレームドカカオ",
+        "name_en": "Crème de cacao",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ココナッツクリーム",
+        "name_en": "Coconut cream",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "牛乳",
+        "name_en": "Milk",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml",
+        "alternatives": [
+          {
+            "name_ja": "ハーフ&ハーフ",
+            "name_en": "Half-and-half"
+          }
+        ]
+      },
+      {
+        "name_ja": "氷",
+        "name_en": "Ice",
+        "measure_ja": "1 カップ",
+        "measure_en": "1 cup"
+      }
+    ],
+    "_source": "Kahlúa 公式 / A Couple Cooks / Simple Joy (Bushwacker)",
+    "_note": "Kahlúa 公式単杯レシピ通りの 1oz/1oz/1oz/2oz/2oz 構成 (アルコール 90ml + ココナッツクリーム/牛乳 120ml)。フローズン (ブレンダーで氷と混合) の特殊形式のため、現状値を保持。"
+  },
+  {
+    "id": "30112",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "イエローシャルトリューズ",
+        "name_en": "Chartreuse Jaune",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "",
+        "measure_en": "",
+        "note": "適量"
+      }
+    ],
+    "_source": "Difford's Guide / Wikipedia / Drinksworld (Brandy Daisy)",
+    "_note": "公式比率 45/22.5/22.5 を維持。元の 23ml を 22ml に揃え、合計約 89ml。Daisy はサワー系で量がやや多めだが公式通りの構成。"
+  },
+  {
+    "id": "11382",
+    "ingredients": [
+      {
+        "name_ja": "ブレンデッドウイスキー",
+        "name_en": "Blended whiskey",
+        "measure_ja": "38 ml",
+        "measure_en": "38 ml"
+      },
+      {
+        "name_ja": "ベネディクティン",
+        "name_en": "Bénédictine",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "レモン",
+        "name_en": "Lemon",
+        "measure_ja": "1 スライス",
+        "measure_en": "1 slice"
+      },
+      {
+        "name_ja": "ライム",
+        "name_en": "Lime",
+        "measure_ja": "1 スライス",
+        "measure_en": "1 slice"
+      }
+    ],
+    "_source": "Difford's Guide / Intoxicologist / Mix That Drink (Frisco Sour)",
+    "_note": "Difford's 公式の 1¼oz/¾oz/½oz/¼oz (約 37.5/22.5/15/7.5 ml) に準拠。元のライム 40ml は誤りで縮小。合計約 83ml。"
+  },
+  {
+    "id": "178310",
+    "ingredients": [
+      {
+        "name_ja": "ライウイスキー",
+        "name_en": "Rye whiskey",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "22 ml",
+        "measure_en": "22 ml"
+      },
+      {
+        "name_ja": "マラスキーノリキュール",
+        "name_en": "Maraschino liqueur",
+        "measure_ja": "7 ml",
+        "measure_en": "7 ml"
+      },
+      {
+        "name_ja": "アマー・ピコン",
+        "name_en": "Amer Picon",
+        "measure_ja": "7 ml",
+        "measure_en": "7 ml",
+        "alternatives": [
+          {
+            "name_ja": "アマーロ",
+            "name_en": "Amaro"
+          }
+        ]
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "3 ダッシュ",
+        "measure_en": "3 dashes"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1 個",
+        "measure_en": "1"
+      }
+    ],
+    "_source": "Difford's Guide / Kitchen Swagger / Whisky Advocate (Brooklyn)",
+    "_note": "現代標準レシピ 2oz/1oz/¼oz/¼oz (約 60/30/7.5/7.5 ml) を、合計 60〜75ml の範囲に収めるため 8:4:1.3:1.3 の比率を維持しつつ 45/22/7/7 に縮小。"
+  },
+  {
+    "id": "30321",
+    "ingredients": [
+      {
+        "name_ja": "ライトラム",
+        "name_en": "Light rum",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "オーバープルーフラム",
+        "name_en": "Overproof rum",
+        "measure_ja": "8 ml",
+        "measure_en": "8 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "オルジェ・シロップ",
+        "name_en": "Orgeat syrup",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "_source": "Wikipedia / Cocktailwave / Imbibe Magazine (Flaming Volcano)",
+    "_note": "本来は数人分のボウル仕立て (Wikipedia: 2oz light rum / 2oz brandy / 1oz 151 / 8oz OJ / 4oz lemon / 4oz orgeat ≒ 630ml)。1人前に縮小し、比率を維持。合計約 158ml だがフローズン/ボウル形式の名残として OJ・レモン・オルジェの量を保持。"
+  },
+  {
+    "id": "16485",
+    "ingredients": [
+      {
+        "name_ja": "カルーア",
+        "name_en": "Kahlúa",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "サンブーカ",
+        "name_en": "Sambuca",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ブルーキュラソー",
+        "name_en": "Blue curaçao",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ベイリーズ",
+        "name_en": "Baileys Irish Cream",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "_source": "Make Me a Cocktail / CDKitchen / Cocktailbuilder (Flaming Lamborghini)",
+    "_note": "公式は 1oz × 4 (約 30ml × 4 = 120ml) でショット数杯を集めて飲む特殊形式。ショート換算で半量 (15ml × 4 = 60ml) に縮小し、等量比率を維持。"
+  }
+]
