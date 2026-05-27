@@ -408,12 +408,7 @@ select:focus { border-color: var(--accent); }
   margin-left: auto;
 }
 .viewed-clear:hover { color: var(--text); border-color: var(--text); }
-.card.is-viewed { opacity: .55; }
-.card.is-viewed::before {
-  content: "閲覧済"; position: absolute; top: 8px; right: 8px;
-  background: rgba(0,0,0,.5); color: #fff; font-size: 10px;
-  padding: 2px 6px; border-radius: 4px; z-index: 2;
-}
+/* 閲覧済みはカード上に表示しない（「閲覧済み」タブからのみ参照） */
 .card { position: relative; }
 .wish-toggle {
   background: var(--bg-2); color: var(--text);
