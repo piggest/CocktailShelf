@@ -297,9 +297,9 @@ function classifyStyle(c) {
     return "フローズン";
   }
 
-  // 3. ホット（コーヒー/アイリッシュコーヒー系で、アイス指定が無いものに限定）
-  const isHotGlass = glass.includes("coffee") || glass.includes("irish coffee") ||
-                     glassJa.includes("コーヒー") || glassJa.includes("アイリッシュコーヒー");
+  // 3. ホット（コーヒー/アイリッシュコーヒー/ホットグラス系で、アイス指定が無いものに限定）
+  const isHotGlass = glass.includes("coffee") || glass.includes("irish coffee") || glass.includes("hot") ||
+                     glassJa.includes("コーヒー") || glassJa.includes("アイリッシュコーヒー") || glassJa.includes("ホット");
   const isHotInst = /\bboiling|boiled|steamed|simmer|piping hot|hot water|hot coffee|hot tea|温めた|沸かし/.test(inst);
   const isHotName = /\bhot\b|ホット|温かい/.test(name) && !/iced|cold|chilled|アイス|冷/.test(name);
   if ((isHotGlass && !hasIce) || isHotInst || isHotName) {
@@ -320,37 +320,44 @@ function classifyStyle(c) {
 
   // 6. ロック
   if (glass.includes("old-fashioned") || glass.includes("old fashioned") ||
-      glass.includes("whiskey glass") || glass.includes("rocks") ||
-      glassJa.includes("オールドファッションド") || glassJa.includes("ウイスキーグラス")) {
+      glass.includes("whiskey glass") || glass.includes("rocks") || glass.includes("rock") ||
+      glassJa.includes("オールドファッションド") || glassJa.includes("ウイスキーグラス") ||
+      glassJa.includes("ロック")) {
     return "ロック";
   }
 
-  // 7. ロング
+  // 7. ロング（大ぶりグラス全般。ブランデー/ワイン/バルーン/ピルスナー/ゴブレット系もここ）
   if (glass.includes("highball") || glass.includes("collins") ||
       glass.includes("hurricane") || glass.includes("pint") ||
       glass.includes("pitcher") || glass.includes("mason") ||
       glass.includes("copper mug") || glass.includes("beer mug") ||
       glass.includes("punch bowl") || glass.includes("mug") ||
+      glass.includes("pilsner") || glass.includes("goblet") ||
+      glass.includes("wine") || glass.includes("balloon") ||
+      glass.includes("brandy") || glass.includes("snifter") ||
+      glass.includes("tumbler") ||
       glassJa.includes("ハイボール") || glassJa.includes("コリンズ") ||
       glassJa.includes("ハリケーン") || glassJa.includes("パイント") ||
       glassJa.includes("ピッチャー") || glassJa.includes("メイソン") ||
       glassJa.includes("銅マグ") || glassJa.includes("ビアマグ") ||
-      glassJa.includes("パンチボウル") || glassJa.includes("マグ")) {
+      glassJa.includes("パンチボウル") || glassJa.includes("マグ") ||
+      glassJa.includes("ピルスナー") || glassJa.includes("ゴブレット") ||
+      glassJa.includes("ワイングラス") || glassJa.includes("バルーン") ||
+      glassJa.includes("ブランデー") || glassJa.includes("タンブラー")) {
     return "ロング";
   }
 
-  // 8. ショート（カクテルグラス系 + ブランデー/ワイン/プースカフェ等の小ぶりも含める）
+  // 8. ショート（カクテルグラス・クープ・マティーニ・ニック&ノラ・ウイスキーサワー等の小ぶり脚付き）
   if (glass.includes("cocktail") || glass.includes("coupe") ||
       glass.includes("margarita") || glass.includes("nick and nora") ||
       glass.includes("whiskey sour") || glass.includes("martini") ||
-      glass.includes("brandy") || glass.includes("snifter") ||
       glass.includes("cordial") || glass.includes("pousse") ||
-      glass.includes("wine") || glass.includes("balloon") || glass.includes("parfait") ||
-      glassJa.includes("カクテルグラス") || glassJa.includes("クープ") ||
+      glass.includes("parfait") ||
+      glassJa.includes("カクテル") || glassJa.includes("クープ") ||
       glassJa.includes("マルガリータグラス") || glassJa.includes("ニック") ||
-      glassJa.includes("ウイスキーサワー") || glassJa.includes("ブランデー") ||
+      glassJa.includes("ウイスキーサワー") || glassJa.includes("マティーニ") ||
+      glassJa.includes("サワーグラス") ||
       glassJa.includes("コーディアル") || glassJa.includes("プースカフェ") ||
-      glassJa.includes("ワイングラス") || glassJa.includes("バルーン") ||
       glassJa.includes("パフェ")) {
     return "ショート";
   }
