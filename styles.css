@@ -583,3 +583,26 @@ select:focus { border-color: var(--accent); }
   background: rgba(126,182,201,.05);
   border-color: rgba(126,182,201,.3);
 }
+
+/* BambooForest 戻りボタン（フローティング） */
+.bamboo-home {
+  position: fixed;
+  left: 16px;
+  bottom: 16px;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.08);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.14);
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  z-index: 9999;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.bamboo-home img { width: 76%; height: 76%; object-fit: contain; }
+.bamboo-home:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.18);
+}
