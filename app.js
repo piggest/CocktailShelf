@@ -117,16 +117,27 @@ const COMMON_INGREDIENTS = new Set([
   "水", "氷", "クラッシュドアイス", "熱湯", "湯", "ホットウォーター",
   "Water", "Ice", "Ice cubes", "Crushed ice", "Hot water"
 ]);
+// 材料名の比較用キー（中黒「・」と空白を無視）。所持判定・taxonomy 参照・カウント集計で共通利用
+function ingNorm(s) {
+  if (!s) return "";
+  return s.toString().toLowerCase().replace(/[・\s　]/g, "");
+}
+
+// 共通材料の正規化済みセット（中黒揺れがあっても同一視）
+const COMMON_INGREDIENTS_NORM = new Set([...COMMON_INGREDIENTS].map(ingNorm));
+
 // 階層分類（子 → 親）。fetch でロード
-let TAXONOMY = {};
-let CHILDREN_INDEX = {}; // 親 → [子, ...] の逆引き
-function parentOf(name) { return TAXONOMY[name]; }
+let TAXONOMY = {};        // 表示用: 中黒を含む raw 名のまま {child: parent}
+let CHILDREN_INDEX = {};  // 表示用: {parent: [child]}
+let TAXONOMY_NORM = {};   // 照合用: {ingNorm(child): parent (raw display)}
+let CHILDREN_INDEX_NORM = {}; // 照合用: {ingNorm(parent): [child (raw display)]}
+function parentOf(name) { return TAXONOMY[name] ?? TAXONOMY_NORM[ingNorm(name)]; }
 function ancestorsOf(name, set = new Set()) {
   let p = parentOf(name);
   while (p && !set.has(p)) { set.add(p); p = parentOf(p); }
   return set;
 }
-function childrenOf(name) { return CHILDREN_INDEX[name] || []; }
+function childrenOf(name) { return CHILDREN_INDEX[name] || CHILDREN_INDEX_NORM[ingNorm(name)] || []; }
 function descendantsOf(name, set = new Set()) {
   for (const c of childrenOf(name)) {
     if (set.has(c)) continue;
@@ -135,27 +146,33 @@ function descendantsOf(name, set = new Set()) {
   }
   return set;
 }
-function isCommonIngredient(name) { return COMMON_INGREDIENTS.has(name); }
+function isCommonIngredient(name) { return COMMON_INGREDIENTS_NORM.has(ingNorm(name)); }
 
 // 材料ステータス: "owned" / "obtainable" / "none"
-// 旧形式（{name: true}）からは自動マイグレーション
+// キーは ingNorm 正規化済み。旧形式（{name: true} や中黒入りキー）からは自動マイグレーション
 function getStatusMap() {
   let raw;
   try { raw = JSON.parse(localStorage.getItem(OWN_KEY)); }
   catch { raw = null; }
   if (!raw || typeof raw !== "object") return {};
-  // 旧形式（boolean）→ owned に変換
   let migrated = false;
+  const out = {};
   for (const k of Object.keys(raw)) {
-    if (raw[k] === true) { raw[k] = "owned"; migrated = true; }
-    else if (!["owned", "obtainable"].includes(raw[k])) { delete raw[k]; migrated = true; }
+    let v = raw[k];
+    if (v === true) { v = "owned"; migrated = true; }
+    else if (!["owned", "obtainable"].includes(v)) { migrated = true; continue; }
+    const nk = ingNorm(k);
+    if (nk !== k) migrated = true;
+    // 衝突時は owned 優先
+    if (out[nk] === "owned" && v !== "owned") continue;
+    out[nk] = v;
   }
-  if (migrated) localStorage.setItem(OWN_KEY, JSON.stringify(raw));
-  return raw;
+  if (migrated) localStorage.setItem(OWN_KEY, JSON.stringify(out));
+  return out;
 }
 function getStatus(name) {
   if (isCommonIngredient(name)) return "owned";
-  return getStatusMap()[name] || "none";
+  return getStatusMap()[ingNorm(name)] || "none";
 }
 // 所持判定（子孫の所持も自分の所持として扱う）
 // レシピが「ウイスキー」を要求 → バーボン所持していれば true
@@ -174,8 +191,9 @@ function effectiveStatus(name) {
 }
 function setStatus(name, status) {
   const map = getStatusMap();
-  if (status === "none") delete map[name];
-  else map[name] = status;
+  const k = ingNorm(name);
+  if (status === "none") delete map[k];
+  else map[k] = status;
   localStorage.setItem(OWN_KEY, JSON.stringify(map));
 }
 function isOwned(name) { return effectiveStatus(name) === "owned"; }
@@ -865,13 +883,13 @@ function loadViewed() {
 
 // --- 材料一覧（頻出順） ---
 function buildIngredientStats() {
-  // key: name_ja, value: {ja, en, count}
+  // 正規化キー（中黒/空白無視）で集計し、表示名は最初に現れた raw 名を保持
   const map = new Map();
   for (const c of DATA) {
     for (const it of (c.ingredients || [])) {
       const ja = (it.name_ja || it.name_en || "").trim();
       if (!ja) continue;
-      const key = ja;
+      const key = ingNorm(ja);
       const prev = map.get(key);
       if (prev) prev.count++;
       else map.set(key, { ja, en: it.name_en || "", count: 1 });
@@ -895,15 +913,17 @@ function setCollapsed(name, on) {
 
 function renderIngredients() {
   const stats = buildIngredientStats().filter(it => !isCommonIngredient(it.ja));
+  // 中黒揺れに頑健にするため countMap は正規化キーで保持
   const countMap = {};
-  for (const it of stats) countMap[it.ja] = it.count;
+  for (const it of stats) countMap[ingNorm(it.ja)] = it.count;
+  const cnt = (name) => countMap[ingNorm(name)] || 0;
 
   // データ内出現材料 + taxonomy 内の親カテゴリも全部表示候補に
   const allNames = new Set(stats.map(it => it.ja));
   for (const [child, parent] of Object.entries(TAXONOMY)) {
     allNames.add(parent);
     // taxonomy にあって出現してない子は表示しない（実データに無い銘柄は除外）
-    if (countMap[child] !== undefined) allNames.add(child);
+    if (countMap[ingNorm(child)] !== undefined) allNames.add(child);
   }
   // 親（子を持つ）でカウント0でも、子が出現していれば親を出す
   // 出現していない単独カテゴリは出さない
@@ -923,12 +943,12 @@ function renderIngredients() {
   const visibleChildren = (name) =>
     childrenOf(name)
       .filter(c => allNames.has(c) || descendantsOf(c).size > 0)
-      .sort((a, b) => (countMap[b]||0) - (countMap[a]||0) || a.localeCompare(b, 'ja'));
+      .sort((a, b) => cnt(b) - cnt(a) || a.localeCompare(b, 'ja'));
 
   // 各エントリの合計件数（自分 + 子孫の出現回数）を計算（表示用）
   const totalCount = (name) => {
-    let n = countMap[name] || 0;
-    for (const d of descendantsOf(name)) n += countMap[d] || 0;
+    let n = cnt(name);
+    for (const d of descendantsOf(name)) n += cnt(d);
     return n;
   };
 
@@ -947,7 +967,7 @@ function renderIngredients() {
     const kids = visibleChildren(name);
     const hasKids = kids.length > 0;
     // 「実体」: レシピに直接出現しているか
-    const isConcrete = (countMap[name] || 0) > 0;
+    const isConcrete = cnt(name) > 0;
 
     // 折りたたみアイコン or 空白
     const toggle = document.createElement("button");
@@ -1009,7 +1029,7 @@ function renderIngredients() {
     const chip = document.createElement("button");
     chip.className = "ing-chip";
     chip.type = "button";
-    const ownCount = countMap[name] || 0;
+    const ownCount = cnt(name);
     const subTotal = totalCount(name);
     const countLabel = isConcrete
       ? (hasKids ? `${ownCount}<span class="ing-sub">/${subTotal}</span>` : `${ownCount}`)
@@ -1022,9 +1042,10 @@ function renderIngredients() {
     if (isConcrete) {
       chip.title = `${name} を使うカクテルを表示`;
       chip.addEventListener("click", () => {
-        // 完全一致絞り込み：その名前そのものがレシピに書かれているカクテルのみ
+        // 完全一致絞り込み（中黒揺れは無視）
+        const nk = ingNorm(name);
         const items = DATA.filter(c =>
-          (c.ingredients || []).some(it => (it.name_ja || it.name_en) === name)
+          (c.ingredients || []).some(it => ingNorm(it.name_ja || it.name_en || "") === nk)
         );
         switchTab("browse");
         // 検索フォームはクリア、フィルタを直接適用
@@ -1076,10 +1097,17 @@ async function loadTaxonomy() {
     delete j._note;
     TAXONOMY = j;
     CHILDREN_INDEX = {};
+    TAXONOMY_NORM = {};
+    CHILDREN_INDEX_NORM = {};
     for (const [child, parent] of Object.entries(TAXONOMY)) {
       (CHILDREN_INDEX[parent] = CHILDREN_INDEX[parent] || []).push(child);
+      TAXONOMY_NORM[ingNorm(child)] = parent;
+      (CHILDREN_INDEX_NORM[ingNorm(parent)] = CHILDREN_INDEX_NORM[ingNorm(parent)] || []).push(child);
     }
-  } catch (e) { console.warn("taxonomy load failed", e); TAXONOMY = {}; CHILDREN_INDEX = {}; }
+  } catch (e) {
+    console.warn("taxonomy load failed", e);
+    TAXONOMY = {}; CHILDREN_INDEX = {}; TAXONOMY_NORM = {}; CHILDREN_INDEX_NORM = {};
+  }
 }
 
 async function init() {
