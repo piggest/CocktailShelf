@@ -456,6 +456,23 @@ select:focus { border-color: var(--accent); }
 .image-credit a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 .image-credit .license { color: var(--accent); }
 
+/* モーダル下部の個別ページへのパーマリンク */
+.detail-permalink {
+  margin: 18px 0 0;
+  padding-top: 14px;
+  border-top: 1px dashed var(--line);
+  font-size: 13px;
+  text-align: right;
+}
+.detail-permalink a {
+  color: var(--muted);
+  border-bottom: 1px dotted var(--muted);
+}
+.detail-permalink a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
 /* 材料一覧タブ */
 .ing-grid {
   display: grid;

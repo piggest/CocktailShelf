@@ -591,6 +591,7 @@ function openDetail(id) {
       <h3>作り方</h3>
       <p class="instructions"></p>
       <div class="image-credit-slot">${creditHTML(photos[0] && photos[0].credit)}</div>
+      ${data.slug ? `<p class="detail-permalink"><a href="cocktails/${escapeHTML(data.slug)}/">このカクテルの個別ページを開く →</a></p>` : ""}
     </div>
   `;
   modalBody.querySelector(".detail-title").textContent = data.name_ja;
