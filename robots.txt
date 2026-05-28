@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piggest.github.io/CocktailShelf/sitemap.xml
