@@ -299,16 +299,6 @@ function classifyStyle(c) {
   if (cat.includes("punch") || catJa.includes("パンチ")) return "ロング";
   if (cat.includes("soft") || catJa === "ソフトドリンク") return "ソフトドリンク";
 
-  // 1.5. コーヒー（ノンアルコールのコーヒー系）
-  const hasCoffeeIngredient = (c.ingredients || []).some(it => {
-    const s = ((it.name_ja || "") + " " + (it.name_en || "")).toLowerCase();
-    return /coffee|espresso|コーヒー|エスプレッソ/.test(s);
-  });
-  const isCoffeeContext = glass.includes("coffee") || glassJa.includes("コーヒー") ||
-                          /coffee|espresso|コーヒー|エスプレッソ/.test(name) ||
-                          hasCoffeeIngredient;
-  if (nonAlc && isCoffeeContext) return "コーヒー";
-
   // 2. フローズン（blender 系のキーワードのみ。"crushed ice" は除外）
   if (/\b(blend|blender|frozen|frapp|slush|smoothie|シャーベット)\b/.test(inst) ||
       /\b(frozen|フローズン)\b/.test(name)) {
@@ -316,13 +306,21 @@ function classifyStyle(c) {
   }
 
   // 3. ホット（コーヒー/アイリッシュコーヒー/ホットグラス系で、アイス指定が無いものに限定）
-  const isHotGlass = glass.includes("coffee") || glass.includes("irish coffee") || glass.includes("hot") ||
+  // 注意: glass.includes("hot") は "shot glass" の "hot" にもマッチするため、単語境界で検査する
+  const isHotGlass = glass.includes("coffee") || glass.includes("irish coffee") || /\bhot\b/.test(glass) ||
                      glassJa.includes("コーヒー") || glassJa.includes("アイリッシュコーヒー") || glassJa.includes("ホット");
   const isHotInst = /\bboiling|boiled|steamed|simmer|piping hot|hot water|hot coffee|hot tea|温めた|沸かし/.test(inst);
   const isHotName = /\bhot\b|ホット|温かい/.test(name) && !/iced|cold|chilled|アイス|冷/.test(name);
-  if ((isHotGlass && !hasIce) || isHotInst || isHotName) {
+  // アイスを使うレシピは「お湯で淹れて冷やす」系(タイアイスティー等)なのでホット扱いしない
+  if (((isHotGlass || isHotInst) && !hasIce) || isHotName) {
     return "ホット";
   }
+
+  // 3.5. プースカフェ（比重差で層を作るレイヤード・カクテル。B-52/アフター・エイト/フロート系等）
+  const isLayered = /二層|三層|四層|2層|3層|4層|層に仕上|層に重|層を作|層を成|層をなす|層を保|多層|レイヤー/.test(inst) ||
+                    (/バースプーンの背/.test(inst) && /重ね|フロート|静かに注/.test(inst)) ||
+                    glass.includes("pousse") || glassJa.includes("プースカフェ");
+  if (isLayered) return "プースカフェ";
 
   // 4. スパークリング
   if (glass.includes("flute") || glass.includes("champagne") ||

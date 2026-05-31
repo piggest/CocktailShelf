@@ -212,7 +212,7 @@ select:focus { border-color: var(--accent); }
 .ph-フローズン     { color: #9fcde6; }
 .ph-ホット         { color: #d97050; }
 .ph-スパークリング { color: #e6c46a; }
-.ph-コーヒー       { color: #a98060; }
+.ph-プースカフェ   { color: #a98060; }
 .ph-ソフトドリンク { color: #8fc99a; }
 .ph-その他         { color: var(--muted); }
 .detail-img.placeholder {
