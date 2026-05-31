@@ -282,6 +282,22 @@ function normalize(s) {
     .replace(/[ァ-ヶ]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0x60));
 }
 
+// 合計分量(ml)を概算。measure_ja の数値+ml のみ集計
+function estimateTotalMl(c) {
+  let total = 0;
+  for (const it of (c.ingredients || [])) {
+    const m = (it.measure_ja || "").match(/(\d+(?:\.\d+)?)\s*ml/i);
+    if (m) total += parseFloat(m[1]);
+  }
+  return total;
+}
+
+// ショート判定が出たが合計分量が大きければロングに降格
+function shortOrLong(c, fallback) {
+  if (estimateTotalMl(c) > 200) return "ロング";
+  return fallback;
+}
+
 // --- スタイル判定（ショート/ロング/ロック等） ---
 // グラス・カテゴリ・作り方の単語から推定。判定順は上が優先
 function classifyStyle(c) {
@@ -322,10 +338,15 @@ function classifyStyle(c) {
                     glass.includes("pousse") || glassJa.includes("プースカフェ");
   if (isLayered) return "プースカフェ";
 
-  // 4. スパークリング
+  // 4. スパークリング(グラスがフルート/シャンパン系 かつ 実材料に発泡酒が入ってる場合のみ)
   if (glass.includes("flute") || glass.includes("champagne") ||
       glassJa.includes("フルート") || glassJa.includes("シャンパン")) {
-    return "スパークリング";
+    const hasSparkling = (c.ingredients || []).some(it => {
+      const s = ((it.name_ja || "") + " " + (it.name_en || "")).toLowerCase();
+      return /シャンパン|スパークリング|プロセッコ|カバ|クレマン|フランチャコルタ|ゼクト|アスティ|champagne|sparkling|prosecco|\bcava\b|cremant|franciacorta|sekt|asti/.test(s);
+    });
+    if (hasSparkling) return "スパークリング";
+    // 発泡酒なし(ソーダ代用等) → ショート扱いにフォールスルー
   }
 
   // 5. ショット
@@ -364,6 +385,7 @@ function classifyStyle(c) {
   }
 
   // 8. ショート（カクテルグラス・クープ・マティーニ・ニック&ノラ・ウイスキーサワー等の小ぶり脚付き）
+  // 合計200mlを超える場合はロングに降格
   if (glass.includes("cocktail") || glass.includes("coupe") ||
       glass.includes("margarita") || glass.includes("nick and nora") ||
       glass.includes("whiskey sour") || glass.includes("martini") ||
@@ -375,12 +397,12 @@ function classifyStyle(c) {
       glassJa.includes("サワーグラス") ||
       glassJa.includes("コーディアル") || glassJa.includes("プースカフェ") ||
       glassJa.includes("パフェ")) {
-    return "ショート";
+    return shortOrLong(c, "ショート");
   }
 
   // 9. フォールバック
   if (nonAlc) return "ソフトドリンク";
-  return "ショート";
+  return shortOrLong(c, "ショート");
 }
 
 // --- カード描画 ---
