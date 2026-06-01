@@ -2798,7 +2798,7 @@
         "measure_en": "1 個"
       }
     ],
-    "instructions_ja": "オリーブをピンに刺さずグラスに入れて冷凍庫で冷やす。ジン、ドライベルモット、オレンジビターズをシェイクしてカクテルグラスに注ぐ。ニューヨークの名門ホテルの名を冠した、辛口でほのかにオレンジが香る一杯。",
+    "instructions_ja": "オリーブをピンに刺さずグラスに入れて冷凍庫で冷やす。ジン、ドライベルモット、オレンジビターズをステアしてカクテルグラスに注ぐ。ニューヨークの名門ホテルの名を冠した、辛口でほのかにオレンジが香る一杯。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -12345,8 +12345,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "スコッチ",
+        "name_en": "Scotch whisky",
         "measure_ja": "60 ml",
         "measure_en": "60 ml"
       },
@@ -12354,22 +12354,28 @@
         "name_ja": "シュガーシロップ",
         "name_en": "Sugar syrup",
         "measure_ja": "1 tsp",
-        "measure_en": "1 tsp."
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "熱湯",
+        "name_en": "Boiling water",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "オレンジピール",
         "name_en": "Orange peel",
-        "measure_ja": "1 片",
-        "measure_en": "1 片"
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
       },
       {
         "name_ja": "レモンピール",
         "name_en": "Lemon peel",
-        "measure_ja": "1 片",
-        "measure_en": "1 片"
+        "measure_ja": "飾り",
+        "measure_en": "garnish"
       }
     ],
-    "instructions_ja": "常温のロックグラスにブランデーとシュガーシロップを入れてステアし、オレンジピールとレモンピールを搾り入れる。電子レンジで10秒ほど温めて火を点け、数秒で消してから注ぐ。柑橘の香りが炎で立ち昇る、19世紀から伝わる劇場的なホットスタイル。",
+    "instructions_ja": "温めた金属カップ2個に、片方にスコッチと砂糖、もう片方に熱湯を入れる。スコッチに点火し、2つのカップ間で炎の液体を5〜6回往復させて青い炎を作る。最後にカップへ注ぎ、オレンジ・レモンピールを飾る。Jerry Thomas 1862年考案 Blue Blazer のウイスキー版。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -46072,8 +46078,8 @@
         "measure_en": "40 ml (2/3)"
       },
       {
-        "name_ja": "ドライベルモット",
-        "name_en": "Dry vermouth",
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
         "measure_ja": "20 ml (1/3)",
         "measure_en": "20 ml (1/3)"
       },
@@ -46090,7 +46096,7 @@
         "measure_en": "1 片"
       }
     ],
-    "instructions_ja": "アップルブランデー、ドライベルモット、アンゴスチュラビターズをシェイカーに氷と入れ手早くシェイクし、冷やしたグラスに注ぐ。レモンピールを絞りかけて香り付けする。林檎の果実香にハーブとビターズの苦みが寄り添う、夜空の星を冠したショート。",
+    "instructions_ja": "アップルブランデー、ドライベルモット、アンゴスチュラビターズをシェイカーに氷と入れ手早くステアし、冷やしたグラスに注ぐ。レモンピールを絞りかけて香り付けする。林檎の果実香にハーブとビターズの苦みが寄り添う、夜空の星を冠したショート。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -70780,7 +70786,7 @@
         "measure_en": "10 ml"
       }
     ],
-    "instructions_ja": "ショットグラスにまずベイリーズを注ぎ、バースプーンの背を伝わせてカルーアを静かに重ねる。同じ要領でサンブーカを最上層に流して三層に仕上げる。蜂を思わせる縞模様が美しい、甘さの段階を楽しむレイヤードショット。",
+    "instructions_ja": "ショットグラスにカルーアを1/3まで注ぎ、バースプーンの背を伝わせてサンブーカを静かに重ね、最後にベイリーズを同じ要領で重ねる。コーヒー・アニス・クリームが下から上へと縞模様を描く、蜂のような3層レイヤードショット。",
     "instructions_en": "This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!",
     "iba": null,
     "tags": [],
@@ -75749,8 +75755,8 @@
         "measure_en": "40 ml (2/3)"
       },
       {
-        "name_ja": "ドライベルモット",
-        "name_en": "Dry vermouth",
+        "name_ja": "スイートベルモット",
+        "name_en": "Sweet vermouth",
         "measure_ja": "20 ml (1/3)",
         "measure_en": "20 ml (1/3)"
       },
@@ -75767,7 +75773,7 @@
         "measure_en": "1 片"
       }
     ],
-    "instructions_ja": "シェイカーにアップルブランデー、ドライベルモット、アンゴスチュラビターズを入れ、氷とともにシェイクしてグラスに注ぐ。レモンピールを絞りかける。リンゴの香りにベルモットの草いきれが重なる、辛口で落ち着いた一杯。",
+    "instructions_ja": "シェイカーにアップルブランデー、ドライベルモット、アンゴスチュラビターズを入れ、氷とともにステアしてグラスに注ぐ。レモンピールを絞りかける。リンゴの香りにベルモットの草いきれが重なる、辛口で落ち着いた一杯。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -99331,7 +99337,7 @@
         "measure_en": "1 dash"
       }
     ],
-    "instructions_ja": "ブランデー、スイートベルモット、シュガーシロップ、アンゴスチュラビターズを氷とともにシェイクし、冷えたカクテルグラスに注ぐ。ブランデー版マンハッタンとも呼ばれる、ふくよかな葡萄香と苦味が溶け合うクラシックな一杯。",
+    "instructions_ja": "ブランデー、スイートベルモット、シュガーシロップ、アンゴスチュラビターズを氷とともにステアし、冷えたカクテルグラスに注ぐ。ブランデー版マンハッタンとも呼ばれる、ふくよかな葡萄香と苦味が溶け合うクラシックな一杯。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
