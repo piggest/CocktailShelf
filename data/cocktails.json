@@ -1103,52 +1103,6 @@
     "slug": "iced-cafe-au-lait"
   },
   {
-    "id": "34006",
-    "name_ja": "アイス・カフェ・ラテ",
-    "name_en": "Iced Caffe Latte",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "11oz ゴブレット　340　(331ml)",
-    "glass_en": "",
-    "alcoholic_ja": "ノンアルコール",
-    "alcoholic_en": "Non alcoholic",
-    "base": "Non-Alcoholic",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "牛乳",
-        "name_en": "Milk",
-        "measure_ja": "120 ml",
-        "measure_en": "120 ml"
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "Sugar syrup",
-        "measure_ja": "2 tsp",
-        "measure_en": "2 tsp."
-      },
-      {
-        "name_ja": "インスタントコーヒー",
-        "name_en": "Instant coffee",
-        "measure_ja": "3 tsp",
-        "measure_en": "3 tsp."
-      },
-      {
-        "name_ja": "ナツメグ",
-        "name_en": "Nutmeg",
-        "measure_ja": "少々",
-        "measure_en": "少々"
-      }
-    ],
-    "instructions_ja": "シェーカーに牛乳、シュガーシロップ、インスタントコーヒーを入れてしっかりシェイクし、グラスへ注ぐ。氷を入れ、仕上げにナツメグをひと振り。スパイスの香りが効いた泡立ちのよいアイスラテ。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "slug": "iced-caffe-latte"
-  },
-  {
     "id": "35444",
     "name_ja": "アイス・ブルー・カミカゼ",
     "name_en": "Ice Blue Kamikaze",
@@ -3693,47 +3647,6 @@
     "slug": "applecar"
   },
   {
-    "id": "34024",
-    "name_ja": "アップルジャック・カクテル",
-    "name_en": "Applejack Cocktail",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アップルブランデー",
-        "name_en": "Apple brandy",
-        "measure_ja": "40 ml (2/3)",
-        "measure_en": "40 ml (2/3)",
-        "note": "アップルジャック"
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
-        "measure_ja": "10 ml (1/6)",
-        "measure_en": "10 ml (1/6)"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "10 ml (1/6)",
-        "measure_en": "10 ml (1/6)"
-      }
-    ],
-    "instructions_ja": "シェーカーにアップルブランデー、グレナデンシロップ、レモンジュースを氷とともに入れてシェイクし、冷えたカクテルグラスに注ぐ。林檎の蒸留酒に甘酸っぱい彩りを添えた、アメリカクラシックショート。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "slug": "applejack-cocktail"
-  },
-  {
     "id": "30007",
     "name_ja": "アップルティーニ",
     "name_en": "Appletini",
@@ -4497,8 +4410,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml",
         "note": "コニャック"
@@ -5163,47 +5076,6 @@
     "slug": "absinthe-tonic"
   },
   {
-    "id": "35656",
-    "name_ja": "アブサン・ドリップ",
-    "name_en": "Absinthe Drip",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "オールドファッションドグラス",
-    "glass_en": "Old-Fashioned Glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アブサン",
-        "name_en": "Absinthe",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "角砂糖",
-        "name_en": "Sugar cube",
-        "measure_ja": "1 個",
-        "measure_en": "1 個"
-      },
-      {
-        "name_ja": "水",
-        "name_en": "Water",
-        "measure_ja": "90〜150 ml",
-        "measure_en": "90〜150 ml"
-      }
-    ],
-    "instructions_ja": "グラスにアブサンを注ぎ、上にアブサンスプーンを渡して角砂糖をのせる。砂糖の上から冷水をゆっくり垂らし、砂糖を溶かしながら加水する。液体が白濁し、目安として水3：アブサン1の割合になったら完成。クラシックなアブサンの飲み方で、緑の妖精と呼ばれた香りが開く。",
-    "instructions_en": "Pour absinthe into the glass. Rest an absinthe spoon across the rim and place a sugar cube on top. Slowly drip cold water over the sugar cube until it dissolves and the absinthe turns cloudy (louche), typically reaching a 3:1 ratio of water to absinthe.",
-    "iba": null,
-    "tags": [],
-    "style": "ロック",
-    "is_public": true,
-    "base_detail": "アニス系リキュール",
-    "slug": "absinthe-drip"
-  },
-  {
     "id": "35661",
     "name_ja": "アブサン・バック",
     "name_en": "Absinthe Buck",
@@ -5332,50 +5204,6 @@
     "is_public": true,
     "base_detail": "アニス系リキュール",
     "slug": "absinthe-bohemian-style"
-  },
-  {
-    "id": "35668",
-    "name_ja": "アブサン水割り",
-    "name_en": "Absinthe with Water",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "アブサングラス",
-    "glass_en": "Absinthe Glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アブサン",
-        "name_en": "Absinthe",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "角砂糖",
-        "name_en": "Sugar cube",
-        "measure_ja": "1 個",
-        "measure_en": "1 個"
-      },
-      {
-        "name_ja": "水",
-        "name_en": "Water",
-        "measure_ja": "90-150 ml",
-        "measure_en": "90-150 ml"
-      }
-    ],
-    "instructions_ja": "グラスにアブサンを注ぎ、穴あきのアブサンスプーンを渡して角砂糖をのせる。アブサンファウンテンや水差しから冷水を一滴ずつ垂らし、砂糖を溶かしながら3〜5倍まで割る。火を使わないフランス／スイス伝統スタイルで、白濁したルーシュを楽しむ飲み方。",
-    "instructions_en": "Pour absinthe into a glass and rest a slotted absinthe spoon with a sugar cube on top. Drip iced water slowly from a fountain or carafe, dissolving the sugar and louching the drink to three to five parts water. The traditional French / Swiss style without fire.",
-    "iba": null,
-    "tags": [
-      "absinthe ritual",
-      "french style"
-    ],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "アニス系リキュール",
-    "slug": "absinthe-with-water"
   },
   {
     "id": "35461",
@@ -5770,53 +5598,6 @@
     "is_public": true,
     "base_detail": "アプリコットブランデー",
     "slug": "apricot-orange"
-  },
-  {
-    "id": "34043",
-    "name_ja": "アプリコット・カクテル",
-    "name_en": "Apricot Cocktail",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アプリコットブランデー",
-        "name_en": "Apricot brandy",
-        "measure_ja": "30 ml (1/2)",
-        "measure_en": "30 ml (1/2)"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "15 ml (1/4)",
-        "measure_en": "15 ml (1/4)"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "15 ml (1/4)",
-        "measure_en": "15 ml (1/4)"
-      },
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp."
-      }
-    ],
-    "instructions_ja": "シェーカーにアプリコットブランデー、レモンジュース、オレンジジュース、ジンを氷とともに入れてシェイクし、カクテルグラスに注ぐ。杏のまろやかな甘さに柑橘の酸味が重なる、軽快なフルーツショート。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "slug": "apricot-cocktail"
   },
   {
     "id": "34045",
@@ -7003,48 +6784,6 @@
     "is_public": true,
     "base_detail": "スパークリングワイン",
     "slug": "aperol-royal"
-  },
-  {
-    "id": "34054",
-    "name_ja": "アペロールモーニ",
-    "name_en": "Aperolmoni",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アペロール",
-        "name_en": "Aperol",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "Soda water",
-        "measure_ja": "55 ml",
-        "measure_en": "55 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにアペロールとグレープフルーツジュースを注ぎ、ステアする。炭酸水で満たし、軽くステアして仕上げる。柑橘の苦味と酸味が重なる、軽やかなアペロール版スプモーニ。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ビター系リキュール",
-    "slug": "aperolmoni"
   },
   {
     "id": "35773",
@@ -8310,47 +8049,6 @@
     "slug": "alabama-fizz"
   },
   {
-    "id": "35994",
-    "name_ja": "アリス",
-    "name_en": "Alice",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "キュンメル",
-        "name_en": "Kümmel",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "スイートベルモット",
-        "name_en": "Sweet vermouth",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "スコッチ",
-        "name_en": "Scotch whisky",
-        "measure_ja": "2 dash",
-        "measure_en": "2 dash"
-      }
-    ],
-    "instructions_ja": "シェーカーにキュンメル、スイートベルモット、スコッチと氷を入れてよくシェイクし、冷やしたカクテルグラスに注ぐ。キャラウェイの香りとベルモットの甘み、スコッチのスモーキーさが層をなす個性的な一杯。",
-    "instructions_en": "Shake all ingredients well with ice and strain into a chilled cocktail glass.",
-    "iba": null,
-    "tags": [],
-    "style": "プースカフェ",
-    "is_public": true,
-    "base_detail": "ハーブリキュール",
-    "slug": "alice"
-  },
-  {
     "id": "34065",
     "name_ja": "アリス・マイン",
     "name_en": "Alice Mine",
@@ -9599,36 +9297,30 @@
     "ingredients": [
       {
         "name_ja": "ジン",
-        "name_en": "Dry Gin",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
+        "name_en": "Gin",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "スイートベルモット",
-        "name_en": "Sweet Vermouth",
-        "measure_ja": "22 ml",
-        "measure_en": "22 ml"
+        "name_en": "Sweet vermouth",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       },
       {
-        "name_ja": "シャルトリューズ・ジョーヌ",
-        "name_en": "Yellow Chartreuse",
-        "measure_ja": "7 ml",
-        "measure_en": "7 ml"
+        "name_ja": "シャルトリューズ・ヴェール",
+        "name_en": "Green Chartreuse",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
         "measure_ja": "1 dash",
         "measure_en": "1 dash"
-      },
-      {
-        "name_ja": "オレンジピール",
-        "name_en": "Orange peel",
-        "measure_ja": "飾り(フレーム)",
-        "measure_en": "flamed garnish"
       }
     ],
-    "instructions_ja": "ミキシンググラスにジン、スイートベルモット、シャルトリューズ・ジョーヌ、オレンジビターズと氷を入れてステアし、冷えたカクテルグラスに漉し入れる。オレンジピールをフレームして香りを纏わせる。1935年スイスのバーテンダーO.ブルニエが考案した、Bijouとは別物の黄シャルトリューズ系クラシック。",
+    "instructions_ja": "ミキシンググラスにジン、スイートベルモット、グリーンシャルトリューズ、オレンジビターズと氷を入れてしっかりステアし、冷えたカクテルグラスに漉し入れる。Bijouと同じ材料をステアで混ぜ合わせた、琥珀色に染まる夢のような一杯。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -11070,8 +10762,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
       },
@@ -16389,35 +16081,35 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Gin",
     "image": "",
     "ingredients": [
       {
-        "name_ja": "アイリッシュウイスキー",
-        "name_en": "Irish Whiskey",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "スイートベルモット",
-        "name_en": "Sweet Vermouth",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
+        "name_en": "Sweet vermouth",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "シャルトリューズ・ヴェール",
+        "name_en": "Green Chartreuse",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "オレンジビターズ",
         "name_en": "Orange bitters",
         "measure_ja": "1 dash",
         "measure_en": "1 dash"
-      },
-      {
-        "name_ja": "オレンジピール",
-        "name_en": "Orange peel",
-        "measure_ja": "飾り",
-        "measure_en": "garnish"
       }
     ],
-    "instructions_ja": "ミキシンググラスにアイリッシュウイスキー、スイートベルモット、オレンジビターズと氷を入れてステアし、冷えたカクテルグラスに漉し入れる。オレンジピールを絞りかける。アイリッシュ・マンハッタンの別名でも知られる、エメラルド色を思わせる深い琥珀のクラシック。",
+    "instructions_ja": "ミキシンググラスに材料と氷を入れてステアし、冷えたカクテルグラスに漉し入れる。Bijouと同じ三色をステアで合わせた、グリーンシャルトリューズが映える深いエメラルド色のショート。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -17161,9 +16853,10 @@
     "instructions_en": "Fill a wine glass with ice. Pour in prosecco, St-Germain and soda water in that order. Stir gently with a bar spoon and garnish with a lemon slice.",
     "iba": null,
     "tags": [
+      "スプリッツ",
+      "スパークリング",
       "エルダーフラワー",
-      "プロセッコ",
-      "スプリッツ"
+      "プロセッコ"
     ],
     "style": "ロング",
     "is_public": true,
@@ -21339,52 +21032,6 @@
     "slug": "cafe-alexander-frappe"
   },
   {
-    "id": "34190",
-    "name_ja": "カフェ・オ・レ",
-    "name_en": "cafe au lait",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "8oz ホット・グラス　(220ml)",
-    "glass_en": "",
-    "alcoholic_ja": "ノンアルコール",
-    "alcoholic_en": "Non alcoholic",
-    "base": "Non-Alcoholic",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "牛乳",
-        "name_en": "Milk",
-        "measure_ja": "160 ml",
-        "measure_en": "160 ml"
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "Sugar syrup",
-        "measure_ja": "2 tsp",
-        "measure_en": "2 tsp."
-      },
-      {
-        "name_ja": "インスタントコーヒー",
-        "name_en": "Instant coffee",
-        "measure_ja": "3 tsp",
-        "measure_en": "3 tsp."
-      },
-      {
-        "name_ja": "ナツメグ",
-        "name_en": "Nutmeg",
-        "measure_ja": "少々",
-        "measure_en": "少々"
-      }
-    ],
-    "instructions_ja": "耐熱計量カップに牛乳、シュガーシロップ、インスタントコーヒーを量り入れて軽く振り、電子レンジで温める。グラスに注ぎ、仕上げにナツメグをひと振りする。家庭で手軽に作れる甘く香り高いミルクコーヒー。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ホット",
-    "is_public": true,
-    "slug": "cafe-au-lait"
-  },
-  {
     "id": "35367",
     "name_ja": "カフェ・カカオ",
     "name_en": "Cafe Cacao",
@@ -25111,62 +24758,6 @@
     "slug": "kiss-in-the-dark"
   },
   {
-    "id": "33052",
-    "name_ja": "キス・オブ・ファイヤー",
-    "name_en": "Kiss of Fire",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテル・グラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "スロージン",
-        "name_en": "Sloe gin",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "ドライベルモット",
-        "name_en": "Dry vermouth",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp"
-      },
-      {
-        "name_ja": "砂糖",
-        "name_en": "Sugar",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "砂糖でカクテルグラスの縁をスノースタイルに飾る。シェイカーにウォッカ、スロージン、ドライベルモット、レモンジュースと氷を入れてシェイクし、グラスへ注ぐ。砂糖の甘さとスローベリーの酸味が炎のキスのように響き合う一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [
-      "ショートドリンク"
-    ],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "slug": "kiss-of-fire"
-  },
-  {
     "id": "33050",
     "name_ja": "キス・フロム・ヘブン",
     "name_en": "Kiss from Heaven",
@@ -25311,7 +24902,9 @@
     "instructions_ja": "カクテルグラスの縁をレモンで湿らせて砂糖を付け、スノースタイルに整える。シェイカーに砂糖以外の材料と氷を入れてシェイクし、静かに注ぐ。糖縁とスロージンの紅色が華やかな、シャープな酸味の一杯。",
     "instructions_en": "",
     "iba": null,
-    "tags": [],
+    "tags": [
+      "ショートドリンク"
+    ],
     "style": "ショート",
     "is_public": true,
     "base_detail": "スロージン",
@@ -26637,55 +26230,6 @@
     "is_public": true,
     "style": "ショート",
     "slug": "queen-bee"
-  },
-  {
-    "id": "30702",
-    "name_ja": "クイーンズ",
-    "name_en": "Queens",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "6 parts",
-        "measure_en": "6 parts"
-      },
-      {
-        "name_ja": "スイートベルモット",
-        "name_en": "Sweet vermouth",
-        "measure_ja": "3 parts",
-        "measure_en": "3 parts"
-      },
-      {
-        "name_ja": "ドライベルモット",
-        "name_en": "Dry vermouth",
-        "measure_ja": "3 parts",
-        "measure_en": "3 parts"
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "Pineapple juice",
-        "measure_ja": "4 parts",
-        "measure_en": "4 parts"
-      }
-    ],
-    "instructions_ja": "シェイカーにジン、スイートベルモット、ドライベルモット、パイナップルジュースと氷を入れてシェイクし、冷やしたカクテルグラスに漉し入れる。二種のベルモットにパイナップルが甘酸っぱさを添える、トロピカル寄りのショート。",
-    "instructions_en": "Shake all ingredients in an ice-filled cocktail shaker. Strain into a chilled martini or cocktail glass.",
-    "iba": null,
-    "tags": [
-      "Wikipedia"
-    ],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "slug": "queens"
   },
   {
     "id": "34244",
@@ -32110,8 +31654,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "20 ml (1/3)",
         "measure_en": "20 ml (1/3)",
         "note": "コニャック"
@@ -33213,52 +32757,6 @@
     "slug": "coca-grapefruit"
   },
   {
-    "id": "35805",
-    "name_ja": "コカ・コーク",
-    "name_en": "Coca Coke",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Highball glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "コカレロ",
-        "name_en": "Cocalero",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "コーラ",
-        "name_en": "Cola",
-        "measure_ja": "120 ml",
-        "measure_en": "120 ml"
-      },
-      {
-        "name_ja": "ライム",
-        "name_en": "Lime",
-        "measure_ja": "1切れ",
-        "measure_en": "1 wedge"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにコカレロを注ぎ、しっかりステアして冷やす。よく冷えたコーラで満たして炭酸を逃さないよう軽く混ぜ、ライムを絞り入れる。クラフトコーラのような奥行きで、コカレロを初めて飲む人にも親しみやすい。",
-    "instructions_en": "Pour Cocalero over ice in a highball glass and stir well to chill. Top with well-chilled cola and stir lightly to preserve carbonation. Squeeze a lime wedge over the drink. The result tastes like a premium craft cola, making it approachable for Cocalero newcomers.",
-    "iba": null,
-    "tags": [
-      "ロング",
-      "ハーブ",
-      "コカレロ",
-      "コーラ"
-    ],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ハーブリキュール",
-    "slug": "coca-coke"
-  },
-  {
     "id": "35813",
     "name_ja": "コカ・サワー",
     "name_en": "Coca Sour",
@@ -33399,51 +32897,6 @@
     "is_public": true,
     "base_detail": "ハーブリキュール",
     "slug": "coca-tea"
-  },
-  {
-    "id": "35821",
-    "name_ja": "コカ・トニック",
-    "name_en": "Coca Tonic",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Highball glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "コカレロ",
-        "name_en": "Cocalero",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "トニックウォーター",
-        "name_en": "Tonic water",
-        "measure_ja": "120 ml",
-        "measure_en": "120 ml"
-      },
-      {
-        "name_ja": "ライム",
-        "name_en": "Lime",
-        "measure_ja": "1切れ",
-        "measure_en": "1 wedge"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにコカレロを注ぎ、軽くステアする。冷えたトニックウォーターで満たして炭酸を逃さぬよう静かに混ぜ、ライムを絞り入れる。ハーブの香りにトニックの苦みとライムの酸が清涼に交わる定番ハイボール。",
-    "instructions_en": "Pour Cocalero over ice in a highball glass and stir gently. Top with chilled tonic water and stir lightly to preserve carbonation. Squeeze a lime wedge over the drink.",
-    "iba": null,
-    "tags": [
-      "ロング",
-      "ハーブ",
-      "コカレロ"
-    ],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ハーブリキュール",
-    "slug": "coca-tonic"
   },
   {
     "id": "35803",
@@ -33858,45 +33311,6 @@
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
     "slug": "coconut-moon"
-  },
-  {
-    "id": "36047",
-    "name_ja": "ココナッツミルク",
-    "name_en": "Coconut Milk",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Highball glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ココナッツリキュール",
-        "name_en": "Coconut liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "牛乳",
-        "name_en": "Milk",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにココナッツリキュールを注ぎ、よく冷えた牛乳で満たして軽くステアする。ココナッツの甘い香りとミルクのまろやかさが溶け合う、デザート感覚で楽しめるやさしいロングドリンク。",
-    "instructions_en": "Pour coconut liqueur into a tumbler filled with ice, top with chilled milk and stir gently.",
-    "iba": null,
-    "tags": [
-      "ミルク系",
-      "トロピカル"
-    ],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "フルーツリキュール",
-    "slug": "coconut-milk"
   },
   {
     "id": "34312",
@@ -34942,47 +34356,6 @@
     "is_public": true,
     "base_detail": "ゴールドラム",
     "slug": "cloumbus"
-  },
-  {
-    "id": "35074",
-    "name_ja": "コロンブス・カクテル",
-    "name_en": "Columbus Cocktail",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail Glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Rum",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ゴールドラム",
-        "name_en": "Gold rum",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "アプリコットブランデー",
-        "name_en": "Apricot brandy",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      }
-    ],
-    "instructions_ja": "シェイカーにゴールドラム、アプリコットブランデー、レモンジュースを入れ、氷とともに手早くシェイク。冷えたカクテルグラスに注ぐ。同名のコロンブスとほぼ同じ処方で扱われる、フルーティなラム系ショート。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ゴールドラム",
-    "slug": "columbus-cocktail"
   },
   {
     "id": "35392",
@@ -37751,57 +37124,6 @@
     "slug": "st-germain-sidecar"
   },
   {
-    "id": "35532",
-    "name_ja": "サンジェルマン・スプリッツ",
-    "name_en": "St-Germain Spritz",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "ワイングラス",
-    "glass_en": "Wine glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "サンジェルマン",
-        "name_en": "St-Germain",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "プロセッコ",
-        "name_en": "Prosecco",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "Soda water",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "レモンスライス",
-        "name_en": "Lemon slice",
-        "measure_ja": "1枚",
-        "measure_en": "1 slice"
-      }
-    ],
-    "instructions_ja": "氷を入れたワイングラスにサンジェルマンを注ぎ、プロセッコ、炭酸水の順に重ねて軽くステアする。レモンスライスを浮かべて飾る。エルダーフラワーの花香とプロセッコの泡が爽やかに弾ける、定番のスプリッツ。",
-    "instructions_en": "Add St-Germain to a wine glass with ice, top with prosecco then soda water. Stir gently and garnish with a lemon slice.",
-    "iba": null,
-    "tags": [
-      "エルダーフラワー",
-      "スプリッツ",
-      "スパークリング"
-    ],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "フローラルリキュール",
-    "slug": "st-germain-spritz"
-  },
-  {
     "id": "35515",
     "name_ja": "サンジェルマン・ダイキリ",
     "name_en": "St-Germain Daiquiri",
@@ -40019,47 +39341,6 @@
     "slug": "gypsy"
   },
   {
-    "id": "34352",
-    "name_ja": "ジプシー・クイーン",
-    "name_en": "Gypsy Queen",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "45 ml (3/4)",
-        "measure_en": "45 ml (3/4)"
-      },
-      {
-        "name_ja": "ベネディクティン",
-        "name_en": "Bénédictine",
-        "measure_ja": "15 ml (1/4)",
-        "measure_en": "15 ml (1/4)"
-      },
-      {
-        "name_ja": "アンゴスチュラビターズ",
-        "name_en": "Angostura bitters",
-        "measure_ja": "1 dash",
-        "measure_en": "1 dash"
-      }
-    ],
-    "instructions_ja": "ウォッカ、ベネディクティン、アンゴスチュラビターズをシェーカーに入れてシェイクし、カクテルグラスへ注ぐ。ウォッカの清冽さに香草系リキュールの蜂蜜のような甘さが寄り添う、貴婦人を名乗るに相応しい上品な味わい。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "slug": "gypsy-queen"
-  },
-  {
     "id": "15801",
     "name_ja": "ジマドリ・ジンガー",
     "name_en": "Zimadori Zinger",
@@ -42076,54 +41357,6 @@
     "slug": "champagne-pick-me-up"
   },
   {
-    "id": "34373",
-    "name_ja": "シャンパン・フィズ",
-    "name_en": "Champagne Fizz",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "Sugar syrup",
-        "measure_ja": "2 tsp",
-        "measure_en": "2 tsp."
-      },
-      {
-        "name_ja": "スパークリングワイン",
-        "name_en": "Sparkling wine",
-        "measure_ja": "55 ml",
-        "measure_en": "55 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "ジン、レモンジュース、シュガーシロップをシェイカーで氷とともにシェイクし、グラスに注ぐ。氷を加え、冷えたスパークリングワインで満たして軽くステアする。ジンフィズに泡の華やぎを重ねた、香り高く爽快な一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "slug": "champagne-fizz"
-  },
-  {
     "id": "34375",
     "name_ja": "シャンパン・ブルース",
     "name_en": "Champagne Blues",
@@ -42480,53 +41713,6 @@
     "slug": "je-taime"
   },
   {
-    "id": "34381",
-    "name_ja": "しゅんぎょう　春暁",
-    "name_en": "Spring Dawn",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "日本酒",
-        "name_en": "Sake",
-        "measure_ja": "20 ml (1/3)",
-        "measure_en": "20 ml (1/3)"
-      },
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "40 ml (2/3)",
-        "measure_en": "40 ml (2/3)"
-      },
-      {
-        "name_ja": "グリーンティーリキュール",
-        "name_en": "Green tea liqueur",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp."
-      },
-      {
-        "name_ja": "桜の花の塩漬け",
-        "name_en": "Salted cherry blossom",
-        "measure_ja": "1 片",
-        "measure_en": "1 片"
-      }
-    ],
-    "instructions_ja": "ミキシンググラスに日本酒、ウォッカ、グリーンティーリキュールと氷を入れてステアし、冷えたカクテルグラスに漉し入れる。桜の花の塩漬けを浮かべる。日本酒と抹茶香に桜の風情を添えた、春の夜明けを表現する一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "slug": "spring-dawn"
-  },
-  {
     "id": "34382",
     "name_ja": "しょうようじゅりん　照葉樹林",
     "name_en": "Shoyoujurin",
@@ -42788,41 +41974,6 @@
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
     "slug": "shotgun-soda"
-  },
-  {
-    "id": "35081",
-    "name_ja": "ショットガン (トニックウォーター)",
-    "name_en": "Shotgun (Tonic Water)",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "ショットグラス",
-    "glass_en": "Shot glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "テキーラ",
-        "name_en": "Tequila",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "トニックウォーター",
-        "name_en": "Tonic water",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      }
-    ],
-    "instructions_ja": "ショットグラスにテキーラとトニックウォーターを注ぎ、コースターで蓋をする。グラスの底をテーブルに打ちつけて炭酸を立たせ、一気に飲み干す。散弾銃の名が示すとおり勢いとインパクトを楽しむパーティー向けの一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショット",
-    "is_public": true,
-    "base_detail": "テキーラ(汎用)",
-    "slug": "shotgun-tonic-water"
   },
   {
     "id": "35997",
@@ -47396,7 +46547,7 @@
   },
   {
     "id": "34438",
-    "name_ja": "ストップ高",
+    "name_ja": "リミットアップ",
     "name_en": "Limit-up",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
@@ -50404,53 +49555,6 @@
     "slug": "seventh-heaven-no-1"
   },
   {
-    "id": "35394",
-    "name_ja": "セブンス・ヘブン No.2",
-    "name_en": "Seventh Heaven No.2",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail Glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "50 ml",
-        "measure_en": "50 ml"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "マラスキーノリキュール",
-        "name_en": "Maraschino liqueur",
-        "measure_ja": "2 tsp",
-        "measure_en": "2 tsp"
-      },
-      {
-        "name_ja": "ミントチェリー",
-        "name_en": "Mint cherry",
-        "measure_ja": "1 個",
-        "measure_en": "1 個"
-      }
-    ],
-    "instructions_ja": "シェイカーにジン、グレープフルーツジュース、マラスキーノリキュールを入れ、氷とともにシェイクして冷やしたカクテルグラスに濾して注ぐ。ミントチェリーをグラスに沈める。爽やかな柑橘に桜桃の甘い香りが寄り添う、軽快な変奏曲。",
-    "instructions_en": "Shake dry gin, grapefruit juice, and maraschino with ice, then strain into a cocktail glass. Drop a mint cherry into the glass.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "slug": "seventh-heaven-no-2"
-  },
-  {
     "id": "30214",
     "name_ja": "セルベッサ・プレパラーダ",
     "name_en": "Cerveza Preparada",
@@ -50870,54 +49974,6 @@
     "slug": "soco-cranberry"
   },
   {
-    "id": "34465",
-    "name_ja": "ソコ・クランベリー・ソーダ",
-    "name_en": "Soco Cranberry Soda",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "サザンカンフォート",
-        "name_en": "Southern Comfort",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "クランベリージュース",
-        "name_en": "Cranberry juice",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "Soda water",
-        "measure_ja": "90 ml",
-        "measure_en": "90 ml",
-        "note": "適量"
-      },
-      {
-        "name_ja": "カットライム",
-        "name_en": "Lime wedge",
-        "measure_ja": "1/8 個",
-        "measure_en": "1/8 個",
-        "note": "飾る"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにサザンカンフォートとクランベリージュースを注いでステアし、炭酸水で満たして軽く混ぜる。カットライムを軽く絞り落とす。果実味と炭酸の刺激が爽やかに広がる一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "slug": "soco-cranberry-soda"
-  },
-  {
     "id": "35412",
     "name_ja": "ソコ・コーラ",
     "name_en": "SoCo Cola",
@@ -50962,41 +50018,6 @@
     "is_public": true,
     "base_detail": "サザンカンフォート",
     "slug": "soco-cola"
-  },
-  {
-    "id": "34466",
-    "name_ja": "ソコ・ジンジャー",
-    "name_en": "SoCo Ginger Ale",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "サザンカンフォート",
-        "name_en": "Southern Comfort",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "ジンジャーエール",
-        "name_en": "Ginger ale",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにサザンカンフォートを注いでステアし、ジンジャーエールで満たして軽く混ぜる。生姜の刺激が桃ハーブの甘さを引き締める、飲みやすいハイボール仕立て。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "slug": "soco-ginger-ale"
   },
   {
     "id": "34467",
@@ -56238,41 +55259,6 @@
     "slug": "t-t-t"
   },
   {
-    "id": "35445",
-    "name_ja": "ティー・ミルク",
-    "name_en": "Tea Milk",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Tumbler",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "紅茶リキュール",
-        "name_en": "Tea liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "牛乳",
-        "name_en": "Milk",
-        "measure_ja": "90 ml",
-        "measure_en": "90 ml"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーに紅茶リキュールを注ぎ、牛乳で満たしてよくステアする。ミルクティーのような穏やかな味わいで、アルコールが苦手な人にも飲みやすい一杯。",
-    "instructions_en": "Pour tea liqueur into an ice-filled tumbler, top up with milk and stir well. A mellow milk-tea style cocktail, easy to drink even for those who dislike strong alcohol.",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "紅茶リキュール",
-    "slug": "tea-milk"
-  },
-  {
     "id": "35452",
     "name_ja": "ティー・モヒート",
     "name_en": "Tea Mojito",
@@ -56966,48 +55952,6 @@
     "slug": "dita-sakura-drop"
   },
   {
-    "id": "34527",
-    "name_ja": "ディタ・スプモーニ",
-    "name_en": "Dita Spumoni",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ライチリキュール",
-        "name_en": "Lychee liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml",
-        "note": "SOHO"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "トニックウォーター",
-        "name_en": "Tonic water",
-        "measure_ja": "55 ml",
-        "measure_en": "55 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにSOHOのライチリキュールとグレープフルーツジュースを注ぎ軽くステアし、トニックウォーターで満たして軽く混ぜる。スプモーニのカンパリをライチに置き換えた、ほんのり甘い柑橘ロング。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "slug": "dita-spumoni"
-  },
-  {
     "id": "34528",
     "name_ja": "ディタ・トニック",
     "name_en": "Dita and Tonic",
@@ -57366,49 +56310,6 @@
     "is_public": true,
     "base_detail": "紅茶リキュール",
     "slug": "tiffin-orange"
-  },
-  {
-    "id": "34532",
-    "name_ja": "ティフィン・カシス・ティー",
-    "name_en": "Tiffin Cassis Tea",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "紅茶リキュール",
-        "name_en": "Tea liqueur",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml",
-        "note": "ティフィン"
-      },
-      {
-        "name_ja": "クレーム・ド・カシス",
-        "name_en": "Crème de cassis",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "トニックウォーター",
-        "name_en": "Tonic water",
-        "measure_ja": "100 ml",
-        "measure_en": "100 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにティフィン紅茶リキュールとクレーム・ド・カシスを注ぎ軽くステアし、トニックウォーターで満たして軽く混ぜる。紅茶のタンニンとカシスの濃い甘酸っぱさにキニーネの苦みが交わる、深い色合いのロング。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "紅茶リキュール",
-    "slug": "tiffin-cassis-tea"
   },
   {
     "id": "34533",
@@ -58316,53 +57217,6 @@
     "style": "ロング",
     "base_detail": "テキーラ(汎用)",
     "slug": "tequila-fizz"
-  },
-  {
-    "id": "34542",
-    "name_ja": "テキーラ・マティーニ",
-    "name_en": "Tequila Martini",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "テキーラ",
-        "name_en": "Tequila",
-        "measure_ja": "45 ml (3/4)",
-        "measure_en": "45 ml (3/4)"
-      },
-      {
-        "name_ja": "ドライベルモット",
-        "name_en": "Dry vermouth",
-        "measure_ja": "15 ml (1/4)",
-        "measure_en": "15 ml (1/4)"
-      },
-      {
-        "name_ja": "オリーブ",
-        "name_en": "Olive",
-        "measure_ja": "1 個",
-        "measure_en": "1 個"
-      },
-      {
-        "name_ja": "レモンピール",
-        "name_en": "Lemon peel",
-        "measure_ja": "1 片",
-        "measure_en": "1 片"
-      }
-    ],
-    "instructions_ja": "オリーブをピンに刺してカクテルグラスへ入れ、冷凍庫で冷やしておく。ミキシンググラスでテキーラとドライベルモットをステアしてグラスに注ぎ、レモンピールを絞りかける。マティーニのジンをテキーラに替えた、青草香の効いた変奏。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "テキーラ(汎用)",
-    "slug": "tequila-martini"
   },
   {
     "id": "33130",
@@ -67189,8 +66043,8 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "",
-        "measure_en": "",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml",
         "note": "適量"
       }
     ],
@@ -67204,41 +66058,6 @@
     "is_public": true,
     "base_detail": "アニス系リキュール",
     "slug": "pastis-water"
-  },
-  {
-    "id": "34614",
-    "name_ja": "パスティス・ウオーター",
-    "name_en": "Pastis and Water",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz タンブラー　(280ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Other",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "パスティス",
-        "name_en": "Pastis",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "水",
-        "name_en": "Water",
-        "measure_ja": "90 ml",
-        "measure_en": "90 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにペルノなどのパスティスを量り入れて軽くステアし、水で満たしてもう一度ステアする。アニスの香りがふわりと広がる、フランス南部の昼下がりに馴染む一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "slug": "pastis-and-water"
   },
   {
     "id": "34616",
@@ -68342,43 +67161,6 @@
     "slug": "passoa-cool-orange"
   },
   {
-    "id": "34627",
-    "name_ja": "パッソア・グレープフルーツ",
-    "name_en": "Passoa Grapefruit",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz タンブラー　(280ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "パッションフルーツリキュール",
-        "name_en": "Passion fruit liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml",
-        "note": "パッソア"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "90 ml",
-        "measure_en": "90 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにパッソアを量り入れて軽くステアし、グレープフルーツジュースで満たしてもう一度ステアする。柑橘の苦味とパッションフルーツの甘香が爽やかに調和するロング。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "フルーツリキュール",
-    "slug": "passoa-grapefruit"
-  },
-  {
     "id": "35416",
     "name_ja": "パッソア・サングリア",
     "name_en": "Passoa Sangria",
@@ -68612,49 +67394,6 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "slug": "passoa-lady-killer"
-  },
-  {
-    "id": "34630",
-    "name_ja": "パッソアモーニ",
-    "name_en": "Passoamoni",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "パッションフルーツリキュール",
-        "name_en": "Passion fruit liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml",
-        "note": "パッソア"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "トニックウォーター",
-        "name_en": "Tonic water",
-        "measure_ja": "55 ml",
-        "measure_en": "55 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにパッソアとグレープフルーツジュースを量り入れ、軽くステアする。トニックウォーターで満たして、もう一度ごく軽く混ぜる。柑橘の苦味とパッションフルーツの甘香が爽やかに調和するロング。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "フルーツリキュール",
-    "slug": "passoamoni"
   },
   {
     "id": "12766",
@@ -71067,8 +69806,8 @@
         "measure_en": "45 ml (1/2)"
       },
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "45 ml (1/2) (コニャック)",
         "measure_en": "45 ml (1/2) (コニャック)"
       }
@@ -71232,8 +69971,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
       },
@@ -71652,53 +70391,6 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "slug": "hawaiian"
-  },
-  {
-    "id": "11472",
-    "name_ja": "ハワイアン・カクテル",
-    "name_en": "Hawaiian Cocktail",
-    "category_ja": "スタンダード",
-    "category_en": "Ordinary Drink",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "data/images-openverse/11472.jpg",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "トリプルセック",
-        "name_en": "Triple sec",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "Pineapple juice",
-        "measure_ja": "1 tbsp",
-        "measure_en": "1 tblsp"
-      }
-    ],
-    "instructions_ja": "シェイカーにジン、トリプルセック、パイナップルジュースと氷を入れてシェイクし、冷やしたカクテルグラスに注ぐ。ジンに南国果実とオレンジリキュールを重ねた、軽い甘さが心地よいクラシックなトロピカルカクテル。",
-    "instructions_en": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "Hawaiian cocktails",
-      "artist": "sporkist",
-      "license": "CC BY 2.0",
-      "source_url": "https://www.flickr.com/photos/17879025@N00/6879316765"
-    },
-    "style": "ショート",
-    "base_detail": "ジン(汎用)",
-    "slug": "hawaiian-cocktail"
   },
   {
     "id": "30414",
@@ -72628,42 +71320,6 @@
     "slug": "beermoni"
   },
   {
-    "id": "34667",
-    "name_ja": "ビー・アンド・シー",
-    "name_en": "B and C",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "3oz リキュール・グラス　(95ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ベネディクティン",
-        "name_en": "Bénédictine",
-        "measure_ja": "30 ml (1/2)",
-        "measure_en": "30 ml (1/2)"
-      },
-      {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
-        "measure_ja": "30 ml (1/2) (コニャック)",
-        "measure_en": "30 ml (1/2) (コニャック)",
-        "note": "フロート"
-      }
-    ],
-    "instructions_ja": "リキュールグラスにベネディクティンを量り入れ、バースプーンの背を伝わせてブランデーを静かにフロートする。修道院の薬草酒にコニャックの香気を重ねた、食後に静かに味わうフレンチクラシック。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "プースカフェ",
-    "is_public": true,
-    "base_detail": "ブランデー(汎用)",
-    "slug": "b-and-c"
-  },
-  {
     "id": "33161",
     "name_ja": "ビー・アンド・ビー",
     "name_en": "B & B",
@@ -72677,8 +71333,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "1/2 glass",
         "measure_en": "1/2glass"
       },
@@ -73919,56 +72575,6 @@
     "slug": "picon-cocktail"
   },
   {
-    "id": "33163",
-    "name_ja": "ピコン＆グレナデン",
-    "name_en": "Picon ＆ Grenadine",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Highball glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アメール・ピコン",
-        "name_en": "Amer Picon",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "Soda water",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      },
-      {
-        "name_ja": "レモンピール",
-        "name_en": "Lemon peel",
-        "measure_ja": "",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにアメールピコンとグレナデンシロップを注いで軽くステアし、冷えた炭酸水で満たしてさらに軽くステア。レモンピールを絞り入れる。柑橘系の苦味に紅色の甘みが寄り添う、爽やかなロング。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [
-      "ロングドリンク"
-    ],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ビター系リキュール",
-    "slug": "picon-grenadine"
-  },
-  {
     "id": "17254",
     "name_ja": "ビジュー",
     "name_en": "Bijou",
@@ -74006,7 +72612,7 @@
         "measure_en": "20 ml"
       }
     ],
-    "instructions_ja": "ミキシンググラスにジン・グリーンシャルトリューズ・スイートベルモットと氷を入れ、オレンジビターズを1ダッシュ落としてステアし、冷えたカクテルグラスに漉し入れる。三層の宝石を思わせる重層的な香り。",
+    "instructions_ja": "冷えたカクテルグラスに、グリーンシャルトリューズ、スイートベルモット、ジンの順にバースプーンの背を伝わせて静かに重ね、三層に仕立てる。最後にオレンジビターズを上から1ダッシュ落とす。三色の宝石が層を成す、本来のBijou(プースカフェ仕立て)。",
     "instructions_en": "Stir in mixing glass with ice and strain\r\n",
     "iba": null,
     "tags": [],
@@ -74422,42 +73028,6 @@
     "slug": "cocktail-34687"
   },
   {
-    "id": "34688",
-    "name_ja": "ビッグ・アップル",
-    "name_en": "Big Apple",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz タンブラー　(280ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "アップルジュース",
-        "name_en": "Apple juice",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにウォッカを量り入れて軽くステアし、冷えたアップルジュースで満たしてさらにステア。林檎の優しい甘酸とウォッカのキレが調和する、シンプルで飲みやすいロング。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "slug": "big-apple"
-  },
-  {
     "id": "34689",
     "name_ja": "ビッグ・アップル・クーラー",
     "name_en": "Big Apple Cooler",
@@ -74832,45 +73402,6 @@
     "is_public": true,
     "base_detail": "ヒプノティック",
     "slug": "hpno-orange"
-  },
-  {
-    "id": "35739",
-    "name_ja": "ヒプノ・グレープフルーツ",
-    "name_en": "Hpno Grapefruit",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Highball glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ヒプノティック",
-        "name_en": "Hpnotiq",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにヒプノティックを注ぎ、冷えたグレープフルーツジュースで満たして軽くステアする。トロピカルな青のリキュールにグレープフルーツのほろ苦い酸味が重なる、爽やかなロング。",
-    "instructions_en": "Pour Hpnotiq into an ice-filled highball glass, top up with grapefruit juice and stir gently.",
-    "iba": null,
-    "tags": [
-      "トロピカル",
-      "シトラス"
-    ],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ヒプノティック",
-    "slug": "hpno-grapefruit"
   },
   {
     "id": "34691",
@@ -77068,8 +75599,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
       },
@@ -84912,51 +83443,6 @@
     "slug": "brain-hemmorhage"
   },
   {
-    "id": "35214",
-    "name_ja": "ブレイン・ヘモレージ",
-    "name_en": "Brain Hemorrhage",
-    "category_ja": "ショット",
-    "category_en": "Shot",
-    "glass_ja": "リキュールグラス",
-    "glass_en": "Liqueur glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ピーチリキュール",
-        "name_en": "Peach liqueur",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "ベイリーズ",
-        "name_en": "Baileys Irish Cream",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp"
-      }
-    ],
-    "instructions_ja": "よく冷やしたピーチリキュールをリキュールグラスに注ぎ、バースプーンの背でベイリーズを静かに浮かべる。最後にグレナデンを数滴落とすと血管のような筋が広がる。見た目重視のショートで、桃とクリームの甘さがメイン。",
-    "instructions_en": "Pour chilled peach liqueur into a liqueur glass. Float Baileys carefully over the back of a bar spoon, then drop grenadine on top.",
-    "iba": null,
-    "tags": [
-      "ショット",
-      "ノベルティ",
-      "ハロウィン"
-    ],
-    "style": "ショット",
-    "is_public": true,
-    "base_detail": "フルーツリキュール",
-    "slug": "brain-hemorrhage"
-  },
-  {
     "id": "13202",
     "name_ja": "フレーミング・ドクターペッパー",
     "name_en": "Flaming Dr. Pepper",
@@ -85571,8 +84057,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
       },
@@ -89011,8 +87497,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml",
         "note": "ヘネシー"
@@ -89047,8 +87533,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml",
         "note": "ヘネシー"
@@ -89758,47 +88244,6 @@
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
     "slug": "hermes"
-  },
-  {
-    "id": "34829",
-    "name_ja": "ベルモット・アンド・カシス",
-    "name_en": "Vermouth and Cassis",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ドライベルモット",
-        "name_en": "Dry vermouth",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "クレーム・ド・カシス",
-        "name_en": "Crème de cassis",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "Soda water",
-        "measure_ja": "55 ml",
-        "measure_en": "55 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにドライベルモットとクレーム・ド・カシスを注いでステアし、冷えた炭酸水で満たして軽くひと混ぜする。カシスの果実味とハーブの苦味が炭酸で軽やかにまとまる、欧州風の食前酒。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "slug": "vermouth-and-cassis"
   },
   {
     "id": "34830",
@@ -94175,42 +92620,6 @@
     "slug": "white-rose"
   },
   {
-    "id": "35375",
-    "name_ja": "ホワイトカカオ・ミルク",
-    "name_en": "White Cacao Milk",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Tumbler",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ホワイト・クレーム・ド・カカオ",
-        "name_en": "White crème de cacao",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "牛乳",
-        "name_en": "Milk",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにホワイトクレームドカカオを注ぎ、冷たい牛乳で満たして軽くステアする。アルコール度数が低めで、ホワイトチョコミルクのような甘くまろやかな飲み口。食後やデザート代わりに向くロングカクテル。",
-    "instructions_en": "Pour white creme de cacao into an ice-filled tumbler, top up with cold milk and stir lightly. A low-alcohol drink tasting like white chocolate milk.",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "クレーム・ド・カカオ",
-    "slug": "white-cacao-milk"
-  },
-  {
     "id": "16158",
     "name_ja": "ホワイトキャップ・マルガリータ",
     "name_en": "Whitecap Margarita",
@@ -97827,41 +96236,6 @@
     "slug": "misty"
   },
   {
-    "id": "34926",
-    "name_ja": "ミスティ・ネイル",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "8oz ロック・グラス　(210ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アイリッシュウイスキー",
-        "name_en": "Irish whiskey",
-        "measure_ja": "40 ml (2/3)",
-        "measure_en": "40 ml (2/3)"
-      },
-      {
-        "name_ja": "アイリッシュミスト",
-        "name_en": "Irish Mist",
-        "measure_ja": "20 ml (1/3)",
-        "measure_en": "20 ml (1/3)"
-      }
-    ],
-    "instructions_ja": "氷を入れたロックグラスにアイリッシュウイスキーとアイリッシュミストを量り入れて軽くステアする。ラスティ・ネイルのアイリッシュ版で、ハチミツとハーブの甘やかさが効いた食後酒。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロック",
-    "is_public": true,
-    "base_detail": "アイリッシュウイスキー",
-    "slug": "cocktail-34926"
-  },
-  {
     "id": "33212",
     "name_ja": "ミスティ・ネール",
     "name_en": "Misty Nail",
@@ -99725,47 +98099,6 @@
     "slug": "milano"
   },
   {
-    "id": "35111",
-    "name_ja": "ミラン",
-    "name_en": "Milan",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "ガリアーノ",
-        "name_en": "Galliano",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      }
-    ],
-    "instructions_ja": "シェーカーにジン、ガリアーノ、レモンジュースを入れ、氷とともによくシェイクして冷やしたカクテルグラスへ注ぐ。ガリアーノのアニスとバニラの甘香がジンのジュニパーと寄り添い、レモンの酸味が爽快に締めくくる黄色いショート。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "slug": "milan"
-  },
-  {
     "id": "33214",
     "name_ja": "ミリオネーア",
     "name_en": "Millionaire",
@@ -100560,47 +98893,6 @@
     "style": "ロング",
     "is_public": true,
     "slug": "moonlight-cooler"
-  },
-  {
-    "id": "34954",
-    "name_ja": "むらさめ　村雨",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "8oz ロック・グラス　(210ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "麦焼酎",
-        "name_en": "Mugi shochu",
-        "measure_ja": "45 ml (3/4)",
-        "measure_en": "45 ml (3/4)"
-      },
-      {
-        "name_ja": "ドランブイ",
-        "name_en": "Drambuie",
-        "measure_ja": "15 ml (1/4)",
-        "measure_en": "15 ml (1/4)"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp."
-      }
-    ],
-    "instructions_ja": "氷を入れたロックグラスに麦焼酎、ドランブイ、レモンジュースを量り入れてステアする。麦焼酎のまろやかさにドランブイのハチミツとハーブの甘香、レモンの酸味が重なる、にわか雨の名を冠した和洋折衷の一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロック",
-    "is_public": true,
-    "base_detail": "ウイスキーリキュール",
-    "slug": "cocktail-34954"
   },
   {
     "id": "30612",
@@ -104552,42 +102844,6 @@
     "slug": "yoggy-and-pineapple"
   },
   {
-    "id": "34987",
-    "name_ja": "ヨギー・ミルク",
-    "name_en": "Yoggy and Milk",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz タンブラー　(280ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ヨーグルトリキュール",
-        "name_en": "Yogurt liqueur",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "牛乳",
-        "name_en": "Milk",
-        "measure_ja": "75 ml",
-        "measure_en": "75 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにヨーグルトリキュールを注いで軽くステアし、よく冷えた牛乳で満たして混ぜる。ヨーグルトの酸味とミルクのコクが重なる、デザート感覚で楽しめるまろやかな一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ヨーグルトリキュール",
-    "slug": "yoggy-and-milk"
-  },
-  {
     "id": "20012",
     "name_ja": "ヨコハマ",
     "name_en": "Yokohama",
@@ -104647,54 +102903,6 @@
     ],
     "base_detail": "ジン(汎用)",
     "slug": "yokohama"
-  },
-  {
-    "id": "34986",
-    "name_ja": "よしの　吉野",
-    "name_en": "Yoshino",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "キルシュ",
-        "name_en": "Kirschwasser",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp."
-      },
-      {
-        "name_ja": "グリーンティーリキュール",
-        "name_en": "Green tea liqueur",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp."
-      },
-      {
-        "name_ja": "桜の花の塩漬け",
-        "name_en": "Salted cherry blossom",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "シェーカーにウォッカ、キルシュ、グリーンティーリキュールと氷を入れてシェイクし、冷やしたカクテルグラスに注ぐ。仕上げに桜の花の塩漬けを沈める。桜と抹茶、桜桃の香りが重なる、吉野の春を映した可憐な一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "slug": "yoshino"
   },
   {
     "id": "33228",
@@ -105030,42 +103238,6 @@
     "slug": "lychee-apple"
   },
   {
-    "id": "34989",
-    "name_ja": "ライチ・オレンジ",
-    "name_en": "Litchee and Orange",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz タンブラー　(280ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ライチリキュール",
-        "name_en": "Lychee liqueur",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml",
-        "note": "SOHO"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "75 ml",
-        "measure_en": "75 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにライチリキュール（ディタ等）を注いで軽くステアし、冷えたオレンジジュースで満たして混ぜる。ライチの華やかな香りとオレンジの甘酸っぱさが寄り添う、人気の定番ロングカクテル。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "slug": "litchee-and-orange"
-  },
-  {
     "id": "34990",
     "name_ja": "ライチ・カルピス",
     "name_en": "Lychee and Calpico",
@@ -105189,41 +103361,6 @@
     "is_public": true,
     "base_detail": "フルーツリキュール",
     "slug": "lychee-green-tea"
-  },
-  {
-    "id": "35187",
-    "name_ja": "ライチ・グレープフルーツ",
-    "name_en": "Lychee Grapefruit",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Tumbler",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ライチリキュール",
-        "name_en": "Lychee liqueur",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "90 ml",
-        "measure_en": "90 ml"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにライチリキュールとグレープフルーツジュースを注ぎ、軽くステアする。ライチの甘い香りをグレープフルーツのほろ苦い酸味が引き締める、すっきりした口当たりのロングカクテル。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "フルーツリキュール",
-    "slug": "lychee-grapefruit"
   },
   {
     "id": "35183",
@@ -111551,8 +109688,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml",
         "note": "コニャック"
@@ -111607,8 +109744,8 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
       },
@@ -114131,53 +112268,6 @@
     "is_public": true,
     "base_detail": "梅酒",
     "slug": "golden-pond"
-  },
-  {
-    "id": "35991",
-    "name_ja": "貴妃",
-    "name_en": "Kihi",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "桂花陳酒",
-        "name_en": "Guihua Chen Jiu",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "ライチリキュール",
-        "name_en": "Lychee liqueur",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "ブルーキュラソー",
-        "name_en": "Blue curaçao",
-        "measure_ja": "5 ml",
-        "measure_en": "5 ml"
-      }
-    ],
-    "instructions_ja": "シェーカーに桂花陳酒、ライチリキュール、グレープフルーツジュース、ブルーキュラソーと氷を入れてよくシェイクし、冷えたカクテルグラスに濾し入れる。楊貴妃を思わせる艶やかな香りに、青みを帯びた色合いが上品な中華風の一杯。",
-    "instructions_en": "Combine all ingredients in a shaker with ice. Shake well and strain into a cocktail glass.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "桂花陳酒",
-    "slug": "kihi"
   },
   {
     "id": "32517",
