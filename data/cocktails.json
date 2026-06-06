@@ -13414,14 +13414,19 @@
       "NewEra"
     ],
     "is_public": true,
-    "credit": {
-      "title": "File:Vesper in Bordeaux.jpg",
-      "artist": "Matthias v.d. Elbe",
-      "license": "CC BY 4.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Vesper_in_Bordeaux.jpg"
-    },
     "style": "ショート",
     "base_detail": "ジン(汎用)",
+    "extras": [
+      {
+        "image_public": "data/images-public/17218_2.jpg",
+        "credit": {
+          "title": "File:Vesper in Bordeaux.jpg",
+          "artist": "Matthias v.d. Elbe",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Vesper_in_Bordeaux.jpg"
+        }
+      }
+    ],
     "slug": "vesper"
   },
   {
