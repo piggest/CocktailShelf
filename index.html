@@ -43,13 +43,14 @@
   <main class="layout">
     <!-- サイドバー：フィルター -->
     <aside class="sidebar">
-      <button id="filterToggle" class="filter-toggle" type="button" aria-expanded="true" aria-controls="sidebarBody">
-        <span>検索・絞り込み</span>
-        <span class="filter-toggle-icon" aria-hidden="true">▲</span>
-      </button>
-      <div class="sidebar-body" id="sidebarBody">
       <section class="filter-block">
-        <h2>検索</h2>
+        <div class="search-head">
+          <h2>検索</h2>
+          <button id="filterToggle" class="filter-toggle-btn" type="button" aria-expanded="true" aria-controls="filterCollapsible" aria-label="絞り込み条件を開閉">
+            <span class="filter-toggle-label">絞り込み</span>
+            <span class="filter-toggle-icon" aria-hidden="true">▲</span>
+          </button>
+        </div>
         <div class="search-mode">
           <label><input type="radio" name="mode" value="name" checked /> 名前</label>
           <label><input type="radio" name="mode" value="ingredient" /> 材料</label>
@@ -61,6 +62,7 @@
         <p class="hint" id="searchHint">カクテル名で検索（日本語/英語どちらでも）</p>
       </section>
 
+      <div class="sidebar-collapsible" id="filterCollapsible">
       <section class="filter-block">
         <h2>スタイル</h2>
         <select id="styleSelect">
@@ -118,11 +120,11 @@
           <span>未読のみ</span>
         </label>
       </section>
+      </div><!-- /.sidebar-collapsible -->
 
       <section class="filter-block">
         <button id="randomBtn" class="ghost-btn" type="button">🎲 ランダムに1杯</button>
       </section>
-      </div><!-- /.sidebar-body -->
     </aside>
 
     <!-- メイン：結果グリッド -->
