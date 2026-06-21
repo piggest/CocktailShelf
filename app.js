@@ -279,7 +279,8 @@ function makePlaceholder(c) {
 function normalize(s) {
   if (!s) return "";
   return s.toString().toLowerCase()
-    .replace(/[ァ-ヶ]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0x60));
+    .replace(/[ァ-ヶ]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0x60))
+    .replace(/[・\-‐−ー－\s\.&]/g, "");
 }
 
 // 合計分量(ml)を概算。measure_ja の数値+ml のみ集計
@@ -723,11 +724,14 @@ document.addEventListener("keydown", (e) => {
 });
 
 // --- 検索／フィルタ ---
+// 名前・英名・別名(表記揺れ)のいずれかが一致するか
+function nameMatches(c, nq) {
+  if (normalize(c.name_ja).includes(nq) || normalize(c.name_en).includes(nq)) return true;
+  return (c.aliases || []).some(a => normalize(a).includes(nq));
+}
 function searchByName(q) {
   const nq = normalize(q);
-  return DATA.filter(c =>
-    normalize(c.name_ja).includes(nq) || normalize(c.name_en).includes(nq)
-  );
+  return DATA.filter(c => nameMatches(c, nq));
 }
 // 単一トークンが材料に含まれるか
 function cocktailHasIngredient(c, token) {
@@ -835,9 +839,7 @@ function cocktailMadeFromAvailable(c) {
 // 与えられた配列内で名前検索
 function searchByNameFrom(arr, q) {
   const nq = normalize(q);
-  return arr.filter(c =>
-    normalize(c.name_ja).includes(nq) || normalize(c.name_en).includes(nq)
-  );
+  return arr.filter(c => nameMatches(c, nq));
 }
 
 // インクリメンタル検索の debounce
