@@ -115974,66 +115974,6 @@
     "slug": "london-town"
   },
   {
-    "id": "32511",
-    "name_ja": "ワード・エイト",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "data/images-public/32511.jpg",
-    "ingredients": [
-      {
-        "name_ja": "ウイスキー",
-        "name_en": "Whiskey",
-        "measure_ja": "2",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "オレンジ",
-        "name_en": "Orange",
-        "measure_ja": "1",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
-        "measure_ja": "2 dash",
-        "measure_en": "2 dash"
-      }
-    ],
-    "instructions_ja": "シェーカーにウイスキー、オレンジジュース、グレナデンシロップと氷を入れてシェイクし、冷えたカクテルグラスに濾し入れる。19世紀末ボストンの政治家エリゼ・アダムスの当選祝いに作られた、ライウイスキーの伝統的カクテル。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "extras": [
-      {
-        "image_public": "data/images-public/32511_2.jpg"
-      },
-      {
-        "image_public": "data/images-wiki-ja/32511.jpg",
-        "credit": {
-          "title": "File:Ward_8_cocktail.jpg",
-          "artist": "CApitol3 (talk)Jim Hood",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Ward_8_cocktail.jpg"
-        }
-      }
-    ],
-    "base_detail": "ウイスキー(汎用)",
-    "aliases": [
-      "ward eight",
-      "ward 8",
-      "ワード8"
-    ],
-    "slug": "cocktail-32511"
-  },
-  {
     "id": "30906",
     "name_ja": "ワード8",
     "name_en": "Ward 8",
@@ -116044,7 +115984,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "",
+    "image": "data/images-public/30906.png",
     "ingredients": [
       {
         "name_ja": "ライウイスキー",
@@ -116080,7 +116020,26 @@
     "base_detail": "ライウイスキー",
     "aliases": [
       "ward eight",
-      "ワードエイト"
+      "ワードエイト",
+      "ward 8",
+      "ワード・エイト"
+    ],
+    "extras": [
+      {
+        "image_public": "data/images-public/32511.jpg"
+      },
+      {
+        "image_public": "data/images-public/32511_2.jpg"
+      },
+      {
+        "image_public": "data/images-wiki-ja/32511.jpg",
+        "credit": {
+          "title": "File:Ward_8_cocktail.jpg",
+          "artist": "CApitol3 (talk)Jim Hood",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ward_8_cocktail.jpg"
+        }
+      }
     ],
     "slug": "ward-8"
   },
@@ -122124,7 +122083,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Rum",
-    "image": "",
+    "image": "data/images-public/178424.png",
     "ingredients": [
       {
         "name_ja": "ホワイトラム",
@@ -150674,7 +150633,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "",
+    "image": "data/images-public/180508.png",
     "ingredients": [
       {
         "name_ja": "氷",
