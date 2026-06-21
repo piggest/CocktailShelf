@@ -43,6 +43,11 @@
   <main class="layout">
     <!-- サイドバー：フィルター -->
     <aside class="sidebar">
+      <button id="filterToggle" class="filter-toggle" type="button" aria-expanded="true" aria-controls="sidebarBody">
+        <span>検索・絞り込み</span>
+        <span class="filter-toggle-icon" aria-hidden="true">▲</span>
+      </button>
+      <div class="sidebar-body" id="sidebarBody">
       <section class="filter-block">
         <h2>検索</h2>
         <div class="search-mode">
@@ -117,7 +122,7 @@
       <section class="filter-block">
         <button id="randomBtn" class="ghost-btn" type="button">🎲 ランダムに1杯</button>
       </section>
-
+      </div><!-- /.sidebar-body -->
     </aside>
 
     <!-- メイン：結果グリッド -->

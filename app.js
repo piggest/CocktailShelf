@@ -1153,6 +1153,22 @@ async function init() {
   }
 }
 
+// 検索条件パネルの開閉（モバイルは初期折りたたみ、状態を localStorage に保存）
+const filterToggle = document.getElementById("filterToggle");
+const sidebarEl = document.querySelector(".sidebar");
+if (filterToggle && sidebarEl) {
+  const isMobile = window.matchMedia("(max-width: 860px)").matches;
+  const saved = localStorage.getItem("filterCollapsed");
+  const collapsed = saved === null ? isMobile : saved === "1";
+  sidebarEl.classList.toggle("collapsed", collapsed);
+  filterToggle.setAttribute("aria-expanded", String(!collapsed));
+  filterToggle.addEventListener("click", () => {
+    const nowCollapsed = sidebarEl.classList.toggle("collapsed");
+    filterToggle.setAttribute("aria-expanded", String(!nowCollapsed));
+    localStorage.setItem("filterCollapsed", nowCollapsed ? "1" : "0");
+  });
+}
+
 // イベント配線
 searchBtn.addEventListener("click", applyFilters);
 searchInput.addEventListener("keydown", (e) => { if (e.key === "Enter") applyFilters(); });
