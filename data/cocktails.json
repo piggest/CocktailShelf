@@ -1368,15 +1368,27 @@
     "ingredients": [
       {
         "name_ja": "テキーラ",
-        "name_en": "Tequila",
+        "name_en": "",
         "measure_ja": "40 ml",
         "measure_en": "40 ml"
       },
       {
+        "name_ja": "ホワイトキュラソー",
+        "name_en": "",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
         "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
+        "name_en": "",
         "measure_ja": "40 ml",
         "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
       }
     ],
     "instructions_ja": "シェーカーにテキーラ、ホワイトキュラソー、グレープフルーツジュース、グレナデンを入れ、氷とともにシェイク。氷を入れたオールドファッションドグラスかタンブラーへ注ぐ。氷を割って入る一杯にちなむ、テキーラ版グレープフルーツカクテル。",
@@ -7529,17 +7541,23 @@
       {
         "name_ja": "アマレット",
         "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
-        "name_ja": "炭酸水",
+        "name_ja": "レモンジュース",
         "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
       }
     ],
-    "instructions_ja": "【ビルド】 ショット・グラス に材料を順に注ぐ。キャンディーの味がほのかにするカクテル。グラスはダブル用のショット・グラスでいただくような分量となっている。もちろん半分にすればシングル用のショット・グラスでも十分楽しめる。アペリティフとしていただきたい。",
+    "instructions_ja": "シェーカーにアマレット、レモンジュース、シュガーシロップと氷を入れてシェイクし、氷を入れたオールドファッションドグラスに注ぐ。アマレットの杏の甘みとレモンの酸味が調和した、定番のサワースタイル。",
     "instructions_en": "Mix and serve over ice.",
     "iba": null,
     "tags": [],
@@ -9627,25 +9645,25 @@
     "ingredients": [
       {
         "name_ja": "ブランデー",
-        "name_en": "Brandy",
+        "name_en": "",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
       },
       {
         "name_ja": "チェリーブランデー",
-        "name_en": "Cherry brandy",
+        "name_en": "",
         "measure_ja": "25 ml",
         "measure_en": "25 ml"
       },
       {
         "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "1 ml",
-        "measure_en": "1 ml"
+        "name_en": "",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
       },
       {
         "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
+        "name_en": "",
         "measure_ja": "5 ml",
         "measure_en": "5 ml"
       }
@@ -11019,7 +11037,7 @@
   {
     "id": "34092",
     "name_ja": "イタリアン・スティンガー",
-    "name_en": "",
+    "name_en": "Italian Stinger",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "4oz カクテル・グラス　(125ml)",
@@ -11032,26 +11050,14 @@
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
-        "measure_ja": "40 ml (2/3)",
-        "measure_en": "40 ml (2/3)"
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "アマレット",
         "name_en": "Amaretto",
-        "measure_ja": "20 ml (1/3)",
-        "measure_en": "20 ml (1/3)"
-      },
-      {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
-        "measure_ja": "45 ml (3/4)",
-        "measure_en": "45 ml (3/4)"
-      },
-      {
-        "name_ja": "アマレット",
-        "name_en": "Amaretto",
-        "measure_ja": "15 ml (1/4)",
-        "measure_en": "15 ml (1/4)"
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       }
     ],
     "instructions_ja": "氷を入れたロックグラスにブランデーとアマレットを注ぎ、よくステアする。スティンガーのミントをアマレットに置き換えた、杏仁の甘い香りと熟成感が重なる食後向きの一杯。",
@@ -11064,7 +11070,7 @@
     "aliases": [
       "italian stinger"
     ],
-    "slug": "cocktail-34092"
+    "slug": "italian-stinger"
   },
   {
     "id": "33022",
@@ -14939,18 +14945,6 @@
         "name_en": "White crème de menthe",
         "measure_ja": "20 ml (1/3)",
         "measure_en": "20 ml (1/3)"
-      },
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "45 ml (3/4)",
-        "measure_en": "45 ml (3/4)"
-      },
-      {
-        "name_ja": "ホワイトミントリキュール",
-        "name_en": "White crème de menthe",
-        "measure_ja": "15 ml (1/4)",
-        "measure_en": "15 ml (1/4)"
       }
     ],
     "instructions_ja": "シェーカーにウォッカとホワイトミントリキュールを氷とともに入れてシェイクし、冷えたカクテルグラスに注ぐ。スティンガーのブランデーをウォッカに置き換えた、よりクリアでミントの清涼感が際立つ仕上がり。",
@@ -15409,30 +15403,24 @@
     "ingredients": [
       {
         "name_ja": "ウォッカ",
-        "name_en": "Vodka",
+        "name_en": "",
         "measure_ja": "50 ml",
         "measure_en": "50 ml"
       },
       {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "70 ml",
-        "measure_en": "70 ml"
+        "name_ja": "レモネード",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": "適量"
       },
       {
-        "name_ja": "レモンピール",
-        "name_en": "Lemon peel",
+        "name_ja": "レモンスライス",
+        "name_en": "",
         "measure_ja": "1 スライス",
-        "measure_en": "1 Slice"
-      },
-      {
-        "name_ja": "氷",
-        "name_en": "Ice",
-        "measure_ja": "キューブ",
-        "measure_en": "cubes"
+        "measure_en": "1 スライス"
       }
     ],
-    "instructions_ja": "ハイボールグラスに氷を6〜7個入れ、ウォッカとレモンソーダ（レモネード）を注ぎ、バースプーンで軽く混ぜる。レモンスライスを飾り、好みでミントの葉を添える。シンプルだが涼やかな、休日の一杯。",
+    "instructions_ja": "ハイボールグラスに氷を6〜7個入れ、ウォッカを注ぎ、レモネード（レモンソーダ）で満たしてバースプーンで軽く混ぜる。レモンスライスを飾り、好みでミントの葉を添える。シンプルだが涼やかな、休日の一杯。",
     "instructions_en": "The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.",
     "iba": null,
     "tags": [],
@@ -17229,7 +17217,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Rum",
-    "image": "",
+    "image": "data/images-public/33038.png",
     "ingredients": [
       {
         "name_ja": "ドライベルモット",
@@ -20366,33 +20354,27 @@
     "ingredients": [
       {
         "name_ja": "ウイスキー",
-        "name_en": "Whiskey",
+        "name_en": "",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
       },
       {
-        "name_ja": "キュラソー",
-        "name_en": "Curaçao",
+        "name_ja": "オレンジキュラソー",
+        "name_en": "",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
       },
       {
         "name_ja": "ホワイトキュラソー",
-        "name_en": "White curaçao",
-        "measure_ja": "",
-        "measure_en": ""
+        "name_en": "",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
       },
       {
         "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
+        "name_en": "",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "",
-        "measure_en": ""
       }
     ],
     "instructions_ja": "シェーカーにウイスキー、オレンジキュラソー、ホワイトキュラソー、オレンジジュースと氷を入れてシェイクし、カクテルグラスに注ぐ。ウイスキーの厚みに二種のキュラソーと柑橘が重なる、リッチで芳醇な一杯。",
@@ -29807,7 +29789,7 @@
         "measure_en": "飾り"
       }
     ],
-    "instructions_ja": "ブレンダーにラム、ファレルナム、カリプトンと氷を入れ、滑らかになるまで攪拌する。コリンズグラスに注ぎ、爽やかな緑のロングドリンクに仕上げる。カリブの伝統的なスウィズルを再現した、ハーブとスパイスが香る一杯。",
+    "instructions_ja": "ブレンダーにホワイトラム、オーバープルーフラム、ファレルナム、ライムジュース、クレーム・ド・マント、アブサンと氷を入れて滑らかになるまで攪拌する。コリンズグラスに注ぎ、アロマティックビターズを振り、ライムウェッジとミントの小枝を飾る。カリブの伝統的なスウィズルを再現した、ハーブとスパイスが香る一杯。",
     "instructions_en": "Blend all ingredients with ice and pour into a Collins glass.",
     "iba": null,
     "tags": [],
@@ -36159,7 +36141,7 @@
         "measure_en": "1 Large Sprig"
       }
     ],
-    "instructions_ja": "ハイボールグラスにジン、すりおろし生姜、エルダーフラワーコーディアル、リンゴ、レモンジュースを入れて軽くステア。氷を加えてジンジャーエールで満たし、リンゴスライスを飾る。ボンベイサファイア蒸溜所の名を冠した、花とスパイスの香り豊かなロング。",
+    "instructions_ja": "ハイボールグラスにジン、エルダーフラワーコーディアル、スイートベルモット、すりおろし生姜を入れて軽くステアし、氷を加えてトニックウォーターで満たす。ライムのくし切りを搾り入れ、生姜・ライム・ミントを飾る。ボンベイサファイア蒸溜所の名を冠した、花とスパイスの香り豊かなロング。",
     "instructions_en": "1) Squeeze two lime wedges into a balloon glass then add the cordial, Bombay Sapphire and MARTINI Rosso Vermouth, swirl to mix.\n\n2) Fully fill the glass with cubed ice and stir to chill.\n\n3) Top with Fever-Tree Ginger Ale and gently stir again to combine.\n\n4) Garnish with a snapped ginger slice and an awoken mint sprig.",
     "iba": null,
     "tags": [],
@@ -38073,28 +38055,27 @@
     "ingredients": [
       {
         "name_ja": "ライムジュース",
-        "name_en": "Lime juice",
+        "name_en": "",
         "measure_ja": "30 ml",
         "measure_en": "30 ml"
       },
       {
         "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
+        "name_en": "",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
       },
       {
         "name_ja": "シュガーシロップ",
-        "name_en": "Sugar syrup",
+        "name_en": "",
         "measure_ja": "2 tsp",
-        "measure_en": "2 tsp."
+        "measure_en": "2 tsp"
       },
       {
-        "name_ja": "炭酸水",
-        "name_en": "Soda water",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
+        "name_ja": "ジンジャーエール",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": "適量"
       }
     ],
     "instructions_ja": "ライムジュース、グレナデンシロップ、シュガーシロップをシェイクしてグラスに注ぎ、氷を加えてからジンジャーエールで満たして軽くステアする。シロップが沈まないようしっかり振るのがコツ。鮮やかな赤と生姜の刺激が涼を誘うノンアルコール。",
@@ -41551,7 +41532,7 @@
         "note": "適量"
       }
     ],
-    "instructions_ja": "アイリッシュウイスキー、レモンジュース、シュガーシロップをシェイクしてグラスへ注ぎ、氷を加える。ジンジャーエールで満たし軽くステアして仕上げる。木陰を意味する名の通り、爽快感のあるロングドリンク。",
+    "instructions_ja": "ジン、レモンジュース、シュガーシロップをシェイクしてグラスへ注ぎ、氷を加える。ジンジャーエールで満たし軽くステアして仕上げる。木陰を意味する名の通り、爽快感のあるロングドリンク。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -41811,7 +41792,7 @@
         "measure_en": "1 piece"
       }
     ],
-    "instructions_ja": "氷を入れたグラスにジャマイカンラム、冷たいコーヒー、水を注いで軽くステアする。最後にレモンピールを絞り入れて香りづけする。無糖。コーヒーのほろ苦さとラムの甘さがトロピカルに溶け合うクーラースタイル。",
+    "instructions_ja": "氷を入れたグラスにジャマイカラム、ライムジュース、シュガーシロップを注いで軽くステアし、冷えたジンジャーエールで満たして軽く混ぜる。最後にレモンピールを絞り入れて香りづけする。ラムの甘さと柑橘、生姜の刺激が溶け合うトロピカルなクーラースタイル。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -45750,7 +45731,7 @@
         "optional": true
       }
     ],
-    "instructions_ja": "トールグラスを半分まで氷で満たし、ジンとグレナデンを混ぜ合わせて氷の上に注ぐ。レモンまたはライム半個分の絞り汁を加え、炭酸水でアップする。ライムやレモンのスライスを飾る。リッキーは柑橘と炭酸のシンプルな構成。",
+    "instructions_ja": "トールグラスを半分まで氷で満たし、ジンを氷の上に注ぐ。ライム半個分の絞り汁を加え、炭酸水でアップして軽くステアする。ライムのスライスを飾る。リッキーは柑橘と炭酸のシンプルな構成。",
     "instructions_en": "Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and/or lemon slices.",
     "iba": null,
     "tags": [],
@@ -46504,49 +46485,55 @@
     "ingredients": [
       {
         "name_ja": "赤ワイン",
-        "name_en": "Red wine",
+        "name_en": "",
         "measure_ja": "2 bottles",
         "measure_en": "2 bottles"
       },
       {
+        "name_ja": "ブランデー",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": "適量"
+      },
+      {
         "name_ja": "砂糖",
-        "name_en": "Sugar",
+        "name_en": "",
         "measure_ja": "1 カップ",
-        "measure_en": "1 cup"
+        "measure_en": "1 カップ"
       },
       {
         "name_ja": "水",
-        "name_en": "Water",
+        "name_en": "",
         "measure_ja": "2 カップ hot",
-        "measure_en": "2 cups hot"
+        "measure_en": "2 カップ hot"
       },
       {
         "name_ja": "リンゴ",
-        "name_en": "Apple",
+        "name_en": "",
         "measure_ja": "1 カップ",
-        "measure_en": "1 cup"
+        "measure_en": "1 カップ"
       },
       {
         "name_ja": "オレンジ",
-        "name_en": "Orange",
+        "name_en": "",
         "measure_ja": "くし切り",
-        "measure_en": "wedges"
+        "measure_en": "くし切り"
       },
       {
         "name_ja": "ライム",
-        "name_en": "Lime",
+        "name_en": "",
         "measure_ja": "くし切り",
-        "measure_en": "wedges"
+        "measure_en": "くし切り"
       },
       {
         "name_ja": "レモン",
-        "name_en": "Lemon",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       },
       {
         "name_ja": "フレスカ",
-        "name_en": "Fresca",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -47746,7 +47733,7 @@
         "optional": true
       }
     ],
-    "instructions_ja": "スコッチ、ライムジュース、粉砂糖をシェイカーに氷と入れ、しっかりとシェイクする。サワーグラスに漉して注ぎ、レモンスライスとチェリーを飾る。麦芽の重みと柑橘の酸味が引き締まるクラシックなサワー。",
+    "instructions_ja": "スコッチ、レモンジュース、シュガーシロップをシェイカーに氷と入れ、しっかりとシェイクする。サワーグラスに漉して注ぎ、レモンスライスとチェリーを飾る。麦芽の重みと柑橘の酸味が引き締まるクラシックなサワー。",
     "instructions_en": "Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1/2 slice lemon, top with the cherry, and serve.",
     "iba": null,
     "tags": [],
@@ -47923,7 +47910,7 @@
         "measure_en": "1 片"
       }
     ],
-    "instructions_ja": "アップルブランデー、ドライベルモット、アンゴスチュラビターズをシェイカーに氷と入れ手早くステアし、冷やしたグラスに注ぐ。レモンピールを絞りかけて香り付けする。林檎の果実香にハーブとビターズの苦みが寄り添う、夜空の星を冠したショート。",
+    "instructions_ja": "アップルブランデー、スイートベルモット、アンゴスチュラビターズをミキシンググラスに氷と入れ手早くステアし、冷やしたグラスに注ぐ。レモンピールを絞りかけて香り付けする。林檎の果実香にハーブとビターズの苦みが寄り添う、夜空の星を冠したショート。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -50540,7 +50527,7 @@
         "measure_en": "1 dash"
       }
     ],
-    "instructions_ja": "シェイカーにアニェホラム、ラム、ドライキュラソー、ファレルナム、オールスパイス、ライムジュース、ハニーシロップを入れ、クラッシュドアイスとともに短くシェイクする。クラッシュドアイスを詰めたティキマグまたはスニフターに濾して注ぎ、パイナップル葉とブランデーチェリーを飾る。モールス信号の「V」を象った戦勝祈願のティキクラシックカクテル。",
+    "instructions_ja": "シェイカーにアニェホラム、ラム、ファレルナム、オールスパイス、ライムジュース、オレンジジュース、ハニーシロップ、アンゴスチュラビターズを入れ、クラッシュドアイスとともに短くシェイクする。クラッシュドアイスを詰めたティキマグまたはスニフターに濾して注ぎ、パイナップル葉とブランデーチェリーを飾る。モールス信号の「V」を象った戦勝祈願のティキクラシックカクテル。",
     "instructions_en": "Combine all ingredients in a shaker, add crushed ice, and shake briefly. Strain into a tiki mug or snifter filled with crushed ice. Garnish with pineapple leaves and brandied cherries.",
     "iba": null,
     "tags": [],
@@ -54210,28 +54197,27 @@
     "ingredients": [
       {
         "name_ja": "インスタントコーヒー",
-        "name_en": "Instant coffee",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "",
+        "measure_ja": "",
+        "measure_en": ""
+      },
+      {
+        "name_ja": "熱湯",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       },
       {
         "name_ja": "牛乳",
-        "name_en": "Milk",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "Sugar syrup",
-        "measure_ja": "",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "牛乳",
-        "name_en": "Milk",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
       }
     ],
     "instructions_ja": "インスタントコーヒー、砂糖、湯を同量ずつボウルに入れ、ハンドミキサーでもったりするまで泡立てる。氷と牛乳を入れたグラスに泡を乗せて仕上げる。韓国発の流行スイーツドリンクで、ほろ苦い泡と冷たいミルクの対比が楽しい。",
@@ -56950,34 +56936,22 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "水",
-        "name_en": "Water",
-        "measure_ja": "1 カップ",
-        "measure_en": "1 cup"
+        "name_ja": "ティアマリア",
+        "name_en": "",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
-        "name_ja": "ブラウンシュガー",
-        "name_en": "Brown sugar",
-        "measure_ja": "3/4-1 カップ",
-        "measure_en": "3/4-1 cup"
+        "name_ja": "ホットコーヒー",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": "適量"
       },
       {
-        "name_ja": "コーヒー",
-        "name_en": "Coffee",
-        "measure_ja": "4 tsp",
-        "measure_en": "4 tsp"
-      },
-      {
-        "name_ja": "ラム",
-        "name_en": "Rum",
-        "measure_ja": "1 カップ",
-        "measure_en": "1 cup"
-      },
-      {
-        "name_ja": "バニラエッセンス",
-        "name_en": "Vanilla essence",
-        "measure_ja": "4 tsp",
-        "measure_en": "4 tsp"
+        "name_ja": "ホイップクリーム",
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": "適量"
       }
     ],
     "instructions_ja": "アイリッシュコーヒーカップにホットコーヒーを注ぎ、ティア・マリアを加えて軽く混ぜる。仕上げにホイップクリームをそっと浮かべる。ジャマイカ生まれのコーヒーリキュールが立ち上り、甘く香ばしい余韻が広がる。",
@@ -59124,7 +59098,7 @@
         "measure_en": "飾り"
       }
     ],
-    "instructions_ja": "テキーラ、レモンジュース、グレナデンシロップを氷とともにブレンダーへかけ、グラスに注ぐ。レモンスライスとマラスキーノチェリーを飾る。日没を思わせる赤と橙のグラデーションが美しい、フローズン気味の一杯。",
+    "instructions_ja": "テキーラ、オレンジジュース、グレナデンシロップを氷とともにブレンダーへかけ、グラスに注ぐ。オレンジスライスを飾る。日没を思わせる赤と橙のグラデーションが美しい、フローズン気味の一杯。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -77025,43 +76999,43 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ジン",
-        "name_en": "Gin",
+        "name_ja": "ピムスNo.1",
+        "name_en": "",
         "measure_ja": "45 ml",
         "measure_en": "45 ml"
       },
       {
         "name_ja": "イギリス式レモネード",
-        "name_en": "English lemonade",
+        "name_en": "",
         "measure_ja": "135 ml",
         "measure_en": "135 ml"
       },
       {
         "name_ja": "キュウリ",
-        "name_en": "Cucumber",
+        "name_en": "",
         "measure_ja": "",
-        "measure_en": "(slice or peel)"
+        "measure_en": ""
       },
       {
         "name_ja": "ミント",
-        "name_en": "Mint",
+        "name_en": "",
         "measure_ja": "",
-        "measure_en": "(sprig)"
+        "measure_en": ""
       },
       {
         "name_ja": "オレンジスライス",
-        "name_en": "Orange slice",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       },
       {
         "name_ja": "イチゴ",
-        "name_en": "Strawberry",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       }
     ],
-    "instructions_ja": "氷を満たしたハイボールグラスにジンとイギリス式レモネードを注ぎ、軽くひと混ぜする。キュウリ、ミント、オレンジスライス、イチゴを飾る。果実とハーブが盛り込まれた、英国伝統の夏向きロングドリンク。",
+    "instructions_ja": "氷を満たしたハイボールグラスにピムスNo.1とイギリス式レモネードを注ぎ、軽くひと混ぜする。キュウリ、ミント、オレンジスライス、イチゴを飾る。果実とハーブが盛り込まれた、英国伝統の夏向きロングドリンク。",
     "instructions_en": "Combine in a highball glass, garnish with cucumber slice or peel, mint sprig, orange slices, and strawberries.",
     "iba": null,
     "tags": [],
@@ -78778,7 +78752,7 @@
         "measure_en": "1 片"
       }
     ],
-    "instructions_ja": "シェイカーにアップルブランデー、ドライベルモット、アンゴスチュラビターズを入れ、氷とともにステアしてグラスに注ぐ。レモンピールを絞りかける。リンゴの香りにベルモットの草いきれが重なる、辛口で落ち着いた一杯。",
+    "instructions_ja": "ミキシンググラスにアップルブランデー、スイートベルモット、アンゴスチュラビターズを入れ、氷とともにステアしてグラスに注ぐ。レモンピールを絞りかける。リンゴの香りにスイートベルモットの甘やかさが重なる、まろやかで落ち着いた一杯。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -80167,31 +80141,31 @@
         "name_ja": "オレンジジュース",
         "name_en": "",
         "measure_ja": "80 ml",
-        "measure_en": ""
+        "measure_en": "80 ml"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "",
         "measure_ja": "20 ml",
-        "measure_en": ""
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "ライムジュース",
         "name_en": "",
         "measure_ja": "20 ml",
-        "measure_en": ""
+        "measure_en": "20 ml"
       },
       {
-        "name_ja": "イチゴ",
+        "name_ja": "グレナデンシロップ",
         "name_en": "",
         "measure_ja": "1 dash",
-        "measure_en": ""
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "卵黄",
         "name_en": "",
         "measure_ja": "1 個分",
-        "measure_en": ""
+        "measure_en": "1 個分"
       }
     ],
     "instructions_ja": "【シェーク】 よくシェークして、 サワー・グラス に注ぐ。カット・レモンとレッド・チェリーをカクテル・ピンに刺して飾る。柑きつ類のジュースにグレナデン・シロップでさわやかな香りを加えている。卵黄を入れてまろやかな口当たりのノン・アルコール・カクテル。",
@@ -86452,28 +86426,28 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "生クリーム",
+        "name_ja": "ライウイスキー",
         "name_en": "",
         "measure_ja": "45 ml",
-        "measure_en": ""
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "ドライベルモット",
         "name_en": "",
         "measure_ja": "15 ml",
-        "measure_en": ""
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "マラスキーノリキュール",
         "name_en": "",
         "measure_ja": "1 dash",
-        "measure_en": ""
+        "measure_en": "1 dash"
       },
       {
         "name_ja": "アメール・ピコン",
         "name_en": "",
         "measure_ja": "1 dash",
-        "measure_en": ""
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "【ステア】 ステアして、 カクテル・グラス に注ぐ。２０世紀はじめには作られていたとされる、古き良き時代のニューヨークに想いをはせるシティ・カクテル。アメール・ピコンはフランスのビター系だが、アンゴスチュラ・ビターズでも代用できる。",
@@ -99417,46 +99391,51 @@
     "ingredients": [
       {
         "name_ja": "ライム",
-        "name_en": "Lime",
+        "name_en": "",
         "measure_ja": "3",
         "measure_en": "3"
       },
       {
         "name_ja": "マンゴー",
-        "name_en": "Mango",
+        "name_en": "",
         "measure_ja": "1 フレッシュ",
-        "measure_en": "1 Fresh"
+        "measure_en": "1 フレッシュ"
       },
       {
         "name_ja": "ミント",
-        "name_en": "Mint",
+        "name_en": "",
         "measure_ja": "小枝",
-        "measure_en": "Sprig"
+        "measure_en": "小枝"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
       },
       {
         "name_ja": "ホワイトラム",
-        "name_en": "White rum",
-        "measure_ja": "200 ml",
-        "measure_en": "200 ml"
+        "name_en": "",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "氷",
-        "name_en": "Ice",
-        "measure_ja": "個",
-        "measure_en": "cubes"
+        "name_en": "",
+        "measure_ja": "適量",
+        "measure_en": "適量"
       },
       {
         "name_ja": "炭酸水",
-        "name_en": "Soda water",
+        "name_en": "",
         "measure_ja": "上まで",
-        "measure_en": "Top",
-        "optional": true
+        "measure_en": "上まで"
       },
       {
         "name_ja": "マンゴー",
-        "name_en": "Mango",
+        "name_en": "",
         "measure_ja": "飾り",
-        "measure_en": "Garnish with"
+        "measure_en": "飾り"
       }
     ],
     "instructions_ja": "ライム1.5個分の果汁とマンゴー果肉をブレンダーで滑らかなピューレにする。ハイボールグラスにライムくし2切れ・砂糖小さじ1・ミント5〜6枚を入れてペストルで潰し、ピューレとホワイトラムを注ぎ氷と炭酸水で満たしてマンゴーを飾る。完熟マンゴーの甘みが効いたモヒートのアレンジ。",
@@ -102525,7 +102504,7 @@
         "note": "適量"
       }
     ],
-    "instructions_ja": "シェーカーにベイリーズ、ダークラム、コーヒーリキュール、ドランブイを入れ氷とともにシェイクして、氷入りのグラスへ注ぐ。牛乳で満たしてステアする。コーヒーとビスケットの香りにラムとハーブハニーの甘さが溶け合う、デザート感ある冬向きカフェオレ風。",
+    "instructions_ja": "シェーカーにビスコタ、ダークラム、コーヒーリキュール、ドランブイを入れ氷とともにシェイクして、氷入りのグラスへ注ぐ。牛乳で満たしてステアする。コーヒーとビスケットの香りにラムとハーブハニーの甘さが溶け合う、デザート感ある冬向きカフェオレ風。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -113880,44 +113859,44 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ルジェ・クレーム・ド・カルテット",
-        "name_en": "Lejay Crème de Cassis",
+        "name_ja": "ルジェ・クレーム・ド・カシス",
+        "name_en": "",
         "measure_ja": "20 ml",
         "measure_en": "20 ml"
       },
       {
         "name_ja": "クルボアジェVSOPルージュ",
-        "name_en": "Courvoisier VSOP Rouge",
+        "name_en": "",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
       },
       {
         "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
+        "name_en": "",
         "measure_ja": "1 tsp",
         "measure_en": "1 tsp"
       },
       {
         "name_ja": "ランソンブラックラベルブリュット",
-        "name_en": "Lanson Black Label Brut",
+        "name_en": "",
         "measure_ja": "15 ml",
         "measure_en": "15 ml"
       },
       {
         "name_ja": "マラスキーノチェリー",
-        "name_en": "Maraschino cherry",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       },
       {
         "name_ja": "パイナップル",
-        "name_en": "Pineapple",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       },
       {
         "name_ja": "ミント",
-        "name_en": "Mint",
+        "name_en": "",
         "measure_ja": "",
         "measure_en": ""
       }
@@ -121523,22 +121502,22 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "ブラウン・クレーム・ド・カカオ",
+        "name_ja": "ブランデー",
         "name_en": "",
         "measure_ja": "50 ml",
-        "measure_en": ""
+        "measure_en": "50 ml"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "",
         "measure_ja": "10 ml",
-        "measure_en": ""
+        "measure_en": "10 ml"
       },
       {
         "name_ja": "グレナデンシロップ",
         "name_en": "",
         "measure_ja": "2 dash",
-        "measure_en": ""
+        "measure_en": "2 dash"
       }
     ],
     "instructions_ja": "【シェーク】 シェークして、 カクテル・グラス に注ぐ。ブランデーをレモン・ジュースで薄めただけというシンプル・レシピ。グレナデンは色づけする程度。こういったシンプルなレシピは世界的に多い。レモンのすっきりとした味わいが、特徴のカクテル。",
@@ -124415,28 +124394,28 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "アンゴスチュラビターズ",
+        "name_ja": "ジン",
         "name_en": "",
         "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "メロンリキュール",
         "name_en": "",
         "measure_ja": "15 ml",
-        "measure_en": ""
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "コーディアル・ライム",
         "name_en": "",
         "measure_ja": "15 ml",
-        "measure_en": ""
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "オレンジビターズ",
         "name_en": "",
         "measure_ja": "1 dash",
-        "measure_en": ""
+        "measure_en": "1 dash"
       }
     ],
     "instructions_ja": "【シェーク】 シェークして、 カクテル・グラス に注ぐ。レモン・ピールを絞りかける。グリーン・チェリーを沈める。とろりととろけるようなメロンの香りのカクテル。コーディアル・ライムが入っているので、口当たりは意外にさっぱりしている。",
@@ -127618,25 +127597,25 @@
         "name_ja": "ウイスキー",
         "name_en": "",
         "measure_ja": "20 ml",
-        "measure_en": ""
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "ドライベルモット",
         "name_en": "",
         "measure_ja": "20 ml",
-        "measure_en": ""
+        "measure_en": "20 ml"
       },
       {
         "name_ja": "オレンジキュラソー",
         "name_en": "",
         "measure_ja": "10 ml",
-        "measure_en": ""
+        "measure_en": "10 ml"
       },
       {
         "name_ja": "オレンジビターズ",
         "name_en": "",
-        "measure_ja": "10 ml",
-        "measure_en": ""
+        "measure_ja": "2 dash",
+        "measure_en": "2 dash"
       }
     ],
     "instructions_ja": "【ステア】 ステアして、 カクテル・グラス に注ぐ。すがすがしいオレンジの香りとさっぱりとした口当たりが特徴のウイスキー・ベースのカクテル。ジンをベースにした甘口のスイートタイプもある。",
@@ -128803,57 +128782,6 @@
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0585.html",
     "aliases": [],
     "slug": "rosington"
-  },
-  {
-    "id": "178569",
-    "name_ja": "クリムソン・タイド",
-    "name_en": "Crimson Tide",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ポートワイン・トゥニー",
-        "name_en": "",
-        "measure_ja": "20 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "",
-        "measure_ja": "10 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "",
-        "measure_ja": "1 tsp",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【シェーク】 グレナデン・シロップ以外の材料をシェークして カクテル・グラス に注ぐ。最後にグレナデン・シロップを静かに注ぎ入れる。最後に落とすグレナデン・シロップで深い朱の色合いに深みを与える。レモン・ジュースの甘酸っぱい風味を加えている。すっきり飲めるカクテル。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 587,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0587.html",
-    "aliases": [
-      "クリムスン・タイド"
-    ],
-    "slug": "crimson-tide-2"
   },
   {
     "id": "178570",
@@ -137356,25 +137284,19 @@
     "image": "",
     "ingredients": [
       {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
         "name_ja": "ルジェ・クレーム・ド・カシス",
         "name_en": "",
         "measure_ja": "45 ml",
-        "measure_en": ""
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "バニラアイスクリーム",
         "name_en": "",
         "measure_ja": "1 個",
-        "measure_en": ""
+        "measure_en": "1 個"
       }
     ],
-    "instructions_ja": "シェイカーに氷を入れる。シェイカーに以下の材料を入れてシェイクする。クープ型のグラスにバニラアイスを盛り付ける。ルジェ・クレーム・ド・カシス（カシスリキュール）をアイスにかける。",
+    "instructions_ja": "クープ型のグラスにバニラアイスを盛り付ける。ルジェ・クレーム・ド・カシス（カシスリキュール）をアイスにかける。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -143919,31 +143841,31 @@
         "name_ja": "氷",
         "name_en": "",
         "measure_ja": "3~4 個",
-        "measure_en": ""
+        "measure_en": "3~4 個"
       },
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "",
         "measure_ja": "15 ml",
-        "measure_en": ""
+        "measure_en": "15 ml"
       },
       {
-        "name_ja": "ジンジャーエール",
+        "name_ja": "パライソ・ライチ",
         "name_en": "",
         "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "グレープフルーツジュース",
         "name_en": "",
         "measure_ja": "15 ml",
-        "measure_en": ""
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "トニックウォーター",
         "name_en": "",
         "measure_ja": "90 ml",
-        "measure_en": ""
+        "measure_en": "90 ml"
       }
     ],
     "instructions_ja": "グラスに氷を入れる。グラスにブルーキュラソーを15ml注ぐ。グラスにパライソ（ライチリキュール）を30ml注ぐ。グラスにグレープフルーツジュースを15ml注ぐ。グラスにトニックウォーターを90ml注ぐ。軽くかき混ぜる。",
@@ -144744,7 +144666,7 @@
         "measure_en": ""
       }
     ],
-    "instructions_ja": "グラスに氷を入れる。グラスにルジェ・クレーム・ド・グリーンアップル（グリーンアップルリキュール）を30ml注ぐ。グラスにレモンジュースを15ml注ぐ。グラスにジンジャーエールを90ml注ぐ。軽くかき混ぜる。お好みでグラスにカットライムを入れる。",
+    "instructions_ja": "グラスに氷を入れる。グラスにルジェ・クレーム・ド・グリーンアップル（グリーンアップルリキュール）を30ml注ぐ。グラスにレモンジュースを15ml注ぐ。グラスにジンジャーエールを75ml注ぐ。軽くかき混ぜる。お好みでグラスにカットライムを入れる。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -144800,7 +144722,7 @@
         "measure_en": ""
       }
     ],
-    "instructions_ja": "グラスに氷を入れる。グラスにブルーキュラソーを30ml注ぐ。グラスにレモンジュースを15ml注ぐ。グラスにジンジャーエールを90ml注ぐ。軽くかき混ぜる。お好みでグラスにカットライムを入れる。",
+    "instructions_ja": "グラスに氷を入れる。グラスにブルーキュラソーを30ml注ぐ。グラスにレモンジュースを15ml注ぐ。グラスにジンジャーエールを75ml注ぐ。軽くかき混ぜる。お好みでグラスにカットライムを入れる。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -150348,7 +150270,7 @@
         "measure_en": ""
       }
     ],
-    "instructions_ja": "グラスに氷を入れる。グラスにリモンチェッロ（レモンリキュール）を60ml注ぐ。グラスにオランジーナを90ml注ぐ。軽くかき混ぜる。",
+    "instructions_ja": "グラスに氷を入れる。グラスにリモンチェッロ（レモンリキュール）を30ml注ぐ。グラスにオランジーナを90ml注ぐ。軽くかき混ぜる。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -151590,31 +151512,31 @@
         "name_ja": "氷",
         "name_en": "",
         "measure_ja": "3~4 個",
-        "measure_en": ""
+        "measure_en": "3~4 個"
       },
       {
         "name_ja": "パライソ・ライチ",
         "name_en": "",
         "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "グレープフルーツジュース",
         "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
       },
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "",
         "measure_ja": "10 ml",
-        "measure_en": ""
+        "measure_en": "10 ml"
       },
       {
         "name_ja": "トニックウォーター",
         "name_en": "",
         "measure_ja": "10 ml",
-        "measure_en": ""
+        "measure_en": "10 ml"
       }
     ],
     "instructions_ja": "グラスに氷を入れる。グラスにパライソ（ライチリキュール）を30ml注ぐ。グラスにグレープフルーツジュースを45ml注ぐ。グラスにブルーキュラソーを10ml注ぐ。グラスにトニックウォーターを10ml注ぐ。軽くかき混ぜる。",
@@ -157283,7 +157205,7 @@
         "measure_en": ""
       }
     ],
-    "instructions_ja": "グラスに氷を入れる。グラスにマリブ（ココナッツリキュール）を30ml注ぐ。グラスにヒプノティック（トロピカルフルーツリキュール）を15ml注ぐ。グラスにパイナップルジュースを60ml注ぐ。かき混ぜる。",
+    "instructions_ja": "グラスに氷を入れる。グラスにマリブ（ココナッツリキュール）を30ml注ぐ。グラスにヒプノティック（トロピカルフルーツリキュール）を15ml注ぐ。グラスにパイナップルジュースを90ml注ぐ。かき混ぜる。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -158475,25 +158397,25 @@
         "name_ja": "氷",
         "name_en": "",
         "measure_ja": "3～4 個",
-        "measure_en": ""
+        "measure_en": "3～4 個"
       },
       {
         "name_ja": "フェルネット・ブランカ",
         "name_en": "",
         "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "炭酸水",
         "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       },
       {
         "name_ja": "ライム",
         "name_en": "",
         "measure_ja": "1/8 個",
-        "measure_en": ""
+        "measure_en": "1/8 個"
       }
     ],
     "instructions_ja": "グラスに氷を入れる。グラスにフェルネットブランカ（ハーブリキュール）を30ml注ぐ。グラスにソーダを90ml注ぐ。軽くかき混ぜる。お好みでグラスにカットライムを入れる。",
@@ -158525,25 +158447,25 @@
         "name_ja": "氷",
         "name_en": "",
         "measure_ja": "3～4 個",
-        "measure_en": ""
+        "measure_en": "3～4 個"
       },
       {
         "name_ja": "フェルネット・ブランカ",
         "name_en": "",
         "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "トニックウォーター",
         "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       },
       {
         "name_ja": "ライム",
         "name_en": "",
         "measure_ja": "1/8 個",
-        "measure_en": ""
+        "measure_en": "1/8 個"
       }
     ],
     "instructions_ja": "グラスに氷を入れる。グラスにフェルネットブランカ（ハーブリキュール）を30ml注ぐ。グラスにトニックウォーターを90ml注ぐ。軽くかき混ぜる。お好みでグラスにカットライムを入れる。",
@@ -159854,25 +159776,25 @@
         "name_ja": "氷",
         "name_en": "",
         "measure_ja": "3～4 個",
-        "measure_en": ""
+        "measure_en": "3～4 個"
       },
       {
         "name_ja": "アリーゼブルー",
         "name_en": "",
         "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_en": "30 ml"
       },
       {
-        "name_ja": "トニックウォーター",
+        "name_ja": "炭酸水",
         "name_en": "",
         "measure_ja": "90 ml",
-        "measure_en": ""
+        "measure_en": "90 ml"
       },
       {
         "name_ja": "ライム",
         "name_en": "",
         "measure_ja": "1/8 個",
-        "measure_en": ""
+        "measure_en": "1/8 個"
       }
     ],
     "instructions_ja": "グラスに氷を入れる。グラスにアリーゼブルー（コニャックベースフルーツリキュール）を30ml注ぐ。グラスにソーダを90ml注ぐ。軽くかき混ぜる。お好みでグラスにカットライムを入れる。",
@@ -163614,16 +163536,16 @@
         "name_ja": "ブルーベリーリキュール",
         "name_en": "",
         "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_en": "30 ml"
       },
       {
-        "name_ja": "ミルクジュース",
+        "name_ja": "牛乳",
         "name_en": "",
         "measure_ja": "90 ml",
-        "measure_en": ""
+        "measure_en": "90 ml"
       }
     ],
-    "instructions_ja": "グラスに氷を入れる。グラスにブルースベリー(ブルーベリーリキュール)を30ml注ぐ。グラスにミルクジュースを90ml注ぐ。軽くかき混ぜる。",
+    "instructions_ja": "グラスに氷を入れる。グラスにブルースベリー(ブルーベリーリキュール)を30ml注ぐ。グラスに牛乳を90ml注ぐ。軽くかき混ぜる。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
@@ -168618,22 +168540,22 @@
         "name_ja": "ブルーベリーリキュール",
         "name_en": "",
         "measure_ja": "30 ml",
-        "measure_en": ""
+        "measure_en": "30 ml"
       },
       {
         "name_ja": "ブルーキュラソー",
         "name_en": "",
-        "measure_ja": "120 ml",
-        "measure_en": ""
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
       },
       {
         "name_ja": "グレープフルーツジュース",
         "name_en": "",
-        "measure_ja": "5 ml",
-        "measure_en": ""
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
       }
     ],
-    "instructions_ja": "グラスに氷を入れる。グラスにブルースベリーを30ml注ぐ。グラスにブルーキュラソーを120ml注ぐ。グラスにグレープフルーツジュースを5ml注ぐ。軽くかき混ぜる。",
+    "instructions_ja": "グラスに氷を入れる。グラスにブルースベリーを30ml注ぐ。グラスにブルーキュラソーを15ml注ぐ。グラスにグレープフルーツジュースを90ml注ぐ。軽くかき混ぜる。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
