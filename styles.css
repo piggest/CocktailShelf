@@ -65,14 +65,20 @@ a:hover { color: var(--accent-strong); }
 /* レイアウト */
 .layout {
   display: grid;
-  grid-template-columns: 280px 1fr;
+  grid-template-columns: 1fr 280px; /* 左=結果 / 右=検索・フィルタ */
   gap: 28px;
   max-width: var(--maxw);
   margin: 0 auto;
-  padding: 28px;
+  padding: 28px 72px 28px 44px; /* 右端(検索パネル)に余裕を多めに */
 }
+/* DOM順は サイドバー→結果 だが、表示は 結果(左)・サイドバー(右) に配置 */
+/* grid-row も明示しないと結果が2行目に落ちて左上が空洞化するため両方1行目に固定 */
+.results { grid-column: 1; grid-row: 1; }
+.sidebar { grid-column: 2; grid-row: 1; }
 @media (max-width: 860px) {
   .layout { grid-template-columns: 1fr; padding: 18px; }
+  /* モバイルは1カラム。DOM順(検索→結果)に戻す */
+  .results, .sidebar { grid-column: auto; grid-row: auto; }
 }
 
 /* サイドバー */
