@@ -1111,7 +1111,7 @@ function loadRandom() {
   const pick = DATA[Math.floor(Math.random() * DATA.length)];
   if (!pick) return;
   renderCards([pick], "ランダムピック");
-  openDetail(pick.id);
+  // 詳細モーダルは開かず、グリッドにカードを表示するだけにする
 }
 
 // --- 起動 ---
