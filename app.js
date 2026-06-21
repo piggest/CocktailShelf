@@ -429,14 +429,16 @@ function renderCards(items, titleText) {
     card.dataset.id = c.id;
 
     let img;
-    if (c.image) {
+    // サムネは詳細ページのメイン画像(collectPhotos の先頭)と必ず一致させる
+    const mainSrc = collectPhotos(c)[0]?.src;
+    if (mainSrc) {
       img = document.createElement("img");
       img.className = "card-img";
       img.loading = "lazy";
       img.alt = c.name_ja;
-      img.src = c.image;
+      img.src = mainSrc;
       img.onerror = () => {
-        if (c.image_remote) img.src = c.image_remote;
+        if (c.image_remote && img.src !== c.image_remote) img.src = c.image_remote;
         else { img.replaceWith(makePlaceholder(c)); }
       };
     } else {
