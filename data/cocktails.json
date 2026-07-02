@@ -343,7 +343,6 @@
     "base_detail": "その他ウォッカ",
     "aliases": [
       "ビーエルティー",
-      "BLT",
       "ビーエルティーカクテル"
     ],
     "slug": "blt-cocktail"
@@ -755,7 +754,8 @@
     "base_detail": "ジン(汎用)",
     "aliases": [
       "アースクエイク",
-      "アースクエーク"
+      "アースクエーク",
+      "アース・クエイク"
     ],
     "slug": "earthquake"
   },
@@ -1225,7 +1225,7 @@
     "glass_en": "Coffee mug",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Other",
+    "base": "Non-Alcoholic",
     "image": "data/images-openverse/12770.jpg",
     "ingredients": [
       {
@@ -1398,7 +1398,9 @@
     "style": "ロック",
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
-    "aliases": [],
+    "aliases": [
+      "アイス・ブレイカー"
+    ],
     "slug": "ice-breaker"
   },
   {
@@ -2099,7 +2101,8 @@
     "style": "ショート",
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "アビエーション"
+      "アビエーション",
+      "アビエイション"
     ],
     "extras": [
       {
@@ -2107,51 +2110,6 @@
       }
     ],
     "slug": "aviation"
-  },
-  {
-    "id": "34012",
-    "name_ja": "あおいさんごしょう　青い珊瑚礁",
-    "name_en": "Blue Coral Reef",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "40 ml (2/3)",
-        "measure_en": "40 ml (2/3)"
-      },
-      {
-        "name_ja": "グリーンミントリキュール",
-        "name_en": "Green crème de menthe",
-        "measure_ja": "20 ml (1/3)",
-        "measure_en": "20 ml (1/3)"
-      },
-      {
-        "name_ja": "マラスキーノチェリー",
-        "name_en": "Maraschino cherry",
-        "measure_ja": "1 個",
-        "measure_en": "1 個"
-      }
-    ],
-    "instructions_ja": "グラスの縁をレモンで濡らし、マラスキーノチェリーを底に入れて冷凍庫で冷やしておく。シェーカーにジンとグリーンミントリキュールを入れ、氷とともにシェイクして注ぐ。鹿野彦司氏が考案、ミント色のグラスにチェリーが珊瑚を思わせる一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "aliases": [
-      "青い珊瑚礁",
-      "ブルーコーラルリーフ"
-    ],
-    "slug": "blue-coral-reef"
   },
   {
     "id": "34010",
@@ -2192,11 +2150,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ホワイトラム",
-    "aliases": [
-      "aotenjyoh",
-      "skyrocketing",
-      "青天井"
-    ],
+    "aliases": [],
     "slug": "aotenjyoh-skyrocketing"
   },
   {
@@ -3481,56 +3435,6 @@
     "slug": "apple-blossom"
   },
   {
-    "id": "31206",
-    "name_ja": "アップル・マティーニ",
-    "name_en": "Apple Martini",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "マティーニグラス",
-    "glass_en": "Martini glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "アップルリキュール",
-        "name_en": "Apple liqueur",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "ライムジュース",
-        "name_en": "Lime juice",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "リンゴスライス",
-        "name_en": "Apple slice",
-        "measure_ja": "1 枚",
-        "measure_en": "1 slice"
-      }
-    ],
-    "instructions_ja": "シェーカーに氷、ウォッカ、アップルリキュール、ライムジュースを入れて手早くシェイクし、冷やしたマティーニグラスに濾し入れる。薄切りのリンゴを浮かべて仕上げる。青リンゴの甘酸っぱさが弾ける、90年代に流行したモダンクラシック。",
-    "instructions_en": "Combine ice, vodka, sour apple liqueur and lime juice in a shaker. Shake briskly, strain into a chilled martini glass and garnish with an apple slice.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "aliases": [
-      "アップルタイニ"
-    ],
-    "slug": "apple-martini"
-  },
-  {
     "id": "34027",
     "name_ja": "アップル・ロワイヤル",
     "name_en": "Apple Royal",
@@ -3857,7 +3761,9 @@
     "aliases": [
       "アップルマティーニ",
       "apple martini",
-      "アップルマルチーニ"
+      "アップルマルチーニ",
+      "アップルタイニ",
+      "アップル・マティーニ"
     ],
     "slug": "appletini"
   },
@@ -4678,10 +4584,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "アニゼット",
-      "anisette"
-    ],
+    "aliases": [],
     "slug": "anisette-cocktail"
   },
   {
@@ -5060,7 +4963,6 @@
     "is_public": true,
     "base_detail": "アニス系リキュール",
     "aliases": [
-      "absinthe",
       "アプサン・カクテル"
     ],
     "slug": "absinthe-cocktail"
@@ -7519,7 +7421,9 @@
     "_cocktailtype_id": 625,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0625.html",
     "aliases": [
-      "amaretto ginger"
+      "amaretto ginger",
+      "ディサロンノジンジャー",
+      "ディサローノ・ジンジャー"
     ],
     "slug": "amaretto-and-ginger-ale"
   },
@@ -10173,47 +10077,6 @@
     "slug": "jager-tonic"
   },
   {
-    "id": "35332",
-    "name_ja": "イエーガー・ボム",
-    "name_en": "Jagerbomb",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "オールドファッションドグラス",
-    "glass_en": "Old-fashioned glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "イェーガーマイスター",
-        "name_en": "Jägermeister",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "レッドブル",
-        "name_en": "Red Bull",
-        "measure_ja": "120 ml",
-        "measure_en": "120 ml"
-      }
-    ],
-    "instructions_ja": "オールドファッションドグラスにレッドブルを注ぎ、ショットグラスに入れたイェーガーマイスターをそのまま落として一気に飲む。ハーブの苦味とエナジードリンクの甘さが弾ける、夜のパーティーで定番のボムショット。",
-    "instructions_en": "Pour Red Bull into an old-fashioned glass, then drop a shot glass filled with Jagermeister into it and drink at once.",
-    "iba": null,
-    "tags": [
-      "ボム"
-    ],
-    "style": "ロック",
-    "is_public": true,
-    "base_detail": "ハーブリキュール",
-    "aliases": [
-      "イェーガーボム",
-      "ジャガーボム"
-    ],
-    "slug": "jagerbomb"
-  },
-  {
     "id": "30509",
     "name_ja": "イェーガーボム",
     "name_en": "Jägerbomb",
@@ -10250,7 +10113,8 @@
       "jagerbomb",
       "jager bomb",
       "イエーガーボム",
-      "ジャガーボム"
+      "ジャガーボム",
+      "イエーガー・ボム"
     ],
     "slug": "j-gerbomb"
   },
@@ -10610,45 +10474,6 @@
     "slug": "yellow-vesper"
   },
   {
-    "id": "34085",
-    "name_ja": "いざよい　十六夜",
-    "name_en": "Izayoi",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "ノンアルコール",
-    "alcoholic_en": "Non alcoholic",
-    "base": "Non-Alcoholic",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "60 ml (1/2)",
-        "measure_en": "60 ml (1/2)"
-      },
-      {
-        "name_ja": "トニックウォーター",
-        "name_en": "Tonic water",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたグラスにグレープフルーツジュースを量り入れて軽くステアし、トニックウォーターで満たしてもう一度軽く混ぜる。柑橘の酸味と微かな苦味が重なる、ノンアルコールでも満足感のある爽やかな一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "十六夜",
-      "いざよい"
-    ],
-    "slug": "izayoi"
-  },
-  {
     "id": "34089",
     "name_ja": "イスラ・デ・ピノス",
     "name_en": "Isla de Pinos",
@@ -11006,7 +10831,7 @@
     "glass_en": "Wine Glass",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Gin",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -11466,9 +11291,7 @@
     "is_public": true,
     "style": "ショート",
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "english rose"
-    ],
+    "aliases": [],
     "slug": "english-rose-cocktail"
   },
   {
@@ -11548,9 +11371,7 @@
     "is_public": true,
     "style": "ショート",
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "imperial"
-    ],
+    "aliases": [],
     "slug": "imperial-cocktail"
   },
   {
@@ -12476,46 +12297,6 @@
     "slug": "whisky-swizzle"
   },
   {
-    "id": "32106",
-    "name_ja": "ウイスキー・ソーダ",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウイスキー",
-        "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【ビルド】 タンブラー に氷を入れてウイスキーを注ぐ。冷やしたソーダで満たし、軽くステアする。１９６０年代、日本で大流行したカクテル。当時は「ハイボール」と呼ばれていた、ハイボール・スタイルの原点というべきもの。手早く作れる飲み物として、とくに有名。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ウイスキー(汎用)",
-    "_cocktailtype_id": 562,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0562.html",
-    "aliases": [
-      "whisky soda"
-    ],
-    "slug": "cocktail-32106"
-  },
-  {
     "id": "34106",
     "name_ja": "ウイスキー・デイジー",
     "name_en": "Whisky Daisy",
@@ -12618,8 +12399,7 @@
     "is_public": true,
     "base_detail": "ウイスキー(汎用)",
     "aliases": [
-      "whisky toddy",
-      "ウイスキートデー"
+      "whisky toddy"
     ],
     "slug": "cocktail-34107"
   },
@@ -12854,46 +12634,9 @@
     "slug": "whisky-float"
   },
   {
-    "id": "12518",
-    "name_ja": "ウィスキー・マック",
-    "name_en": "Whisky Mac",
-    "category_ja": "スタンダード",
-    "category_en": "Ordinary Drink",
-    "glass_ja": "コリンズグラス",
-    "glass_en": "Collins Glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "スコッチ",
-        "name_en": "Scotch whisky",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "ワイン",
-        "name_en": "Wine",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml",
-        "note": "グリーンジンジャー"
-      }
-    ],
-    "instructions_ja": "ワイングラスにスコッチとグリーンジンジャーワインを氷なしで注ぐ。19世紀のスコットランドで体を温めるために生まれた一杯で、生姜の辛みとスコッチのスモーキーさが調和する素朴な飲み方。",
-    "instructions_en": "Pour both of the ingredients into a wine goblet with no ice.",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ロング",
-    "base_detail": "スコッチ",
-    "aliases": [],
-    "slug": "whisky-mac"
-  },
-  {
     "id": "34111",
     "name_ja": "ウイスキー・マック",
-    "name_en": "",
+    "name_en": "Whisky Mac",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "8oz ロック・グラス　(210ml)",
@@ -12926,9 +12669,9 @@
     "_cocktailtype_id": 379,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0379.html",
     "aliases": [
-      "whisky mac"
+      "ウィスキー・マック"
     ],
-    "slug": "cocktail-34111"
+    "slug": "whisky-mac"
   },
   {
     "id": "33027",
@@ -14007,9 +13750,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "wedding bell"
-    ],
+    "aliases": [],
     "slug": "wedding-belle"
   },
   {
@@ -14476,59 +14217,6 @@
     "slug": "vodka-and-calpico"
   },
   {
-    "id": "34125",
-    "name_ja": "ウオッカ・カルピス・ソーダ",
-    "name_en": "Vodka and Calpico Soda",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "カルピス",
-        "name_en": "Calpis",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "Soda water",
-        "measure_ja": "65 ml",
-        "measure_en": "65 ml",
-        "note": "適量"
-      },
-      {
-        "name_ja": "カルピスソーダ",
-        "name_en": "Calpis soda",
-        "measure_ja": "85 ml",
-        "measure_en": "85 ml",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにウォッカとカルピス原液を量り入れてステアし、炭酸水で満たして軽く混ぜる。カルピスソーダを使う場合はウォッカに直接注いで軽くステア。発泡が乳酸の甘さを軽やかに引き立てる夏向きの一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "aliases": [
-      "ウォッカ・カルピス・ソーダ",
-      "vodka calpico soda"
-    ],
-    "slug": "vodka-and-calpico-soda"
-  },
-  {
     "id": "33032",
     "name_ja": "ウオッカ・ギブソン",
     "name_en": "Vodka Gibson",
@@ -14667,7 +14355,7 @@
   {
     "id": "32108",
     "name_ja": "ウォッカ・コリンズ",
-    "name_en": "",
+    "name_en": "Vodka Collins",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "コリンズ・グラス（ないしロンググラス）",
@@ -14722,70 +14410,7 @@
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [
-      "ウオッカ・コリンズ",
-      "vodka collins"
-    ],
-    "slug": "cocktail-32108"
-  },
-  {
-    "id": "34129",
-    "name_ja": "ウオッカ・コリンズ",
-    "name_en": "Vodka Collins",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Rum",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "Sugar syrup",
-        "measure_ja": "2 tsp",
-        "measure_en": "2 tsp."
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "Soda water",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      },
-      {
-        "name_ja": "カットレモン",
-        "name_en": "Lemon wedge",
-        "measure_ja": "1/8 個",
-        "measure_en": "1/8 個"
-      },
-      {
-        "name_ja": "マラスキーノチェリー",
-        "name_en": "Maraschino cherry",
-        "measure_ja": "1 個",
-        "measure_en": "1 個"
-      }
-    ],
-    "instructions_ja": "シェーカーにウォッカ、レモンジュース、シュガーシロップと氷を入れてシェイクし、コリンズグラスに注ぐ。氷を加え炭酸水で満たして軽くステアし、カットレモンとマラスキーノチェリーをピンに刺して飾る。柑橘が爽やかに弾ける、清涼感のあるロング。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "ウォッカ・コリンズ"
+      "ウオッカ・コリンズ"
     ],
     "slug": "vodka-collins"
   },
@@ -14910,7 +14535,8 @@
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [
-      "ウォッカ・スリング"
+      "ウォッカ・スリング",
+      "ヴォッカ・スリング"
     ],
     "slug": "vodka-sling"
   },
@@ -15130,55 +14756,6 @@
       "ウォッカ・マルティーニ"
     ],
     "slug": "vodka-martini"
-  },
-  {
-    "id": "33033",
-    "name_ja": "ウオッカ・リッキー",
-    "name_en": "Vodka Ricki",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "Highball glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "炭酸水",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ライム",
-        "name_en": "",
-        "measure_ja": "1/2 個",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【ビルド】 ライムを絞って タンブラー に入れる。氷を加えウオッカを注ぎ、ソーダで満たしステアする。マドラーを添える。生のライムを絞った新鮮な味わいと香りが特徴のカクテル。ライムをマドラーでつぶして好みの味わいで楽しむこともできる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [
-      "ロングドリンク"
-    ],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "_cocktailtype_id": 499,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0499.html",
-    "aliases": [
-      "ウォッカ・リッキー",
-      "vodka rickey"
-    ],
-    "slug": "vodka-ricki"
   },
   {
     "id": "15403",
@@ -16132,45 +15709,6 @@
     "slug": "egg-beer"
   },
   {
-    "id": "32103",
-    "name_ja": "エッグ・ビール",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "ゴブレット 300mL程度",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Beer",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ビール",
-        "name_en": "Beer",
-        "measure_ja": "350 ml",
-        "measure_en": "350 ml"
-      },
-      {
-        "name_ja": "卵黄",
-        "name_en": "Egg yolk",
-        "measure_ja": "1 個",
-        "measure_en": "1 個"
-      }
-    ],
-    "instructions_ja": "容量300mlほどのゴブレットに卵黄を入れ、バースプーンの背で軽く潰す。よく冷やしたビールを注ぎ、泡立てないよう軽くステアして仕上げる。卵黄の濃厚さがビールの苦味と麦芽香にまろやかに溶け込む。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ビール(汎用)",
-    "aliases": [
-      "egg beer",
-      "エッグ・ビアー"
-    ],
-    "slug": "cocktail-32103"
-  },
-  {
     "id": "12668",
     "name_ja": "エッグクリーム",
     "name_en": "Egg Cream",
@@ -17000,7 +16538,7 @@
         "measure_en": ""
       },
       {
-        "name_ja": "レモンジュース",
+        "name_ja": "ライムジュース",
         "name_en": "",
         "measure_ja": "10 ml",
         "measure_en": ""
@@ -17021,7 +16559,9 @@
     "base_detail": "テキーラ(汎用)",
     "_cocktailtype_id": 362,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0362.html",
-    "aliases": [],
+    "aliases": [
+      "メキシカン・エル・ディアブロ"
+    ],
     "slug": "el-diablo"
   },
   {
@@ -18904,9 +18444,7 @@
     "base_detail": "バーボン",
     "_cocktailtype_id": 16,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0016.html",
-    "aliases": [
-      "オールドファッション"
-    ],
+    "aliases": [],
     "slug": "old-fashioned"
   },
   {
@@ -20269,7 +19807,6 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "會舘フィズ",
       "会館フィズ"
     ],
     "slug": "kaikan-fizz"
@@ -21216,7 +20753,9 @@
     "is_public": true,
     "base_detail": "クレーム・ド・カシス",
     "aliases": [
-      "カシスパイナップル"
+      "カシスパイナップル",
+      "cassis pineapple",
+      "カシス・パイナップル"
     ],
     "slug": "cassis-pine"
   },
@@ -22894,9 +22433,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "コーヒーリキュール",
-    "aliases": [
-      "kahlua on ice"
-    ],
+    "aliases": [],
     "slug": "kahlua-on-ice-cream"
   },
   {
@@ -23271,7 +22808,9 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "コーヒーリキュール",
-    "aliases": [],
+    "aliases": [
+      "カルーア・パイナップル"
+    ],
     "slug": "kahlua-pineapple"
   },
   {
@@ -24349,7 +23888,6 @@
     "is_public": true,
     "base_detail": "キュラソー",
     "aliases": [
-      "かんつばき",
       "寒椿"
     ],
     "slug": "kantsubaki"
@@ -24924,7 +24462,9 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "ビター系リキュール",
-    "aliases": [],
+    "aliases": [
+      "カンパリ・パイナップル"
+    ],
     "slug": "campari-pineapple"
   },
   {
@@ -25315,8 +24855,7 @@
     "style": "スパークリング",
     "base_detail": "スパークリングワイン",
     "aliases": [
-      "キール・ロイヤル",
-      "kir royal"
+      "キール・ロイヤル"
     ],
     "slug": "kir-royale"
   },
@@ -25330,7 +24869,7 @@
     "glass_en": "Highball Glass",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Other",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -25708,7 +25247,7 @@
   {
     "id": "32115",
     "name_ja": "キッス・オブ・ファイア",
-    "name_en": "",
+    "name_en": "Kiss of Fire",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "カクテル・グラス",
@@ -25760,9 +25299,11 @@
     "is_public": true,
     "base_detail": "スロージン",
     "aliases": [
-      "kiss of fire"
+      "キスオブファイア",
+      "キッスオブファイヤー",
+      "キス・オブ・ファイヤー"
     ],
-    "slug": "cocktail-32115"
+    "slug": "kiss-of-fire"
   },
   {
     "id": "34227",
@@ -26605,7 +26146,6 @@
     "is_public": true,
     "base_detail": "ウイスキー(汎用)",
     "aliases": [
-      "きょうざくら",
       "京桜"
     ],
     "slug": "kyohzakura"
@@ -26678,7 +26218,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Other",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -27527,8 +27067,7 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "クーパーズタウン・カクテル",
-      "cooperstown"
+      "クーパーズタウン・カクテル"
     ],
     "slug": "cooperstown-cocktail"
   },
@@ -31976,10 +31515,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ビター系リキュール",
-    "aliases": [
-      "小悪魔",
-      "こあくま"
-    ],
+    "aliases": [],
     "slug": "little-fiend"
   },
   {
@@ -32389,8 +31925,6 @@
     "is_public": true,
     "base_detail": "紅茶リキュール",
     "aliases": [
-      "紅茶カルピス",
-      "こうちゃカルピス",
       "紅茶カルピコ"
     ],
     "slug": "black-tea-and-calpico"
@@ -32443,9 +31977,7 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "black tea gin and tonic",
-      "紅茶ジントニック",
-      "こうちゃジントニック"
+      "black tea gin and tonic"
     ],
     "slug": "black-tea-gin-and-tonic"
   },
@@ -32691,11 +32223,11 @@
     },
     "style": "ショート",
     "aliases": [
-      "corpse reviver",
       "corpse reviver 2",
       "corpse reviver no2",
       "コープスリヴァイヴァー",
-      "コルプスリバイバー"
+      "コルプスリバイバー",
+      "コープスリバイバー No.2"
     ],
     "slug": "corpse-reviver-2"
   },
@@ -32802,65 +32334,6 @@
       "コープスリヴァイヴァー"
     ],
     "slug": "corpse-reviver-no-4"
-  },
-  {
-    "id": "31002",
-    "name_ja": "コープスリバイバー No.2",
-    "name_en": "Corpse Reviver No. 2",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "コアントロー",
-        "name_en": "Cointreau",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "リレ・ブラン",
-        "name_en": "Lillet Blanc",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "アブサン",
-        "name_en": "Absinthe",
-        "measure_ja": "1 dash",
-        "measure_en": "1 dash"
-      }
-    ],
-    "instructions_ja": "カクテルグラスをアブサンでリンスして香りを移しておく。ジン・コアントロー・リレブラン・レモンジュースを氷とともに強めにシェイクし、リンス済みのグラスへ漉し入れる。オレンジピールを飾る、サヴォイ伝来の名作。",
-    "instructions_en": "Rinse a chilled cocktail glass with absinthe. Shake the remaining ingredients with ice and strain into the glass. Garnish with an orange peel.",
-    "iba": null,
-    "tags": [
-      "IBA"
-    ],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "aliases": [
-      "corpse reviver 2",
-      "コープスリヴァイヴァー"
-    ],
-    "slug": "corpse-reviver-no-2"
   },
   {
     "id": "33075",
@@ -34753,10 +34226,7 @@
       }
     ],
     "base_detail": "プレーンウォッカ",
-    "aliases": [
-      "コスモ",
-      "cosmo"
-    ],
+    "aliases": [],
     "slug": "cosmopolitan"
   },
   {
@@ -35742,9 +35212,7 @@
     "is_public": true,
     "style": "ロング",
     "base_detail": "ダークラム",
-    "aliases": [
-      "galah"
-    ],
+    "aliases": [],
     "slug": "the-galah"
   },
   {
@@ -35786,9 +35254,7 @@
     "is_public": true,
     "style": "ショート",
     "base_detail": "アイリッシュウイスキー",
-    "aliases": [
-      "jimmy conway"
-    ],
+    "aliases": [],
     "slug": "the-jimmy-conway"
   },
   {
@@ -35843,7 +35309,6 @@
     "style": "ショート",
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "philosopher",
       "ザ・ヒロソファー"
     ],
     "slug": "the-philosopher"
@@ -35911,9 +35376,7 @@
     "is_public": true,
     "style": "ロング",
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "laverstoke"
-    ],
+    "aliases": [],
     "slug": "the-laverstoke"
   },
   {
@@ -36464,7 +35927,6 @@
     "style": "ロック",
     "is_public": true,
     "aliases": [
-      "sake old fashioned",
       "酒オールドファッションド",
       "日本酒オールドファッションド"
     ],
@@ -37894,7 +37356,6 @@
     "_cocktailtype_id": 251,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0251.html",
     "aliases": [
-      "samurai",
       "侍"
     ],
     "slug": "samurai-cocktail"
@@ -39203,7 +38664,8 @@
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [
-      "Bloody Caesar"
+      "Bloody Caesar",
+      "ブラッディー・シーザー"
     ],
     "slug": "caesar"
   },
@@ -39520,9 +38982,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ホワイトラム",
-    "aliases": [
-      "Cheri"
-    ],
+    "aliases": [],
     "slug": "cherie"
   },
   {
@@ -40766,7 +40226,7 @@
     "glass_en": "Highball Glass",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Liqueur",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -43128,10 +42588,7 @@
     "base_detail": "グリーンティーリキュール",
     "_cocktailtype_id": 303,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0303.html",
-    "aliases": [
-      "しょうようじゅりん",
-      "照葉樹林"
-    ],
+    "aliases": [],
     "slug": "shoyoujurin"
   },
   {
@@ -43594,9 +43051,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
-    "aliases": [
-      "シルクストッキング"
-    ],
+    "aliases": [],
     "slug": "silk-stockings"
   },
   {
@@ -44765,9 +44220,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "ジンズーム"
-    ],
+    "aliases": [],
     "slug": "gin-zoom-cocktail"
   },
   {
@@ -51668,7 +51121,10 @@
     "is_public": true,
     "base_detail": "サザンカンフォート",
     "aliases": [
-      "southern comfort cola"
+      "southern comfort cola",
+      "soco coke",
+      "ソウコ",
+      "ソコ・コーク"
     ],
     "slug": "soco-cola"
   },
@@ -55480,52 +54936,6 @@
     "slug": "choco-colada"
   },
   {
-    "id": "35338",
-    "name_ja": "チョコティーニ",
-    "name_en": "Chocolatini",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "チョコレートリキュール",
-        "name_en": "Chocolate liqueur",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "ベイリーズ",
-        "name_en": "Baileys Irish Cream",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      }
-    ],
-    "instructions_ja": "シェーカーに氷とウォッカ、チョコレートリキュール、ベイリーズを入れてよくシェイクし、冷やしたカクテルグラスに注ぐ。グラス内側にチョコレートシロップで模様を描くと見栄えがする。デザート感覚で味わうリッチな大人のショート。",
-    "instructions_en": "Shake all ingredients with ice in a cocktail shaker, then strain into a chilled cocktail glass. Drizzle chocolate syrup inside the glass for presentation.",
-    "iba": null,
-    "tags": [
-      "デザートカクテル"
-    ],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "aliases": [
-      "チョコレートティーニ"
-    ],
-    "slug": "chocolatini"
-  },
-  {
     "id": "34503",
     "name_ja": "チョコレート・カイピリーニャ",
     "name_en": "",
@@ -56061,7 +55471,8 @@
     "base_detail": "プレーンウォッカ",
     "aliases": [
       "チョコレートマルティーニ",
-      "チョコティーニ"
+      "チョコティーニ",
+      "チョコレートティーニ"
     ],
     "slug": "chocolate-martini"
   },
@@ -56527,9 +55938,7 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "月見草"
-    ],
+    "aliases": [],
     "slug": "tsukimisou"
   },
   {
@@ -58906,7 +58315,9 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
-    "aliases": [],
+    "aliases": [
+      "テキーラ・アンド・トニック"
+    ],
     "slug": "tequila-and-tonic"
   },
   {
@@ -59178,9 +58589,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "クリームリキュール",
-    "aliases": [
-      "テキーラ・ローズ"
-    ],
+    "aliases": [],
     "slug": "tequila-rose-on-ice-cream"
   },
   {
@@ -59213,9 +58622,7 @@
     "style": "ロック",
     "is_public": true,
     "base_detail": "クリームリキュール",
-    "aliases": [
-      "テキーラ・ローズ"
-    ],
+    "aliases": [],
     "slug": "tequila-rose-on-the-rocks"
   },
   {
@@ -59263,9 +58670,7 @@
     "style": "ホット",
     "is_public": true,
     "base_detail": "クリームリキュール",
-    "aliases": [
-      "テキーラ・ローズ"
-    ],
+    "aliases": [],
     "slug": "tequila-rose-coffee"
   },
   {
@@ -59311,9 +58716,7 @@
     "style": "フローズン",
     "is_public": true,
     "base_detail": "クリームリキュール",
-    "aliases": [
-      "テキーラ・ローズ"
-    ],
+    "aliases": [],
     "slug": "tequila-rose-desert-rose"
   },
   {
@@ -59723,7 +59126,9 @@
     "style": "ショート",
     "base_detail": "スパークリングワイン",
     "aliases": [
-      "デス・イン・ザ・アフタヌーン"
+      "デス・イン・ザ・アフタヌーン",
+      "ごごのし",
+      "午後の死"
     ],
     "slug": "death-in-the-afternoon"
   },
@@ -60835,7 +60240,7 @@
   {
     "id": "32310",
     "name_ja": "ドッグズ・ノーズ",
-    "name_en": "",
+    "name_en": "Dog's Nose",
     "category_ja": "ロングドリンク",
     "category_en": "Cocktail",
     "glass_ja": "ピルスナーグラス",
@@ -60866,10 +60271,11 @@
     "is_public": true,
     "base_detail": "ビール(汎用)",
     "aliases": [
-      "dog's nose",
-      "dogs nose"
+      "dogs nose",
+      "Dogs Nose",
+      "ドッグス・ノーズ"
     ],
-    "slug": "cocktail-32310"
+    "slug": "dogs-nose"
   },
   {
     "id": "33134",
@@ -60927,7 +60333,7 @@
   {
     "id": "34555",
     "name_ja": "ドマーニ",
-    "name_en": "",
+    "name_en": "Domani",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "11oz ゴブレット　340　(331ml)",
@@ -60971,59 +60377,8 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "domani"
-    ],
-    "slug": "cocktail-34555"
-  },
-  {
-    "id": "35315",
-    "name_ja": "ドマーニ～明日～",
-    "name_en": "Domani",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "ゴブレット",
-    "glass_en": "Goblet",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "カンパリ",
-        "name_en": "Campari",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "アマレット",
-        "name_en": "Amaretto",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "シェーカーにジン、カンパリ、アマレット、オレンジジュースと氷を入れてよく振り、クラッシュドアイスを詰めたゴブレットに注ぎ切る。アマレットの杏仁香とカンパリのほろ苦さが絡む、明日へつなぐ意のイタリア語名のロング。",
-    "instructions_en": "Shake gin, Campari, amaretto and orange juice with ice, then strain into a goblet packed with crushed ice. Amaretto's almond aroma weaves with Campari's bittersweet edge — a cocktail named after the Italian word for 'tomorrow'.",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ビター系リキュール",
-    "aliases": [
       "ドマーニ明日",
-      "ドマーニ"
+      "ドマーニ～明日～"
     ],
     "slug": "domani"
   },
@@ -61816,9 +61171,7 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "ウイスキーリキュール",
-    "aliases": [
-      "Drambuie"
-    ],
+    "aliases": [],
     "slug": "drambuie-cola"
   },
   {
@@ -65416,10 +64769,7 @@
     ],
     "style": "ロング",
     "is_public": true,
-    "aliases": [
-      "ブルーハワイ",
-      "blue hawaii"
-    ],
+    "aliases": [],
     "slug": "non-alcoholic-blue-hawaii"
   },
   {
@@ -65466,11 +64816,7 @@
     ],
     "style": "ロング",
     "is_public": true,
-    "aliases": [
-      "ブルーラグーンソーダ",
-      "blue lagoon soda",
-      "ブルーラグーン"
-    ],
+    "aliases": [],
     "slug": "non-alcoholic-blue-lagoon-soda"
   },
   {
@@ -65513,8 +64859,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "メロンカルピス",
-      "melon and calpico",
       "カルピコ"
     ],
     "slug": "non-alcoholic-melon-and-calpico"
@@ -65575,10 +64919,7 @@
     ],
     "style": "ロング",
     "is_public": true,
-    "aliases": [
-      "モヒート",
-      "mojito"
-    ],
+    "aliases": [],
     "slug": "non-alcoholic-mojito"
   },
   {
@@ -65617,8 +64958,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ライチグレープフルーツ",
-      "lychee grapefruit",
       "リーチグレープフルーツ"
     ],
     "slug": "non-alcoholic-lychee-grapefruit"
@@ -65660,8 +64999,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ライチパイン",
-      "lychee pineapple",
       "リーチパイン",
       "ライチパイナップル"
     ],
@@ -65703,8 +65040,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "レゲエパンチ",
-      "reggae punch",
       "ピーチウーロン"
     ],
     "slug": "non-alcoholic-reggae-punch"
@@ -65742,10 +65077,7 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "ノンアルコールビール",
-    "aliases": [
-      "レッドアイ",
-      "red eye"
-    ],
+    "aliases": [],
     "slug": "non-alcoholic-red-eye"
   },
   {
@@ -65788,8 +65120,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "きょほうカルピス",
-      "kyoho and calpico",
       "カルピコ"
     ],
     "slug": "non-alcoholic-kyoho-and-calpico"
@@ -66008,8 +65338,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ヴァージンオレンジモヒート",
-      "オレンジモヒート"
+      "ヴァージンオレンジモヒート"
     ],
     "slug": "virgin-orange-mojito"
   },
@@ -66104,8 +65433,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ヴァージンチャイナブルー",
-      "チャイナブルー"
+      "ヴァージンチャイナブルー"
     ],
     "slug": "virgin-china-blue"
   },
@@ -66153,7 +65481,6 @@
     "is_public": true,
     "aliases": [
       "ヴァージンピニャコラーダ",
-      "ピニャコラーダ",
       "ピナコラーダ"
     ],
     "slug": "virgin-pina-colada"
@@ -67660,7 +66987,9 @@
     "is_public": true,
     "base_detail": "ウイスキー(汎用)",
     "aliases": [
-      "ウイスキーソーダ"
+      "ウイスキーソーダ",
+      "whisky soda",
+      "ウイスキー・ソーダ"
     ],
     "slug": "highball"
   },
@@ -67766,9 +67095,7 @@
     "is_public": true,
     "style": "ショート",
     "base_detail": "スコッチ",
-    "aliases": [
-      "ハイランドフリング"
-    ],
+    "aliases": [],
     "slug": "highland-fling-cocktail"
   },
   {
@@ -67924,7 +67251,6 @@
     ],
     "base_detail": "ホワイトラム",
     "aliases": [
-      "bacardi",
       "バカルディカクテル",
       "バカルディ・カクテル"
     ],
@@ -72154,9 +71480,7 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "スパークリングワイン",
-    "aliases": [
-      "バルボタージ"
-    ],
+    "aliases": [],
     "slug": "barbotage"
   },
   {
@@ -76063,7 +75387,9 @@
     "_cocktailtype_id": 693,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0693.html",
     "aliases": [
-      "ヒプノグレープフルーツ"
+      "ヒプノグレープフルーツ",
+      "hpnotiq grapefruit",
+      "ヒプノ・グレープフルーツ"
     ],
     "slug": "hpnotiq-and-grapefruit"
   },
@@ -78657,7 +77983,7 @@
     "glass_en": "",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Other",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -79818,7 +79144,6 @@
     "base_detail": "テキーラ(汎用)",
     "aliases": [
       "フライミートゥザムーンマーガリータ",
-      "マルガリータ",
       "マーガリータ"
     ],
     "slug": "fly-me-to-the-moon-margarita"
@@ -81005,64 +80330,6 @@
       "ブラッディ・メリー"
     ],
     "slug": "bloody-mary"
-  },
-  {
-    "id": "33176",
-    "name_ja": "ブラッディー・シーザー",
-    "name_en": "Bloody Caesar",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "コリンズ・グラス",
-    "glass_en": "Collins glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アブソルートウォッカ",
-        "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "クラマト",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "タバスコ",
-        "name_en": "",
-        "measure_ja": "2 dash",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ウスターソース",
-        "name_en": "",
-        "measure_ja": "2 dash",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "クレイジー・ソルト",
-        "name_en": "",
-        "measure_ja": "少々",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【ビルド】 氷を入れた タンブラー にアブソルート・ウオッカ、クラマトを注ぎ、ステアする。タバスコ、ウスターソース、クレイジー・ソルトを入れる。ブラッディ・メアリーのトマト・ジュースをクラマトといわれる蛤（はまぐり）のエキスを含むトマト・ジュースで作ったもの。ここで紹介するレシピは町屋にあるバー・ペンザンスの提供",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [
-      "ロングドリンク"
-    ],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "_cocktailtype_id": 698,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0698.html",
-    "aliases": [],
-    "slug": "bloody-caesar"
   },
   {
     "id": "30105",
@@ -83888,7 +83155,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Other",
+    "base": "Non-Alcoholic",
     "image": "data/images-wiki/30403.jpg",
     "ingredients": [
       {
@@ -84246,8 +83513,7 @@
     "style": "ロック",
     "is_public": true,
     "aliases": [
-      "blue caipirinha",
-      "カイピリーニャ"
+      "blue caipirinha"
     ],
     "slug": "cocktail-34759"
   },
@@ -84431,8 +83697,7 @@
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [
-      "blue salty dog",
-      "ソルティドッグ"
+      "blue salty dog"
     ],
     "slug": "cocktail-34763"
   },
@@ -85502,8 +84767,7 @@
     "base_detail": "フルーツリキュール",
     "aliases": [
       "prucia harmony",
-      "プルシアハーモニー",
-      "プルシア"
+      "プルシアハーモニー"
     ],
     "slug": "prucia-harmonie"
   },
@@ -86535,9 +85799,7 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
-    "aliases": [
-      "breakfast eggnog"
-    ],
+    "aliases": [],
     "slug": "breakfast-eggnogg"
   },
   {
@@ -87602,9 +86864,7 @@
     "style": "フローズン",
     "is_public": true,
     "base_detail": "プレーンウォッカ",
-    "aliases": [
-      "frozen coconut"
-    ],
+    "aliases": [],
     "slug": "frozen-coconuts"
   },
   {
@@ -88954,8 +88214,8 @@
     "category_en": "Cocktail",
     "glass_ja": "カクテル・グラス",
     "glass_en": "Cocktail glass",
-    "alcoholic_ja": "ノンアルコール",
-    "alcoholic_en": "Non alcoholic",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
     "base": "Gin",
     "image": "",
     "ingredients": [
@@ -92925,9 +92185,7 @@
     "style": "ホット",
     "is_public": true,
     "base_detail": "ダークラム",
-    "aliases": [
-      "hot eggnog"
-    ],
+    "aliases": [],
     "slug": "hot-eggnogg"
   },
   {
@@ -93535,9 +92793,7 @@
     "style": "ホット",
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
-    "aliases": [
-      "hot brandy eggnog"
-    ],
+    "aliases": [],
     "slug": "hot-brandy-eggnogg"
   },
   {
@@ -93916,7 +93172,7 @@
     "glass_en": "Coffee mug",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Other",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -94005,12 +93261,7 @@
     "style": "ホット",
     "is_public": true,
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "ホットつきみそう",
-      "ホット月見草",
-      "月見草",
-      "つきみそう"
-    ],
+    "aliases": [],
     "slug": "hot-tsukimisou"
   },
   {
@@ -94639,7 +93890,7 @@
   {
     "id": "32502",
     "name_ja": "ボルガ・ボートマン",
-    "name_en": "",
+    "name_en": "Volga Boatman",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "カクテル・グラス",
@@ -94647,7 +93898,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Vodka",
-    "image": "",
+    "image": "data/images-public/20032.jpg",
     "ingredients": [
       {
         "name_ja": "ウォッカ",
@@ -94682,10 +93933,11 @@
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [
-      "Volga Boatman",
-      "ヴォルガボートマン"
+      "ヴォルガボートマン",
+      "ボルガの舟歌",
+      "volga boatmen"
     ],
-    "slug": "cocktail-32502"
+    "slug": "volga-boatman"
   },
   {
     "id": "30119",
@@ -94856,7 +94108,8 @@
     "style": "ショート",
     "base_detail": "ブランデー(汎用)",
     "aliases": [
-      "ポートフリップ"
+      "ポートフリップ",
+      "ポート・フリップ"
     ],
     "slug": "porto-flip"
   },
@@ -95401,7 +94654,9 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ジン(汎用)",
-    "aliases": [],
+    "aliases": [
+      "ホワイト・リリィ"
+    ],
     "slug": "white-lily"
   },
   {
@@ -96316,7 +95571,6 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "帝国ホテル",
       "富士山"
     ],
     "slug": "mount-fuji"
@@ -96742,8 +95996,7 @@
     "is_public": true,
     "style": "ホット",
     "aliases": [
-      "マサラティー",
-      "チャイ"
+      "マサラティー"
     ],
     "slug": "masala-chai"
   },
@@ -96826,8 +96079,7 @@
     "is_public": true,
     "base_detail": "スパークリングワイン",
     "aliases": [
-      "抹茶",
-      "まっちゃ"
+      "抹茶"
     ],
     "slug": "green-tea-sparkling"
   },
@@ -96916,11 +96168,7 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "グリーンティーリキュール",
-    "aliases": [
-      "待宵草",
-      "まつよいぐさ",
-      "マツヨイグサ"
-    ],
+    "aliases": [],
     "slug": "evening-primrose"
   },
   {
@@ -97865,7 +97113,8 @@
     "_cocktailtype_id": 435,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0435.html",
     "aliases": [
-      "マリブパイナップル"
+      "マリブパイナップル",
+      "マリブ・パイナップル"
     ],
     "slug": "malibu-pineapple"
   },
@@ -98547,7 +97796,6 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "Marskin ryyppy",
       "マルスキンリーッピ"
     ],
     "slug": "marskin-ryyppy"
@@ -98660,8 +97908,8 @@
     "category_en": "Cocktail",
     "glass_ja": "10oz タンブラー　(280ml)",
     "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non alcoholic",
     "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
@@ -101598,9 +100846,7 @@
     "base_detail": "バーボン",
     "_cocktailtype_id": 193,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0193.html",
-    "aliases": [
-      "julep"
-    ],
+    "aliases": [],
     "slug": "mint-julep"
   },
   {
@@ -102220,7 +101466,8 @@
     ],
     "base_detail": "ホワイトラム",
     "aliases": [
-      "メリーピックフォード"
+      "メリーピックフォード",
+      "メリー・ピックフォード"
     ],
     "slug": "mary-pickford"
   },
@@ -102550,9 +101797,7 @@
     "tags": [],
     "style": "ショート",
     "is_public": true,
-    "aliases": [
-      "メトロポリタン"
-    ],
+    "aliases": [],
     "slug": "metropolitan-no-1"
   },
   {
@@ -102595,8 +101840,7 @@
     "is_public": true,
     "base_detail": "フルーツリキュール",
     "aliases": [
-      "メリーウイドウ",
-      "メリーウィドー"
+      "メリーウイドウ"
     ],
     "slug": "merry-widow"
   },
@@ -105447,62 +104691,8 @@
     "base_detail": "プレーンウォッカ",
     "_cocktailtype_id": 703,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0703.html",
-    "aliases": [
-      "夢一夜",
-      "ゆめひとよ"
-    ],
+    "aliases": [],
     "slug": "yume-hitoyo"
-  },
-  {
-    "id": "34978",
-    "name_ja": "ようきひ　楊貴妃",
-    "name_en": "Yang Guifei",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "4oz カクテル・グラス　(125ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "桂花陳酒",
-        "name_en": "Guihua Chen Jiu",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "ライチリキュール",
-        "name_en": "Lychee liqueur",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "Grapefruit juice",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "ブルーキュラソー",
-        "name_en": "Blue curaçao",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp."
-      }
-    ],
-    "instructions_ja": "シェーカーに桂花陳酒、ライチリキュール、グレープフルーツジュース、ブルーキュラソーと氷を入れてシェイクし、冷やしたカクテルグラスに注ぐ。金木犀とライチの東洋的な香りが妖艶に薫る、唐の美姫を映した一杯。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "aliases": [
-      "楊貴妃",
-      "ようきひ",
-      "youkihi"
-    ],
-    "slug": "yang-guifei"
   },
   {
     "id": "34979",
@@ -105880,7 +105070,8 @@
     "is_public": true,
     "base_detail": "ヨーグルトリキュール",
     "aliases": [
-      "ヨーグリートパイナップル"
+      "ヨーグリートパイナップル",
+      "ヨーグリート・パイナップル"
     ],
     "slug": "yogurito-pineapple"
   },
@@ -107058,7 +106249,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Whiskey",
+    "base": "Non-Alcoholic",
     "image": "data/images-openverse/12704.jpg",
     "ingredients": [
       {
@@ -107518,9 +106709,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
-    "aliases": [
-      "last drop"
-    ],
+    "aliases": [],
     "slug": "the-last-drop"
   },
   {
@@ -107849,7 +107038,7 @@
     "glass_en": "Highball Glass",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Other",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -107896,7 +107085,7 @@
     "glass_en": "Highball Glass",
     "alcoholic_ja": "ノンアルコール",
     "alcoholic_en": "Non alcoholic",
-    "base": "Whiskey",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -107989,9 +107178,7 @@
     "tags": [],
     "is_public": true,
     "style": "フローズン",
-    "aliases": [
-      "lassi"
-    ],
+    "aliases": [],
     "slug": "lassi-a-south-indian-drink"
   },
   {
@@ -108190,7 +107377,8 @@
     "is_public": true,
     "base_detail": "ホワイトラム",
     "aliases": [
-      "rum coke"
+      "rum coke",
+      "ラム・コーク"
     ],
     "slug": "rum-and-coke"
   },
@@ -108251,9 +107439,7 @@
     "is_public": true,
     "style": "ロック",
     "base_detail": "ホワイトラム",
-    "aliases": [
-      "ラムオールドファッション"
-    ],
+    "aliases": [],
     "slug": "rum-old-fashioned"
   },
   {
@@ -108413,50 +107599,6 @@
       "rum crusta"
     ],
     "slug": "cocktail-35001"
-  },
-  {
-    "id": "35002",
-    "name_ja": "ラム・コーク",
-    "name_en": "Rum Coke",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "10oz コリンズ・グラス　(300ml)",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Rum",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ホワイトラム",
-        "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ライム",
-        "name_en": "",
-        "measure_ja": "1/2 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "コーラ",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【ビルド】 タンブラー にライムを搾り、氷を２～３個入れラムを注ぐ。その２～３倍量の冷やしたコーラを満たし、マドラーを添える。ラム＋コーラ＋ライムで「ラム・コーク」になる。正式名称を「キューバ・レバー」。ラム・コークの方が別名になる。キューバの自由を祝ったカクテル。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ホワイトラム",
-    "_cocktailtype_id": 605,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0605.html",
-    "aliases": [],
-    "slug": "rum-coke"
   },
   {
     "id": "35076",
@@ -110078,7 +109220,10 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "フルーツリキュール",
-    "aliases": [],
+    "aliases": [
+      "limoncello coke",
+      "リモンチェッロ・コーク"
+    ],
     "slug": "limoncello-cola"
   },
   {
@@ -110650,8 +109795,7 @@
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
     "aliases": [
-      "緑葉",
-      "りょくよう"
+      "緑葉"
     ],
     "slug": "green-leaf"
   },
@@ -112788,8 +111932,8 @@
     "category_en": "Cocktail",
     "glass_ja": "ハイボールグラス",
     "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non alcoholic",
     "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
@@ -113622,7 +112766,6 @@
     "is_public": true,
     "base_detail": "フルーツリキュール",
     "aliases": [
-      "ろうらん",
       "ローラン"
     ],
     "slug": "roh-ran"
@@ -115662,9 +114805,7 @@
     "tags": [],
     "style": "ロング",
     "is_public": true,
-    "aliases": [
-      "warninks eggnog"
-    ],
+    "aliases": [],
     "slug": "warninks-eggnogg"
   },
   {
@@ -115936,45 +115077,6 @@
       "よしの"
     ],
     "slug": "cocktail-32517"
-  },
-  {
-    "id": "32514",
-    "name_ja": "午後の死",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "シャンパン・グラス",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Other",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ペルノー",
-        "name_en": "Pernod",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "シャンパン",
-        "name_en": "Champagne",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      }
-    ],
-    "instructions_ja": "シャンパングラスにペルノーを注ぎ、よく冷えたシャンパンを乳白色に濁るまで静かに加える。アニス系リキュール特有のルーシュ効果が美しい、ヘミングウェイ考案のスパークリングカクテル。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "スパークリング",
-    "is_public": true,
-    "aliases": [
-      "death in the afternoon",
-      "ごごのし"
-    ],
-    "slug": "cocktail-32514"
   },
   {
     "id": "20007",
@@ -116697,7 +115799,10 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ジン(汎用)",
-    "aliases": [],
+    "aliases": [
+      "ブルーコーラルリーフ",
+      "あおいさんごしょう"
+    ],
     "slug": "aoi-sangosho"
   },
   {
@@ -116804,9 +115909,7 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "ビール(汎用)",
-    "aliases": [
-      "シャンディーガフ"
-    ],
+    "aliases": [],
     "slug": "red-wine-shandy-gaff"
   },
   {
@@ -117111,7 +116214,6 @@
     "style": "ロック",
     "is_public": true,
     "aliases": [
-      "カイピリーニャ",
       "カイピリニア"
     ],
     "slug": "shima-caipirinha"
@@ -117948,9 +117050,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "フルーツリキュール",
-    "aliases": [
-      "ryo"
-    ],
+    "aliases": [],
     "slug": "ryou"
   },
   {
@@ -118394,52 +117494,6 @@
       "スウィートベリー"
     ],
     "slug": "sweet-berry"
-  },
-  {
-    "id": "20032",
-    "name_ja": "ポルガ・ポートマン",
-    "name_en": "Volga Boatman",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "data/images-public/20032.jpg",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "チェリーブランデー",
-        "name_en": "Cherry Brandy",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange Juice",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      }
-    ],
-    "instructions_ja": "シェーカーにウォッカ、チェリー・ブランデー、オレンジジュースと氷を入れてシェイクし、冷やしたカクテルグラスに注ぐ。「ヴォルガ河の船乗り」を意味する古典的なウォッカカクテルで、チェリーブランデーとオレンジの甘酸っぱさが調和する。",
-    "instructions_en": "Shake all ingredients with ice and strain into a chilled cocktail glass.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "aliases": [
-      "ボルガボートマン",
-      "ボルガの舟歌",
-      "volga boatmen"
-    ],
-    "slug": "volga-boatman"
   },
   {
     "id": "20033",
@@ -120567,8 +119621,8 @@
   },
   {
     "id": "178408",
-    "name_ja": "メリー・ウィンドウ",
-    "name_en": "Merry Window",
+    "name_ja": "メリー・ウィドウ（ジン）",
+    "name_en": "Merry Widow",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "",
@@ -120609,59 +119663,7 @@
       "merry widow",
       "メリーウイドウ"
     ],
-    "slug": "merry-window"
-  },
-  {
-    "id": "178409",
-    "name_ja": "メリー・ピックフォード",
-    "name_en": "Merry Pickford",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Rum",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ライトラム",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "",
-        "measure_ja": "1 tsp",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "マラスキーノリキュール",
-        "name_en": "",
-        "measure_ja": "1 dash",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【シェーク】 シェークして、 カクテル・グラス に注ぐ。「世界の恋人」と謳われたアメリカの女優メリー・ピックフォードの名前をつけられたカクテル。映画女優の名にふさわしい華やかさをかもし出している、ソフトタイプの甘口カクテル。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 192,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0192.html",
-    "aliases": [
-      "mary pickford",
-      "メアリーピックフォード"
-    ],
-    "slug": "merry-pickford"
+    "slug": "merry-widow-2"
   },
   {
     "id": "178410",
@@ -120711,55 +119713,6 @@
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0198.html",
     "aliases": [],
     "slug": "button-hook"
-  },
-  {
-    "id": "178411",
-    "name_ja": "ポート・フリップ",
-    "name_en": "Port Flip",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Wine",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ポートワイン",
-        "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ブランデー",
-        "name_en": "",
-        "measure_ja": "10 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "",
-        "measure_ja": "2 tsp",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "卵黄",
-        "name_en": "",
-        "measure_ja": "1 個",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【シェーク】 よくシェークして、 カクテル・グラス に注ぐ。ナツメグを振りかける。フリップとは、卵と砂糖を入れたカクテルのこと。多くはブランデーなどの蒸留酒が使われる。ワイン系フリップには他にシェリー・フリップもあり、いずれもよく知られている。日本でいう卵酒に似ている。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 201,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0201.html",
-    "aliases": [],
-    "slug": "port-flip"
   },
   {
     "id": "178412",
@@ -121077,7 +120030,6 @@
     "_cocktailtype_id": 227,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0227.html",
     "aliases": [
-      "ピニャコラーダ",
       "ピナコラーダ"
     ],
     "slug": "cocomo-pina-colada"
@@ -121382,9 +120334,7 @@
     "style": "ショート",
     "_cocktailtype_id": 237,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0237.html",
-    "aliases": [
-      "adios amigo"
-    ],
+    "aliases": [],
     "slug": "adios-amigos"
   },
   {
@@ -121473,9 +120423,7 @@
     "style": "ソフトドリンク",
     "_cocktailtype_id": 250,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0250.html",
-    "aliases": [
-      "セックスオンザビーチ"
-    ],
+    "aliases": [],
     "slug": "safe-sex-on-the-beach"
   },
   {
@@ -121686,10 +120634,7 @@
     "style": "ショート",
     "_cocktailtype_id": 277,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0277.html",
-    "aliases": [
-      "月知梅",
-      "げっちばい"
-    ],
+    "aliases": [],
     "slug": "gettibai"
   },
   {
@@ -124717,56 +123662,11 @@
     "_cocktailtype_id": 429,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0429.html",
     "aliases": [
-      "スノウホワイト"
+      "スノウホワイト",
+      "しらゆきひめ",
+      "白雪姫"
     ],
     "slug": "snow-white"
-  },
-  {
-    "id": "178498",
-    "name_ja": "白雪姫",
-    "name_en": "Shirayukihime",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Wine",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アップルワイン",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "",
-        "measure_ja": "15 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "",
-        "measure_ja": "1 tsp",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【シェーク】 シェークして、クラッシュド・アイスを詰めた ゴブレット に注ぐ。スライスしたりんごを添える。ストローを２本添える。正式名称を「スノー・ホワイト」という。雪のようなほんのり白いカクテル。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 430,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0430.html",
-    "aliases": [
-      "しらゆきひめ",
-      "Snow White",
-      "スノーホワイト"
-    ],
-    "slug": "shirayukihime"
   },
   {
     "id": "178499",
@@ -125984,46 +124884,6 @@
     "slug": "sweet-maria"
   },
   {
-    "id": "178525",
-    "name_ja": "ドッグス・ノーズ",
-    "name_en": "Dog's Nose",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ビール",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【ビルド】 タンブラー にドライ・ジンを注ぎ、ビールで満たしてステアする。ジンのすっきりした風味とビールのほろ苦さがきいた辛口の味わい。見た目はビールだが、アルコール度数はビールの３倍に匹敵するので飲みすぎには注意。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 488,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0488.html",
-    "aliases": [
-      "Dogs Nose",
-      "ドッグズノーズ"
-    ],
-    "slug": "dogs-nose"
-  },
-  {
     "id": "178526",
     "name_ja": "ホット・ブランデー・ミルク",
     "name_en": "Hot Brandy Milk",
@@ -126293,7 +125153,6 @@
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0503.html",
     "aliases": [
       "Sherry",
-      "シェリー",
       "ジェレス"
     ],
     "slug": "jerez"
@@ -126744,7 +125603,6 @@
     "_cocktailtype_id": 532,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0532.html",
     "aliases": [
-      "Calpis Sour",
       "カルピスサウアー"
     ],
     "slug": "calpis-sours"
@@ -127253,62 +126111,8 @@
     "style": "ショート",
     "_cocktailtype_id": 554,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0554.html",
-    "aliases": [
-      "indian summer"
-    ],
+    "aliases": [],
     "slug": "indian-summer-drink"
-  },
-  {
-    "id": "178552",
-    "name_ja": "メキシカン・エル・ディアブロ",
-    "name_en": "Mexican El Diablo",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "テキーラ",
-        "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "クレーム・ド・カシス",
-        "name_en": "",
-        "measure_ja": "15 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ライムジュース",
-        "name_en": "",
-        "measure_ja": "15 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ジンジャーエール",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【シェーク】 ジンジャーエール以外をシェークして、 タンブラー に注ぐ。氷を加え、ジンジャーエールで満たし、ステアする。カット・ライムを入れる。「悪魔」というネーミングのエル・ディアブロにライム・ジュースを加えた、メキシコの悪魔「メキシカン・エル・ディアブロ」。甘酸っぱい風味でさっぱりとした味わい。カット・ライムを入れていただきたい。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 555,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0555.html",
-    "aliases": [
-      "el diablo",
-      "エル・ディアブロ"
-    ],
-    "slug": "mexican-el-diablo"
   },
   {
     "id": "178553",
@@ -127400,58 +126204,6 @@
     "slug": "red-mustache"
   },
   {
-    "id": "178555",
-    "name_ja": "テキーラ・アンド・トニック",
-    "name_en": "Tequla And Tinic",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "テキーラ",
-        "name_en": "",
-        "measure_ja": "40 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ミネラル・ウォーター",
-        "name_en": "",
-        "measure_ja": "10 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ライム",
-        "name_en": "",
-        "measure_ja": "1/2 個分",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "トニックウォーター",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【ビルド】 タンブラー にライム半個を搾り、果実をグラスに落とす。水を加え、テキーラを注ぎ、トニック・ウォーターで割る。静かにステアする。テキーラとライムの相性がきわだつ、シンプルでさっぱりとしたカクテル。ライムをつぶしながら飲むと、ライムの香りがいっそう強くなる。テキーラ・ライムとでも呼びたい作品。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 563,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0563.html",
-    "aliases": [
-      "tequila and tonic",
-      "テキーラ・トニック"
-    ],
-    "slug": "tequla-and-tinic"
-  },
-  {
     "id": "178556",
     "name_ja": "アンパイネン",
     "name_en": "Ampainen",
@@ -127535,8 +126287,7 @@
     "_cocktailtype_id": 565,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0565.html",
     "aliases": [
-      "ジェームズ・ボンド・マティーニ",
-      "ボンド・マティーニ"
+      "ジェームズ・ボンド・マティーニ"
     ],
     "slug": "james-bond-martini"
   },
@@ -130289,7 +129040,6 @@
     "_cocktailtype_id": 669,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0669.html",
     "aliases": [
-      "mozart",
       "モーツァルトのごご"
     ],
     "slug": "der-nachmittag-mozart"
@@ -130655,7 +129405,6 @@
     "_cocktailtype_id": 682,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0682.html",
     "aliases": [
-      "denki bran sour",
       "電気ブランサワー"
     ],
     "slug": "denki-bran-sours"
@@ -130986,9 +129735,7 @@
     "style": "ショート",
     "_cocktailtype_id": 699,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0699.html",
-    "aliases": [
-      "ブラッディシーザー"
-    ],
+    "aliases": [],
     "slug": "special-bloody-caesar"
   },
   {
@@ -131119,58 +129866,6 @@
       "セヨング"
     ],
     "slug": "seyoung"
-  },
-  {
-    "id": "178638",
-    "name_ja": "キス・オブ・ファイヤー",
-    "name_en": "Kiss of Fire",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "",
-        "measure_ja": "20 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "スロージン",
-        "name_en": "",
-        "measure_ja": "20 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ドライベルモット",
-        "name_en": "",
-        "measure_ja": "20 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "",
-        "measure_ja": "1 tsp",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【シェーク】 シェークして、砂糖でスノース・タイルにした カクテル・グラス に注ぐ。１９５３年、第５回オールジャパン・ドリンクコンクールで優勝した作品。ルイ・アームストロングが歌うキス・オブ・ファイヤーそれを聞いて生まれた作品。歌詞同様、燃え上がる気持ちが赤い色合い、人生と同じ微かな渋さとすっぱさが感じられる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 708,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0708.html",
-    "aliases": [
-      "キスオブファイア",
-      "キッスオブファイヤー"
-    ],
-    "slug": "kiss-of-fire"
   },
   {
     "id": "178639",
@@ -132269,46 +130964,6 @@
     "slug": "zacro-shakerato"
   },
   {
-    "id": "178663",
-    "name_ja": "ディサローノ・ジンジャー",
-    "name_en": "Disaronno Ginger",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "アマレット",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ジンジャーエール",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【ビルド】 氷を入れた タンブラー に注ぎ、軽くステアする。スライス・レモンを添える。杏の核、ヴァニラビーンズから浸出した１００％ナチュラルな抽出液が原液のリキュール。アマレットのエキゾチックな味わいを、ジンジャーエールですっきり仕上げている。甘い香りだが、さっぱりと爽やかな味わい。度数も低めで、食事と合わせても邪魔しないカクテルだ。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "style": "ショート",
-    "_cocktailtype_id": 741,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0741.html",
-    "aliases": [
-      "ディサロンノジンジャー",
-      "アマレットジンジャー"
-    ],
-    "slug": "disaronno-ginger"
-  },
-  {
     "id": "178664",
     "name_ja": "ルージュ・バック",
     "name_en": "Rouge Buck",
@@ -132570,9 +131225,7 @@
     "style": "ショート",
     "_cocktailtype_id": 750,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0750.html",
-    "aliases": [
-      "スマイリン"
-    ],
+    "aliases": [],
     "slug": "smiling"
   },
   {
@@ -132890,7 +131543,7 @@
   {
     "id": "180019",
     "name_ja": "ウォッカ・リッキー",
-    "name_en": "",
+    "name_en": "Vodka Ricki",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "タンブラー",
@@ -132933,10 +131586,11 @@
     "is_public": true,
     "aliases": [
       "vodka rickey",
-      "ウオツカリッキー"
+      "ウオツカリッキー",
+      "ウオッカ・リッキー"
     ],
     "_gc_id": 19,
-    "slug": "cocktail-180019"
+    "slug": "vodka-ricki"
   },
   {
     "id": "180022",
@@ -133029,8 +131683,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "orange blossom long",
-      "オレンジブロッサム"
+      "orange blossom long"
     ],
     "_gc_id": 25,
     "slug": "cocktail-180025"
@@ -133848,8 +132501,7 @@
     "style": "ショート",
     "is_public": true,
     "aliases": [
-      "orange blossom short",
-      "オレンジブロッサム"
+      "orange blossom short"
     ],
     "_gc_id": 53,
     "slug": "cocktail-180053"
@@ -134408,57 +133060,6 @@
     ],
     "_gc_id": 75,
     "slug": "cocktail-180075"
-  },
-  {
-    "id": "180083",
-    "name_ja": "ウォッカ・スリング",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ミネラル・ウォーター",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "",
-        "measure_ja": "1/2 個",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにウォッカを30ml注ぐ。グラスにシュガーシロップを1/2個注ぐ。グラスにミネラルウォーターを90ml注ぐ。かき混ぜる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "vodka sling",
-      "ヴォッカ・スリング"
-    ],
-    "_gc_id": 83,
-    "slug": "cocktail-180083"
   },
   {
     "id": "180086",
@@ -136072,94 +134673,6 @@
     "slug": "cocktail-180150"
   },
   {
-    "id": "180151",
-    "name_ja": "マリブ・パイナップル",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "マリブ",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにマリブ（ココナッツリキュール）を30ml注ぐ。グラスにパイナップルジュースを90ml注ぐ。かき混ぜる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "malibu pineapple"
-    ],
-    "_gc_id": 151,
-    "slug": "cocktail-180151"
-  },
-  {
-    "id": "180152",
-    "name_ja": "カシス・パイナップル",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ルジェ・クレーム・ド・カシス",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにルジェ・クレーム・ド・カシス（カシスリキュール）を30ml注ぐ。グラスにパイナップルジュースを90ml注ぐ。軽くかき混ぜる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "cassis pineapple"
-    ],
-    "_gc_id": 152,
-    "slug": "cocktail-180152"
-  },
-  {
     "id": "180153",
     "name_ja": "ライチ・パイナップル",
     "name_en": "",
@@ -136204,94 +134717,6 @@
     ],
     "_gc_id": 153,
     "slug": "cocktail-180153"
-  },
-  {
-    "id": "180154",
-    "name_ja": "カルーア・パイナップル",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "カルーア",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにカルーア コーヒー（コーヒーリキュール）を30ml注ぐ。グラスにパイナップルジュースを90ml注ぐ。かき混ぜる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "kahlua pineapple"
-    ],
-    "_gc_id": 154,
-    "slug": "cocktail-180154"
-  },
-  {
-    "id": "180155",
-    "name_ja": "カンパリ・パイナップル",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "カンパリ",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにカンパリ（ハーブリキュール）を30ml注ぐ。グラスにパイナップルジュースを90ml注ぐ。かき混ぜる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "campari pineapple"
-    ],
-    "_gc_id": 155,
-    "slug": "cocktail-180155"
   },
   {
     "id": "180156",
@@ -137431,8 +135856,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "gin mitsuya cider",
-      "三ツ矢"
+      "gin mitsuya cider"
     ],
     "_gc_id": 185,
     "slug": "cocktail-180185"
@@ -140832,50 +139256,6 @@
     "slug": "cocktail-180285"
   },
   {
-    "id": "180286",
-    "name_ja": "ヨーグリート・パイナップル",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ヨーグリート",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにヨーグリート（ヨーグルトリキュール）を30ml注ぐ。グラスにパイナップルジュースを90ml注ぐ。かき混ぜる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "yogurito pineapple"
-    ],
-    "_gc_id": 286,
-    "slug": "cocktail-180286"
-  },
-  {
     "id": "180287",
     "name_ja": "ジン・グァバ",
     "name_en": "",
@@ -143437,8 +141817,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "mozart milk ice",
-      "モーツァルト・ミルク"
+      "mozart milk ice"
     ],
     "_gc_id": 347,
     "slug": "cocktail-180347"
@@ -143476,8 +141855,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "mozart milk hot",
-      "モーツァルト・ミルク"
+      "mozart milk hot"
     ],
     "_gc_id": 348,
     "slug": "cocktail-180348"
@@ -145722,8 +144100,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "gin mitsuya budou",
-      "三ツ矢新搾りブドウ"
+      "gin mitsuya budou"
     ],
     "_gc_id": 397,
     "slug": "cocktail-180397"
@@ -145768,8 +144145,7 @@
     "is_public": true,
     "aliases": [
       "vodka mitsuya budou",
-      "ウオッカ・三ツ矢新搾りぶどう",
-      "三ツ矢新搾りブドウ"
+      "ウオッカ・三ツ矢新搾りぶどう"
     ],
     "_gc_id": 398,
     "slug": "cocktail-180398"
@@ -145813,8 +144189,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "rum mitsuya budou",
-      "三ツ矢新搾りブドウ"
+      "rum mitsuya budou"
     ],
     "_gc_id": 399,
     "slug": "cocktail-180399"
@@ -145858,8 +144233,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "tequila mitsuya budou",
-      "三ツ矢新搾りブドウ"
+      "tequila mitsuya budou"
     ],
     "_gc_id": 400,
     "slug": "cocktail-180400"
@@ -146339,7 +144713,7 @@
   {
     "id": "180416",
     "name_ja": "十六夜",
-    "name_en": "",
+    "name_en": "Izayoi",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "タンブラー",
@@ -146375,11 +144749,10 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "izayoi",
       "いざよい"
     ],
     "_gc_id": 416,
-    "slug": "cocktail-180416"
+    "slug": "izayoi"
   },
   {
     "id": "180417",
@@ -146654,45 +145027,6 @@
     "slug": "cocktail-180424"
   },
   {
-    "id": "180425",
-    "name_ja": "ヒプノ・グレープフルーツ",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ヒプノティック",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにヒプノティック（フルーツリキュール）を30ml注ぐ。グラスにグレープフルーツジュースを90ml注ぐ。かき混ぜる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "hpnotiq grapefruit",
-      "ヒプノティック・グレープフルーツ"
-    ],
-    "_gc_id": 425,
-    "slug": "cocktail-180425"
-  },
-  {
     "id": "180431",
     "name_ja": "ガストウカクテル",
     "name_en": "",
@@ -146737,8 +145071,7 @@
     "style": "ショート",
     "is_public": true,
     "aliases": [
-      "gastouka cocktail",
-      "ガストウカ"
+      "gastouka cocktail"
     ],
     "_gc_id": 431,
     "slug": "cocktail-180431"
@@ -147482,58 +145815,6 @@
     "slug": "cocktail-180450"
   },
   {
-    "id": "180451",
-    "name_ja": "リモンチェッロ・コーク",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "リモンチェッロ",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "コーラ",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "レモン",
-        "name_en": "",
-        "measure_ja": "1/8 個",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにリモンチェッロ（レモンリキュール）を30ml注ぐ。グラスにコーラを90ml注ぐ。軽くかき混ぜる。お好みでグラスにカットレモンを入れる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "limoncello coke",
-      "リモンチェッロ・コーラ",
-      "limoncello"
-    ],
-    "_gc_id": 451,
-    "slug": "cocktail-180451"
-  },
-  {
     "id": "180452",
     "name_ja": "ブルー・パール",
     "name_en": "",
@@ -147898,8 +146179,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "gin orangina bitter sparkling",
-      "オランジーナ"
+      "gin orangina bitter sparkling"
     ],
     "_gc_id": 459,
     "slug": "cocktail-180459"
@@ -147944,8 +146224,7 @@
     "is_public": true,
     "aliases": [
       "vodka orangina bitter sparkling",
-      "ウオッカ・オランジーナ・ビタースパークリング",
-      "オランジーナ"
+      "ウオッカ・オランジーナ・ビタースパークリング"
     ],
     "_gc_id": 460,
     "slug": "cocktail-180460"
@@ -147989,8 +146268,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "rum orangina bitter sparkling",
-      "オランジーナ"
+      "rum orangina bitter sparkling"
     ],
     "_gc_id": 461,
     "slug": "cocktail-180461"
@@ -148034,8 +146312,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "tequila orangina bitter sparkling",
-      "オランジーナ"
+      "tequila orangina bitter sparkling"
     ],
     "_gc_id": 462,
     "slug": "cocktail-180462"
@@ -150877,62 +149154,6 @@
     "slug": "cocktail-180531"
   },
   {
-    "id": "180532",
-    "name_ja": "アイス・ブレイカー",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "オールドファッションドグラス",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "テキーラ",
-        "name_en": "",
-        "measure_ja": "40 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ホワイトキュラソー",
-        "name_en": "",
-        "measure_ja": "20 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "グレープフルーツジュース",
-        "name_en": "",
-        "measure_ja": "40 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "",
-        "measure_ja": "5 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "シェイカーに氷を入れる。シェイカーに以下の材料を入れてシェイクする。オールドファッションドグラスにシェイクしたものを注ぐ。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "aliases": [
-      "ice breaker"
-    ],
-    "_gc_id": 532,
-    "slug": "cocktail-180532"
-  },
-  {
     "id": "180534",
     "name_ja": "ティアマット",
     "name_en": "",
@@ -151826,8 +150047,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "mangoyan ginger",
-      "マンゴーヤン"
+      "mangoyan ginger"
     ],
     "_gc_id": 554,
     "slug": "cocktail-180554"
@@ -151883,8 +150103,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "mangoyan buck",
-      "マンゴーヤン"
+      "mangoyan buck"
     ],
     "_gc_id": 555,
     "slug": "cocktail-180555"
@@ -152043,63 +150262,10 @@
     "is_public": true,
     "aliases": [
       "mangoyan coke",
-      "マンゴヤンコーラ",
-      "マンゴーヤン"
+      "マンゴヤンコーラ"
     ],
     "_gc_id": 558,
     "slug": "cocktail-180558"
-  },
-  {
-    "id": "180559",
-    "name_ja": "ソコ・コーク",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "タンブラー",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "氷",
-        "name_en": "",
-        "measure_ja": "3~4 個",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "サザンカンフォート",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "コーラ",
-        "name_en": "",
-        "measure_ja": "90 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "レモン",
-        "name_en": "",
-        "measure_ja": "1/8 個",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "グラスに氷を入れる。グラスにサザンカンフォート（フルーツフレーバーリキュール）を30ml注ぐ。グラスにコーラを90ml注ぐ。軽くかき混ぜる。お好みでグラスにカットレモンを入れる。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "aliases": [
-      "soco coke",
-      "ソココーラ",
-      "ソウコ"
-    ],
-    "_gc_id": 559,
-    "slug": "cocktail-180559"
   },
   {
     "id": "180560",
@@ -152229,8 +150395,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "hpnotiq grape",
-      "ヒプノティックグレープフルーツ"
+      "hpnotiq grape"
     ],
     "_gc_id": 562,
     "slug": "cocktail-180562"
@@ -152274,8 +150439,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "mangoyan grape",
-      "マンゴーヤン"
+      "mangoyan grape"
     ],
     "_gc_id": 563,
     "slug": "cocktail-180563"
@@ -152935,8 +151099,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "mangoyan pink grapefruit",
-      "マンゴーヤン"
+      "mangoyan pink grapefruit"
     ],
     "_gc_id": 578,
     "slug": "cocktail-180578"
@@ -154983,7 +153146,7 @@
   {
     "id": "180628",
     "name_ja": "ウォッカ・カルピスソーダ",
-    "name_en": "",
+    "name_en": "Vodka and Calpico Soda",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "タンブラー",
@@ -155020,10 +153183,12 @@
     "is_public": true,
     "aliases": [
       "vodka calpis soda",
-      "ウオッカ"
+      "ウオッカ",
+      "vodka calpico soda",
+      "ウオッカ・カルピス・ソーダ"
     ],
     "_gc_id": 628,
-    "slug": "cocktail-180628"
+    "slug": "vodka-and-calpico-soda"
   },
   {
     "id": "180629",
@@ -160864,7 +159029,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "シークヮーサー",
       "gin koucha kaden shikuwasa",
       "こうちゃかでん"
     ],
@@ -160910,7 +159074,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "シークヮーサー",
       "vodka koucha kaden shikuwasa"
     ],
     "_gc_id": 756,
@@ -160955,7 +159118,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "シークヮーサー",
       "rum koucha kaden shikuwasa"
     ],
     "_gc_id": 757,
@@ -161000,7 +159162,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "シークヮーサー",
       "tequila koucha kaden shikuwasa"
     ],
     "_gc_id": 758,
@@ -161045,7 +159206,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "シークヮーサー",
       "whisky koucha kaden shikuwasa"
     ],
     "_gc_id": 759,
@@ -163546,7 +161706,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "エリストフ",
       "eristoff",
       "grape"
     ],
@@ -163594,7 +161753,6 @@
     "aliases": [
       "alize",
       "alizé",
-      "アリゼ",
       "grape"
     ],
     "_gc_id": 819,
@@ -164362,7 +162520,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "エリストフ",
       "eristoff",
       "apple"
     ],
@@ -164410,7 +162567,6 @@
     "aliases": [
       "alize",
       "alizé",
-      "アリゼ",
       "apple"
     ],
     "_gc_id": 837,
@@ -164686,7 +162842,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "エリストフ",
       "eristoff",
       "grapefruit"
     ],
@@ -164734,7 +162889,6 @@
     "aliases": [
       "alize",
       "alizé",
-      "アリゼ",
       "grapefruit"
     ],
     "_gc_id": 844,
@@ -164826,7 +162980,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "エリストフ",
       "eristoff",
       "orange"
     ],
@@ -164874,7 +163027,6 @@
     "aliases": [
       "alize",
       "alizé",
-      "アリゼ",
       "orange"
     ],
     "_gc_id": 847,
@@ -165878,10 +164030,7 @@
     "tags": [],
     "style": "ロング",
     "is_public": true,
-    "aliases": [
-      "エリストフレッド",
-      "ピンクグレープフルーツ"
-    ],
+    "aliases": [],
     "_gc_id": 874,
     "slug": "cocktail-180874"
   },
@@ -165925,8 +164074,7 @@
     "is_public": true,
     "aliases": [
       "ピムズ",
-      "pimms",
-      "ピンクグレープフルーツ"
+      "pimms"
     ],
     "_gc_id": 875,
     "slug": "cocktail-180875"
@@ -165970,8 +164118,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "green mint",
-      "ピンクグレープフルーツ"
+      "green mint"
     ],
     "_gc_id": 876,
     "slug": "cocktail-180876"
@@ -166015,8 +164162,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "white mint",
-      "ピンクグレープフルーツ"
+      "white mint"
     ],
     "_gc_id": 877,
     "slug": "cocktail-180877"
@@ -166060,8 +164206,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "passoa",
-      "ピンクグレープフルーツ"
+      "passoa"
     ],
     "_gc_id": 878,
     "slug": "cocktail-180878"
@@ -166105,8 +164250,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "apricot",
-      "ピンクグレープフルーツ"
+      "apricot"
     ],
     "_gc_id": 879,
     "slug": "cocktail-180879"
@@ -166150,8 +164294,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "alize blue",
-      "ピンクグレープフルーツ"
+      "alize blue"
     ],
     "_gc_id": 880,
     "slug": "cocktail-180880"
@@ -166194,9 +164337,7 @@
     "tags": [],
     "style": "ロング",
     "is_public": true,
-    "aliases": [
-      "ピンクグレープフルーツ"
-    ],
+    "aliases": [],
     "_gc_id": 881,
     "slug": "cocktail-180881"
   },
@@ -166243,95 +164384,6 @@
     ],
     "_gc_id": 883,
     "slug": "cocktail-180883"
-  },
-  {
-    "id": "180888",
-    "name_ja": "アース・クエイク",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "",
-        "measure_ja": "20 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ウイスキー",
-        "name_en": "",
-        "measure_ja": "20 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ペルノー",
-        "name_en": "",
-        "measure_ja": "20 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "ジン20mlとウイスキー20mlとペルノ20mlをシェイカーでシェイクする。カクテルグラスに注ぐ。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "aliases": [
-      "earthquake"
-    ],
-    "_gc_id": 888,
-    "slug": "cocktail-180888"
-  },
-  {
-    "id": "180889",
-    "name_ja": "アビエイション",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "",
-        "measure_ja": "45 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "",
-        "measure_ja": "15 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "マラスキーノリキュール",
-        "name_en": "",
-        "measure_ja": "5 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "ジン45mlとレモンジュース15mlとマラスキーノ5mlをシェイカーでシェイクする。カクテルグラスに注ぐ。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "aliases": [
-      "aviation",
-      "アヴィエーション"
-    ],
-    "_gc_id": 889,
-    "slug": "cocktail-180889"
   },
   {
     "id": "180890",
@@ -166796,8 +164848,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "green mint",
-      "クランベリー"
+      "green mint"
     ],
     "_gc_id": 899,
     "slug": "cocktail-180899"
@@ -166841,8 +164892,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "white mint",
-      "クランベリー"
+      "white mint"
     ],
     "_gc_id": 900,
     "slug": "cocktail-180900"
@@ -167020,9 +165070,7 @@
     "is_public": true,
     "aliases": [
       "gin",
-      "みつや",
-      "三つ矢",
-      "シトラスイエロー"
+      "みつや"
     ],
     "_gc_id": 905,
     "slug": "cocktail-180905"
@@ -167068,9 +165116,7 @@
     "aliases": [
       "vodka",
       "ウォツカ",
-      "みつや",
-      "三つ矢",
-      "シトラスイエロー"
+      "みつや"
     ],
     "_gc_id": 906,
     "slug": "cocktail-180906"
@@ -167115,9 +165161,7 @@
     "is_public": true,
     "aliases": [
       "rum",
-      "みつや",
-      "三つ矢",
-      "シトラスイエロー"
+      "みつや"
     ],
     "_gc_id": 907,
     "slug": "cocktail-180907"
@@ -167162,9 +165206,7 @@
     "is_public": true,
     "aliases": [
       "tequila",
-      "みつや",
-      "三つ矢",
-      "シトラスイエロー"
+      "みつや"
     ],
     "_gc_id": 908,
     "slug": "cocktail-180908"
@@ -167210,9 +165252,7 @@
     "aliases": [
       "whisky",
       "ウィスキー",
-      "みつや",
-      "三つ矢",
-      "シトラスイエロー"
+      "みつや"
     ],
     "_gc_id": 909,
     "slug": "cocktail-180909"
@@ -167545,56 +165585,6 @@
     ],
     "_gc_id": 917,
     "slug": "cocktail-180917"
-  },
-  {
-    "id": "180918",
-    "name_ja": "ホワイト・リリィ",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ラム",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ホワイトキュラソー",
-        "name_en": "",
-        "measure_ja": "30 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ペルノー",
-        "name_en": "",
-        "measure_ja": "1 ml",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "ジン30mlとラム30mlとホワイトキュラソー30mlとペルノ1mlをシェイカーでシェイクする。カクテルグラスに注ぐ。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "aliases": [
-      "white lily"
-    ],
-    "_gc_id": 918,
-    "slug": "cocktail-180918"
   },
   {
     "id": "180922",
@@ -168287,8 +166277,7 @@
     "is_public": true,
     "aliases": [
       "whisky grapefruit",
-      "ウィスキー",
-      "グレープフルーツ"
+      "ウィスキー"
     ],
     "_gc_id": 938,
     "slug": "cocktail-180938"
@@ -168384,7 +166373,6 @@
     "aliases": [
       "gin yuzu",
       "みつや",
-      "三つ矢",
       "ゆず",
       "柚子"
     ],
@@ -168433,7 +166421,6 @@
       "vodka yuzu",
       "ウォツカ",
       "みつや",
-      "三つ矢",
       "ゆず",
       "柚子"
     ],
@@ -168481,7 +166468,6 @@
     "aliases": [
       "rum yuzu",
       "みつや",
-      "三つ矢",
       "ゆず",
       "柚子"
     ],
@@ -168529,7 +166515,6 @@
     "aliases": [
       "tequila yuzu",
       "みつや",
-      "三つ矢",
       "ゆず",
       "柚子"
     ],
@@ -168578,7 +166563,6 @@
       "whisky yuzu",
       "ウィスキー",
       "みつや",
-      "三つ矢",
       "ゆず",
       "柚子"
     ],
@@ -168625,8 +166609,7 @@
     "is_public": true,
     "aliases": [
       "gin fruit punch",
-      "みつや",
-      "三つ矢"
+      "みつや"
     ],
     "_gc_id": 946,
     "slug": "cocktail-180946"
@@ -168672,8 +166655,7 @@
     "aliases": [
       "vodka fruit punch",
       "ウォツカ",
-      "みつや",
-      "三つ矢"
+      "みつや"
     ],
     "_gc_id": 947,
     "slug": "cocktail-180947"
@@ -168718,8 +166700,7 @@
     "is_public": true,
     "aliases": [
       "rum fruit punch",
-      "みつや",
-      "三つ矢"
+      "みつや"
     ],
     "_gc_id": 948,
     "slug": "cocktail-180948"
@@ -168764,8 +166745,7 @@
     "is_public": true,
     "aliases": [
       "tequila fruit punch",
-      "みつや",
-      "三つ矢"
+      "みつや"
     ],
     "_gc_id": 949,
     "slug": "cocktail-180949"
@@ -168811,8 +166791,7 @@
     "aliases": [
       "whisky fruit punch",
       "ウィスキー",
-      "みつや",
-      "三つ矢"
+      "みつや"
     ],
     "_gc_id": 950,
     "slug": "cocktail-180950"
@@ -169224,8 +167203,7 @@
     "is_public": true,
     "aliases": [
       "violet grapefruit",
-      "ヴァイオレット",
-      "グレープフルーツ"
+      "ヴァイオレット"
     ],
     "_gc_id": 959,
     "slug": "cocktail-180959"
@@ -169401,7 +167379,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "アリゼブルー",
       "alize bleu"
     ],
     "_gc_id": 965,
@@ -169492,7 +167469,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "エリストフ",
       "eristoff red"
     ],
     "_gc_id": 967,
@@ -169891,7 +167867,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "ゆず蜂蜜"
     ],
@@ -169937,7 +167912,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "ゆず蜂蜜"
     ],
@@ -169983,7 +167957,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "ゆず蜂蜜"
     ],
@@ -170029,7 +168002,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "ゆず蜂蜜"
     ],
@@ -170075,7 +168047,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "ゆず蜂蜜",
       "whisky"
@@ -170260,7 +168231,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "アリゼブルー",
       "alize bleu cranberry"
     ],
     "_gc_id": 985,
@@ -170305,7 +168275,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "エリストフ",
       "eristoff red cranberry"
     ],
     "_gc_id": 986,
@@ -170535,8 +168504,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "sea breeze light",
-      "シーブリーズ"
+      "sea breeze light"
     ],
     "_gc_id": 991,
     "slug": "cocktail-180991"
@@ -170630,7 +168598,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "みつや",
       "gin"
     ],
@@ -170676,9 +168643,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
-      "みつや",
-      "ウォッカ"
+      "みつや"
     ],
     "_gc_id": 994,
     "slug": "cocktail-180994"
@@ -170722,7 +168687,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "みつや",
       "rum"
     ],
@@ -170768,7 +168732,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "みつや",
       "tequila"
     ],
@@ -170814,7 +168777,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "みつや",
       "whisky"
     ],
@@ -170904,8 +168866,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "malibu cranberry",
-      "マリブ"
+      "malibu cranberry"
     ],
     "_gc_id": 1004,
     "slug": "cocktail-181004"
@@ -170949,7 +168910,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "みつや",
       "特濃",
       "とくのう"
@@ -170996,9 +168956,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
-      "とくのう",
-      "ウォッカ"
+      "とくのう"
     ],
     "_gc_id": 1007,
     "slug": "cocktail-181007"
@@ -171042,7 +169000,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "とくのう",
       "rum"
     ],
@@ -171088,7 +169045,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "とくのう",
       "tequila"
     ],
@@ -171134,7 +169090,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "とくのう",
       "whisky"
     ],
@@ -171180,7 +169135,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "エリストフ",
       "eristoff red pineapple"
     ],
     "_gc_id": 1011,
@@ -171270,7 +169224,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "アリゼブルー",
       "alize bleu pineapple"
     ],
     "_gc_id": 1013,
@@ -171360,8 +169313,7 @@
     "is_public": true,
     "aliases": [
       "orangina",
-      "ヌーボー",
-      "ヌーヴォー"
+      "ヌーボー"
     ],
     "_gc_id": 1016,
     "slug": "cocktail-181016"
@@ -171406,9 +169358,7 @@
     "is_public": true,
     "aliases": [
       "orangina",
-      "ヌーボー",
-      "ヌーヴォー",
-      "ウォッカ"
+      "ヌーボー"
     ],
     "_gc_id": 1017,
     "slug": "cocktail-181017"
@@ -171454,7 +169404,6 @@
     "aliases": [
       "orangina",
       "ヌーボー",
-      "ヌーヴォー",
       "rum"
     ],
     "_gc_id": 1018,
@@ -171501,7 +169450,6 @@
     "aliases": [
       "orangina",
       "ヌーボー",
-      "ヌーヴォー",
       "tequila"
     ],
     "_gc_id": 1019,
@@ -171548,7 +169496,6 @@
     "aliases": [
       "orangina",
       "ヌーボー",
-      "ヌーヴォー",
       "whisky"
     ],
     "_gc_id": 1020,
@@ -171693,7 +169640,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "エリストフ",
       "eristoff red milk"
     ],
     "_gc_id": 1025,
@@ -171738,7 +169684,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "アリゼブルー",
       "alize bleu milk"
     ],
     "_gc_id": 1026,
@@ -171871,9 +169816,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "calpis",
-      "カルピス",
-      "アレキサンドリア"
+      "calpis"
     ],
     "_gc_id": 1029,
     "slug": "cocktail-181029"
@@ -171917,10 +169860,7 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "calpis",
-      "カルピス",
-      "アレキサンドリア",
-      "ウォッカ"
+      "calpis"
     ],
     "_gc_id": 1030,
     "slug": "cocktail-181030"
@@ -171965,8 +169905,6 @@
     "is_public": true,
     "aliases": [
       "calpis",
-      "カルピス",
-      "アレキサンドリア",
       "rum"
     ],
     "_gc_id": 1031,
@@ -172012,8 +169950,6 @@
     "is_public": true,
     "aliases": [
       "calpis",
-      "カルピス",
-      "アレキサンドリア",
       "tequila"
     ],
     "_gc_id": 1032,
@@ -172059,8 +169995,6 @@
     "is_public": true,
     "aliases": [
       "calpis",
-      "カルピス",
-      "アレキサンドリア",
       "whisky"
     ],
     "_gc_id": 1033,
@@ -172105,7 +170039,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "グレフル",
       "grapefruit"
     ],
@@ -172151,10 +170084,8 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "グレフル",
-      "grapefruit",
-      "ウォッカ"
+      "grapefruit"
     ],
     "_gc_id": 1035,
     "slug": "cocktail-181035"
@@ -172198,7 +170129,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "グレフル",
       "grapefruit",
       "rum"
@@ -172245,7 +170175,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "グレフル",
       "grapefruit",
       "tequila"
@@ -172292,7 +170221,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "三つ矢",
       "グレフル",
       "grapefruit",
       "whisky"
@@ -172339,7 +170267,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "蜜柑"
     ],
@@ -172385,10 +170312,8 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
-      "蜜柑",
-      "ウォッカ"
+      "蜜柑"
     ],
     "_gc_id": 1040,
     "slug": "cocktail-181040"
@@ -172432,7 +170357,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "蜜柑",
       "rum"
@@ -172479,7 +170403,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "蜜柑",
       "tequila"
@@ -172526,7 +170449,6 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "ccレモン",
       "cc lemon",
       "蜜柑",
       "whisky"
@@ -172574,7 +170496,6 @@
     "is_public": true,
     "aliases": [
       "hpnotiq",
-      "ヒプノティック",
       "グレフル"
     ],
     "_gc_id": 1044,
@@ -172666,7 +170587,6 @@
     "is_public": true,
     "aliases": [
       "mistia",
-      "ミスティア",
       "グレフル"
     ],
     "_gc_id": 1046,
@@ -172906,8 +170826,7 @@
     "aliases": [
       "alize blue",
       "alizé bleu",
-      "soy milk",
-      "アリゼブルー"
+      "soy milk"
     ],
     "_gc_id": 1052,
     "slug": "cocktail-181052"
@@ -174294,7 +172213,6 @@
     "aliases": [
       "gin",
       "mitsuya",
-      "完熟もも",
       "かんじゅくもも"
     ],
     "_gc_id": 1093,
@@ -174342,7 +172260,6 @@
       "vodka",
       "ウォツカ",
       "ウオッカ",
-      "完熟もも",
       "かんじゅくもも"
     ],
     "_gc_id": 1094,
@@ -174388,7 +172305,6 @@
     "is_public": true,
     "aliases": [
       "rum",
-      "完熟もも",
       "かんじゅくもも"
     ],
     "_gc_id": 1095,
@@ -174434,7 +172350,6 @@
     "is_public": true,
     "aliases": [
       "tequila",
-      "完熟もも",
       "かんじゅくもも"
     ],
     "_gc_id": 1096,
@@ -174482,7 +172397,6 @@
       "whisky",
       "whiskey",
       "ウィスキー",
-      "完熟もも",
       "かんじゅくもも"
     ],
     "_gc_id": 1097,
