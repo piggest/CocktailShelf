@@ -72,7 +72,7 @@
     <p class="ssg-en">Moscow Mule</p>
     
     <div class="ssg-badges"><span class="ssg-badge">ロング</span><span class="ssg-badge">アルコール</span><span class="ssg-badge">銅マグ</span><span class="ssg-badge">Vodka ベース</span><span class="ssg-badge">IBA: Contemporary Classics</span></div>
-    <div class="ssg-image"><img id="ssg-main-img" src="../../data/images-public/11009.jpg" alt="モスコミュール" loading="lazy" /></div>
+    <div class="ssg-image"><img id="ssg-main-img" src="../../data/images-public/11009.jpg" alt="モスコミュール" loading="lazy" /></div><div class="ssg-thumbs"><button type="button" class="ssg-thumb is-active" data-src="../../data/images-public/11009.jpg" aria-label="画像1を表示"><img src="../../data/images-public/11009.jpg" alt="" loading="lazy" /></button><button type="button" class="ssg-thumb" data-src="../../data/images-wiki-ja/32507.jpg" aria-label="画像2を表示"><img src="../../data/images-wiki-ja/32507.jpg" alt="" loading="lazy" /></button><button type="button" class="ssg-thumb" data-src="../../data/images-public/32507.jpg" aria-label="画像3を表示"><img src="../../data/images-public/32507.jpg" alt="" loading="lazy" /></button></div>
     <h2 class="ssg-section-title">材料</h2>
     <table class="ssg-ings"><tbody><tr><th>ウォッカ</th><td>45 ml</td></tr><tr><th>ライムジュース</th><td>15 ml</td></tr><tr><th>ジンジャービア</th><td>120 ml</td></tr></tbody></table>
     <h2 class="ssg-section-title">作り方</h2>
@@ -86,7 +86,20 @@
   <a class="bamboo-home" href="https://piggest.github.io/BambooForest/" title="BambooForest へ戻る" aria-label="BambooForest へ戻る">
     <img src="https://piggest.github.io/BambooForest/assets/bamboo-home.png" alt="">
   </a>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Recipe","name":"モスコミュール","description":"氷で満たしたハイボールグラスにウォッカとライムジュースを注ぎ、ジンジャーエールで満たして軽くステアする。ライムを飾る。1940年代ニューヨーク発祥とされる、ウォッカ普及の立役者となったロングカクテル。","recipeIngredient":["ウォッカ 45 ml","ライムジュース 15 ml","ジンジャービア 120 ml"],"recipeInstructions":"氷で満たしたハイボールグラスにウォッカとライムジュースを注ぎ、ジンジャーエールで満たして軽くステアする。ライムを飾る。1940年代ニューヨーク発祥とされる、ウォッカ普及の立役者となったロングカクテル。","recipeCategory":"Cocktail","recipeCuisine":"IBA","inLanguage":"ja","image":"https://piggest.github.io/CocktailShelf/data/images-public/11009.jpg"}</script>
-  
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Recipe","name":"モスコミュール","description":"氷で満たしたハイボールグラスにウォッカとライムジュースを注ぎ、ジンジャーエールで満たして軽くステアする。ライムを飾る。1940年代ニューヨーク発祥とされる、ウォッカ普及の立役者となったロングカクテル。","recipeIngredient":["ウォッカ 45 ml","ライムジュース 15 ml","ジンジャービア 120 ml"],"recipeInstructions":"氷で満たしたハイボールグラスにウォッカとライムジュースを注ぎ、ジンジャーエールで満たして軽くステアする。ライムを飾る。1940年代ニューヨーク発祥とされる、ウォッカ普及の立役者となったロングカクテル。","recipeCategory":"Cocktail","recipeCuisine":"IBA","inLanguage":"ja","image":["https://piggest.github.io/CocktailShelf/data/images-public/11009.jpg","https://piggest.github.io/CocktailShelf/data/images-wiki-ja/32507.jpg","https://piggest.github.io/CocktailShelf/data/images-public/32507.jpg"]}</script>
+  <script>
+    (function() {
+      var main = document.getElementById("ssg-main-img");
+      var thumbs = document.querySelectorAll(".ssg-thumb");
+      thumbs.forEach(function(t) {
+        t.addEventListener("click", function() {
+          var src = t.getAttribute("data-src");
+          if (src && main) main.src = src;
+          thumbs.forEach(function(x) { x.classList.remove("is-active"); });
+          t.classList.add("is-active");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

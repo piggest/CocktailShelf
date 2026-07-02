@@ -72,7 +72,7 @@
     <p class="ssg-en">Planter&#39;s Punch</p>
     <p class="ssg-aliases" aria-hidden="true" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;">別名: planters punch</p>
     <div class="ssg-badges"><span class="ssg-badge">ロング</span><span class="ssg-badge">アルコール</span><span class="ssg-badge">コリンズグラス</span><span class="ssg-badge">Rum ベース</span><span class="ssg-badge">IBA: Unforgettables</span></div>
-    <div class="ssg-image"><img id="ssg-main-img" src="../../data/images-public/17191.jpg" alt="プランターズ・パンチ" loading="lazy" /></div>
+    <div class="ssg-image"><img id="ssg-main-img" src="../../data/images-public/17191.jpg" alt="プランターズ・パンチ" loading="lazy" /></div><div class="ssg-thumbs"><button type="button" class="ssg-thumb is-active" data-src="../../data/images-public/17191.jpg" aria-label="画像1を表示"><img src="../../data/images-public/17191.jpg" alt="" loading="lazy" /></button><button type="button" class="ssg-thumb" data-src="../../data/images-openverse/178368.jpg" aria-label="画像2を表示"><img src="../../data/images-openverse/178368.jpg" alt="" loading="lazy" /></button></div>
     <h2 class="ssg-section-title">材料</h2>
     <table class="ssg-ings"><tbody><tr><th>ダークラム</th><td>1 part</td></tr><tr><th>オルジェシロップ</th><td>1/2 part</td></tr><tr><th>オレンジジュース</th><td>2 parts</td></tr><tr><th>パイナップルジュース</th><td>1 part</td></tr></tbody></table>
     <h2 class="ssg-section-title">作り方</h2>
@@ -86,7 +86,20 @@
   <a class="bamboo-home" href="https://piggest.github.io/BambooForest/" title="BambooForest へ戻る" aria-label="BambooForest へ戻る">
     <img src="https://piggest.github.io/BambooForest/assets/bamboo-home.png" alt="">
   </a>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Recipe","name":"プランターズ・パンチ","description":"ビターズ以外の材料を氷で満たしたシェイカーに入れてよくシェイクし、氷を詰めたグラスに注ぐ。アンゴスチュラビターズを上から振りかけ、カクテルチェリーとパイナップルを飾る。プランテーション労働の合間に生まれたとされる、ラム香るカリブの代表的ロングドリンク。","recipeIngredient":["ダークラム 1 part","オルジェシロップ 1/2 part","オレンジジュース 2 parts","パイナップルジュース 1 part"],"recipeInstructions":"ビターズ以外の材料を氷で満たしたシェイカーに入れてよくシェイクし、氷を詰めたグラスに注ぐ。アンゴスチュラビターズを上から振りかけ、カクテルチェリーとパイナップルを飾る。プランテーション労働の合間に生まれたとされる、ラム香るカリブの代表的ロングドリンク。","recipeCategory":"Cocktail","recipeCuisine":"IBA","inLanguage":"ja","image":"https://piggest.github.io/CocktailShelf/data/images-public/17191.jpg"}</script>
-  
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Recipe","name":"プランターズ・パンチ","description":"ビターズ以外の材料を氷で満たしたシェイカーに入れてよくシェイクし、氷を詰めたグラスに注ぐ。アンゴスチュラビターズを上から振りかけ、カクテルチェリーとパイナップルを飾る。プランテーション労働の合間に生まれたとされる、ラム香るカリブの代表的ロングドリンク。","recipeIngredient":["ダークラム 1 part","オルジェシロップ 1/2 part","オレンジジュース 2 parts","パイナップルジュース 1 part"],"recipeInstructions":"ビターズ以外の材料を氷で満たしたシェイカーに入れてよくシェイクし、氷を詰めたグラスに注ぐ。アンゴスチュラビターズを上から振りかけ、カクテルチェリーとパイナップルを飾る。プランテーション労働の合間に生まれたとされる、ラム香るカリブの代表的ロングドリンク。","recipeCategory":"Cocktail","recipeCuisine":"IBA","inLanguage":"ja","image":["https://piggest.github.io/CocktailShelf/data/images-public/17191.jpg","https://piggest.github.io/CocktailShelf/data/images-openverse/178368.jpg"]}</script>
+  <script>
+    (function() {
+      var main = document.getElementById("ssg-main-img");
+      var thumbs = document.querySelectorAll(".ssg-thumb");
+      thumbs.forEach(function(t) {
+        t.addEventListener("click", function() {
+          var src = t.getAttribute("data-src");
+          if (src && main) main.src = src;
+          thumbs.forEach(function(x) { x.classList.remove("is-active"); });
+          t.classList.add("is-active");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

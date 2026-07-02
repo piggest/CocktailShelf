@@ -72,7 +72,7 @@
     <p class="ssg-en">Pink Lady</p>
     
     <div class="ssg-badges"><span class="ssg-badge">ショート</span><span class="ssg-badge">アルコール</span><span class="ssg-badge">カクテルグラス</span><span class="ssg-badge">Gin ベース</span></div>
-    <div class="ssg-image"><img id="ssg-main-img" src="../../data/images-public/11938.jpg" alt="ピンク・レディ" loading="lazy" /></div>
+    <div class="ssg-image"><img id="ssg-main-img" src="../../data/images-public/11938.jpg" alt="ピンク・レディ" loading="lazy" /></div><div class="ssg-thumbs"><button type="button" class="ssg-thumb is-active" data-src="../../data/images-public/11938.jpg" aria-label="画像1を表示"><img src="../../data/images-public/11938.jpg" alt="" loading="lazy" /></button><button type="button" class="ssg-thumb" data-src="../../data/images-wiki-ja/32317.jpg" aria-label="画像2を表示"><img src="../../data/images-wiki-ja/32317.jpg" alt="" loading="lazy" /></button></div>
     <h2 class="ssg-section-title">材料</h2>
     <table class="ssg-ings"><tbody><tr><th>ジン</th><td>45 ml</td></tr><tr><th>グレナデンシロップ</th><td>1 tsp</td></tr><tr><th>ライトクリーム</th><td>1 tsp</td></tr><tr><th>卵白</th><td>1</td></tr></tbody></table>
     <h2 class="ssg-section-title">作り方</h2>
@@ -86,7 +86,20 @@
   <a class="bamboo-home" href="https://piggest.github.io/BambooForest/" title="BambooForest へ戻る" aria-label="BambooForest へ戻る">
     <img src="https://piggest.github.io/BambooForest/assets/bamboo-home.png" alt="">
   </a>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Recipe","name":"ピンク・レディ","description":"シェイカーにジン、グレナデンシロップ、ライトクリーム、卵白を入れ、氷とともに強くシェイクしてカクテルグラスに濾し入れる。卵白の泡がほのかなピンクを覆う、1912年ロンドン舞台の同名作品から名付けられたクラシックカクテル。","recipeIngredient":["ジン 45 ml","グレナデンシロップ 1 tsp","ライトクリーム 1 tsp","卵白 1"],"recipeInstructions":"シェイカーにジン、グレナデンシロップ、ライトクリーム、卵白を入れ、氷とともに強くシェイクしてカクテルグラスに濾し入れる。卵白の泡がほのかなピンクを覆う、1912年ロンドン舞台の同名作品から名付けられたクラシックカクテル。","recipeCategory":"Cocktail","inLanguage":"ja","image":"https://piggest.github.io/CocktailShelf/data/images-public/11938.jpg"}</script>
-  
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Recipe","name":"ピンク・レディ","description":"シェイカーにジン、グレナデンシロップ、ライトクリーム、卵白を入れ、氷とともに強くシェイクしてカクテルグラスに濾し入れる。卵白の泡がほのかなピンクを覆う、1912年ロンドン舞台の同名作品から名付けられたクラシックカクテル。","recipeIngredient":["ジン 45 ml","グレナデンシロップ 1 tsp","ライトクリーム 1 tsp","卵白 1"],"recipeInstructions":"シェイカーにジン、グレナデンシロップ、ライトクリーム、卵白を入れ、氷とともに強くシェイクしてカクテルグラスに濾し入れる。卵白の泡がほのかなピンクを覆う、1912年ロンドン舞台の同名作品から名付けられたクラシックカクテル。","recipeCategory":"Cocktail","inLanguage":"ja","image":["https://piggest.github.io/CocktailShelf/data/images-public/11938.jpg","https://piggest.github.io/CocktailShelf/data/images-wiki-ja/32317.jpg"]}</script>
+  <script>
+    (function() {
+      var main = document.getElementById("ssg-main-img");
+      var thumbs = document.querySelectorAll(".ssg-thumb");
+      thumbs.forEach(function(t) {
+        t.addEventListener("click", function() {
+          var src = t.getAttribute("data-src");
+          if (src && main) main.src = src;
+          thumbs.forEach(function(x) { x.classList.remove("is-active"); });
+          t.classList.add("is-active");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

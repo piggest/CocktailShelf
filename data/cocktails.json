@@ -1115,7 +1115,7 @@
       {
         "name_ja": "水",
         "name_en": "Water",
-        "measure_ja": "",
+        "measure_ja": "八分目まで",
         "measure_en": "",
         "note": "適量"
       },
@@ -2100,6 +2100,11 @@
     "base_detail": "ジン(汎用)",
     "aliases": [
       "アビエーション"
+    ],
+    "extras": [
+      {
+        "image_public": "data/images-wiki-ja/32012.jpg"
+      }
     ],
     "slug": "aviation"
   },
@@ -3154,56 +3159,10 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:Up_to_Date_cocktail_(unedited).jpg"
     },
     "base_detail": "ライウイスキー",
-    "aliases": [],
-    "slug": "up-to-date"
-  },
-  {
-    "id": "30821",
-    "name_ja": "アップ・トゥ・デート",
-    "name_en": "Up to date",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Wine",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ドライシェリー",
-        "name_en": "Dry sherry",
-        "measure_ja": "38 ml",
-        "measure_en": "38 ml"
-      },
-      {
-        "name_ja": "ライウイスキー",
-        "name_en": "Rye whiskey",
-        "measure_ja": "38 ml",
-        "measure_en": "38 ml"
-      },
-      {
-        "name_ja": "グラン・マルニエ",
-        "name_en": "Grand Marnier",
-        "measure_ja": "8 ml",
-        "measure_en": "8 ml"
-      },
-      {
-        "name_ja": "アンゴスチュラビターズ",
-        "name_en": "Angostura bitters",
-        "measure_ja": "2 dash",
-        "measure_en": "2 dash"
-      }
+    "aliases": [
+      "アップ・トゥ・デート"
     ],
-    "instructions_ja": "ミキシンググラスに氷を入れ、ドライシェリー、ライウイスキー、グラン・マルニエ、アンゴスチュラビターズを加えてよく冷えるまでステアし、冷やしたグラスに漉し入れる。レモンピールを絞りかけて飾る。ナッツのような香りとオレンジの苦味が穏やかにつながる、しっとりと落ち着いたクラシックカクテル。",
-    "instructions_en": "Add sherry, rye whiskey, Grand Marnier, and bitters to a mixing glass with ice. Stir until chilled. Strain into a chilled glass, garnish with a lemon twist.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "シェリー",
-    "aliases": [],
-    "slug": "up-to-date-2"
+    "slug": "up-to-date"
   },
   {
     "id": "34023",
@@ -4170,7 +4129,7 @@
       {
         "name_ja": "炭酸水",
         "name_en": "Soda water",
-        "measure_ja": "を上まで注ぐ",
+        "measure_ja": "少々",
         "measure_en": "Top up with"
       }
     ],
@@ -4864,56 +4823,6 @@
       "アベー"
     ],
     "slug": "abbey"
-  },
-  {
-    "id": "32012",
-    "name_ja": "アビエーション",
-    "name_en": "Aviation",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "data/images-wiki-ja/32012.jpg",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "マラスキーノリキュール",
-        "name_en": "Maraschino liqueur",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "バイオレットリキュール",
-        "name_en": "Crème de violette",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp"
-      }
-    ],
-    "instructions_ja": "シェイカーにジン、マラスキーノリキュール、レモンジュース、バイオレットリキュールを入れて氷とともにシェイクし、グラスに注ぐ。マラスキーノチェリーを飾る。スミレ色がかった淡い青を帯びる、空を翔ける飛行機の名を冠したクラシックカクテル。",
-    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "aliases": [
-      "アヴィエーション"
-    ],
-    "slug": "aviation-2"
   },
   {
     "id": "17835",
@@ -9042,12 +8951,23 @@
           "license": "CC BY-SA 4.0",
           "source_url": "https://commons.wikimedia.org/wiki/File:Alexander_Cocktail.png"
         }
+      },
+      {
+        "image_public": "data/images-wiki-ja/32002.jpg",
+        "credit": {
+          "title": "File:Brandy_alexander.jpg",
+          "artist": "Jason Lam",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Brandy_alexander.jpg"
+        }
       }
     ],
     "base_detail": "ジン(汎用)",
     "_cocktailtype_id": 10,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0010.html",
-    "aliases": [],
+    "aliases": [
+      "アレクサンダー"
+    ],
     "slug": "alexander"
   },
   {
@@ -9137,56 +9057,6 @@
     "base_detail": "ジン(汎用)",
     "aliases": [],
     "slug": "alexandra"
-  },
-  {
-    "id": "32002",
-    "name_ja": "アレクサンダー",
-    "name_en": "Alexander",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
-    "image": "data/images-wiki-ja/32002.jpg",
-    "ingredients": [
-      {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "クレーム・ド・カカオ",
-        "name_en": "Crème de cacao",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "生クリーム",
-        "name_en": "Fresh cream",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      }
-    ],
-    "instructions_ja": "シェーカーにブランデー、クレームドカカオ、生クリームと氷を入れてしっかりシェイクし、冷やしたカクテルグラスに注ぐ。エドワード7世の戴冠を記念して作られたとされる、チョコレートとクリームの甘い香りが包むクラシックなデザートカクテル。",
-    "instructions_en": "Shake all ingredients with ice and strain into a glass.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "credit": {
-      "title": "File:Brandy_alexander.jpg",
-      "artist": "Jason Lam",
-      "license": "CC BY 2.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Brandy_alexander.jpg"
-    },
-    "base_detail": "ブランデー(汎用)",
-    "aliases": [
-      "アレキサンダー"
-    ],
-    "slug": "alexander-2"
   },
   {
     "id": "11021",
@@ -11067,9 +10937,7 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
-    "aliases": [
-      "italian stinger"
-    ],
+    "aliases": [],
     "slug": "italian-stinger"
   },
   {
@@ -11162,7 +11030,7 @@
       {
         "name_ja": "ジンジャーエール",
         "name_en": "Ginger ale",
-        "measure_ja": "を上まで注ぐ",
+        "measure_ja": "上まで",
         "measure_en": "top up with"
       },
       {
@@ -17254,7 +17122,6 @@
     "is_public": true,
     "base_detail": "ホワイトラム",
     "aliases": [
-      "el presidente ii",
       "el presidente 2",
       "エル・プレジデンテ2"
     ],
@@ -18196,44 +18063,6 @@
     "slug": "angels-lips"
   },
   {
-    "id": "32015",
-    "name_ja": "エンジェルズ・キッス",
-    "name_en": "Angel's Kiss",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "リキュールグラス",
-    "glass_en": "Liqueur glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "クレーム・ド・カカオ",
-        "name_en": "Crème de cacao",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "生クリーム",
-        "name_en": "Fresh cream",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      }
-    ],
-    "instructions_ja": "リキュールグラスにクレームドカカオを注ぎ、バースプーンの背を伝わせて生クリームをフロートして二層に仕上げる。ピンに通したマラスキーノチェリーをグラスの口に渡して飾る。カカオの甘さと白いクリームのコントラストが愛らしいクラシックショート。",
-    "instructions_en": "Build in the glass over ice.",
-    "iba": null,
-    "tags": [],
-    "style": "プースカフェ",
-    "is_public": true,
-    "base_detail": "クレーム・ド・カカオ",
-    "aliases": [
-      "angels kiss"
-    ],
-    "slug": "angels-kiss"
-  },
-  {
     "id": "35483",
     "name_ja": "エンジェルズ・デライト",
     "name_en": "Angel's Delight",
@@ -18328,9 +18157,10 @@
     "base_detail": "クレーム・ド・カカオ",
     "aliases": [
       "angels kiss",
-      "エンジェルキッス"
+      "エンジェルキッス",
+      "エンジェルズ・キッス"
     ],
-    "slug": "angels-kiss-2"
+    "slug": "angels-kiss"
   },
   {
     "id": "17246",
@@ -20069,7 +19899,7 @@
   {
     "id": "32101",
     "name_ja": "オレンジ・ブロッサム",
-    "name_en": "Desert Healer",
+    "name_en": "Orange Blossom",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "カクテルグラス",
@@ -20122,11 +19952,8 @@
       }
     ],
     "base_detail": "ジン(汎用)",
-    "aliases": [
-      "orange blossom",
-      "デザートヒーラー"
-    ],
-    "slug": "desert-healer"
+    "aliases": [],
+    "slug": "orange-blossom"
   },
   {
     "id": "178341",
@@ -20150,13 +19977,13 @@
       {
         "name_ja": "オレンジジュース",
         "name_en": "Orange juice",
-        "measure_ja": "上まで注ぐ",
+        "measure_ja": "適量",
         "measure_en": "Top"
       },
       {
         "name_ja": "レモンジュース",
         "name_en": "Lemon juice",
-        "measure_ja": "上まで注ぐ",
+        "measure_ja": "適量",
         "measure_en": "Top"
       },
       {
@@ -20168,7 +19995,7 @@
       {
         "name_ja": "炭酸水",
         "name_en": "Soda water",
-        "measure_ja": "上まで注ぐ",
+        "measure_ja": "上まで",
         "measure_en": "Top"
       },
       {
@@ -31175,66 +31002,6 @@
     "slug": "clover-club"
   },
   {
-    "id": "30221",
-    "name_ja": "クローバー・クラブ",
-    "name_en": "Clover Club cocktail",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_en": "Gin",
-        "name_ja": "ジン",
-        "measure_en": "45 ml",
-        "measure_ja": "45 ml"
-      },
-      {
-        "name_en": "Lemon juice",
-        "name_ja": "レモンジュース",
-        "measure_en": "15 ml",
-        "measure_ja": "15 ml"
-      },
-      {
-        "name_en": "Raspberry syrup",
-        "name_ja": "ラズベリーシロップ",
-        "measure_en": "15 ml",
-        "measure_ja": "15 ml"
-      },
-      {
-        "name_en": "Egg white",
-        "name_ja": "卵白",
-        "measure_en": "卵白1 個 / アクアファバ20 ml / フォーマー4 滴",
-        "measure_ja": "卵白1 個 / アクアファバ20 ml / フォーマー4 滴",
-        "alternatives": [
-          {
-            "name_ja": "アクアファバ",
-            "name_en": ""
-          },
-          {
-            "name_ja": "カクテルフォーマー",
-            "name_en": ""
-          }
-        ]
-      }
-    ],
-    "instructions_ja": "ジン、レモンジュース、ラズベリーシロップ、卵白（またはアクアファバとフォーマー）を氷なしでドライシェイクして乳化させ、氷を加えて再度シェイクしストレートアップで注ぐ。IBA公式仕様のクラシック、ふんわり泡立つ華やかなピンクが特徴。",
-    "instructions_en": "Dry shake ingredients to emulsify, add ice, shake and served straight up.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "aliases": [
-      "clover club"
-    ],
-    "slug": "clover-club-cocktail"
-  },
-  {
     "id": "34279",
     "name_ja": "クローバー・ナイト",
     "name_en": "Clover Night",
@@ -34369,9 +34136,7 @@
     "style": "プースカフェ",
     "is_public": true,
     "base_detail": "ハーブリキュール",
-    "aliases": [
-      "coca bomb tonic water"
-    ],
+    "aliases": [],
     "slug": "coca-bomb-tonic-water"
   },
   {
@@ -34418,9 +34183,7 @@
     "style": "プースカフェ",
     "is_public": true,
     "base_detail": "ハーブリキュール",
-    "aliases": [
-      "coca bomb yogurt liqueur"
-    ],
+    "aliases": [],
     "slug": "coca-bomb-yogurt-liqueur"
   },
   {
@@ -39147,7 +38910,7 @@
       {
         "name_ja": "ルートビア",
         "name_en": "Root beer",
-        "measure_ja": "300 ml加える",
+        "measure_ja": "300 ml",
         "measure_en": "300 ml加える"
       },
       {
@@ -40314,62 +40077,10 @@
     "style": "スパークリング",
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
-    "aliases": [],
-    "slug": "chicago-cocktail"
-  },
-  {
-    "id": "30218",
-    "name_ja": "シカゴ・カクテル",
-    "name_en": "Chicago cocktail",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ブランデー",
-        "name_en": "Brandy",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "トリプルセック",
-        "name_en": "Triple sec",
-        "measure_ja": "7.5 ml",
-        "measure_en": "7.5 ml"
-      },
-      {
-        "name_ja": "アンゴスチュラビターズ",
-        "name_en": "Angostura bitters",
-        "measure_ja": "1 dash",
-        "measure_en": "1 dash"
-      },
-      {
-        "name_ja": "シャンパン",
-        "name_en": "Champagne",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "レモンピール",
-        "name_en": "Lemon peel",
-        "measure_ja": "飾り",
-        "measure_en": "飾り"
-      }
+    "aliases": [
+      "シカゴ・カクテル"
     ],
-    "instructions_ja": "ブランデー、トリプルセック、ビターズを氷とともにシェイクするかステアし、グラスに注ぐ。好みでシャンパンを足して泡の華やかさを添えるアレンジも楽しめる、ブランデーベースのクラシックなカクテル。",
-    "instructions_en": "Shake or stir with ice.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ブランデー(汎用)",
-    "aliases": [],
-    "slug": "chicago-cocktail-2"
+    "slug": "chicago-cocktail"
   },
   {
     "id": "11242",
@@ -43618,10 +43329,7 @@
     "style": "ショット",
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
-    "aliases": [
-      "shotgun ginger ale",
-      "ショットガンジンジャエール"
-    ],
+    "aliases": [],
     "slug": "shotgun-ginger-ale"
   },
   {
@@ -43657,9 +43365,7 @@
     "style": "ショット",
     "is_public": true,
     "base_detail": "テキーラ(汎用)",
-    "aliases": [
-      "shotgun soda"
-    ],
+    "aliases": [],
     "slug": "shotgun-soda"
   },
   {
@@ -52869,45 +52575,6 @@
     "slug": "dark-and-stormy"
   },
   {
-    "id": "30312",
-    "name_ja": "ダーク・アンド・ストーミー",
-    "name_en": "Dark 'n' Stormy",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Rum",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ゴスリングスラム",
-        "name_en": "Gosling's rum",
-        "measure_ja": "60 ml",
-        "measure_en": "2 oz"
-      },
-      {
-        "name_ja": "ジンジャービア",
-        "name_en": "Ginger beer",
-        "measure_ja": "180 ml",
-        "measure_en": "6 oz"
-      }
-    ],
-    "instructions_ja": "氷を満たしたハイボールグラスにジンジャービアを注ぎ、上からゴスリングスラムを静かに浮かべる。黒い雲のように沈むラムが生姜の刺激を裂く、バミューダ公認のレシピ。",
-    "instructions_en": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ダークラム",
-    "aliases": [
-      "dark n stormy",
-      "dark and stormy"
-    ],
-    "slug": "dark-n-stormy"
-  },
-  {
     "id": "17177",
     "name_ja": "ダーク・カイピリーニャ",
     "name_en": "Dark Caipirinha",
@@ -59949,7 +59616,7 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [],
-    "slug": "desert-healer-2"
+    "slug": "desert-healer"
   },
   {
     "id": "35463",
@@ -60924,63 +60591,6 @@
     "base_detail": "白ワイン",
     "aliases": [],
     "slug": "terremoto"
-  },
-  {
-    "id": "30004",
-    "name_ja": "トゥエンティース・センチュリー",
-    "name_en": "20th Century",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "キナリレ",
-        "name_en": "Kina Lillet",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "ホワイト・クレーム・ド・カカオ",
-        "name_en": "White crème de cacao",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
-      },
-      {
-        "name_ja": "レモンピール",
-        "name_en": "Lemon peel",
-        "measure_ja": "飾り",
-        "measure_en": "garnish"
-      }
-    ],
-    "instructions_ja": "ジン、キナリレ、ホワイトクレームドカカオ、レモンジュースをシェーカーに氷とともに入れてシェイクし、冷やしたカクテルグラスへ漉して注ぐ。レモンピールを絞りかける。1930年代ロンドンの寝台特急にちなみ、カカオの香りが意外な調和を生む一杯。",
-    "instructions_en": "Shake in an iced cocktail shaker, and strain into a cocktail glass. Garnish with a lemon twist.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "base_detail": "ジン(汎用)",
-    "aliases": [
-      "twentieth century",
-      "二十世紀"
-    ],
-    "slug": "20th-century"
   },
   {
     "id": "31107",
@@ -62558,7 +62168,7 @@
       {
         "name_ja": "チョコレート",
         "name_en": "Chocolate",
-        "measure_ja": "60 ml finely chopped dark",
+        "measure_ja": "60 ml (細かく刻む)",
         "measure_en": "60 ml finely chopped dark"
       },
       {
@@ -66229,7 +65839,14 @@
     "_cocktailtype_id": 149,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0149.html",
     "aliases": [
-      "ハーベイウォールバンガー"
+      "ハーベイウォールバンガー",
+      "ハービーウォールバンガー",
+      "ハーベイ・ウォールバンガー"
+    ],
+    "extras": [
+      {
+        "image_public": "data/images-wiki-ja/32404.jpg"
+      }
     ],
     "slug": "harvey-wallbanger"
   },
@@ -67158,58 +66775,6 @@
     "base_detail": "プレーンウォッカ",
     "aliases": [],
     "slug": "purple-passion"
-  },
-  {
-    "id": "32404",
-    "name_ja": "ハーベイ・ウォールバンガー",
-    "name_en": "Harvey Wallbanger",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "コリンズグラス",
-    "glass_en": "Collins glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "data/images-wiki-ja/32404.jpg",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "Vodka",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "",
-        "measure_en": "",
-        "note": "適量"
-      },
-      {
-        "name_ja": "ガリアーノ",
-        "name_en": "Galliano",
-        "measure_ja": "2 tsp",
-        "measure_en": "2 tsp"
-      },
-      {
-        "name_ja": "オレンジスライス",
-        "name_en": "Orange slice",
-        "measure_ja": "飾り",
-        "measure_en": "garnish"
-      }
-    ],
-    "instructions_ja": "氷を入れたタンブラーにウォッカとオレンジジュースを注いでステアし、最後にガリアーノをそっとフロートさせる。オレンジスライスを飾る。バニラとハーブの香りが立ち上る、70年代に流行した定番のロングドリンク。",
-    "instructions_en": "Pour vodka and orange juice into a glass with ice and stir. Float Galliano on top and garnish with an orange slice.",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "プレーンウォッカ",
-    "aliases": [
-      "ハーヴェイウォールバンガー",
-      "ハービーウォールバンガー"
-    ],
-    "slug": "harvey-wallbanger-2"
   },
   {
     "id": "35248",
@@ -68346,70 +67911,24 @@
       },
       {
         "image_public": "data/images-wiki-ja/32402.jpg"
+      },
+      {
+        "image_public": "data/images-wiki/30015.jpg",
+        "credit": {
+          "title": "File:Bacardi cocktail.jpg",
+          "artist": "Luigi Manzo",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bacardi_cocktail.jpg"
+        }
       }
     ],
     "base_detail": "ホワイトラム",
     "aliases": [
       "bacardi",
-      "バカルディカクテル"
+      "バカルディカクテル",
+      "バカルディ・カクテル"
     ],
     "slug": "bacardi-cocktail"
-  },
-  {
-    "id": "30015",
-    "name_ja": "バカルディ・カクテル",
-    "name_en": "Bacardi cocktail",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "Cocktail glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Rum",
-    "image": "data/images-wiki/30015.jpg",
-    "ingredients": [
-      {
-        "name_ja": "ホワイトラム",
-        "name_en": "White rum",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "ライムジュース",
-        "name_en": "Lime juice",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "ライム",
-        "name_en": "Lime",
-        "measure_ja": "飾り",
-        "measure_en": "garnish"
-      }
-    ],
-    "instructions_ja": "シェーカーにホワイトラム、ライムジュース、グレナデンシロップを入れ氷とともにシェークする。冷えたカクテルグラスへ濾し入れ、ライムを飾る。淡紅色に染まる、ラムのクラシックなショート。",
-    "instructions_en": "Shake together with ice. Strain into glass and serve.",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "credit": {
-      "title": "File:Bacardi cocktail.jpg",
-      "artist": "Luigi Manzo",
-      "license": "CC BY 3.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Bacardi_cocktail.jpg"
-    },
-    "base_detail": "ホワイトラム",
-    "aliases": [
-      "bacardi"
-    ],
-    "slug": "bacardi-cocktail-2"
   },
   {
     "id": "34613",
@@ -76079,63 +75598,6 @@
     "slug": "pina-colada"
   },
   {
-    "id": "30619",
-    "name_ja": "ピニャ・コラーダ",
-    "name_en": "Piña colada",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "ハリケーングラス",
-    "glass_en": "Hurricane glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Rum",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ホワイトラム",
-        "name_en": "White rum",
-        "measure_ja": "50 ml",
-        "measure_en": "50 ml"
-      },
-      {
-        "name_ja": "ココナッツクリーム",
-        "name_en": "Coconut cream",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "Pineapple juice",
-        "measure_ja": "50 ml",
-        "measure_en": "50 ml"
-      },
-      {
-        "name_ja": "マラスキーノチェリー",
-        "name_en": "Maraschino cherry",
-        "measure_ja": "",
-        "measure_en": "(garnish)",
-        "alternatives": [
-          {
-            "name_ja": "パイナップルウェッジ",
-            "name_en": ""
-          }
-        ]
-      }
-    ],
-    "instructions_ja": "ブレンダーにホワイトラム・ココナッツクリーム・パイナップルジュースを氷とともに入れ、滑らかになるまで撹拌する。大きめのグラスに注ぎ、パイナップルウェッジとマラスキーノチェリーを飾ってストローを添える。",
-    "instructions_en": "Blend all the ingredients with ice in an electric blender, pour into a large glass, and serve with straws.",
-    "iba": null,
-    "tags": [],
-    "style": "フローズン",
-    "is_public": true,
-    "base_detail": "ホワイトラム",
-    "aliases": [
-      "pina colada",
-      "pinacolada"
-    ],
-    "slug": "pi-a-colada"
-  },
-  {
     "id": "35581",
     "name_ja": "ビバ・コウベ",
     "name_en": "Viva Kobe",
@@ -78433,57 +77895,18 @@
     "style": "ショート",
     "base_detail": "ジン(汎用)",
     "aliases": [],
-    "slug": "pink-lady"
-  },
-  {
-    "id": "32317",
-    "name_ja": "ピンク・レディー",
-    "name_en": "",
-    "category_ja": "ショートドリンク",
-    "category_en": "Cocktail",
-    "glass_ja": "カクテルグラス",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
-    "image": "data/images-wiki-ja/32317.jpg",
-    "ingredients": [
+    "extras": [
       {
-        "name_ja": "ジン",
-        "name_en": "Gin",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml"
-      },
-      {
-        "name_ja": "卵白",
-        "name_en": "Egg white",
-        "measure_ja": "1 個分",
-        "measure_en": "1 個分"
+        "image_public": "data/images-wiki-ja/32317.jpg",
+        "credit": {
+          "title": "File:15-09-26-RalfR-WLC-0152.jpg",
+          "artist": "Ralf Roletschek",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0152.jpg"
+        }
       }
     ],
-    "instructions_ja": "シェイカーにジン、グレナデンシロップ、卵白を入れ、氷とともに強くシェイクする。ソーサー型のシャンパングラスまたは大型のカクテルグラスに注ぐ。卵白の泡とザクロの紅が艶やかに重なる、女性的なクラシック。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ショート",
-    "is_public": true,
-    "credit": {
-      "title": "File:15-09-26-RalfR-WLC-0152.jpg",
-      "artist": "Ralf Roletschek",
-      "license": "CC BY-SA 3.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0152.jpg"
-    },
-    "base_detail": "ジン(汎用)",
-    "aliases": [
-      "pink lady"
-    ],
-    "slug": "cocktail-32317"
+    "slug": "pink-lady"
   },
   {
     "id": "35631",
@@ -82354,76 +81777,18 @@
     "aliases": [
       "planters punch"
     ],
-    "slug": "planters-punch"
-  },
-  {
-    "id": "178368",
-    "name_ja": "プランターズ・パンチ",
-    "name_en": "Planter’s Punch",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "ハイボールグラス",
-    "glass_en": "Highball glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Rum",
-    "image": "data/images-openverse/178368.jpg",
-    "ingredients": [
+    "extras": [
       {
-        "name_ja": "ダークラム",
-        "name_en": "Dark rum",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "パイナップルジュース",
-        "name_en": "Pineapple juice",
-        "measure_ja": "35 ml",
-        "measure_en": "35 ml"
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine syrup",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "Sugar syrup",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "アンゴスチュラビターズ",
-        "name_en": "Angostura bitters",
-        "measure_ja": "4 滴",
-        "measure_en": "4 drops"
+        "image_public": "data/images-openverse/178368.jpg",
+        "credit": {
+          "title": "Planter’s Punch at Plage de la Datcha in Le Gosier",
+          "artist": "Tjeerd",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/76396789@N00/49428463238"
+        }
       }
     ],
-    "instructions_ja": "オレンジを搾り果汁を漉しておく。氷で満たしたシェイカーに全ての材料を入れ少なくとも12秒シェイクし、ハイボールグラスに漉し入れる。パイナップルウェッジや好みのフルーツで飾る。IBA公式版の濃厚なラムベースのトロピカルロングドリンク。",
-    "instructions_en": "Squeeze an orange and strain the juice. Put all the ingredients in a shaker filled with ice and shake for at least 12 seconds. Strain into a highball glass and decorate with a pineapple wedge or fruit of your choice.",
-    "iba": null,
-    "tags": [],
-    "is_public": true,
-    "credit": {
-      "title": "Planter’s Punch at Plage de la Datcha in Le Gosier",
-      "artist": "Tjeerd",
-      "license": "CC BY 2.0",
-      "source_url": "https://www.flickr.com/photos/76396789@N00/49428463238"
-    },
-    "style": "ロング",
-    "base_detail": "ダークラム",
-    "aliases": [
-      "planter's punch",
-      "planters punch"
-    ],
-    "slug": "planter-s-punch"
+    "slug": "planters-punch"
   },
   {
     "id": "13675",
@@ -86794,55 +86159,6 @@
       "フレイミングドクターペッパー"
     ],
     "slug": "flaming-dr-pepper"
-  },
-  {
-    "id": "30319",
-    "name_ja": "フレーミング・ドクターペッパー",
-    "name_en": "Flaming Doctor Pepper",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Beer",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "ビール",
-        "name_en": "Beer",
-        "measure_ja": "473 ml",
-        "measure_en": "473 ml",
-        "note": "1 パイント"
-      },
-      {
-        "name_ja": "アマレット",
-        "name_en": "Amaretto",
-        "measure_ja": "3 部",
-        "measure_en": "3 parts",
-        "note": "等量比率"
-      },
-      {
-        "name_ja": "ハイプルーフリキュール",
-        "name_en": "High-proof liqueur",
-        "measure_ja": "1 部",
-        "measure_en": "1 parts",
-        "note": "等量比率"
-      }
-    ],
-    "instructions_ja": "ショットグラスにアマレットを注ぎ、上からハイプルーフリキュールを層になるよう静かに重ねる。火をつけてからビールを満たしたパイントグラスへ落とし、消火後すぐに飲み干す。アーモンドの香ばしさとビールの苦味が交差する派手な一杯。",
-    "instructions_en": "Layer the two spirits in the shot glass, with the high-proof liquor on top. Light the shot and allow it to burn; then extinguish it by dropping it into the beer glass. Drink immediately.",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "base_detail": "ビール(汎用)",
-    "aliases": [
-      "flaming dr pepper",
-      "flaming dr. pepper",
-      "フレイミングドクターペッパー"
-    ],
-    "slug": "flaming-doctor-pepper"
   },
   {
     "id": "30321",
@@ -94606,7 +93922,7 @@
       {
         "name_ja": "チョコレート",
         "name_en": "Chocolate",
-        "measure_ja": "360 ml fine",
+        "measure_ja": "360 ml",
         "measure_en": "360 ml fine"
       },
       {
@@ -103894,62 +103210,6 @@
     "slug": "mocha-berry"
   },
   {
-    "id": "32507",
-    "name_ja": "モスコー・ミュール",
-    "name_en": "",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "銅製マグカップ",
-    "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
-    "image": "data/images-wiki-ja/32507.jpg",
-    "ingredients": [
-      {
-        "name_ja": "ウォッカ",
-        "name_en": "",
-        "measure_ja": "40 ml",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ライムジュース",
-        "name_en": "",
-        "measure_ja": "1 個分",
-        "measure_en": ""
-      },
-      {
-        "name_ja": "ジンジャーエール",
-        "name_en": "",
-        "measure_ja": "適量",
-        "measure_en": ""
-      }
-    ],
-    "instructions_ja": "【ビルド】 氷を入れた オールド・ファッションド・グラス にライム半分を絞り、残り半分をグラスに入れる。ウオッカを注ぎ、ジンジャーエールで満たす。マドラーを添える。ミュールとはラバのこと。後ろ足で蹴るクセがある。強いアルコール分を持った酒は「キックがある」という。このふたつを結びつけて、モスコー・ミュールの名が生まれた。本来はジンジャービアを使うが、ジンジャーエールでもよい。",
-    "instructions_en": "",
-    "iba": null,
-    "tags": [],
-    "style": "ロング",
-    "is_public": true,
-    "credit": {
-      "title": "File:Moscow_Mule_at_Rye,_San_Francisco.jpg",
-      "artist": "Will Shenton",
-      "license": "CC BY-SA 3.0",
-      "source_url": "https://commons.wikimedia.org/wiki/File:Moscow_Mule_at_Rye,_San_Francisco.jpg"
-    },
-    "extras": [
-      {
-        "image_public": "data/images-public/32507.jpg"
-      }
-    ],
-    "_cocktailtype_id": 38,
-    "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0038.html",
-    "aliases": [
-      "moscow mule"
-    ],
-    "slug": "cocktail-32507"
-  },
-  {
     "id": "11009",
     "name_ja": "モスコミュール",
     "name_en": "Moscow Mule",
@@ -103998,6 +103258,20 @@
     "style": "ロング",
     "base_detail": "プレーンウォッカ",
     "aliases": [],
+    "extras": [
+      {
+        "image_public": "data/images-wiki-ja/32507.jpg",
+        "credit": {
+          "title": "File:Moscow_Mule_at_Rye,_San_Francisco.jpg",
+          "artist": "Will Shenton",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Moscow_Mule_at_Rye,_San_Francisco.jpg"
+        }
+      },
+      {
+        "image_public": "data/images-public/32507.jpg"
+      }
+    ],
     "slug": "moscow-mule"
   },
   {
@@ -116006,7 +115280,6 @@
     "aliases": [
       "ward eight",
       "ワードエイト",
-      "ward 8",
       "ワード・エイト"
     ],
     "extras": [
