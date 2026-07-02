@@ -402,7 +402,7 @@
     "glass_en": "Collins Glass",
     "alcoholic_ja": "アルコール任意",
     "alcoholic_en": "Optional alcohol",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -570,7 +570,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Gin",
     "image": "",
     "ingredients": [
       {
@@ -5120,7 +5120,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -5438,7 +5438,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -5626,7 +5626,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -5679,7 +5679,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -5767,7 +5767,7 @@
     "glass_en": "Collins glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -5887,7 +5887,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -5984,7 +5984,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -6033,7 +6033,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -7643,7 +7643,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -8568,7 +8568,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -10571,7 +10571,7 @@
     "glass_en": "Old-fashioned glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
+    "base": "Rum",
     "image": "",
     "ingredients": [
       {
@@ -10887,7 +10887,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -11202,7 +11202,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -13350,7 +13350,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -16280,7 +16280,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -17522,7 +17522,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
+    "base": "Gin",
     "image": "data/images-wiki/30010.jpg",
     "ingredients": [
       {
@@ -20845,7 +20845,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -22991,7 +22991,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -24599,7 +24599,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -25254,7 +25254,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Vodka",
     "image": "",
     "ingredients": [
       {
@@ -26160,7 +26160,7 @@
     "glass_en": "Rocks glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Wine",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -27230,7 +27230,7 @@
     "glass_en": "Old-fashioned glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Vodka",
     "image": "",
     "ingredients": [
       {
@@ -27553,7 +27553,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -27596,7 +27596,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -28292,7 +28292,7 @@
     "glass_en": "Old-fashioned glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Rum",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -28569,7 +28569,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -28632,7 +28632,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Rum",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -28815,7 +28815,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Rum",
     "image": "data/images-public/14608.jpg",
     "ingredients": [
       {
@@ -29550,7 +29550,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -30647,7 +30647,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -33806,7 +33806,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
+    "base": "Rum",
     "image": "",
     "ingredients": [
       {
@@ -34621,7 +34621,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -34774,7 +34774,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -35886,7 +35886,7 @@
     "glass_en": "Old-fashioned glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -35942,7 +35942,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -36091,7 +36091,7 @@
     "glass_en": "Collins glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -36283,7 +36283,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -36440,7 +36440,7 @@
     "glass_en": "Old-fashioned glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -36688,7 +36688,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -36840,7 +36840,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -37370,7 +37370,7 @@
     "glass_en": "Old-fashioned glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -37568,9 +37568,9 @@
     "category_en": "Cocktail",
     "glass_ja": "10oz コリンズ・グラス　(300ml)",
     "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non alcoholic",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -38995,7 +38995,7 @@
     "glass_en": "Collins glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -39353,7 +39353,7 @@
     "glass_en": "Cordial glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -40133,7 +40133,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -40430,7 +40430,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Brandy",
     "image": "data/images-public/33092.jpg",
     "ingredients": [
       {
@@ -41426,7 +41426,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -41489,7 +41489,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -45056,7 +45056,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -45943,7 +45943,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -46431,7 +46431,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -46476,7 +46476,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -47041,7 +47041,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -47088,7 +47088,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -47426,7 +47426,7 @@
     "glass_en": "Whiskey sour glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "data/images-openverse/12308.jpg",
     "ingredients": [
       {
@@ -47517,7 +47517,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Beer",
     "image": "",
     "ingredients": [
       {
@@ -47719,7 +47719,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
+    "base": "Rum",
     "image": "",
     "ingredients": [
       {
@@ -49985,7 +49985,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -51138,7 +51138,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -52130,7 +52130,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -52826,7 +52826,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -53685,7 +53685,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -53791,7 +53791,7 @@
     "glass_en": "Sour glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -54407,7 +54407,7 @@
     "glass_en": "Old-fashioned glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -54577,7 +54577,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -54945,7 +54945,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
+    "base": "Rum",
     "image": "",
     "ingredients": [
       {
@@ -55708,7 +55708,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -56008,7 +56008,7 @@
     "glass_en": "Collins Glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Rum",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -56253,7 +56253,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -56864,7 +56864,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -56901,7 +56901,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -56984,7 +56984,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -57154,7 +57154,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -57572,7 +57572,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -58846,7 +58846,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -60064,7 +60064,7 @@
     "glass_en": "Copper mug",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Wine",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -61736,7 +61736,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -64174,9 +64174,9 @@
     "category_en": "Cocktail",
     "glass_ja": "12oz ピルスナー・グラス　(350ml)",
     "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non alcoholic",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -64443,9 +64443,9 @@
     "category_en": "Cocktail",
     "glass_ja": "12oz ピルスナー・グラス　(350ml)",
     "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Beer",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non alcoholic",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -65052,9 +65052,9 @@
     "category_en": "Cocktail",
     "glass_ja": "12oz ピルスナー・グラス　(350ml)",
     "glass_en": "",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Beer",
+    "alcoholic_ja": "ノンアルコール",
+    "alcoholic_en": "Non alcoholic",
+    "base": "Non-Alcoholic",
     "image": "",
     "ingredients": [
       {
@@ -65778,7 +65778,7 @@
     "glass_en": "Collins glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -66910,7 +66910,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -68112,7 +68112,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -68924,7 +68924,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
+    "base": "Rum",
     "image": "",
     "ingredients": [
       {
@@ -70876,7 +70876,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -70915,7 +70915,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -72143,7 +72143,7 @@
     "glass_en": "Balloon Glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -72567,7 +72567,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -74789,7 +74789,7 @@
     "glass_en": "Shot glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Beer",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -75481,7 +75481,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -75783,7 +75783,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -76078,7 +76078,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -76129,7 +76129,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -77473,7 +77473,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -79006,7 +79006,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -79049,7 +79049,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -80042,7 +80042,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -83430,7 +83430,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
+    "base": "Rum",
     "image": "",
     "ingredients": [
       {
@@ -83478,7 +83478,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Tequila",
+    "base": "Rum",
     "image": "",
     "ingredients": [
       {
@@ -85235,7 +85235,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -89403,7 +89403,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -90442,7 +90442,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -93474,7 +93474,7 @@
     "glass_en": "Shot glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Beer",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -95026,7 +95026,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -97287,7 +97287,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -97496,7 +97496,7 @@
     "glass_en": "Wine glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -98273,7 +98273,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -99931,7 +99931,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -100204,7 +100204,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -100285,7 +100285,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -100701,7 +100701,7 @@
     "glass_en": "Collins glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -101296,7 +101296,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -101763,7 +101763,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Vodka",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -104560,7 +104560,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -105691,7 +105691,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Tequila",
     "image": "",
     "ingredients": [
       {
@@ -105792,7 +105792,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -106346,7 +106346,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -106407,7 +106407,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -108369,7 +108369,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Rum",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -108842,7 +108842,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -110992,7 +110992,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "data/images-public/35028.jpg",
     "ingredients": [
       {
@@ -111686,7 +111686,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -112181,7 +112181,7 @@
     "glass_en": "Tumbler",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -112446,7 +112446,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Brandy",
     "image": "",
     "ingredients": [
       {
@@ -112780,7 +112780,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -112866,7 +112866,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Gin",
     "image": "data/images-public/17208.jpg",
     "ingredients": [
       {
@@ -115460,7 +115460,7 @@
     "glass_en": "Tumbler",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -115503,7 +115503,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -115554,7 +115554,7 @@
     "glass_en": "Collins glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -115610,7 +115610,7 @@
     "glass_en": "Tumbler",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -115702,7 +115702,7 @@
     "glass_en": "Champagne flute",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -116076,7 +116076,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -116185,7 +116185,7 @@
     "glass_en": "Old-fashioned glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -116277,7 +116277,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -116344,7 +116344,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -116387,7 +116387,7 @@
     "glass_en": "Tumbler",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -116426,7 +116426,7 @@
     "glass_en": "Highball glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Other",
     "image": "",
     "ingredients": [
       {
@@ -117745,7 +117745,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Gin",
+    "base": "Vodka",
     "image": "data/images-public/20038.jpg",
     "ingredients": [
       {
@@ -117844,7 +117844,7 @@
     "glass_en": "Cocktail glass",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Rum",
     "image": "data/images-public/20041.jpg",
     "ingredients": [
       {
@@ -118032,7 +118032,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -122255,7 +122255,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Liqueur",
+    "base": "Wine",
     "image": "",
     "ingredients": [
       {
@@ -124570,7 +124570,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Brandy",
+    "base": "Liqueur",
     "image": "",
     "ingredients": [
       {
@@ -136777,7 +136777,7 @@
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
-    "base": "Rum",
+    "base": "Gin",
     "image": "",
     "ingredients": [
       {
