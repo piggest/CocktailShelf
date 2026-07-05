@@ -280,7 +280,7 @@ function normalize(s) {
   if (!s) return "";
   return s.toString().toLowerCase()
     .replace(/[ァ-ヶ]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0x60))
-    .replace(/[・\-‐−ー－\s\.&]/g, "");
+    .replace(/[・\-‐−ー－\s\.&＆　]/g, "");
 }
 
 // 合計分量(ml)を概算。measure_ja の数値+ml のみ集計
