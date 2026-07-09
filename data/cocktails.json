@@ -117562,40 +117562,9 @@
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
     "image": "data/images-public/20036.jpg",
-    "ingredients": [
-      {
-        "name_ja": "バーボン",
-        "name_en": "Bourbon",
-        "measure_ja": "30 ml",
-        "measure_en": "30 ml"
-      },
-      {
-        "name_ja": "オレンジジュース",
-        "name_en": "Orange juice",
-        "measure_ja": "60 ml",
-        "measure_en": "60 ml"
-      },
-      {
-        "name_ja": "レモンジュース",
-        "name_en": "Lemon juice",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
-      },
-      {
-        "name_ja": "グレナデンシロップ",
-        "name_en": "Grenadine",
-        "measure_ja": "1 tsp",
-        "measure_en": "1 tsp"
-      },
-      {
-        "name_ja": "オレンジスライス",
-        "name_en": "Orange slice",
-        "measure_ja": "飾り",
-        "measure_en": "garnish"
-      }
-    ],
-    "instructions_ja": "バーボン、オレンジジュース、レモンジュースをシェーカーに入れ、氷とともにシェイク。氷を入れたグラスに注ぎ、グレナデンシロップを沈めて二層に。オレンジスライスを飾る。ニューオーリンズのバーボンストリートにちなんだ華やかなショート寄りのロング。",
-    "instructions_en": "Shake bourbon, orange juice, and lemon juice with ice. Strain into a glass with ice. Slowly pour grenadine to sink to the bottom. Garnish with orange slice.",
+    "ingredients": [],
+    "instructions_ja": "ニューオーリンズのバーボンストリートにちなんだカクテル。",
+    "instructions_en": "A cocktail named after Bourbon Street in New Orleans.",
     "iba": null,
     "tags": [],
     "style": "プースカフェ",
