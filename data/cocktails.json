@@ -10730,7 +10730,7 @@
     "name_en": "Italian Stinger",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
-    "glass_ja": "オールドファッションドグラス",
+    "glass_ja": "4oz カクテル・グラス　(125ml)",
     "glass_en": "",
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
@@ -10740,17 +10740,17 @@
       {
         "name_ja": "ブランデー",
         "name_en": "Brandy",
-        "measure_ja": "45 ml",
-        "measure_en": "45 ml"
+        "measure_ja": "40 ml (2/3)",
+        "measure_en": "40 ml (2/3)"
       },
       {
         "name_ja": "アマレット",
         "name_en": "Amaretto",
-        "measure_ja": "15 ml",
-        "measure_en": "15 ml"
+        "measure_ja": "20 ml (1/3)",
+        "measure_en": "20 ml (1/3)"
       }
     ],
-    "instructions_ja": "氷を入れたロックグラスにブランデーとアマレットを注ぎ、よくステアする。スティンガーのミントをアマレットに置き換えた、杏仁の甘い香りと熟成感が重なる食後向きの一杯。",
+    "instructions_ja": "ブランデーとアマレットを氷とともにミキシンググラスでステアし、冷やしたカクテルグラスに注ぐ。スティンガーのミントをアマレットに置き換えた、杏仁の甘い香りと熟成感が重なる食後向きの一杯。英語圏ではガリアーノを使う版が主流。",
     "instructions_en": "",
     "iba": null,
     "tags": [],
