@@ -18223,21 +18223,21 @@
     "image": "data/images-public/178371.jpg",
     "ingredients": [
       {
-        "name_ja": "ホワイトラム",
-        "name_en": "White rum",
-        "measure_ja": "20 ml",
-        "measure_en": "20 ml",
+        "name_ja": "ゴールドラム",
+        "name_en": "Gold rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
         "note": "本来はBacardi 8等のエイジドラム"
-      },
-      {
-        "name_ja": "シュガーシロップ",
-        "name_en": "Sugar syrup",
-        "measure_ja": "10 ml",
-        "measure_en": "10 ml"
       },
       {
         "name_ja": "ライムジュース",
         "name_en": "Lime juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
         "measure_ja": "10 ml",
         "measure_en": "10 ml"
       },
@@ -18248,17 +18248,23 @@
         "measure_en": "2 dash"
       },
       {
+        "name_ja": "ミントの葉",
+        "name_en": "Mint leaves",
+        "measure_ja": "6 枚",
+        "measure_en": "6 leaves"
+      },
+      {
         "name_ja": "プロセッコ",
         "name_en": "Prosecco",
-        "measure_ja": "25 ml",
-        "measure_en": "25 ml",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml",
         "alternatives": [
           "シャンパン (brut)"
         ]
       }
     ],
-    "instructions_ja": "シェーカーにミントひと掴み、ホワイトラム、シュガーシロップ、ライムジュース、アンゴスチュラビターズを氷とともに入れてシェイクする。クープグラスに二重ストレーンで濾し入れ、プロセッコで満たす。クラシック・モヒートに泡を加えた、ハバナのホテルで愛された華やかなアレンジ。",
-    "instructions_en": "Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.",
+    "instructions_ja": "シェーカーにミントの葉、ゴールドラム、ライムジュース、シュガーシロップ、アンゴスチュラビターズを氷とともに入れてシェイクする。冷やしたカクテルグラスに二重ストレーンで濾し入れ、プロセッコで満たす。クラシック・モヒートに泡を加えた、ハバナのホテルで愛された華やかなアレンジ。",
+    "instructions_en": "Shake mint leaves, gold rum, lime juice, sugar syrup and 2 dashes angostura bitters with ice. Double strain into a chilled cocktail glass and top with prosecco.",
     "iba": null,
     "tags": [],
     "is_public": true,
@@ -18269,7 +18275,7 @@
       "source_url": "https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0312.jpg"
     },
     "style": "ショート",
-    "base_detail": "ホワイトラム",
+    "base_detail": "ゴールドラム",
     "aliases": [],
     "slug": "old-cuban"
   },
