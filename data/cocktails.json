@@ -18086,7 +18086,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Whiskey",
-    "image": "",
+    "image": "data/images-public/35992.jpg",
     "ingredients": [
       {
         "name_ja": "スコッチ",
