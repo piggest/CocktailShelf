@@ -660,6 +660,9 @@
           "license": "CC BY-SA 4.0",
           "source_url": "https://commons.wikimedia.org/wiki/File:XYZ(cocktail).jpg"
         }
+      },
+      {
+        "image_public": "data/images-public/32001_3.jpg"
       }
     ],
     "base_detail": "ラム(汎用)",
@@ -18277,6 +18280,11 @@
     "style": "ショート",
     "base_detail": "ゴールドラム",
     "aliases": [],
+    "extras": [
+      {
+        "image_public": "data/images-public/178371_2.jpg"
+      }
+    ],
     "slug": "old-cuban"
   },
   {

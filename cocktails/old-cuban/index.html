@@ -72,7 +72,7 @@
     <p class="ssg-en">Old Cuban</p>
     
     <div class="ssg-badges"><span class="ssg-badge">ショート</span><span class="ssg-badge">アルコール</span><span class="ssg-badge">カクテルグラス</span><span class="ssg-badge">Rum ベース</span></div>
-    <div class="ssg-image"><img id="ssg-main-img" src="../../data/images-public/178371.jpg" alt="オールド・キューバン" loading="lazy" /></div>
+    <div class="ssg-image"><img id="ssg-main-img" src="../../data/images-public/178371.jpg" alt="オールド・キューバン" loading="lazy" /></div><div class="ssg-thumbs"><button type="button" class="ssg-thumb is-active" data-src="../../data/images-public/178371.jpg" aria-label="画像1を表示"><img src="../../data/images-public/178371.jpg" alt="" loading="lazy" /></button><button type="button" class="ssg-thumb" data-src="../../data/images-public/178371_2.jpg" aria-label="画像2を表示"><img src="../../data/images-public/178371_2.jpg" alt="" loading="lazy" /></button></div>
     <h2 class="ssg-section-title">材料</h2>
     <table class="ssg-ings"><tbody><tr><th>ゴールドラム</th><td>30 ml</td></tr><tr><th>ライムジュース</th><td>10 ml</td></tr><tr><th>シュガーシロップ</th><td>10 ml</td></tr><tr><th>アンゴスチュラビターズ</th><td>2 dash</td></tr><tr><th>ミントの葉</th><td>6 枚</td></tr><tr><th>プロセッコ</th><td>30 ml</td></tr></tbody></table>
     <h2 class="ssg-section-title">作り方</h2>
@@ -86,7 +86,20 @@
   <a class="bamboo-home" href="https://piggest.github.io/BambooForest/" title="BambooForest へ戻る" aria-label="BambooForest へ戻る">
     <img src="https://piggest.github.io/BambooForest/assets/bamboo-home.png" alt="">
   </a>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Recipe","name":"オールド・キューバン","description":"シェーカーにミントの葉、ゴールドラム、ライムジュース、シュガーシロップ、アンゴスチュラビターズを氷とともに入れてシェイクする。冷やしたカクテルグラスに二重ストレーンで濾し入れ、プロセッコで満たす。クラシック・モヒートに泡を加えた、ハバナのホテルで愛された華やかなアレンジ。","recipeIngredient":["ゴールドラム 30 ml","ライムジュース 10 ml","シュガーシロップ 10 ml","アンゴスチュラビターズ 2 dash","ミントの葉 6 枚","プロセッコ 30 ml"],"recipeInstructions":"シェーカーにミントの葉、ゴールドラム、ライムジュース、シュガーシロップ、アンゴスチュラビターズを氷とともに入れてシェイクする。冷やしたカクテルグラスに二重ストレーンで濾し入れ、プロセッコで満たす。クラシック・モヒートに泡を加えた、ハバナのホテルで愛された華やかなアレンジ。","recipeCategory":"Cocktail","inLanguage":"ja","image":"https://piggest.github.io/CocktailShelf/data/images-public/178371.jpg"}</script>
-  
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Recipe","name":"オールド・キューバン","description":"シェーカーにミントの葉、ゴールドラム、ライムジュース、シュガーシロップ、アンゴスチュラビターズを氷とともに入れてシェイクする。冷やしたカクテルグラスに二重ストレーンで濾し入れ、プロセッコで満たす。クラシック・モヒートに泡を加えた、ハバナのホテルで愛された華やかなアレンジ。","recipeIngredient":["ゴールドラム 30 ml","ライムジュース 10 ml","シュガーシロップ 10 ml","アンゴスチュラビターズ 2 dash","ミントの葉 6 枚","プロセッコ 30 ml"],"recipeInstructions":"シェーカーにミントの葉、ゴールドラム、ライムジュース、シュガーシロップ、アンゴスチュラビターズを氷とともに入れてシェイクする。冷やしたカクテルグラスに二重ストレーンで濾し入れ、プロセッコで満たす。クラシック・モヒートに泡を加えた、ハバナのホテルで愛された華やかなアレンジ。","recipeCategory":"Cocktail","inLanguage":"ja","image":["https://piggest.github.io/CocktailShelf/data/images-public/178371.jpg","https://piggest.github.io/CocktailShelf/data/images-public/178371_2.jpg"]}</script>
+  <script>
+    (function() {
+      var main = document.getElementById("ssg-main-img");
+      var thumbs = document.querySelectorAll(".ssg-thumb");
+      thumbs.forEach(function(t) {
+        t.addEventListener("click", function() {
+          var src = t.getAttribute("data-src");
+          if (src && main) main.src = src;
+          thumbs.forEach(function(x) { x.classList.remove("is-active"); });
+          t.classList.add("is-active");
+        });
+      });
+    })();
+  </script>
 </body>
 </html>
