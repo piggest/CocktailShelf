@@ -1,0 +1,159 @@
+name: Issue から写真を取り込む
+
+# スマホの GitHub アプリだけで写真を追加できるようにするためのワークフロー。
+# Issue のタイトルにカクテル名、本文に写真を添付して立てると、
+# private 側の cocktails.json への反映と public への公開まで自動で進む。
+#
+# private リポジトリではなくこちらに置いている理由:
+# private の Issue に添付した画像 (user-attachments) はセッション Cookie でしか
+# 取得できず、GITHUB_TOKEN でも PAT でも 404 になる。public の添付なら無認証で取れる。
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  add-photo:
+    # 取り込み済みの Issue は本文を直しても二重に処理しない
+    if: ${{ !contains(github.event.issue.labels.*.name, 'photo-added') }}
+    runs-on: ubuntu-latest
+    steps:
+      # 実データとスクリプトは private 側にある
+      - name: private をチェックアウト
+        uses: actions/checkout@v4
+        with:
+          repository: piggest/CocktailShelf-private
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: private
+
+      # build-public.js が ../CocktailShelf-public を出力先に決め打ちしているため、
+      # private の隣にこの名前で置く必要がある
+      - name: public をチェックアウト
+        uses: actions/checkout@v4
+        with:
+          path: CocktailShelf-public
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: 画像を取り込む
+        id: add
+        working-directory: private
+        # Issue の文面は env 経由で渡す。run に直接展開するとシェルに解釈される
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          out=$(node scripts/add-photo-from-issue.js || true)
+          echo "$out"
+          {
+            echo "result<<JSON_EOF"
+            echo "$out"
+            echo "JSON_EOF"
+            echo "status=$(jq -r '.status // "error"' <<< "$out")"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: public 用にビルド
+        if: steps.add.outputs.status == 'added'
+        working-directory: private
+        run: node build-public.js
+
+      - name: private にコミット
+        if: steps.add.outputs.status == 'added'
+        working-directory: private
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/cocktails.json data/images-public
+          git commit -m "feat: ${ISSUE_TITLE} に本人撮影の写真を追加" \
+                     -m "Issue #${ISSUE_NUMBER} からの取り込み。"
+          git push
+
+      - name: public にコミット
+        if: steps.add.outputs.status == 'added'
+        working-directory: CocktailShelf-public
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "public 側に差分なし"
+            exit 0
+          fi
+          git commit -m "feat: ${ISSUE_TITLE} に本人撮影の写真を追加" \
+                     -m "Issue #${ISSUE_NUMBER} からの自動反映。"
+          git push
+
+      - name: 結果を Issue に返す
+        if: always() && steps.add.outputs.status != 'no-image'
+        uses: actions/github-script@v7
+        env:
+          RESULT: ${{ steps.add.outputs.result }}
+        with:
+          script: |
+            let r;
+            try { r = JSON.parse(process.env.RESULT || "{}"); }
+            catch { r = { status: "error", message: "結果の解析に失敗" }; }
+
+            const issue = {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            };
+
+            const list = (r.candidates || [])
+              .map(c => `- \`${c.id}\` ${c.name_ja}${c.name_en ? ` / ${c.name_en}` : ""}${c.has_image ? "（画像あり → 2枚目として追加）" : ""}`)
+              .join("\n");
+
+            let body;
+            if (r.status === "added") {
+              const files = r.saved.map(s => `- \`${s.file}\`（${s.slot === "main" ? "メイン" : "2枚目以降"}）`).join("\n");
+              body = [
+                `**${r.name_ja}**（id: \`${r.id}\`）に取り込み。`,
+                "",
+                files,
+                "",
+                "public へ反映済み。Pages のデプロイ完了まで数分かかる。",
+              ].join("\n");
+            } else if (r.status === "ambiguous") {
+              body = [
+                `タイトル「${r.title}」で一意に決まらなかった。候補:`,
+                "",
+                list || "（候補なし）",
+                "",
+                "タイトルを候補どおりの名前に直して保存すると、再実行される。",
+              ].join("\n");
+            } else if (r.status === "unmatched") {
+              body = [
+                `タイトル「${r.title}」に一致するカクテルが見つからなかった。`,
+                "",
+                "この Issue はそのまま残す。タイトルを直して保存すれば再実行される。",
+                "未収録のカクテルなら、レシピの登録が先に必要。",
+              ].join("\n");
+            } else {
+              body = [
+                "取り込みに失敗した。",
+                "",
+                "```",
+                r.message || "原因不明",
+                "```",
+              ].join("\n");
+            }
+
+            await github.rest.issues.createComment({ ...issue, body });
+
+            if (r.status === "added") {
+              await github.rest.issues.addLabels({ ...issue, labels: ["photo-added"] });
+              await github.rest.issues.update({ ...issue, state: "closed" });
+            }
