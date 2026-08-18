@@ -15466,6 +15466,9 @@
     "extras": [
       {
         "image_public": "data/images-public/17212_2.jpg"
+      },
+      {
+        "image_public": "data/images-public/17212_3.jpg"
       }
     ],
     "base_detail": "プレーンウォッカ",
