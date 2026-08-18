@@ -139,6 +139,16 @@ select {
 }
 select:focus { border-color: var(--accent); }
 
+/* iOS Safari は font-size が 16px 未満の入力欄にフォーカスすると自動でズームインする。
+   viewport に maximum-scale=1 を足せば止まるが、それだとピンチズーム自体を奪ってしまうので
+   文字サイズ側で回避する。ポインタが粗い環境（タッチ）だけに効かせ、デスクトップの密度は保つ */
+@media (pointer: coarse) {
+  .search-row input,
+  select {
+    font-size: 16px;
+  }
+}
+
 .ghost-btn {
   width: 100%; padding: 10px;
   background: transparent; color: var(--text);
@@ -361,15 +371,27 @@ select:focus { border-color: var(--accent); }
   background: rgba(0,0,0,.7);
   backdrop-filter: blur(4px);
 }
+/* スクロールはカードではなく中身側に持たせる。
+   カード自体をスクロールコンテナにすると、その中に absolute 配置した
+   閉じるボタンが本文と一緒に流れて画面外へ消えてしまう */
 .modal-card {
   position: relative;
   max-width: 720px; width: 100%;
-  max-height: 90vh; overflow-y: auto;
+  max-height: 90vh;
+  display: flex; flex-direction: column;
+  overflow: hidden;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 14px;
   box-shadow: var(--shadow);
 }
+#modalBody {
+  overflow-y: auto;
+  min-height: 0; /* flex 子要素は既定で縮まないため、これが無いとスクロールしない */
+  overscroll-behavior: contain; /* 端まで送っても背後のページへ伝播させない */
+}
+/* モーダル表示中は背後のページを固定する */
+body.modal-open { overflow: hidden; }
 .modal-close {
   position: absolute; top: 12px; right: 14px;
   width: 34px; height: 34px;

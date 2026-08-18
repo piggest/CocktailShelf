@@ -700,8 +700,13 @@ function openDetail(id) {
   });
 
   modal.classList.remove("hidden");
+  // 背後の一覧が一緒に流れると、閉じた後どこを見ていたか分からなくなる
+  document.body.classList.add("modal-open");
 }
-function closeDetail() { modal.classList.add("hidden"); }
+function closeDetail() {
+  modal.classList.add("hidden");
+  document.body.classList.remove("modal-open");
+}
 
 modal.addEventListener("click", (e) => {
   if (e.target.dataset.close !== undefined) closeDetail();
