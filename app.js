@@ -275,12 +275,18 @@ function makePlaceholder(c) {
   `;
   return div;
 }
+// 検索用の同義語（normalize 後の表記で書く）。通称と正式名の揺れをここで畳み込む
+const NORMALIZE_SYNONYMS = [
+  ["ぐらんまにえ", "ぐらんまるにえ"], // グランマニエ → グランマルニエ
+];
 // カタカナ/ひらがな/英大小同一視
 function normalize(s) {
   if (!s) return "";
-  return s.toString().toLowerCase()
+  let t = s.toString().toLowerCase()
     .replace(/[ァ-ヶ]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0x60))
     .replace(/[・\-‐−ー－\s\.&＆　]/g, "");
+  for (const [from, to] of NORMALIZE_SYNONYMS) t = t.split(from).join(to);
+  return t;
 }
 
 // 合計分量(ml)を概算。measure_ja の数値+ml のみ集計
