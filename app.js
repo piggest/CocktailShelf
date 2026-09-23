@@ -770,24 +770,54 @@ function closeDetail() {
 modal.addEventListener("click", (e) => {
   if (e.target.dataset.close !== undefined) closeDetail();
 });
+// 詳細の前後移動（←/→ キーと横スワイプで共用）。step は +1 で次、-1 で前
+function navigateDetail(step) {
+  if (!currentDetailId) return false;
+  // 現在表示中のリスト（タブ/検索/並び順を反映）
+  const ids = currentList && currentList.length
+    ? currentList.map(String)
+    : [...grid.querySelectorAll(".card")].map(el => el.dataset.id);
+  if (ids.length <= 1) return false;
+  const idx = ids.indexOf(String(currentDetailId));
+  if (idx < 0) return false;
+  const next = ids[(idx + step + ids.length) % ids.length];
+  if (!next) return false;
+  openDetail(next);
+  return true;
+}
+
 document.addEventListener("keydown", (e) => {
   if (modal.classList.contains("hidden")) return;
   if (e.key === "Escape") { closeDetail(); return; }
   if (e.key === "ArrowLeft" || e.key === "ArrowRight") {
-    if (!currentDetailId) return;
-    // 現在表示中のリスト（タブ/検索/並び順を反映）
-    const ids = currentList && currentList.length
-      ? currentList.map(String)
-      : [...grid.querySelectorAll(".card")].map(el => el.dataset.id);
-    if (ids.length <= 1) return;
-    const idx = ids.indexOf(String(currentDetailId));
-    if (idx < 0) return;
-    const step = e.key === "ArrowRight" ? 1 : -1;
-    const next = ids[(idx + step + ids.length) % ids.length];
-    if (next) openDetail(next);
-    e.preventDefault();
+    if (navigateDetail(e.key === "ArrowRight" ? 1 : -1)) e.preventDefault();
   }
 });
+
+// 横スワイプで前後のレシピへ。
+// touchmove は見ない。本文の縦スクロールを一切邪魔せずに済むうえ、
+// 始点と終点だけで向きは判定できるため
+const SWIPE_MIN_X = 50;   // これ未満はタップや指の微動として無視する
+const SWIPE_RATIO = 1.5;  // 横移動が縦移動のこの倍を超えたときだけスワイプ扱い
+let swipeStartX = null;
+let swipeStartY = null;
+modal.addEventListener("touchstart", (e) => {
+  // 2本指はピンチズームなので拾わない
+  if (e.touches.length !== 1) { swipeStartX = null; return; }
+  swipeStartX = e.touches[0].clientX;
+  swipeStartY = e.touches[0].clientY;
+}, { passive: true });
+modal.addEventListener("touchend", (e) => {
+  if (swipeStartX === null) return;
+  const t = e.changedTouches[0];
+  const dx = t.clientX - swipeStartX;
+  const dy = t.clientY - swipeStartY;
+  swipeStartX = swipeStartY = null;
+  if (Math.abs(dx) < SWIPE_MIN_X) return;
+  if (Math.abs(dx) < Math.abs(dy) * SWIPE_RATIO) return;
+  // 左へ払うと次、右へ払うと前。紙をめくる向きに合わせている
+  navigateDetail(dx < 0 ? 1 : -1);
+}, { passive: true });
 
 // --- 検索／フィルタ ---
 // 名前・英名・別名(表記揺れ)のいずれかが一致するか
