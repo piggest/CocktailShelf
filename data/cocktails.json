@@ -172544,8 +172544,8 @@
   },
   {
     "id": "20042",
-    "name_ja": "ザザラック",
-    "name_en": "Zazarac",
+    "name_ja": "サゼラック（サヴォイ版）",
+    "name_en": "Sazerac (Savoy)",
     "category_ja": "カクテル",
     "category_en": "Cocktail",
     "glass_ja": "カクテルグラス",
@@ -172604,8 +172604,8 @@
         "measure_en": "1 ツイスト"
       }
     ],
-    "instructions_ja": "シェーカーにカナディアンクラブ、ホワイトラム、アニゼット、シュガーシロップ、アブサン、アンゴスチュラビターズ、オレンジビターズと氷を入れてよくシェイクし、カクテルグラスに注ぐ。レモンピールを絞りかける。1930年『サヴォイ・カクテル・ブック』掲載。サゼラックの近縁とされるが、ラムとアニゼットが加わってアニスの香りが前に出る、シェイクで仕上げるショートカクテル。",
-    "instructions_en": "Shake all ingredients well with ice and strain into a cocktail glass. Squeeze lemon peel on top. From the 1930 Savoy Cocktail Book by Harry Craddock; a rum-and-anisette cousin of the Sazerac.",
+    "instructions_ja": "シェーカーにカナディアンクラブ、ホワイトラム、アニゼット、シュガーシロップ、アブサン、アンゴスチュラビターズ、オレンジビターズと氷を入れてよくシェイクし、カクテルグラスに注ぐ。レモンピールを絞りかける。1930年『サヴォイ・カクテル・ブック』に Zazarac（ザザラック）の名で掲載された版。ラムとアニゼットが加わってアニスの香りが前に出る、シェイクで仕上げるショートカクテル。",
+    "instructions_en": "Shake all ingredients well with ice and strain into a cocktail glass. Squeeze lemon peel on top. Listed as the Zazarac Cocktail in the 1930 Savoy Cocktail Book by Harry Craddock; a rum-and-anisette take on the Sazerac.",
     "iba": null,
     "tags": [
       "Classic",
@@ -172616,11 +172616,14 @@
     "is_public": true,
     "base_detail": "カナディアンウイスキー",
     "aliases": [
+      "ザザラック",
       "ザザラク",
       "ザゼラック",
+      "Zazarac",
       "Zazerac",
-      "Zazarack"
+      "Zazarack",
+      "サゼラック（サボイ版）"
     ],
-    "slug": "zazarac"
+    "slug": "sazerac-savoy"
   }
 ]
