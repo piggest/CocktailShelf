@@ -15,6 +15,7 @@ const searchInput  = document.getElementById("searchInput");
 const searchBtn    = document.getElementById("searchBtn");
 const searchHint   = document.getElementById("searchHint");
 const styleSel     = document.getElementById("styleSelect");
+const techniqueSel = document.getElementById("techniqueSelect");
 const baseSel      = document.getElementById("baseSelect");
 const ownedOnlyChk    = document.getElementById("ownedOnly");
 const obtainableOkChk = document.getElementById("obtainableOk");
@@ -305,6 +306,53 @@ function shortOrLong(c, fallback) {
   return fallback;
 }
 
+// 比重差で層を作るレシピか（技法「フロート」の判定用）
+// 注: style のプースカフェ判定とは別物。あちらは「小ぶりのグラスで層を楽しむ一杯」という括りで、
+//     タンブラーの２層カクテルやハーフ・アンド・ハーフを含めたくないため条件を共有しない
+function isLayeredRecipe(c) {
+  const inst = (c.instructions_ja || "") + " " + (c.instructions_en || "");
+  const glass = (c.glass_en || "").toLowerCase();
+  const glassJa = c.glass_ja || "";
+  return /[二三四五六七八九十２-９2-9]層|層に仕上|層に重|層を作|層を成|層をなす|層を保|多層|レイヤー|プースカフェ/.test(inst) ||
+         (/バースプーンの背/.test(inst) && /重ね|フロート|静かに注/.test(inst)) ||
+         glass.includes("pousse") || glassJa.includes("プースカフェ");
+}
+
+// --- 技法判定（ステア/シェーク/ビルド/ブレンド/フロート） ---
+// 使う器具で決まるので、器具名を上から順に探す。該当なしは null（技法フィルタに出さない）
+function classifyTechnique(c) {
+  const inst = c.instructions_ja || "";
+
+  // 1. 原典が技法マーカーを持つものはそれを尊重する
+  const marker = inst.match(/【(ステア|シェーク|ビルド|ブレンド)】/);
+  if (marker) return marker[1];
+
+  // 2. ブレンド（ミキサー系。「香りがブレンドされて」等の比喩に当たらないよう器具名と仕上がり表現に限定）
+  if (/ミキサー|ブレンダー|フードプロセッサ/.test(inst)) return "ブレンド";
+  if (/^\s*ブレンドして|フローズン状|スムージー状|シャーベット状/.test(inst)) return "ブレンド";
+
+  // 3. シェーク（「シェーカー/シェイカー/シェーク/シェイク」を一括で拾う）
+  if (/シェ[ーイ][カクキ]/.test(inst)) return "シェーク";
+
+  // 4. ステア（ミキシンググラスを使うもの、または手順が「ステアして」で始まるもの）
+  //    グラスの中で「軽くステア」するだけのものはビルドなので、ここでは拾わない
+  if (/ミキシング・?グラス/.test(inst)) return "ステア";
+  if (/^\s*(よく)?ステア|ステアして、\s*[^。]*グラス/.test(inst)) return "ステア";
+  // 「ステアしてからグラスへ注ぐ」= 別容器で混ぜている＝ステア。
+  // 濾す・漉す・移すは別容器で作った動かぬ証拠なので「軽く」でもステア扱い。
+  // ただの「注ぐ」は「氷を入れて軽くステアし、炭酸をグラスに注ぐ」のようなビルドと紛れるので「軽く」付きは除く
+  const stirThenPour = inst.match(/(軽く)?ステア(して|し[、,]|する[。、])[^。]{0,30}グラス[^。]{0,12}(注|濾|漉|移)/);
+  if (stirThenPour && (!stirThenPour[1] || stirThenPour[3] !== "注")) return "ステア";
+
+  // 5. フロート（層を作るもの）
+  if (isLayeredRecipe(c)) return "フロート";
+
+  // 6. ビルド（グラスに直接注いで作る。上のどれにも当たらない作業表現を広めに拾う）
+  if (/ビルド|ステア|かき混ぜ|混ぜ|注[ぎぐい]|入れ|満た|かけ|盛り|落と/.test(inst)) return "ビルド";
+
+  return null;
+}
+
 // --- スタイル判定（ショート/ロング/ロック等） ---
 // グラス・カテゴリ・作り方の単語から推定。判定順は上が優先
 function classifyStyle(c) {
@@ -339,11 +387,16 @@ function classifyStyle(c) {
     return "ホット";
   }
 
-  // 3.5. プースカフェ（比重差で層を作るレイヤード・カクテル。B-52/アフター・エイト/フロート系等）
-  const isLayered = /二層|三層|四層|2層|3層|4層|層に仕上|層に重|層を作|層を成|層をなす|層を保|多層|レイヤー/.test(inst) ||
-                    (/バースプーンの背/.test(inst) && /重ね|フロート|静かに注/.test(inst)) ||
-                    glass.includes("pousse") || glassJa.includes("プースカフェ");
-  if (isLayered) return "プースカフェ";
+  // 3.5. プースカフェ（比重差で3層以上を重ねるスタイル。B-52/レインボー等）
+  // 1種を浮かべるだけの2層は一般に「フロート」と呼び分けるのでここでは拾わない（技法フィルタの方で拾える）。
+  // 氷を使うものも層を保つ作りではないので除く。層数が書かれていない場合だけ、この氷の有無で見分ける
+  const hasIceWork = /氷を(入れ(?!ず)|詰め|満た|加え)|クラッシュドアイス|氷とともに|氷を足/.test(inst);
+  const multiLayer = /[三四五六七八九十]層|[３-９3-9]層|多層|レイヤー|プース[・ ]?カフェ/.test(inst);
+  const layerWork = /層を作|層を保|層に仕立|層を崩|層が混ざ|各層|順に静かに|比重(順|に従|の重い順|で沈|差)/.test(inst);
+  if (glass.includes("pousse") || glassJa.includes("プースカフェ") ||
+      multiLayer || (layerWork && !hasIceWork)) {
+    return "プースカフェ";
+  }
 
   // 4. スパークリング(グラスがフルート/シャンパン系 かつ 実材料に発泡酒が入ってる場合のみ)
   if (glass.includes("flute") || glass.includes("champagne") ||
@@ -790,6 +843,12 @@ function applyFilters() {
     labels.push(`${styleSel.value} スタイル`);
   }
 
+  // 技法
+  if (techniqueSel && techniqueSel.value) {
+    items = items.filter(c => c.technique === techniqueSel.value);
+    labels.push(`${techniqueSel.value}`);
+  }
+
   // ベース
   if (baseSel.value) {
     const baseLabel = baseSel.options[baseSel.selectedIndex].textContent;
@@ -1087,6 +1146,7 @@ function renderIngredients() {
         // 検索フォームはクリア、フィルタを直接適用
         if (searchInput) searchInput.value = "";
         if (styleSel) styleSel.value = "";
+        if (techniqueSel) techniqueSel.value = "";
         if (baseSel) baseSel.value = "";
         renderCards(items, `材料「${name}」（完全一致）`);
       });
@@ -1153,7 +1213,10 @@ async function init() {
     const res = await fetch(DATA_URL);
     DATA = await res.json();
     // 各カクテルにスタイル属性を付与
-    for (const c of DATA) c.style = classifyStyle(c);
+    for (const c of DATA) {
+      c.style = classifyStyle(c);
+      c.technique = classifyTechnique(c);
+    }
     loadInitial();
   } catch (e) {
     setTitle("データの読み込みに失敗");
@@ -1195,6 +1258,7 @@ document.querySelectorAll('input[name="mode"]').forEach(r => {
   });
 });
 styleSel.addEventListener("change", applyFilters);
+if (techniqueSel) techniqueSel.addEventListener("change", applyFilters);
 baseSel.addEventListener("change", applyFilters);
 if (ownedOnlyChk) ownedOnlyChk.addEventListener("change", applyFilters);
 if (obtainableOkChk) obtainableOkChk.addEventListener("change", applyFilters);

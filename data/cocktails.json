@@ -2814,7 +2814,7 @@
       "ブルー",
       "ショート"
     ],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [
@@ -12623,7 +12623,7 @@
     "tags": [
       "ロングドリンク"
     ],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "base_detail": "ウイスキー(汎用)",
     "aliases": [],
@@ -15415,7 +15415,7 @@
     "instructions_en": "Pour tonic water over ice in a glass, then gently pour espresso on top.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ソフトドリンク",
     "is_public": true,
     "aliases": [
       "espresso tonic"
@@ -17407,7 +17407,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "ショート",
+    "style": "プースカフェ",
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
     "_cocktailtype_id": 288,
@@ -17501,7 +17501,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "クレーム・ド・カカオ",
     "aliases": [
@@ -17591,7 +17591,7 @@
     "instructions_en": "Pour Benedictine into an old-fashioned glass half-filled with ice cubes. Gently float fresh cream on top and stir lightly.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ロック",
     "is_public": true,
     "base_detail": "ハーブリキュール",
     "aliases": [
@@ -17689,7 +17689,7 @@
     "instructions_en": "Pour the crème de cacao into a liqueur glass, then carefully layer the heavy cream on top using the back of a bar spoon. Garnish with a maraschino cherry on a cocktail pick.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "クレーム・ド・カカオ",
     "aliases": [
@@ -21803,7 +21803,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "ハーブリキュール",
     "aliases": [],
@@ -25761,7 +25761,7 @@
     "instructions_en": "Build the ingredients over ice in a highball glass and stir gently. The result evokes the sweetness of a chocolate-hazelnut candy bar.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "base_detail": "コーヒーリキュール",
     "aliases": [],
@@ -27319,7 +27319,7 @@
     "iba": null,
     "tags": [],
     "is_public": true,
-    "style": "プースカフェ",
+    "style": "ショット",
     "base_detail": "プレーンウォッカ",
     "aliases": [],
     "slug": "kool-aid-slammer"
@@ -28000,7 +28000,7 @@
     "tags": [
       "ロングドリンク"
     ],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "base_detail": "ナッツリキュール",
     "aliases": [],
@@ -28096,7 +28096,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "ショート",
+    "style": "プースカフェ",
     "is_public": true,
     "base_detail": "スコッチ",
     "aliases": [
@@ -30385,7 +30385,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ソフトドリンク",
     "is_public": true,
     "aliases": [
       "grenadine calpis",
@@ -32526,7 +32526,7 @@
     "instructions_en": "Pour Jägermeister into a shot glass and layer Goldschläger on top.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショット",
     "is_public": true,
     "base_detail": "ハーブリキュール",
     "aliases": [],
@@ -37009,7 +37009,7 @@
     "tags": [
       "ロングドリンク"
     ],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [],
@@ -39877,7 +39877,7 @@
     "iba": null,
     "tags": [],
     "is_public": true,
-    "style": "プースカフェ",
+    "style": "ショット",
     "base_detail": "フルーツリキュール",
     "aliases": [],
     "slug": "zipperhead"
@@ -48117,7 +48117,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "base_detail": "フルーツリキュール",
     "aliases": [],
@@ -48534,7 +48534,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "ナッツリキュール",
     "aliases": [],
@@ -49376,7 +49376,7 @@
     "instructions_en": "The crème de menthe is poured into the shot glass and the Amarula is carefully layered on top.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "ミントリキュール",
     "aliases": [],
@@ -49795,7 +49795,7 @@
     "instructions_en": "Pour the sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "アニス系リキュール",
     "aliases": [],
@@ -52596,7 +52596,7 @@
     "iba": null,
     "tags": [],
     "is_public": true,
-    "style": "プースカフェ",
+    "style": "ロング",
     "aliases": [],
     "slug": "thai-iced-coffee"
   },
@@ -53226,7 +53226,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "サザンカンフォート",
     "aliases": [],
@@ -60332,7 +60332,7 @@
     "tags": [
       "ロングドリンク"
     ],
-    "style": "プースカフェ",
+    "style": "ロック",
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [
@@ -61007,7 +61007,7 @@
       "オレンジ",
       "カラーチェンジ"
     ],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [],
@@ -62938,7 +62938,7 @@
     "iba": null,
     "tags": [],
     "is_public": true,
-    "style": "プースカフェ",
+    "style": "ショート",
     "base_detail": "シトロンウォッカ",
     "aliases": [],
     "slug": "new-york-lemonade"
@@ -63717,7 +63717,7 @@
       "カシス",
       "オレンジ"
     ],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "aliases": [
       "ノンアルコールカシスオレンジ"
@@ -64393,7 +64393,7 @@
       "ノンアルコール",
       "ヘルシー"
     ],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "aliases": [
       "ノンアルコールトマトオレンジ"
@@ -71990,7 +71990,7 @@
     "tags": [
       "ショートドリンク"
     ],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [],
@@ -79615,7 +79615,7 @@
     "instructions_en": "Fill a pint glass halfway with pale ale (or lager), then slowly layer stout (or porter) on top.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "credit": {
       "title": "File:Blackandtanbeer.jpg",
@@ -85317,7 +85317,7 @@
     "tags": [
       "ロングドリンク"
     ],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "フルーツリキュール",
     "aliases": [
@@ -95165,7 +95165,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "base_detail": "ウイスキー(汎用)",
     "aliases": [
@@ -110567,7 +110567,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "ショート",
+    "style": "プースカフェ",
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
     "aliases": [],
@@ -111445,7 +111445,7 @@
     "instructions_en": "",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "スパークリング",
     "is_public": true,
     "base_detail": "スパークリングワイン",
     "aliases": [],
@@ -112593,7 +112593,7 @@
     "iba": null,
     "tags": [],
     "is_public": true,
-    "style": "プースカフェ",
+    "style": "ショット",
     "base_detail": "カナディアンウイスキー",
     "aliases": [],
     "slug": "royal-bitch"
@@ -113918,7 +113918,7 @@
       "二層",
       "ロング"
     ],
-    "style": "プースカフェ",
+    "style": "ロング",
     "is_public": true,
     "base_detail": "赤ワイン",
     "aliases": [
@@ -117590,7 +117590,7 @@
     "instructions_en": "A cocktail named after Bourbon Street in New Orleans.",
     "iba": null,
     "tags": [],
-    "style": "プースカフェ",
+    "style": "ショート",
     "is_public": true,
     "base_detail": "バーボン",
     "aliases": [],
@@ -123337,7 +123337,7 @@
     "iba": null,
     "tags": [],
     "is_public": true,
-    "style": "ショート",
+    "style": "プースカフェ",
     "_cocktailtype_id": 426,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0426.html",
     "aliases": [
