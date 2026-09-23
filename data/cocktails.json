@@ -36583,54 +36583,6 @@
     "slug": "zaza"
   },
   {
-    "id": "30913",
-    "name_ja": "ザザラック",
-    "name_en": "Zazarac",
-    "category_ja": "カクテル",
-    "category_en": "Cocktail",
-    "glass_ja": "オールドファッションドグラス",
-    "glass_en": "Old fashioned glass",
-    "alcoholic_ja": "アルコール",
-    "alcoholic_en": "Alcoholic",
-    "base": "Whiskey",
-    "image": "",
-    "ingredients": [
-      {
-        "name_ja": "バーボン",
-        "name_en": "Bourbon",
-        "measure_ja": "ベース",
-        "measure_en": "Base"
-      },
-      {
-        "name_ja": "アブサン",
-        "name_en": "Absinthe",
-        "measure_ja": "1 dash",
-        "measure_en": "1 dash"
-      },
-      {
-        "name_ja": "アンゴスチュラビターズ",
-        "name_en": "Angostura bitters",
-        "measure_ja": "1 dash",
-        "measure_en": "1 dash"
-      },
-      {
-        "name_ja": "砂糖",
-        "name_en": "Sugar",
-        "measure_ja": "1/4 ローフ",
-        "measure_en": "Quarter loaf"
-      }
-    ],
-    "instructions_ja": "バーボン、アブサン、アンゴスチュラビターズ、角砂糖1/4を砕いた氷とともにステアし、冷やしたオールドファッションドグラスに漉して注ぐ。サゼラックを思わせる構成の、アニスとライ麦の香りが交わるクラシックショート。",
-    "instructions_en": "Stir all ingredients with a piece of broken ice. Strain into chilled old fashioned glass.",
-    "iba": null,
-    "tags": [],
-    "style": "ロック",
-    "is_public": true,
-    "base_detail": "バーボン",
-    "aliases": [],
-    "slug": "zazarac"
-  },
-  {
     "id": "34329",
     "name_ja": "サザン・ウインド",
     "name_en": "",
@@ -37119,7 +37071,10 @@
     "is_public": true,
     "style": "ロック",
     "base_detail": "バーボン",
-    "aliases": [],
+    "aliases": [
+      "ザザラック",
+      "Zazarac"
+    ],
     "slug": "sazerac"
   },
   {
