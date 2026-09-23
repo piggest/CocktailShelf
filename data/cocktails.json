@@ -37072,8 +37072,9 @@
     "style": "ロック",
     "base_detail": "バーボン",
     "aliases": [
-      "ザザラック",
-      "Zazarac"
+      "サザラック",
+      "サザラク",
+      "サゼラク"
     ],
     "slug": "sazerac"
   },
@@ -172540,5 +172541,86 @@
     ],
     "_gc_id": 1111,
     "slug": "cocktail-181111"
+  },
+  {
+    "id": "20042",
+    "name_ja": "ザザラック",
+    "name_en": "Zazarac",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "カナディアンクラブ",
+        "name_en": "Canadian Club",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "アニゼット",
+        "name_en": "Anisette",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "シュガーシロップ",
+        "name_en": "Sugar syrup",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "3 dash",
+        "measure_en": "3 dash"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "オレンジビターズ",
+        "name_en": "Orange bitters",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1 ツイスト",
+        "measure_en": "1 ツイスト"
+      }
+    ],
+    "instructions_ja": "シェーカーにカナディアンクラブ、ホワイトラム、アニゼット、シュガーシロップ、アブサン、アンゴスチュラビターズ、オレンジビターズと氷を入れてよくシェイクし、カクテルグラスに注ぐ。レモンピールを絞りかける。1930年『サヴォイ・カクテル・ブック』掲載。サゼラックの近縁とされるが、ラムとアニゼットが加わってアニスの香りが前に出る、シェイクで仕上げるショートカクテル。",
+    "instructions_en": "Shake all ingredients well with ice and strain into a cocktail glass. Squeeze lemon peel on top. From the 1930 Savoy Cocktail Book by Harry Craddock; a rum-and-anisette cousin of the Sazerac.",
+    "iba": null,
+    "tags": [
+      "Classic",
+      "savoy",
+      "short"
+    ],
+    "style": "ショート",
+    "is_public": true,
+    "base_detail": "カナディアンウイスキー",
+    "aliases": [
+      "ザザラク",
+      "ザゼラック",
+      "Zazerac",
+      "Zazarack"
+    ],
+    "slug": "zazarac"
   }
 ]
