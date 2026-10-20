@@ -14406,7 +14406,9 @@
     "is_public": true,
     "base_detail": "プレーンウォッカ",
     "aliases": [
-      "ウオッカ・コリンズ"
+      "ウオッカ・コリンズ",
+      "ジョー・コリンズ",
+      "Joe Collins"
     ],
     "slug": "vodka-collins"
   },
@@ -17413,7 +17415,8 @@
     "_cocktailtype_id": 288,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0288.html",
     "aliases": [
-      "angels wing"
+      "angels wing",
+      "エンジェル・ウイング"
     ],
     "slug": "angels-wing"
   },
@@ -25155,7 +25158,9 @@
     "base_detail": "ジン(汎用)",
     "_cocktailtype_id": 464,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0464.html",
-    "aliases": [],
+    "aliases": [
+      "キッス・イン・ザ・ダーク"
+    ],
     "slug": "kiss-in-the-dark"
   },
   {
@@ -34027,7 +34032,9 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "プレーンウォッカ",
-    "aliases": [],
+    "aliases": [
+      "コザック"
+    ],
     "slug": "cossack"
   },
   {
@@ -43244,7 +43251,8 @@
     "is_public": true,
     "base_detail": "ジン(汎用)",
     "aliases": [
-      "シルバーバレット"
+      "シルバーバレット",
+      "シルバー・ブレット"
     ],
     "slug": "silver-bullet"
   },
@@ -46816,7 +46824,10 @@
     "style": "ロング",
     "is_public": true,
     "base_detail": "スコッチ",
-    "aliases": [],
+    "aliases": [
+      "サンデイ・コリンズ",
+      "Sandy Collins"
+    ],
     "slug": "scotch-collins"
   },
   {
@@ -50902,7 +50913,9 @@
     "is_public": true,
     "_cocktailtype_id": 676,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0676.html",
-    "aliases": [],
+    "aliases": [
+      "ソウル・キス"
+    ],
     "slug": "soul-kiss"
   },
   {
@@ -51006,7 +51019,9 @@
     "is_public": true,
     "base_detail": "サザンカンフォート",
     "aliases": [
-      "southern comfort orange"
+      "southern comfort orange",
+      "サザンカンフォート・スクリュー",
+      "Southern Comfort Screw"
     ],
     "slug": "soco-orange"
   },
@@ -57491,7 +57506,10 @@
     "base_detail": "紅茶リキュール",
     "_cocktailtype_id": 324,
     "_cocktailtype_url": "http://www.cocktailtype.com/recipe/recipe_0324.html",
-    "aliases": [],
+    "aliases": [
+      "ティフィン・タイガー",
+      "Tiffin Tiger"
+    ],
     "slug": "tiffin-orange"
   },
   {
@@ -62135,7 +62153,9 @@
     "style": "ショート",
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
-    "aliases": [],
+    "aliases": [
+      "ナイト・キャップ・カクテル"
+    ],
     "slug": "night-cap"
   },
   {
@@ -81543,7 +81563,9 @@
     "is_public": true,
     "base_detail": "ブランデー(汎用)",
     "aliases": [
-      "ブランディ・ジンジャー"
+      "ブランディ・ジンジャー",
+      "横須賀ブラジャー",
+      "Yokosuka Brajar"
     ],
     "slug": "brandy-ginger"
   },
@@ -86218,7 +86240,8 @@
     "base_detail": "バーボン",
     "aliases": [
       "フレンチナインティファイブ",
-      "フレンチ九十五"
+      "フレンチ九十五",
+      "フレンチ95"
     ],
     "slug": "french-95"
   },
@@ -108400,7 +108423,10 @@
     },
     "style": "ロング",
     "base_detail": "ジン(汎用)",
-    "aliases": [],
+    "aliases": [
+      "ニュー・オーリンズ・フィズ",
+      "New Orleans Fizz"
+    ],
     "slug": "ramos-gin-fizz"
   },
   {
@@ -132263,7 +132289,11 @@
     "style": "ロング",
     "is_public": true,
     "aliases": [
-      "tequila collins"
+      "tequila collins",
+      "ルーベン・コリンズ",
+      "ペピート・コリンズ",
+      "Ruben Collins",
+      "Pepito Collins"
     ],
     "_gc_id": 64,
     "slug": "cocktail-180064"
@@ -172673,5 +172703,1121 @@
     "style": "ショート",
     "is_public": true,
     "slug": "century"
+  },
+  {
+    "id": "20044",
+    "name_ja": "ゴールデン・クリッパー",
+    "name_en": "Golden Clipper",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Dry Gin",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White Rum",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ピーチブランデー",
+        "name_en": "Peach Brandy",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange Juice",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      }
+    ],
+    "instructions_ja": "全ての材料を一度にシェイクし、カクテルグラスに注ぐ。名前が一字違いのゴールデン・スリッパーとは全く別のカクテル。",
+    "instructions_en": "Shake all ingredients together at once and pour into a cocktail glass. Not to be confused with the Golden Slipper, a completely different cocktail despite the similar name.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "golden-clipper"
+  },
+  {
+    "id": "20045",
+    "name_ja": "パッセンジャー・リスト",
+    "name_en": "Passenger List",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Dry Gin",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "バイオレットリキュール",
+        "name_en": "Violet Liqueur",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "シャルトリューズ・ジョーヌ",
+        "name_en": "Yellow Chartreuse",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ペルノー",
+        "name_en": "Pernod",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      }
+    ],
+    "instructions_ja": "全ての材料をシェイクし、カクテルグラスに注ぐ。シャルトリューズとバイオレットリキュールという特徴的な香りの2つのリキュールを使う。",
+    "instructions_en": "Shake all ingredients and pour into a cocktail glass. It uses two distinctively aromatic liqueurs, Chartreuse and violet liqueur.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "passenger-list"
+  },
+  {
+    "id": "20046",
+    "name_ja": "フォークランド・アイランド・ウォーマー",
+    "name_en": "Falkland Island Warmer",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "耐熱タンブラー",
+    "glass_en": "Heat-resistant tumbler",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドランブイ",
+        "name_en": "Drambuie",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon Juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "粉砂糖",
+        "name_en": "Powdered Sugar",
+        "measure_ja": "1/2 tsp",
+        "measure_en": "1/2 tsp"
+      },
+      {
+        "name_ja": "熱湯",
+        "name_en": "Boiling Water",
+        "measure_ja": "適量",
+        "measure_en": "to fill"
+      }
+    ],
+    "instructions_ja": "温めておいたホルダー付きの耐熱タンブラーにドランブイ、レモンジュース、粉砂糖を入れ、熱湯で満たしてステアする。レモンはその場で絞ったものが望ましく、温度が下がるためシュガーシロップは通常使わない。",
+    "instructions_en": "Put Drambuie, lemon juice and powdered sugar into a pre-warmed heat-resistant tumbler with a holder, fill with boiling water and stir. Freshly squeezed lemon is preferred, and sugar syrup is usually avoided because it lowers the temperature.",
+    "iba": null,
+    "tags": [
+      "long"
+    ],
+    "is_public": true,
+    "style": "ホット",
+    "slug": "falkland-island-warmer"
+  },
+  {
+    "id": "20047",
+    "name_ja": "ベルベット・キス",
+    "name_en": "Velvet Kiss",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Dry Gin",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Cream",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "バナナリキュール",
+        "name_en": "Banana Liqueur",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple Juice",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      }
+    ],
+    "instructions_ja": "材料をシェイクし、カクテルグラスに注ぐ。グリーンバナナリキュールではなく通常のバナナリキュールを使う。",
+    "instructions_en": "Shake the ingredients and pour into a cocktail glass. Use regular banana liqueur, not green banana liqueur.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "velvet-kiss"
+  },
+  {
+    "id": "20048",
+    "name_ja": "イエロー・サンセット",
+    "name_en": "Yellow Sunset",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Beer",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "卵黄",
+        "name_en": "Egg yolk",
+        "measure_ja": "1個",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "黒ビール",
+        "name_en": "Dark beer",
+        "measure_ja": "適量",
+        "measure_en": "to fill"
+      }
+    ],
+    "instructions_ja": "タンブラーに卵黄を潰さずに入れ、よく冷やした黒ビールを注いで軽くステアする。好みで卵黄を混ぜられるようマドラーを添える。エッグ・ビールのベースを黒ビールに限定したもの。",
+    "instructions_en": "Place an unbroken egg yolk in a tumbler, pour well-chilled dark beer over it and stir gently. Serve with a muddler so the drinker can mix in the yolk as desired. A variation of Egg Beer made specifically with dark beer.",
+    "iba": null,
+    "tags": [
+      "long"
+    ],
+    "is_public": true,
+    "style": "ロング",
+    "slug": "yellow-sunset"
+  },
+  {
+    "id": "20049",
+    "name_ja": "グリーン・スター",
+    "name_en": "Green Star",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "キルシュワッサー",
+        "name_en": "Kirschwasser",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "クレーム・ド・マント",
+        "name_en": "Green crème de menthe",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      },
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "Orange curaçao",
+        "measure_ja": "10 ml",
+        "measure_en": "10 ml"
+      }
+    ],
+    "instructions_ja": "材料をミキシンググラスでステアし、カクテルグラスに注ぐ。緑色はグリーン・ペパーミント（クレーム・ド・マント）に由来する。",
+    "instructions_en": "Stir all ingredients in a mixing glass and strain into a cocktail glass. The green colour comes from the green crème de menthe.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "green-star"
+  },
+  {
+    "id": "20050",
+    "name_ja": "ピエール・コリンズ",
+    "name_en": "Pierre Collins",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "コニャック",
+        "name_en": "Cognac",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15〜20 ml",
+        "measure_en": "15-20 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "2 tsp",
+        "measure_en": "2 tsp"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "to fill"
+      },
+      {
+        "name_ja": "レモンスライス",
+        "name_en": "Lemon slice",
+        "measure_ja": "1枚",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1個",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "コニャック、レモンジュース、砂糖を氷とシェイクし、氷を入れたコリンズグラスに注ぐ。炭酸水を加えて軽くステアし、レモンスライスとマラスキーノチェリーを飾る。トム・コリンズのジンをコニャックに替えたもの。",
+    "instructions_en": "Shake the cognac, lemon juice and sugar with ice and strain into an ice-filled Collins glass. Top with soda water, stir gently and garnish with a lemon slice and a maraschino cherry. A Tom Collins with cognac in place of gin.",
+    "iba": null,
+    "tags": [
+      "long"
+    ],
+    "is_public": true,
+    "style": "ロング",
+    "slug": "pierre-collins"
+  },
+  {
+    "id": "20051",
+    "name_ja": "フラッグ",
+    "name_en": "Flag",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アプリコットブランデー",
+        "name_en": "Apricot brandy",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "クレーム・ド・ヴィオレット",
+        "name_en": "Crème de violette",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "Orange curaçao",
+        "measure_ja": "4 dash",
+        "measure_en": "4 dashes"
+      },
+      {
+        "name_ja": "ポートワイン",
+        "name_en": "Port wine",
+        "measure_ja": "適量",
+        "measure_en": "to top"
+      }
+    ],
+    "instructions_ja": "カクテルグラスにクレーム・ド・ヴィオレットを注ぐ。アプリコットブランデーとオレンジキュラソーをシェイクしてグラスに注ぎ、ポートワインを適量注ぐ。ショートドリンクながらシェイクとビルドを併用するのが特徴。",
+    "instructions_en": "Pour the crème de violette into a cocktail glass. Shake the apricot brandy and orange curaçao and strain into the glass, then add port wine. Notable for combining shaking and building despite being a short drink.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "flag"
+  },
+  {
+    "id": "20052",
+    "name_ja": "ペアー・フラワー",
+    "name_en": "Pear Flower",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "オレンジキュラソー",
+        "name_en": "Orange curaçao",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "卵",
+        "name_en": "Egg",
+        "measure_ja": "1個（小さめ）",
+        "measure_en": "1 small"
+      }
+    ],
+    "instructions_ja": "材料を強めにシェイクし、大型のカクテルグラスに注ぐ。名前の「ペアー」は梨を意味するが、梨由来の材料は使われていない。",
+    "instructions_en": "Shake all ingredients hard and strain into a large cocktail glass. Although 'pear' is in the name, no pear ingredient is used.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "pear-flower"
+  },
+  {
+    "id": "20053",
+    "name_ja": "オレンジ・サキニー",
+    "name_en": "Orange Sakini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "タンブラー",
+    "glass_en": "Highball glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "日本酒",
+        "name_en": "Sake",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "オレンジジュース",
+        "name_en": "Orange juice",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "日本酒は燗をつけ、オレンジジュースも温めておく。ホルダーを付けたタンブラーに日本酒とオレンジジュースを注ぎ、砂糖を加えてステアする。燗酒を使う日本酒ベースのホット・ロングドリンク。",
+    "instructions_en": "Warm the sake and heat the orange juice beforehand. Pour the sake and orange juice into a tumbler with a holder, add the sugar and stir. A hot long drink based on warmed sake.",
+    "iba": null,
+    "tags": [
+      "long"
+    ],
+    "is_public": true,
+    "style": "ロング",
+    "slug": "orange-sakini"
+  },
+  {
+    "id": "20054",
+    "name_ja": "キャプテン・コリンズ",
+    "name_en": "Captain Collins",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "カナディアンウイスキー",
+        "name_en": "Canadian whisky",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "2 tsp",
+        "measure_en": "2 tsp"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "Top up"
+      },
+      {
+        "name_ja": "レモンスライス",
+        "name_en": "Lemon slice",
+        "measure_ja": "1 枚",
+        "measure_en": "1 slice"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1 個",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "カナディアンウイスキー、レモンジュース、砂糖を氷とシェイクし、氷を入れたコリンズグラスに注ぐ。炭酸水を加えて軽くステアし、カクテルピックに刺したレモンスライスとマラスキーノチェリーを飾る。トム・コリンズのジンをカナディアンウイスキーに替えたバリエーション。",
+    "instructions_en": "Shake the Canadian whisky, lemon juice and sugar with ice and strain into an ice-filled Collins glass. Top with soda water, stir gently, and garnish with a lemon slice and maraschino cherry on a pick. A variation of the Tom Collins with Canadian whisky in place of gin.",
+    "iba": null,
+    "tags": [
+      "long"
+    ],
+    "is_public": true,
+    "style": "ロング",
+    "slug": "captain-collins"
+  },
+  {
+    "id": "20055",
+    "name_ja": "ザンシア",
+    "name_en": "Xanthia",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Liqueur",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "シャルトリューズ・ジョーヌ",
+        "name_en": "Yellow Chartreuse",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "チェリーブランデー",
+        "name_en": "Cherry brandy",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      }
+    ],
+    "instructions_ja": "シャルトリューズ・ジョーヌ、チェリーブランデー、ジンを等量ずつシェイクし、カクテルグラスに注ぐ。名前は大英博物館にある大理石の彫像にちなむとされる。",
+    "instructions_en": "Shake equal parts yellow Chartreuse, cherry brandy and gin and strain into a cocktail glass. Said to be named after a marble statue in the British Museum.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "xanthia"
+  },
+  {
+    "id": "20056",
+    "name_ja": "ハバナ・マティーニ",
+    "name_en": "Havana Martini",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Old-fashioned glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "90 ml",
+        "measure_en": "90 ml"
+      },
+      {
+        "name_ja": "ドライシェリー",
+        "name_en": "Dry sherry",
+        "measure_ja": "1/2 tsp",
+        "measure_en": "1/2 tsp"
+      },
+      {
+        "name_ja": "オレンジビターズ",
+        "name_en": "Orange bitters",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "オリーブ",
+        "name_en": "Olive",
+        "measure_ja": "1 個",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1 片",
+        "measure_en": "1 twist"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスでダークラム、ドライシェリー、オレンジビターズをステアし、氷とともにロックグラスに注ぐ。ピックに刺したオリーブを入れ、レモンピールをひねって香りをつける。常連客からラム酒のマティーニを頼まれたのがきっかけで、ハバナ・クラブ7年をベースに考案された。",
+    "instructions_en": "Stir the dark rum, dry sherry and orange bitters in a mixing glass and pour with ice into an old-fashioned glass. Add an olive on a pick and twist lemon peel over the top. Created when a regular asked for a rum martini, using Havana Club 7 years as the base.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ロック",
+    "slug": "havana-martini"
+  },
+  {
+    "id": "20057",
+    "name_ja": "ピンク・パイナップル",
+    "name_en": "Pink Pineapple",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "40 ml",
+        "measure_en": "40 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "2 tsp",
+        "measure_en": "2 tsp"
+      }
+    ],
+    "instructions_ja": "ジン、パイナップルジュース、グレナデンシロップをシェイクし、カクテルグラスに注ぐ。パイナップルジュースは果汁100%のものを使い、グレナデンシロップの分量で赤系の色味が変わる。",
+    "instructions_en": "Shake the gin, pineapple juice and grenadine and strain into a cocktail glass. Use 100% pineapple juice; the amount of grenadine changes the red hue.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "pink-pineapple"
+  },
+  {
+    "id": "20058",
+    "name_ja": "ブラジル",
+    "name_en": "Brazil",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Wine",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ドライシェリー",
+        "name_en": "Dry sherry",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "アンゴスチュラビターズ",
+        "name_en": "Angostura bitters",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "アブサン",
+        "name_en": "Absinthe",
+        "measure_ja": "1 dash",
+        "measure_en": "1 dash"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1 片",
+        "measure_en": "1 twist"
+      }
+    ],
+    "instructions_ja": "ドライシェリー、ドライベルモット、アンゴスチュラビターズ、アブサンをミキシンググラスでステアし、カクテルグラスに注ぐ。レモンピールを絞りかける。古くから知られるカクテルで、バンブーやアドニスに似ている。",
+    "instructions_en": "Stir the dry sherry, dry vermouth, Angostura bitters and absinthe in a mixing glass and strain into a cocktail glass. Express lemon peel over the top. A long-established cocktail similar to the Bamboo and Adonis.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "brazil"
+  },
+  {
+    "id": "20059",
+    "name_ja": "ホーク・ショット",
+    "name_en": "Hawk Shot",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ロックグラス",
+    "glass_en": "Old-fashioned glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Vodka",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ウォッカ",
+        "name_en": "Vodka",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "コンソメ",
+        "name_en": "Consomme",
+        "measure_ja": "適量",
+        "measure_en": "To taste"
+      },
+      {
+        "name_ja": "塩胡椒",
+        "name_en": "Salt and pepper",
+        "measure_ja": "適量",
+        "measure_en": "To taste"
+      },
+      {
+        "name_ja": "ウスターソース",
+        "name_en": "Worcestershire sauce",
+        "measure_ja": "適量",
+        "measure_en": "To taste"
+      },
+      {
+        "name_ja": "タバスコ",
+        "name_en": "Tabasco",
+        "measure_ja": "適量",
+        "measure_en": "To taste"
+      }
+    ],
+    "instructions_ja": "ウォッカと温かいコンソメをロックグラスに注ぎ、食塩、胡椒、ウスターソース、タバスコなどで味を調える。ブル・ショットのビーフ・ブイヨンを温かいコンソメに替えたバリエーション。",
+    "instructions_en": "Pour the vodka and warm consomme into an old-fashioned glass and season with salt, pepper, Worcestershire sauce, Tabasco and the like. A variation of the Bull Shot using warm consomme instead of beef bouillon.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ロック",
+    "slug": "hawk-shot"
+  },
+  {
+    "id": "20060",
+    "name_ja": "カフェ・コレット",
+    "name_en": "Caffè corretto",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コーヒーカップ",
+    "glass_en": "Coffee cup",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "エスプレッソ",
+        "name_en": "Espresso",
+        "measure_ja": "100 ml",
+        "measure_en": "100 ml"
+      },
+      {
+        "name_ja": "グラッパ",
+        "name_en": "Grappa",
+        "measure_ja": "20 ml",
+        "measure_en": "20 ml"
+      },
+      {
+        "name_ja": "ホイップクリーム",
+        "name_en": "Whipped cream",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      }
+    ],
+    "instructions_ja": "温かいエスプレッソに酒を加え、最後にホイップクリームを浮かべる。酒は通常グラッパだが、サンブーカやブランデーを使うこともある。エスプレッソに少量の酒を加えるイタリア発祥の飲み物で、コレットはイタリア語で「適切な」「正式な」を意味する。",
+    "instructions_en": "Add the spirit to hot espresso, then float whipped cream on top. Grappa is usual, but sambuca or brandy may also be used. An Italian drink of espresso with a little liquor; \"corretto\" means \"correct\" or \"proper\" in Italian.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ホット",
+    "slug": "caff-corretto"
+  },
+  {
+    "id": "20061",
+    "name_ja": "キルダルトン・クロス",
+    "name_en": "Kildalton Cross",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "シェリーグラス",
+    "glass_en": "Sherry glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ラフロイグ",
+        "name_en": "Laphroaig 10 Year Old",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "モーツァルトチョコレートリキュール",
+        "name_en": "Mozart chocolate liqueur",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "生クリーム",
+        "name_en": "Fresh cream",
+        "measure_ja": "適量",
+        "measure_en": "to taste"
+      }
+    ],
+    "instructions_ja": "生クリーム以外の材料をステアし、シェリーグラスに注ぐ。生クリームをフロートする。千葉県市川市のBAR BAGUSの松本亨が考案し、土屋守が命名したカクテルで、名前はラフロイグ蒸留所のあるアイラ島のケルト十字架に由来する。",
+    "instructions_en": "Stir all ingredients except the cream and strain into a sherry glass. Float the cream on top. Created by Toru Matsumoto of BAR BAGUS in Ichikawa, Chiba, and named by Mamoru Tsuchiya after the Celtic cross on Islay, home of the Laphroaig distillery.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "kildalton-cross"
+  },
+  {
+    "id": "20062",
+    "name_ja": "コルクスクリュー",
+    "name_en": "Corkscrew",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ピーチリキュール",
+        "name_en": "Peach liqueur",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "ドライベルモット",
+        "name_en": "Dry vermouth",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1片",
+        "measure_en": "1 piece"
+      }
+    ],
+    "instructions_ja": "ホワイトラム、ピーチリキュール、ドライベルモットを混ぜ合わせ、カクテルグラスに注ぐ。レモンピールを絞りかける。名前は英語で「コルク栓抜き」を意味する。",
+    "instructions_en": "Mix the white rum, peach liqueur and dry vermouth and pour into a cocktail glass. Squeeze lemon peel over the top. The name means a cork-pulling tool.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "corkscrew"
+  },
+  {
+    "id": "20063",
+    "name_ja": "バイア",
+    "name_en": "Bahia",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "ゴブレット",
+    "glass_en": "Goblet",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ホワイトラム",
+        "name_en": "White rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ダークラム",
+        "name_en": "Dark rum",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "パイナップルジュース",
+        "name_en": "Pineapple juice",
+        "measure_ja": "80 ml",
+        "measure_en": "80 ml"
+      },
+      {
+        "name_ja": "ココナッツミルク",
+        "name_en": "Coconut milk",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "クラッシュドアイス",
+        "name_en": "Crushed ice",
+        "measure_ja": "適量",
+        "measure_en": "as needed"
+      }
+    ],
+    "instructions_ja": "ラム2種、パイナップルジュース、ココナッツミルクをシェイクし、クラッシュドアイスを入れた300ml程度のゴブレットに注ぐ。ストローを添える。好みでパイナップルやマラスキーノチェリーを飾る。2種類のラムを使うのが特徴で、名前はスペイン語で「入り江」を意味する。",
+    "instructions_en": "Shake both rums, pineapple juice and coconut milk, and pour into a goblet of about 300 ml filled with crushed ice. Serve with a straw. Garnish with pineapple or a maraschino cherry if desired. Notable for using two kinds of rum; the name means \"bay\" in Spanish.",
+    "iba": null,
+    "tags": [
+      "long"
+    ],
+    "is_public": true,
+    "style": "ロング",
+    "slug": "bahia"
+  },
+  {
+    "id": "20064",
+    "name_ja": "フィオナ",
+    "name_en": "Fiona",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Other",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "日本酒",
+        "name_en": "Sake",
+        "measure_ja": "50 ml",
+        "measure_en": "50 ml"
+      },
+      {
+        "name_ja": "キルシュワッサー",
+        "name_en": "Kirschwasser",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "グリーンティーリキュール",
+        "name_en": "Green tea liqueur",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      },
+      {
+        "name_ja": "桜の花の塩漬け",
+        "name_en": "Salted cherry blossom",
+        "measure_ja": "1個",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "材料をシェイクし、カクテルグラスに注ぐ。塩抜きした桜の花の塩漬けをグラスの底に沈める。毛利隆雄考案のカクテル「吉野」のウォッカを日本酒に替えたもの。",
+    "instructions_en": "Shake the ingredients and pour into a cocktail glass. Sink a desalted salted cherry blossom to the bottom of the glass. A variation of Takao Mouri's \"Yoshino\" with sake in place of vodka.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "fiona"
+  },
+  {
+    "id": "20065",
+    "name_ja": "ブラッド・トランスフュージョン",
+    "name_en": "Blood Transfusion",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Rum",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ラム",
+        "name_en": "Rum",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "ライムジュース",
+        "name_en": "Lime juice",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "グレナデンシロップ",
+        "name_en": "Grenadine syrup",
+        "measure_ja": "1 tsp",
+        "measure_en": "1 tsp"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスでステアし、カクテルグラスに注ぐ。シェイクで作ることもある。名前は「輸血」を意味し、ダークラムを使う場合はネルソン提督の逸話から「ネルソンの血」とも呼ばれる。",
+    "instructions_en": "Stir in a mixing glass and strain into a cocktail glass. It may also be shaken. The name means \"blood transfusion\"; made with dark rum it is also called \"Nelson's Blood\" after the Admiral Nelson legend.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "blood-transfusion"
+  },
+  {
+    "id": "20066",
+    "name_ja": "マイク・コリンズ",
+    "name_en": "Mike Collins",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "コリンズグラス",
+    "glass_en": "Collins glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Whiskey",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "アイリッシュウイスキー",
+        "name_en": "Irish whiskey",
+        "measure_ja": "60 ml",
+        "measure_en": "60 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "15〜20 ml",
+        "measure_en": "15-20 ml"
+      },
+      {
+        "name_ja": "砂糖",
+        "name_en": "Sugar",
+        "measure_ja": "2 tsp",
+        "measure_en": "2 tsp"
+      },
+      {
+        "name_ja": "炭酸水",
+        "name_en": "Soda water",
+        "measure_ja": "適量",
+        "measure_en": "to fill"
+      },
+      {
+        "name_ja": "レモンスライス",
+        "name_en": "Lemon slice",
+        "measure_ja": "1枚",
+        "measure_en": "1"
+      },
+      {
+        "name_ja": "マラスキーノチェリー",
+        "name_en": "Maraschino cherry",
+        "measure_ja": "1個",
+        "measure_en": "1"
+      }
+    ],
+    "instructions_ja": "アイリッシュウイスキー、レモンジュース、砂糖を氷とシェイクし、氷を入れたコリンズグラスに注ぐ。炭酸水を加えて軽くステアし、レモンスライスとマラスキーノチェリーを飾る。トム・コリンズのベースをアイリッシュウイスキーに替えたもので、マイケル・コリンズとも呼ばれる。",
+    "instructions_en": "Shake the Irish whiskey, lemon juice and sugar with ice and pour into an ice-filled Collins glass. Top with soda water, stir gently, and garnish with a lemon slice and maraschino cherry. A Tom Collins made with Irish whiskey, also called Michael Collins.",
+    "iba": null,
+    "tags": [
+      "long"
+    ],
+    "is_public": true,
+    "style": "ロング",
+    "slug": "mike-collins"
   }
 ]
