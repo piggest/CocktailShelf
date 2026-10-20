@@ -115874,8 +115874,8 @@
         "measure_en": "2 tsp"
       },
       {
-        "name_ja": "グリーンチェリー",
-        "name_en": "Green cherry",
+        "name_ja": "ミントチェリー",
+        "name_en": "Mint cherry",
         "measure_ja": "1 個",
         "measure_en": "1 個"
       },
@@ -115887,8 +115887,8 @@
         "note": "適量"
       }
     ],
-    "instructions_ja": "カクテルグラスの縁をライムで湿らせ、砂糖をつけてスノースタイルにする。シェーカーにウォッカ、ホワイトキュラソー、ライムジュースと氷を入れてシェイクし、グリーンチェリーを沈めたグラスに静かに注ぐ。1958年井山計一が創作した、雪国の情景を映した日本生まれの名作。",
-    "instructions_en": "Rim a cocktail glass with sugar to create a \"snow\" effect. Shake vodka, white curaçao, and lime juice with ice, then strain into the prepared glass over a green cherry placed at the bottom.",
+    "instructions_ja": "カクテルグラスの縁をライムで湿らせ、砂糖をつけてスノースタイルにする。シェーカーにウォッカ、ホワイトキュラソー、ライムジュースと氷を入れてシェイクし、ミントチェリーを沈めたグラスに静かに注ぐ。1958年井山計一が創作した、雪国の情景を映した日本生まれの名作。",
+    "instructions_en": "Rim a cocktail glass with sugar to create a \"snow\" effect. Shake vodka, white curaçao, and lime juice with ice, then strain into the prepared glass over a mint cherry placed at the bottom.",
     "iba": null,
     "tags": [
       "Japanese",
@@ -172625,5 +172625,53 @@
       "サゼラック（サボイ版）"
     ],
     "slug": "sazerac-savoy"
+  },
+  {
+    "id": "20043",
+    "name_ja": "センチュリー",
+    "name_en": "Century",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Brandy",
+    "image": "",
+    "ingredients": [
+      {
+        "name_ja": "ブランデー",
+        "name_en": "Brandy",
+        "measure_ja": "45 ml",
+        "measure_en": "45 ml"
+      },
+      {
+        "name_ja": "シャルトリューズ・ジョーヌ",
+        "name_en": "Yellow Chartreuse",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンジュース",
+        "name_en": "Lemon juice",
+        "measure_ja": "2 dash",
+        "measure_en": "2 dash"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1 ツイスト",
+        "measure_en": "1 ツイスト"
+      }
+    ],
+    "instructions_ja": "ミキシンググラスにブランデー、シャルトリューズ・ジョーヌ、レモンジュースと氷を入れてステアし、カクテルグラスに注ぐ。レモンピールを絞りかける。1968年のカクテルコンクールで優勝した池村勝の作品。ブランデーの深みに黄色いシャルトリューズの甘い薬草香が重なる一杯。",
+    "instructions_en": "Stir brandy, yellow Chartreuse and lemon juice with ice in a mixing glass and strain into a cocktail glass. Squeeze lemon peel over the top. Winner of a 1968 Japanese cocktail competition, created by Masaru Ikemura.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "style": "ショート",
+    "is_public": true,
+    "slug": "century"
   }
 ]
