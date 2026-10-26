@@ -172667,7 +172667,7 @@
     "alcoholic_ja": "アルコール",
     "alcoholic_en": "Alcoholic",
     "base": "Brandy",
-    "image": "",
+    "image": "data/images-public/20043.jpg",
     "ingredients": [
       {
         "name_ja": "ブランデー",
