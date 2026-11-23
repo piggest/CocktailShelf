@@ -98376,6 +98376,9 @@
       },
       {
         "image_public": "data/images-public/11008_3.jpg"
+      },
+      {
+        "image_public": "data/images-public/11008_4.jpg"
       }
     ],
     "style": "ショート",
@@ -173819,5 +173822,53 @@
     "is_public": true,
     "style": "ロング",
     "slug": "mike-collins"
+  },
+  {
+    "id": "20067",
+    "name_ja": "カリン",
+    "name_en": "Karin",
+    "category_ja": "カクテル",
+    "category_en": "Cocktail",
+    "glass_ja": "カクテルグラス",
+    "glass_en": "Cocktail glass",
+    "alcoholic_ja": "アルコール",
+    "alcoholic_en": "Alcoholic",
+    "base": "Gin",
+    "image": "data/images-public/20067.jpg",
+    "ingredients": [
+      {
+        "name_ja": "ジン",
+        "name_en": "Gin",
+        "measure_ja": "30 ml",
+        "measure_en": "30 ml"
+      },
+      {
+        "name_ja": "デュボネ",
+        "name_en": "Dubonnet",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "マンダリンリキュール",
+        "name_en": "Mandarin liqueur",
+        "measure_ja": "15 ml",
+        "measure_en": "15 ml"
+      },
+      {
+        "name_ja": "レモンピール",
+        "name_en": "Lemon peel",
+        "measure_ja": "1片",
+        "measure_en": "1 twist"
+      }
+    ],
+    "instructions_ja": "ジン、デュボネ、マンダリンリキュールを氷とシェイクし、カクテルグラスに注ぐ。レモンピールを絞って香りを付ける。1958年の国際バーテンダー協会カクテル・コンペティションで優勝した作品とされる。",
+    "instructions_en": "Shake the gin, Dubonnet and mandarin liqueur with ice and strain into a cocktail glass. Squeeze a lemon peel over the top. Said to be the winner of the 1958 International Bartenders Association cocktail competition.",
+    "iba": null,
+    "tags": [
+      "short"
+    ],
+    "is_public": true,
+    "style": "ショート",
+    "slug": "karin"
   }
 ]
